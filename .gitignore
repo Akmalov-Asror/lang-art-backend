@@ -1,0 +1,16 @@
+bin/
+obj/
+out/
+publish/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+appsettings.Local.json
+appsettings.*.Local.json
+uploads/
+*.pfx
+*.key
+.env
+.env.local
