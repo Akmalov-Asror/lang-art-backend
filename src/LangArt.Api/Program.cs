@@ -15,6 +15,7 @@ using LangArt.Api.Features.Auth;
 using LangArt.Api.Features.Certificates;
 using LangArt.Api.Features.Classroom;
 using LangArt.Api.Features.Courses;
+using LangArt.Api.Features.Live;
 using LangArt.Api.Features.Notifications;
 using LangArt.Api.Features.Payments;
 using LangArt.Api.Features.Progress;
@@ -97,6 +98,7 @@ builder.Services.AddScoped<PaymentsService>();
 builder.Services.AddSingleton<UploadsService>();
 builder.Services.AddScoped<NotificationsService>();
 builder.Services.AddScoped<CertificateService>();
+builder.Services.AddScoped<LiveSessionsService>();
 builder.Services.AddSingleton<IEmailSender, ConsoleEmailSender>();
 builder.Services.Configure<SmtpOptions>(o =>
 {

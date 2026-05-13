@@ -192,6 +192,35 @@ CREATE TABLE public.student_lesson_access (
 );
 
 -- ============================================
+-- LIVE LESSON MODE
+-- ============================================
+
+-- A synchronous, teacher-driven walkthrough of a lesson in a classroom.
+-- `classroom_id` references public.groups (the codebase calls a classroom a "group";
+-- this feature exposes it as "classroom" on the wire).
+CREATE TABLE public.live_sessions (
+  id                   UUID PRIMARY KEY DEFAULT gen_random_uuid(),
+  classroom_id         UUID NOT NULL REFERENCES public.groups(id) ON DELETE CASCADE,
+  lesson_id            UUID NOT NULL REFERENCES public.lessons(id) ON DELETE RESTRICT,
+  teacher_id           UUID NOT NULL REFERENCES public.profiles(id) ON DELETE RESTRICT,
+  started_at           TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT now(),
+  ended_at             TIMESTAMP WITH TIME ZONE,
+  current_block_index  INTEGER NOT NULL DEFAULT 0,
+  end_reason           TEXT  -- one of: 'teacher_ended', 'timeout', 'server_restart'
+);
+
+CREATE INDEX ix_live_sessions_classroom_ended_at
+  ON public.live_sessions (classroom_id, ended_at);
+
+CREATE INDEX ix_live_sessions_teacher_started_at
+  ON public.live_sessions (teacher_id, started_at DESC);
+
+-- Enforce "only one active session per classroom" at the DB layer so concurrent
+-- POST /api/live-sessions calls race on the index, not on application logic.
+CREATE UNIQUE INDEX ix_live_sessions_one_active_per_classroom
+  ON public.live_sessions (classroom_id) WHERE ended_at IS NULL;
+
+-- ============================================
 -- PAYMENTS
 -- ============================================
 

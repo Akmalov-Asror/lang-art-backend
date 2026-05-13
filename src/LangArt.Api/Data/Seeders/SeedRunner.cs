@@ -66,6 +66,23 @@ public static class SeedRunner
             );
             CREATE INDEX IF NOT EXISTS idx_notifications_user_unread
                 ON notifications(user_id) WHERE read_at IS NULL;
+
+            CREATE TABLE IF NOT EXISTS live_sessions (
+                id                   uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                classroom_id         uuid NOT NULL REFERENCES groups(id) ON DELETE CASCADE,
+                lesson_id            uuid NOT NULL REFERENCES lessons(id) ON DELETE RESTRICT,
+                teacher_id           uuid NOT NULL REFERENCES profiles(id) ON DELETE RESTRICT,
+                started_at           timestamptz NOT NULL DEFAULT now(),
+                ended_at             timestamptz,
+                current_block_index  integer NOT NULL DEFAULT 0,
+                end_reason           text
+            );
+            CREATE INDEX IF NOT EXISTS ix_live_sessions_classroom_ended_at
+                ON live_sessions (classroom_id, ended_at);
+            CREATE INDEX IF NOT EXISTS ix_live_sessions_teacher_started_at
+                ON live_sessions (teacher_id, started_at DESC);
+            CREATE UNIQUE INDEX IF NOT EXISTS ix_live_sessions_one_active_per_classroom
+                ON live_sessions (classroom_id) WHERE ended_at IS NULL;
         """);
     }
 
@@ -306,7 +323,12 @@ public static class SeedRunner
 
     private static async Task ClearAsync(AppDbContext db, ILogger logger)
     {
+        // The live_sessions table is created lazily by EnsureSchemaUpgradesAsync, so
+        // a clean DB without the upgrade applied yet would 404 here. Apply upgrades first.
+        await EnsureSchemaUpgradesAsync(db);
+
         // Order matters because of FKs.
+        await db.LiveSessions.ExecuteDeleteAsync();
         await db.Payments.ExecuteDeleteAsync();
         await db.StudentLessonAccess.ExecuteDeleteAsync();
         await db.QuizResults.ExecuteDeleteAsync();

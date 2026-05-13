@@ -1,4 +1,5 @@
 using LangArt.Api.Data.Entities;
+using LangArt.Api.Features.Live;
 using Microsoft.EntityFrameworkCore;
 
 namespace LangArt.Api.Data;
@@ -24,6 +25,7 @@ public class AppDbContext : DbContext
     public DbSet<StudentLessonAccess> StudentLessonAccess => Set<StudentLessonAccess>();
     public DbSet<Payment> Payments => Set<Payment>();
     public DbSet<Notification> Notifications => Set<Notification>();
+    public DbSet<LiveSession> LiveSessions => Set<LiveSession>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

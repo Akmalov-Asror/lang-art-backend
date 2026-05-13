@@ -25,21 +25,21 @@ public class ExceptionHandlingMiddleware
         }
         catch (ApiException ex)
         {
-            await WriteAsync(ctx, ex.StatusCode, ex.Message, ex.ErrorCode);
+            await WriteAsync(ctx, ex.StatusCode, ex.Message, ex.ErrorCode, ex.Payload);
         }
         catch (JsonException ex)
         {
             _logger.LogWarning(ex, "JSON deserialization error");
-            await WriteAsync(ctx, StatusCodes.Status400BadRequest, ex.Message, "invalid_json");
+            await WriteAsync(ctx, StatusCodes.Status400BadRequest, ex.Message, "invalid_json", null);
         }
         catch (Exception ex)
         {
             _logger.LogError(ex, "Unhandled exception");
-            await WriteAsync(ctx, StatusCodes.Status500InternalServerError, "Internal Server Error", "internal_error");
+            await WriteAsync(ctx, StatusCodes.Status500InternalServerError, "Internal Server Error", "internal_error", null);
         }
     }
 
-    private static async Task WriteAsync(HttpContext ctx, int statusCode, string message, string? errorCode)
+    private static async Task WriteAsync(HttpContext ctx, int statusCode, string message, string? errorCode, object? data)
     {
         if (ctx.Response.HasStarted) return;
         ctx.Response.Clear();
@@ -51,6 +51,7 @@ public class ExceptionHandlingMiddleware
             Success = false,
             Error = errorCode ?? StatusCodeToErrorName(statusCode),
             Message = message,
+            Data = data,
         };
         await JsonSerializer.SerializeAsync(ctx.Response.Body, payload, JsonOptions);
     }
