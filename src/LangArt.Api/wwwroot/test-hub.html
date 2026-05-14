@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>LangArt Live Lesson — Hub Test Page</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; margin: 20px; max-width: 1100px; }
+    h1 { margin: 0 0 6px; }
+    p.lead { margin: 0 0 16px; opacity: .7; font-size: .92em; }
+    fieldset { border: 1px solid #8884; padding: 12px 14px; margin: 10px 0; }
+    legend { font-weight: 600; padding: 0 6px; }
+    label { display: inline-block; min-width: 130px; }
+    input[type=text] { width: 540px; max-width: 92vw; font: 12px/1.4 ui-monospace, "SF Mono", Menlo, Consolas, monospace; padding: 4px 6px; }
+    button { padding: 6px 14px; font-size: 14px; margin-right: 8px; cursor: pointer; }
+    button:disabled { opacity: .45; cursor: not-allowed; }
+    .status { display: inline-block; min-width: 110px; padding: 2px 10px; border-radius: 99px; font-weight: 600; font-size: .82em; }
+    .s-off { background: #ddd; color: #555; }
+    .s-on  { background: #c8e6c9; color: #1b5e20; }
+    .s-err { background: #ffcdd2; color: #b71c1c; }
+    #log { font: 12px/1.45 ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+           background: #0f172a; color: #e2e8f0; padding: 12px; border-radius: 8px;
+           height: 460px; overflow: auto; white-space: pre-wrap; }
+    .ev-meta  { color: #93c5fd; }
+    .ev-state { color: #fde68a; }
+    .ev-join  { color: #86efac; }
+    .ev-left  { color: #fca5a5; }
+    .ev-slide { color: #c4b5fd; }
+    .ev-err   { color: #fca5a5; font-weight: 700; }
+    .row { margin: 6px 0; }
+    .slide-panel { display: flex; align-items: center; gap: 16px; }
+    .slide-display {
+      font: 700 38px/1 ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+      padding: 10px 22px; border-radius: 10px; background: #1e293b; color: #e2e8f0;
+      min-width: 200px; text-align: center;
+    }
+    .slide-display.muted { background: #ddd; color: #777; }
+  </style>
+</head>
+<body>
+  <h1>Live Lesson Hub — Test Page</h1>
+  <p class="lead">
+    Dev-only utility for validating the SignalR hub at <code>/hubs/live-lesson</code>.
+    Paste an access token (POST <code>/api/auth/login</code> to get one), enter a live-session id,
+    and watch the event log. Open this page in two tabs to verify <code>participant-joined</code> /
+    <code>participant-left</code> behavior.
+  </p>
+
+  <fieldset>
+    <legend>Connection</legend>
+    <div class="row">
+      <label for="hubUrl">Hub URL</label>
+      <input id="hubUrl" type="text" />
+    </div>
+    <div class="row">
+      <label for="token">Access token</label>
+      <input id="token" type="text" placeholder="eyJhbGciOi…" />
+    </div>
+    <div class="row">
+      <label for="sessionId">Session id</label>
+      <input id="sessionId" type="text" placeholder="00000000-0000-0000-0000-000000000000" />
+    </div>
+    <div class="row" style="margin-top: 10px;">
+      <button id="btnConnect">Connect</button>
+      <button id="btnJoin" disabled>JoinSession</button>
+      <button id="btnDisconnect" disabled>Disconnect</button>
+      <span id="status" class="status s-off">disconnected</span>
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend>Slide</legend>
+    <div class="slide-panel">
+      <div id="slideDisplay" class="slide-display muted">— / —</div>
+      <div>
+        <div class="row">
+          <button id="btnPrev" disabled>← Previous</button>
+          <button id="btnNext" disabled>Next →</button>
+        </div>
+        <div class="row" style="font-size: .85em; opacity: .75;">
+          Buttons call <code>BroadcastSlide(sessionId, newIndex)</code>. Server enforces
+          teacher/admin-only — students will see a <code>HubException</code> in the log.
+        </div>
+      </div>
+    </div>
+  </fieldset>
+
+  <fieldset>
+    <legend>Event log</legend>
+    <div id="log"></div>
+  </fieldset>
+
+  <script src="https://cdn.jsdelivr.net/npm/@microsoft/signalr@8.0.7/dist/browser/signalr.min.js"></script>
+  <script>
+    const $ = id => document.getElementById(id);
+
+    // Default the hub URL to whatever origin served this page.
+    $('hubUrl').value = location.origin + '/hubs/live-lesson';
+
+    // Persist input across reloads — convenient for manual smoke testing.
+    for (const id of ['token', 'sessionId', 'hubUrl']) {
+      const el = $(id);
+      const saved = localStorage.getItem('lh:' + id);
+      if (saved) el.value = saved;
+      el.addEventListener('input', () => localStorage.setItem('lh:' + id, el.value));
+    }
+
+    const logEl = $('log');
+    function log(kind, msg, data) {
+      const ts = new Date().toISOString().slice(11, 23);
+      const line = document.createElement('div');
+      line.className = 'ev-' + kind;
+      const head = `[${ts}] ${msg}`;
+      line.textContent = data === undefined ? head : `${head} ${JSON.stringify(data, null, 2)}`;
+      logEl.appendChild(line);
+      logEl.scrollTop = logEl.scrollHeight;
+    }
+    function setStatus(text, cls) {
+      const s = $('status');
+      s.textContent = text;
+      s.className = 'status ' + cls;
+    }
+
+    let connection = null;
+    let currentBlock = null;
+    let blockCount = null;
+    let joined = false;
+
+    function renderSlide() {
+      const el = $('slideDisplay');
+      if (currentBlock === null || blockCount === null) {
+        el.textContent = '— / —';
+        el.classList.add('muted');
+      } else {
+        el.textContent = `${currentBlock + 1} / ${blockCount}`;
+        el.classList.remove('muted');
+      }
+      const canNavigate = joined && currentBlock !== null && blockCount !== null;
+      $('btnPrev').disabled = !(canNavigate && currentBlock > 0);
+      $('btnNext').disabled = !(canNavigate && currentBlock < blockCount - 1);
+    }
+    renderSlide();
+
+    $('btnConnect').onclick = async () => {
+      const token = $('token').value.trim();
+      const url = $('hubUrl').value.trim();
+      if (!token) { alert('Paste an access token first'); return; }
+
+      connection = new signalR.HubConnectionBuilder()
+        .withUrl(url, { accessTokenFactory: () => token })
+        .withAutomaticReconnect()
+        .configureLogging(signalR.LogLevel.Information)
+        .build();
+
+      connection.on('session-state', p => {
+        log('state', 'session-state', p);
+        currentBlock = p.current_block_index;
+        blockCount = p.block_count;
+        renderSlide();
+      });
+      connection.on('participant-joined',  p => log('join',  'participant-joined',  p));
+      connection.on('participant-left',    p => log('left',  'participant-left',    p));
+      connection.on('slide-changed', p => {
+        log('slide', 'slide-changed', p);
+        currentBlock = p.block_index;
+        renderSlide();
+      });
+
+      connection.onreconnecting(err => { setStatus('reconnecting…', 's-err'); log('meta', 'onreconnecting', err?.message); });
+      connection.onreconnected(id => { setStatus('connected: ' + id, 's-on'); log('meta', 'onreconnected', id); });
+      connection.onclose(err => {
+        setStatus(err ? 'closed (error)' : 'closed', err ? 's-err' : 's-off');
+        log('meta', 'onclose', err?.message);
+        $('btnJoin').disabled = true;
+        $('btnDisconnect').disabled = true;
+        $('btnConnect').disabled = false;
+        joined = false;
+        currentBlock = null;
+        blockCount = null;
+        renderSlide();
+      });
+
+      try {
+        $('btnConnect').disabled = true;
+        await connection.start();
+        setStatus('connected: ' + connection.connectionId, 's-on');
+        log('meta', 'connected as ' + connection.connectionId);
+        $('btnJoin').disabled = false;
+        $('btnDisconnect').disabled = false;
+      } catch (e) {
+        setStatus('connect failed', 's-err');
+        log('err', 'connect failed: ' + e.message);
+        $('btnConnect').disabled = false;
+      }
+    };
+
+    async function broadcastSlide(targetIndex) {
+      const sid = $('sessionId').value.trim();
+      try {
+        log('meta', 'invoke BroadcastSlide', { session_id: sid, block_index: targetIndex });
+        await connection.invoke('BroadcastSlide', sid, targetIndex);
+      } catch (e) {
+        log('err', 'BroadcastSlide failed: ' + e.message);
+      }
+    }
+    $('btnPrev').onclick = () => { if (currentBlock !== null) broadcastSlide(currentBlock - 1); };
+    $('btnNext').onclick = () => { if (currentBlock !== null) broadcastSlide(currentBlock + 1); };
+
+    $('btnJoin').onclick = async () => {
+      const sid = $('sessionId').value.trim();
+      if (!sid) { alert('Enter a session id'); return; }
+      try {
+        log('meta', 'invoke JoinSession', { session_id: sid });
+        await connection.invoke('JoinSession', sid);
+        log('meta', 'JoinSession ok');
+        joined = true;
+        renderSlide();
+      } catch (e) {
+        log('err', 'JoinSession failed: ' + e.message);
+      }
+    };
+
+    $('btnDisconnect').onclick = async () => {
+      try { await connection.stop(); } catch (e) { log('err', 'stop failed: ' + e.message); }
+    };
+  </script>
+</body>
+</html>

@@ -27,6 +27,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Formatters;
 using Microsoft.AspNetCore.RateLimiting;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
@@ -99,6 +100,7 @@ builder.Services.AddSingleton<UploadsService>();
 builder.Services.AddScoped<NotificationsService>();
 builder.Services.AddScoped<CertificateService>();
 builder.Services.AddScoped<LiveSessionsService>();
+builder.Services.AddSingleton<SessionRegistry>();
 builder.Services.AddSingleton<IEmailSender, ConsoleEmailSender>();
 builder.Services.Configure<SmtpOptions>(o =>
 {
@@ -127,6 +129,22 @@ builder.Services
             RoleClaimType = System.Security.Claims.ClaimTypes.Role,
             NameClaimType = System.Security.Claims.ClaimTypes.NameIdentifier,
         };
+        // Browsers can't attach custom headers to a WebSocket upgrade, so SignalR's
+        // convention is to pass the JWT as an `access_token` query string. Only honored
+        // for /hubs/* routes to avoid widening attack surface on the REST API.
+        o.Events = new JwtBearerEvents
+        {
+            OnMessageReceived = context =>
+            {
+                var token = context.Request.Query["access_token"];
+                var path = context.HttpContext.Request.Path;
+                if (!string.IsNullOrEmpty(token) && path.StartsWithSegments("/hubs"))
+                {
+                    context.Token = token;
+                }
+                return Task.CompletedTask;
+            },
+        };
     });
 
 builder.Services.AddAuthorization(o =>
@@ -151,6 +169,16 @@ builder.Services
     {
         // Output options: snake_case keys, enums as snake_case strings.
         JsonConfig.Configure(o.JsonSerializerOptions);
+    });
+
+// SignalR: snake_case payloads on the wire so hub messages match the REST output convention.
+builder.Services
+    .AddSignalR()
+    .AddJsonProtocol(o =>
+    {
+        o.PayloadSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.SnakeCaseLower;
+        o.PayloadSerializerOptions.DictionaryKeyPolicy = JsonNamingPolicy.SnakeCaseLower;
+        o.PayloadSerializerOptions.Converters.Add(new JsonStringEnumConverter(JsonNamingPolicy.SnakeCaseLower));
     });
 
 // Swap the input formatter for one that accepts camelCase (no naming policy, case-insensitive).
@@ -256,6 +284,10 @@ app.UseMiddleware<ExceptionHandlingMiddleware>();
 
 app.UseCors();
 
+// Default wwwroot static files — used by the live-lesson hub test page (test-hub.html).
+// Harmless in production; the directory has no secrets.
+app.UseStaticFiles();
+
 // Static /uploads serving.
 var uploadsOpts = app.Services.GetRequiredService<IOptions<UploadsOptions>>().Value;
 var uploadsAbsolute = Path.GetFullPath(uploadsOpts.Dir);
@@ -287,6 +319,7 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapHub<LangArt.Api.Features.Live.LiveLessonHub>("/hubs/live-lesson");
 
 var port = builder.Configuration["PORT"] ?? "8080";
 app.Logger.LogInformation("Server running on http://localhost:{Port}", port);

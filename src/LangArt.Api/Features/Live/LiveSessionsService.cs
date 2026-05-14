@@ -21,10 +21,12 @@ public class LiveSessionsService
     };
 
     private readonly AppDbContext _db;
+    private readonly SessionRegistry _registry;
 
-    public LiveSessionsService(AppDbContext db)
+    public LiveSessionsService(AppDbContext db, SessionRegistry registry)
     {
         _db = db;
+        _registry = registry;
     }
 
     public async Task<LiveSession> StartAsync(Guid classroomId, Guid lessonId, Guid actorId, string actorRole)
@@ -110,6 +112,11 @@ public class LiveSessionsService
         session.EndedAt = DateTime.UtcNow;
         session.EndReason = normalized;
         await _db.SaveChangesAsync();
+
+        // Drop the hot in-memory copy so subsequent JoinSession RPCs re-consult the DB and
+        // see the just-written EndedAt, which makes the load return null and the hub reject.
+        _registry.Evict(session.Id);
+
         return session;
     }
 
