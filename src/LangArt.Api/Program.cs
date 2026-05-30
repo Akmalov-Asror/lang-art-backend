@@ -102,6 +102,125 @@ builder.Services.AddScoped<CertificateService>();
 builder.Services.AddScoped<LiveSessionsService>();
 builder.Services.AddSingleton<SessionRegistry>();
 builder.Services.AddSingleton<IEmailSender, ConsoleEmailSender>();
+
+// Sprint 1: Gamification + Push
+builder.Services.AddScoped<LangArt.Api.Features.Gamification.IGamificationService, LangArt.Api.Features.Gamification.GamificationService>();
+builder.Services.AddHostedService<LangArt.Api.Features.Gamification.StreakResetService>();
+
+// Phase 1: Vocabulary
+builder.Services.AddScoped<LangArt.Api.Features.Vocabulary.IVocabularyService,
+                           LangArt.Api.Features.Vocabulary.VocabularyService>();
+builder.Services.AddScoped<LangArt.Api.Features.Vocabulary.IDailyVocabularyService,
+                           LangArt.Api.Features.Vocabulary.DailyVocabularyService>();
+builder.Services.AddScoped<LangArt.Api.Features.Finance.IFinanceService,
+                           LangArt.Api.Features.Finance.FinanceService>();
+
+// Phase 2: Multilingual translations
+builder.Services.AddScoped<LangArt.Api.Features.Translations.TranslationsService>();
+
+// Phase 4: LA Dollar currency
+builder.Services.AddScoped<LangArt.Api.Features.LaDollar.ILaDollarService,
+                           LangArt.Api.Features.LaDollar.LaDollarService>();
+
+// Phase 3: Speaking + AI grading. If OPENAI_API_KEY is set we run real Whisper
+// + GPT grading; otherwise fall back to the deterministic stub so the rest of
+// the speaking pipeline (submit / review queue / teacher override) still works.
+builder.Services.AddScoped<LangArt.Api.Features.Speaking.SpeakingService>();
+builder.Services.AddHttpClient();
+builder.Services.Configure<LangArt.Api.Features.Speaking.OpenAiOptions>(o =>
+{
+    o.ApiKey = builder.Configuration["OPENAI_API_KEY"] ?? builder.Configuration["OpenAi:ApiKey"] ?? string.Empty;
+    o.ChatModel = builder.Configuration["OPENAI_CHAT_MODEL"] ?? builder.Configuration["OpenAi:ChatModel"] ?? "gpt-4o-mini";
+    o.TranscriptionModel = builder.Configuration["OPENAI_TRANSCRIPTION_MODEL"] ?? builder.Configuration["OpenAi:TranscriptionModel"] ?? "whisper-1";
+    o.TranscriptionLanguage = builder.Configuration["OPENAI_TRANSCRIPTION_LANGUAGE"] ?? builder.Configuration["OpenAi:TranscriptionLanguage"] ?? "en";
+});
+var openAiKey = builder.Configuration["OPENAI_API_KEY"] ?? builder.Configuration["OpenAi:ApiKey"];
+if (!string.IsNullOrWhiteSpace(openAiKey))
+{
+    builder.Services.AddSingleton<LangArt.Api.Features.Speaking.IAiSpeechGradingService,
+                                  LangArt.Api.Features.Speaking.OpenAiSpeechGradingService>();
+}
+else
+{
+    builder.Services.AddSingleton<LangArt.Api.Features.Speaking.IAiSpeechGradingService,
+                                  LangArt.Api.Features.Speaking.StubAiSpeechGradingService>();
+}
+
+// Phase 8: Teacher analytics (per-student skill levels + notes).
+builder.Services.AddScoped<LangArt.Api.Features.Analytics.AnalyticsService>();
+
+// Phase 11: Achievements (monthly recognition).
+builder.Services.AddScoped<LangArt.Api.Features.Achievements.AchievementsService>();
+
+// Phase 12: Exam system (Unit Review / Progress Exam / Midterm / Final / Placement).
+builder.Services.AddScoped<LangArt.Api.Features.Exams.ExamsService>();
+
+// Phase 14: Parent portal.
+builder.Services.AddScoped<LangArt.Api.Features.Parents.ParentsService>();
+
+// Phase 16: Centralized messaging.
+builder.Services.AddScoped<LangArt.Api.Features.Messaging.MessagesService>();
+
+// Phase 18: CRM / Lead funnel.
+builder.Services.AddScoped<LangArt.Api.Features.Crm.CrmService>();
+
+// Phase 19: Multibranch.
+builder.Services.AddScoped<LangArt.Api.Features.Branches.BranchesService>();
+
+// Phase 20: Extra-curricular events.
+builder.Services.AddScoped<LangArt.Api.Features.Clubs.ClubsService>();
+
+// Phase 21: Referrals + Alumni.
+builder.Services.AddScoped<LangArt.Api.Features.Referrals.ReferralsService>();
+
+// Phase 22: Legal / Compliance.
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<LangArt.Api.Features.Legal.LegalService>();
+
+// Wisdom dictionary importer (singleton — holds in-memory job state)
+builder.Services.AddSingleton<LangArt.Api.Features.Vocabulary.WisdomImportService>();
+
+// Phase 15: AI Chat ("Ask from LA") — student tutor chat in lesson context.
+if (!string.IsNullOrWhiteSpace(openAiKey))
+{
+    builder.Services.AddSingleton<LangArt.Api.Features.AiChat.IAiChatService,
+                                  LangArt.Api.Features.AiChat.OpenAiChatService>();
+}
+else
+{
+    builder.Services.AddSingleton<LangArt.Api.Features.AiChat.IAiChatService,
+                                  LangArt.Api.Features.AiChat.StubAiChatService>();
+}
+
+// Phase 7: Writing + AI grading (same key as Speaking).
+builder.Services.AddScoped<LangArt.Api.Features.Writing.WritingService>();
+if (!string.IsNullOrWhiteSpace(openAiKey))
+{
+    builder.Services.AddSingleton<LangArt.Api.Features.Writing.IAiWritingGradingService,
+                                  LangArt.Api.Features.Writing.OpenAiWritingGradingService>();
+}
+else
+{
+    builder.Services.AddSingleton<LangArt.Api.Features.Writing.IAiWritingGradingService,
+                                  LangArt.Api.Features.Writing.StubAiWritingGradingService>();
+}
+builder.Services.AddScoped<LangArt.Api.Features.Notifications.Push.IPushNotificationService, LangArt.Api.Features.Notifications.Push.PushNotificationService>();
+builder.Services.Configure<LangArt.Api.Features.Notifications.Push.PushOptions>(o =>
+{
+    o.VapidPublicKey = builder.Configuration["Notifications:Push:VapidPublicKey"] ?? string.Empty;
+    o.VapidPrivateKey = builder.Configuration["Notifications:Push:VapidPrivateKey"] ?? string.Empty;
+    o.Subject = builder.Configuration["Notifications:Push:Subject"] ?? "mailto:no-reply@langartlms.com";
+});
+
+// Sprint 2: Realtime. Connection tracker is process-singleton — single-instance only
+// until a Redis backplane is wired (see CLAUDE.md ## Real-time). Dispatcher + classroom
+// service are stateless and scoped.
+builder.Services.AddSingleton<LangArt.Api.Features.Realtime.IConnectionTracker,
+                              LangArt.Api.Features.Realtime.InMemoryConnectionTracker>();
+builder.Services.AddScoped<LangArt.Api.Features.Realtime.INotificationDispatcher,
+                           LangArt.Api.Features.Realtime.NotificationDispatcher>();
+builder.Services.AddScoped<LangArt.Api.Features.Realtime.IClassroomConnectionService,
+                           LangArt.Api.Features.Realtime.ClassroomConnectionService>();
 builder.Services.Configure<SmtpOptions>(o =>
 {
     o.Host = builder.Configuration["SMTP_HOST"] ?? "smtp4dev";
@@ -172,14 +291,28 @@ builder.Services
     });
 
 // SignalR: snake_case payloads on the wire so hub messages match the REST output convention.
+// Detailed errors are only safe in Development; in Production, server-side exceptions stay
+// opaque to the client (which is what we want — clients reconnect on close, they don't need
+// the stack trace).
 builder.Services
-    .AddSignalR()
+    .AddSignalR(o =>
+    {
+        o.EnableDetailedErrors = builder.Environment.IsDevelopment();
+        o.HandshakeTimeout = TimeSpan.FromSeconds(15);
+        o.KeepAliveInterval = TimeSpan.FromSeconds(15);
+    })
     .AddJsonProtocol(o =>
     {
         o.PayloadSerializerOptions.PropertyNamingPolicy = JsonNamingPolicy.SnakeCaseLower;
         o.PayloadSerializerOptions.DictionaryKeyPolicy = JsonNamingPolicy.SnakeCaseLower;
         o.PayloadSerializerOptions.Converters.Add(new JsonStringEnumConverter(JsonNamingPolicy.SnakeCaseLower));
     });
+
+// Sprint 2: SignalR uses `sub` from our JWT, not the default NameIdentifier. They happen to
+// be the same value today (JwtTokenService.BuildClaims writes both), but binding the user-id
+// provider to `sub` explicitly is safer against future JWT-shape changes.
+builder.Services.AddSingleton<Microsoft.AspNetCore.SignalR.IUserIdProvider,
+                              LangArt.Api.Features.Realtime.JwtSubUserIdProvider>();
 
 // Swap the input formatter for one that accepts camelCase (no naming policy, case-insensitive).
 builder.Services.AddOptions<MvcOptions>().Configure<ILoggerFactory>((mvc, lf) =>
@@ -256,8 +389,14 @@ builder.Services.AddSwaggerGen(c =>
 var app = builder.Build();
 
 // -------- CLI seeder branch --------
-// `dotnet run -- seed | clear | reset` executes the seeder and exits.
-if (args.Length > 0 && (args[0] == "seed" || args[0] == "clear" || args[0] == "reset"))
+// `dotnet run -- seed | clear | reset | seed:test-english | seed:test-english:force` executes the seeder and exits.
+if (args.Length > 0 && (
+        args[0] == "seed" ||
+        args[0] == "clear" ||
+        args[0] == "reset" ||
+        args[0] == "seed:test-english" ||
+        args[0] == "seed:test-english:force" ||
+        args[0] == "clear:non-grammar"))
 {
     var exit = await SeedRunner.RunAsync(args[0], app.Services);
     Environment.Exit(exit);
@@ -320,6 +459,9 @@ app.UseAuthorization();
 
 app.MapControllers();
 app.MapHub<LangArt.Api.Features.Live.LiveLessonHub>("/hubs/live-lesson");
+// Sprint 2 hubs
+app.MapHub<LangArt.Api.Features.Realtime.Hubs.NotificationsHub>("/hubs/notifications");
+app.MapHub<LangArt.Api.Features.Realtime.Hubs.PresenceHub>("/hubs/presence");
 
 var port = builder.Configuration["PORT"] ?? "8080";
 app.Logger.LogInformation("Server running on http://localhost:{Port}", port);

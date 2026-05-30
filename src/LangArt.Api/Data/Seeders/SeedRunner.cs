@@ -36,8 +36,30 @@ public static class SeedRunner
                 await ClearAsync(db, logger);
                 await SeedAsync(db, seed, logger);
                 break;
+            case "seed:test-english":
+            {
+                await EnsureSchemaUpgradesAsync(db);
+                var env = scope.ServiceProvider.GetRequiredService<IWebHostEnvironment>();
+                await TestEnglishSeeder.RunAsync(db, env, logger, force: false);
+                break;
+            }
+            case "seed:test-english:force":
+            {
+                await EnsureSchemaUpgradesAsync(db);
+                var env = scope.ServiceProvider.GetRequiredService<IWebHostEnvironment>();
+                await TestEnglishSeeder.RunAsync(db, env, logger, force: true);
+                break;
+            }
+            case "clear:non-grammar":
+            {
+                await EnsureSchemaUpgradesAsync(db);
+                await ClearNonGrammarCoursesAsync(db, logger);
+                break;
+            }
             default:
-                logger.LogError("Unknown seed command: {Cmd}. Valid: seed | clear | reset", command);
+                logger.LogError(
+                    "Unknown seed command: {Cmd}. Valid: seed | clear | reset | seed:test-english | seed:test-english:force | clear:non-grammar",
+                    command);
                 return 1;
         }
 
@@ -51,6 +73,21 @@ public static class SeedRunner
     public static async Task EnsureSchemaUpgradesAsync(AppDbContext db)
     {
         await db.Database.ExecuteSqlRawAsync("""
+            -- Phase 5.4: teacher-owned courses
+            ALTER TABLE courses ADD COLUMN IF NOT EXISTS owner_id uuid;
+            DO $$
+            BEGIN
+                IF NOT EXISTS (
+                    SELECT 1 FROM information_schema.table_constraints
+                    WHERE table_name = 'courses' AND constraint_name = 'courses_owner_id_fkey'
+                ) THEN
+                    ALTER TABLE courses
+                        ADD CONSTRAINT courses_owner_id_fkey
+                        FOREIGN KEY (owner_id) REFERENCES profiles(id) ON DELETE SET NULL;
+                END IF;
+            END$$;
+            CREATE INDEX IF NOT EXISTS ix_courses_owner_id ON courses (owner_id);
+
             ALTER TABLE profiles ADD COLUMN IF NOT EXISTS avatar_url text;
             ALTER TABLE profiles ADD COLUMN IF NOT EXISTS totp_secret text;
             ALTER TABLE profiles ADD COLUMN IF NOT EXISTS totp_enabled boolean NOT NULL DEFAULT false;
@@ -83,6 +120,654 @@ public static class SeedRunner
                 ON live_sessions (teacher_id, started_at DESC);
             CREATE UNIQUE INDEX IF NOT EXISTS ix_live_sessions_one_active_per_classroom
                 ON live_sessions (classroom_id) WHERE ended_at IS NULL;
+
+            -- ===== Sprint 1: Gamification =====
+            CREATE TABLE IF NOT EXISTS user_xp (
+                user_id     uuid PRIMARY KEY REFERENCES profiles(id) ON DELETE CASCADE,
+                total_xp    integer NOT NULL DEFAULT 0,
+                updated_at  timestamptz NOT NULL DEFAULT now()
+            );
+
+            CREATE TABLE IF NOT EXISTS user_streaks (
+                user_id                  uuid PRIMARY KEY REFERENCES profiles(id) ON DELETE CASCADE,
+                current_streak           integer NOT NULL DEFAULT 0,
+                longest_streak           integer NOT NULL DEFAULT 0,
+                last_activity_date_utc   date    NOT NULL DEFAULT CURRENT_DATE
+            );
+
+            CREATE TABLE IF NOT EXISTS badges (
+                id           uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                code         text NOT NULL UNIQUE,
+                name         text NOT NULL,
+                description  text NOT NULL DEFAULT '',
+                icon_url     text,
+                criteria     jsonb NOT NULL DEFAULT '{{}}'::jsonb,
+                xp_reward    integer NOT NULL DEFAULT 0,
+                created_at   timestamptz NOT NULL DEFAULT now()
+            );
+
+            CREATE TABLE IF NOT EXISTS user_badges (
+                user_id        uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                badge_id       uuid NOT NULL REFERENCES badges(id)   ON DELETE CASCADE,
+                earned_at_utc  timestamptz NOT NULL DEFAULT now(),
+                PRIMARY KEY (user_id, badge_id)
+            );
+
+            CREATE TABLE IF NOT EXISTS xp_ledger (
+                id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id         uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                amount          integer NOT NULL,
+                reason          text NOT NULL CHECK (reason IN (
+                                   'lesson_completed', 'quiz_passed', 'quiz_perfect_bonus',
+                                   'daily_login', 'streak_bonus', 'badge_reward', 'admin_adjustment'
+                                )),
+                source_id       uuid,
+                created_at_utc  timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_xp_ledger_user_created
+                ON xp_ledger (user_id, created_at_utc DESC);
+
+            -- Idempotency for source-bound XP awards (e.g. one lesson completion = one award).
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_xp_ledger_source
+                ON xp_ledger (user_id, reason, source_id)
+                WHERE source_id IS NOT NULL;
+
+            -- Idempotency for the once-per-day DailyLogin reward (source_id is null).
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_xp_ledger_daily_login
+                ON xp_ledger (user_id, ((created_at_utc AT TIME ZONE 'UTC')::date))
+                WHERE reason = 'daily_login';
+
+            -- ===== Sprint 1, Phase B: Push notifications =====
+            CREATE TABLE IF NOT EXISTS push_subscriptions (
+                id           uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id      uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                endpoint     text NOT NULL UNIQUE,
+                p256dh       text NOT NULL,
+                auth         text NOT NULL,
+                user_agent   text,
+                created_at_utc  timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_push_subscriptions_user ON push_subscriptions (user_id);
+
+            -- ===== Phase 1: Vocabulary system =====
+            CREATE TABLE IF NOT EXISTS wordlists (
+                id           uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                owner_id     uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                name         text NOT NULL,
+                description  text,
+                is_public    boolean NOT NULL DEFAULT false,
+                level        text NOT NULL DEFAULT 'A1',
+                created_at   timestamptz NOT NULL DEFAULT now(),
+                updated_at   timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_wordlists_owner ON wordlists (owner_id);
+            CREATE INDEX IF NOT EXISTS ix_wordlists_public_level ON wordlists (is_public, level);
+
+            CREATE TABLE IF NOT EXISTS words (
+                id                 uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                wordlist_id        uuid NOT NULL REFERENCES wordlists(id) ON DELETE CASCADE,
+                term               text NOT NULL,
+                translation_uz     text NOT NULL DEFAULT '',
+                translation_ru     text NOT NULL DEFAULT '',
+                definition         text NOT NULL DEFAULT '',
+                pronunciation_url  text,
+                example_sentence   text,
+                part_of_speech     text,
+                position           integer NOT NULL DEFAULT 0,
+                created_at         timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_words_wordlist ON words (wordlist_id);
+
+            CREATE TABLE IF NOT EXISTS user_wordlist_entries (
+                id                  uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id             uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                word_id             uuid NOT NULL REFERENCES words(id)    ON DELETE CASCADE,
+                status              text NOT NULL DEFAULT 'new' CHECK (status IN ('new','learning','learned')),
+                last_reviewed_at    timestamptz,
+                correct_count       integer NOT NULL DEFAULT 0,
+                incorrect_count     integer NOT NULL DEFAULT 0,
+                added_at            timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_user_wordlist_entry_user_word
+                ON user_wordlist_entries (user_id, word_id);
+            CREATE INDEX IF NOT EXISTS ix_user_wordlist_entries_user_status
+                ON user_wordlist_entries (user_id, status);
+
+            -- Extend xp_ledger CHECK constraint as new reasons are added over time.
+            -- Drop any older reason CHECK and add the current full set under a fresh name.
+            DO $$
+            DECLARE
+                v_name text;
+            BEGIN
+                FOR v_name IN
+                    SELECT constraint_name
+                    FROM information_schema.table_constraints
+                    WHERE table_name = 'xp_ledger'
+                      AND constraint_type = 'CHECK'
+                      AND constraint_name LIKE '%reason%'
+                      AND constraint_name != 'xp_ledger_reason_check_v5'
+                LOOP
+                    EXECUTE 'ALTER TABLE xp_ledger DROP CONSTRAINT ' || quote_ident(v_name);
+                END LOOP;
+                IF NOT EXISTS (
+                    SELECT 1 FROM information_schema.table_constraints
+                    WHERE table_name = 'xp_ledger' AND constraint_name = 'xp_ledger_reason_check_v5'
+                ) THEN
+                    ALTER TABLE xp_ledger ADD CONSTRAINT xp_ledger_reason_check_v5 CHECK (reason IN (
+                        'lesson_completed', 'quiz_passed', 'quiz_perfect_bonus',
+                        'daily_login', 'streak_bonus', 'badge_reward', 'admin_adjustment',
+                        'vocabulary_mastered', 'reading_completed', 'speaking_completed',
+                        'writing_completed'
+                    ));
+                END IF;
+            END$$;
+
+            -- ===== Phase 2: Multilingual content translations =====
+            CREATE TABLE IF NOT EXISTS lesson_content_translations (
+                id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                content_id      uuid NOT NULL REFERENCES lesson_content(id) ON DELETE CASCADE,
+                language        text NOT NULL CHECK (language IN ('uz','ru','en')),
+                body_markdown   text NOT NULL DEFAULT '',
+                video_url       text,
+                subtitle_url    text,
+                script          text,
+                created_at      timestamptz NOT NULL DEFAULT now(),
+                updated_at      timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_lesson_content_translation_content_lang
+                ON lesson_content_translations (content_id, language);
+
+            -- ===== Phase 4: LA Dollar currency =====
+            CREATE TABLE IF NOT EXISTS user_la_dollar_balances (
+                user_id        uuid PRIMARY KEY REFERENCES profiles(id) ON DELETE CASCADE,
+                total_balance  integer NOT NULL DEFAULT 0,
+                updated_at     timestamptz NOT NULL DEFAULT now()
+            );
+
+            CREATE TABLE IF NOT EXISTS la_dollar_ledger (
+                id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id         uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                amount          integer NOT NULL,
+                reason          text NOT NULL,
+                source_id       uuid,
+                description     text,
+                created_at_utc  timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_la_dollar_ledger_user_created
+                ON la_dollar_ledger (user_id, created_at_utc DESC);
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_la_dollar_ledger_source
+                ON la_dollar_ledger (user_id, reason, source_id)
+                WHERE source_id IS NOT NULL;
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_la_dollar_ledger_daily_attendance
+                ON la_dollar_ledger (user_id, ((created_at_utc AT TIME ZONE 'UTC')::date))
+                WHERE reason = 'attendance';
+
+            CREATE TABLE IF NOT EXISTS la_dollar_store_items (
+                id               uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                type             text NOT NULL,
+                title            text NOT NULL,
+                description      text,
+                image_url        text,
+                cost_la_dollars  integer NOT NULL,
+                stock            integer,
+                is_active        boolean NOT NULL DEFAULT true,
+                created_at       timestamptz NOT NULL DEFAULT now(),
+                updated_at       timestamptz NOT NULL DEFAULT now()
+            );
+
+            CREATE TABLE IF NOT EXISTS la_dollar_purchases (
+                id            uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id       uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                item_id       uuid NOT NULL REFERENCES la_dollar_store_items(id) ON DELETE RESTRICT,
+                cost          integer NOT NULL,
+                status        text NOT NULL DEFAULT 'pending'
+                                 CHECK (status IN ('pending','fulfilled','cancelled')),
+                created_at    timestamptz NOT NULL DEFAULT now(),
+                fulfilled_at  timestamptz
+            );
+            CREATE INDEX IF NOT EXISTS ix_la_dollar_purchases_user_created
+                ON la_dollar_purchases (user_id, created_at DESC);
+            CREATE INDEX IF NOT EXISTS ix_la_dollar_purchases_status
+                ON la_dollar_purchases (status);
+
+            -- ===== Phase 3: Speaking submissions =====
+            CREATE TABLE IF NOT EXISTS speaking_submissions (
+                id                       uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id                  uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                content_id               uuid NOT NULL REFERENCES lesson_content(id) ON DELETE CASCADE,
+                audio_url                text NOT NULL,
+                transcript               text,
+                ai_grade_pronunciation   integer,
+                ai_grade_fluency         integer,
+                ai_grade_grammar         integer,
+                ai_grade_vocabulary      integer,
+                ai_total                 integer,
+                ai_feedback              text,
+                ai_graded_at             timestamptz,
+                teacher_id               uuid REFERENCES profiles(id) ON DELETE SET NULL,
+                teacher_grade_total      integer,
+                teacher_feedback         text,
+                teacher_reviewed_at      timestamptz,
+                final_grade              integer,
+                status                   text NOT NULL DEFAULT 'submitted'
+                                            CHECK (status IN ('submitted','ai_graded','teacher_reviewed')),
+                created_at               timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_speaking_submissions_user_created
+                ON speaking_submissions (user_id, created_at DESC);
+            CREATE INDEX IF NOT EXISTS ix_speaking_submissions_status
+                ON speaking_submissions (status);
+
+            -- ===== Phase 7: Writing submissions =====
+            CREATE TABLE IF NOT EXISTS writing_submissions (
+                id                          uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id                     uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                content_id                  uuid NOT NULL REFERENCES lesson_content(id) ON DELETE CASCADE,
+                text                        text NOT NULL,
+                word_count                  integer NOT NULL DEFAULT 0,
+                ai_grade_task_achievement   integer,
+                ai_grade_coherence          integer,
+                ai_grade_grammar            integer,
+                ai_grade_vocabulary         integer,
+                ai_total                    integer,
+                ai_feedback                 text,
+                ai_graded_at                timestamptz,
+                teacher_id                  uuid REFERENCES profiles(id) ON DELETE SET NULL,
+                teacher_grade_total         integer,
+                teacher_feedback            text,
+                teacher_reviewed_at         timestamptz,
+                final_grade                 integer,
+                status                      text NOT NULL DEFAULT 'submitted'
+                                                CHECK (status IN ('submitted','ai_graded','teacher_reviewed')),
+                created_at                  timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_writing_submissions_user_created
+                ON writing_submissions (user_id, created_at DESC);
+            CREATE INDEX IF NOT EXISTS ix_writing_submissions_status
+                ON writing_submissions (status);
+
+            -- ===== Phase 16: Messaging =====
+            CREATE TABLE IF NOT EXISTS messages (
+                id            uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                sender_id     uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                recipient_id  uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                body          text NOT NULL,
+                created_at    timestamptz NOT NULL DEFAULT now(),
+                read_at       timestamptz
+            );
+            CREATE INDEX IF NOT EXISTS ix_messages_thread
+                ON messages (sender_id, recipient_id, created_at DESC);
+            CREATE INDEX IF NOT EXISTS ix_messages_unread
+                ON messages (recipient_id) WHERE read_at IS NULL;
+
+            -- ===== Phase 18: CRM / Lead Funnel =====
+            CREATE TABLE IF NOT EXISTS leads (
+                id                    uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                full_name             text NOT NULL,
+                phone                 text,
+                email                 text,
+                source                text NOT NULL DEFAULT 'other'
+                                          CHECK (source IN ('walk_in','instagram','referral','website','ad','telegram','other')),
+                stage                 text NOT NULL DEFAULT 'new'
+                                          CHECK (stage IN ('new','contacted','trial_scheduled','converted','lost')),
+                interest_level        text,
+                notes                 text,
+                assigned_to           uuid REFERENCES profiles(id) ON DELETE SET NULL,
+                converted_profile_id  uuid REFERENCES profiles(id) ON DELETE SET NULL,
+                trial_at              timestamptz,
+                next_follow_up_at     timestamptz,
+                lost_reason           text,
+                created_at            timestamptz NOT NULL DEFAULT now(),
+                updated_at            timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_leads_stage ON leads (stage);
+            CREATE INDEX IF NOT EXISTS ix_leads_assigned ON leads (assigned_to);
+            CREATE INDEX IF NOT EXISTS ix_leads_follow_up ON leads (next_follow_up_at);
+
+            CREATE TABLE IF NOT EXISTS lead_activities (
+                id          uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                lead_id     uuid NOT NULL REFERENCES leads(id) ON DELETE CASCADE,
+                actor_id    uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                kind        text NOT NULL DEFAULT 'note'
+                                CHECK (kind IN ('note','call','message','trial','stage_change','follow_up')),
+                body        text NOT NULL,
+                created_at  timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_lead_activities_thread ON lead_activities (lead_id, created_at DESC);
+
+            -- ===== Phase 19: Multibranch =====
+            CREATE TABLE IF NOT EXISTS branches (
+                id                  uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                name                text NOT NULL,
+                code                text NOT NULL UNIQUE,
+                city                text,
+                address             text,
+                phone               text,
+                manager_name        text,
+                manager_profile_id  uuid REFERENCES profiles(id) ON DELETE SET NULL,
+                is_active           boolean NOT NULL DEFAULT true,
+                created_at          timestamptz NOT NULL DEFAULT now(),
+                updated_at          timestamptz NOT NULL DEFAULT now()
+            );
+
+            ALTER TABLE profiles ADD COLUMN IF NOT EXISTS branch_id uuid REFERENCES branches(id) ON DELETE SET NULL;
+            CREATE INDEX IF NOT EXISTS ix_profiles_branch ON profiles(branch_id);
+            ALTER TABLE groups ADD COLUMN IF NOT EXISTS branch_id uuid REFERENCES branches(id) ON DELETE SET NULL;
+            CREATE INDEX IF NOT EXISTS ix_groups_branch ON groups(branch_id);
+
+            -- ===== Phase 20: Extra-curricular events =====
+            CREATE TABLE IF NOT EXISTS club_events (
+                id                 uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                title              text NOT NULL,
+                kind               text NOT NULL DEFAULT 'club'
+                                       CHECK (kind IN ('club','workshop','debate','visit','social')),
+                description        text,
+                location           text,
+                starts_at          timestamptz NOT NULL,
+                ends_at            timestamptz,
+                capacity           integer,
+                la_dollar_reward   integer NOT NULL DEFAULT 0,
+                created_by         uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                branch_id          uuid REFERENCES branches(id) ON DELETE SET NULL,
+                is_cancelled       boolean NOT NULL DEFAULT false,
+                cover_image_url    text,
+                created_at         timestamptz NOT NULL DEFAULT now(),
+                updated_at         timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_club_events_starts ON club_events (kind, starts_at);
+            CREATE INDEX IF NOT EXISTS ix_club_events_branch ON club_events (branch_id);
+
+            CREATE TABLE IF NOT EXISTS club_event_rsvps (
+                id          uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                event_id    uuid NOT NULL REFERENCES club_events(id) ON DELETE CASCADE,
+                user_id     uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                status      text NOT NULL DEFAULT 'going'
+                                CHECK (status IN ('going','maybe','attended','no_show')),
+                created_at  timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_club_event_rsvps_user_event
+                ON club_event_rsvps (event_id, user_id);
+            CREATE INDEX IF NOT EXISTS ix_club_event_rsvps_user ON club_event_rsvps (user_id);
+
+            -- ===== Phase 21: Referrals + Alumni =====
+            ALTER TABLE profiles ADD COLUMN IF NOT EXISTS referral_code text;
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_profiles_referral_code
+                ON profiles (referral_code) WHERE referral_code IS NOT NULL;
+            ALTER TABLE profiles ADD COLUMN IF NOT EXISTS is_alumni boolean NOT NULL DEFAULT false;
+            ALTER TABLE profiles ADD COLUMN IF NOT EXISTS alumni_note text;
+            CREATE INDEX IF NOT EXISTS ix_profiles_alumni ON profiles (is_alumni) WHERE is_alumni;
+
+            CREATE TABLE IF NOT EXISTS referrals (
+                id                    uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                referrer_id           uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                referee_profile_id    uuid REFERENCES profiles(id) ON DELETE SET NULL,
+                lead_id               uuid REFERENCES leads(id) ON DELETE SET NULL,
+                status                text NOT NULL DEFAULT 'pending'
+                                          CHECK (status IN ('pending','converted','rewarded','expired')),
+                reward_la_dollars     integer NOT NULL DEFAULT 0,
+                created_at            timestamptz NOT NULL DEFAULT now(),
+                converted_at          timestamptz,
+                rewarded_at           timestamptz
+            );
+            CREATE INDEX IF NOT EXISTS ix_referrals_referrer ON referrals (referrer_id);
+            CREATE INDEX IF NOT EXISTS ix_referrals_lead ON referrals (lead_id);
+
+            -- ===== Phase 22: Legal / Compliance =====
+            CREATE TABLE IF NOT EXISTS legal_documents (
+                id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                kind            text NOT NULL DEFAULT 'public_offer'
+                                    CHECK (kind IN ('public_offer','terms','privacy','refund')),
+                version         integer NOT NULL,
+                title           text NOT NULL,
+                body_markdown   text NOT NULL,
+                is_current      boolean NOT NULL DEFAULT true,
+                created_by      uuid REFERENCES profiles(id) ON DELETE SET NULL,
+                effective_from  timestamptz NOT NULL DEFAULT now(),
+                created_at      timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_legal_documents_kind_version
+                ON legal_documents (kind, version);
+            CREATE INDEX IF NOT EXISTS ix_legal_documents_current
+                ON legal_documents (kind) WHERE is_current;
+
+            CREATE TABLE IF NOT EXISTS legal_acceptances (
+                id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id         uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                document_id     uuid NOT NULL REFERENCES legal_documents(id) ON DELETE CASCADE,
+                kind            text NOT NULL,
+                version         integer NOT NULL,
+                content_hash    text NOT NULL,
+                user_agent      text,
+                ip_address      text,
+                accepted_at     timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_legal_acceptances_user_doc
+                ON legal_acceptances (user_id, document_id);
+            CREATE INDEX IF NOT EXISTS ix_legal_acceptances_user_kind
+                ON legal_acceptances (user_id, kind);
+
+            -- ===== Wisdom Lug'ati import history =====
+            CREATE TABLE IF NOT EXISTS wisdom_import_jobs (
+                id                   uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                started_at           timestamptz NOT NULL DEFAULT now(),
+                completed_at         timestamptz,
+                state                text NOT NULL DEFAULT 'running'
+                                         CHECK (state IN ('running','completed','failed','cancelled')),
+                error                text,
+                letters              text NOT NULL,
+                current_letter       text,
+                current_page         integer NOT NULL DEFAULT 0,
+                last_page            integer NOT NULL DEFAULT 0,
+                letters_done         integer NOT NULL DEFAULT 0,
+                inserted             integer NOT NULL DEFAULT 0,
+                updated              integer NOT NULL DEFAULT 0,
+                unchanged_existing   integer NOT NULL DEFAULT 0,
+                skipped              integer NOT NULL DEFAULT 0,
+                failed_fetches       integer NOT NULL DEFAULT 0,
+                min_star             integer NOT NULL DEFAULT 0,
+                owner_id             uuid NOT NULL
+            );
+            CREATE INDEX IF NOT EXISTS ix_wisdom_import_jobs_started
+                ON wisdom_import_jobs (started_at DESC);
+            -- On startup, mark any job left in 'running' state as cancelled
+            -- (the process that owned it is gone).
+            UPDATE wisdom_import_jobs SET state = 'cancelled', completed_at = now(),
+                                          error = COALESCE(error, 'Backend restarted while running')
+                WHERE state = 'running';
+
+            -- ===== Phase 14: Parent portal =====
+            DO $$
+            DECLARE
+                v_name text;
+            BEGIN
+                FOR v_name IN
+                    SELECT constraint_name
+                    FROM information_schema.table_constraints
+                    WHERE table_name = 'profiles'
+                      AND constraint_type = 'CHECK'
+                      AND constraint_name LIKE '%role%'
+                      AND constraint_name != 'profiles_role_check_v2'
+                LOOP
+                    EXECUTE 'ALTER TABLE profiles DROP CONSTRAINT ' || quote_ident(v_name);
+                END LOOP;
+                IF NOT EXISTS (
+                    SELECT 1 FROM information_schema.table_constraints
+                    WHERE table_name = 'profiles' AND constraint_name = 'profiles_role_check_v2'
+                ) THEN
+                    ALTER TABLE profiles ADD CONSTRAINT profiles_role_check_v2 CHECK (role IN (
+                        'admin', 'teacher', 'student', 'parent'
+                    ));
+                END IF;
+            END$$;
+
+            CREATE TABLE IF NOT EXISTS parent_child_links (
+                id            uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                parent_id     uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                child_id      uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                relationship  text,
+                created_at    timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_parent_child_link
+                ON parent_child_links (parent_id, child_id);
+
+            -- ===== Phase 12: Exams =====
+            CREATE TABLE IF NOT EXISTS exams (
+                id                   uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                course_id            uuid REFERENCES courses(id) ON DELETE CASCADE,
+                kind                 text NOT NULL,
+                title                text NOT NULL,
+                description          text,
+                payload              jsonb NOT NULL,
+                passing_score        integer NOT NULL DEFAULT 70,
+                time_limit_seconds   integer,
+                is_active            boolean NOT NULL DEFAULT true,
+                created_at           timestamptz NOT NULL DEFAULT now(),
+                updated_at           timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_exams_kind ON exams (kind);
+            CREATE INDEX IF NOT EXISTS ix_exams_course ON exams (course_id);
+
+            CREATE TABLE IF NOT EXISTS exam_attempts (
+                id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id         uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                exam_id         uuid NOT NULL REFERENCES exams(id) ON DELETE CASCADE,
+                score           integer NOT NULL DEFAULT 0,
+                out_of          integer NOT NULL DEFAULT 0,
+                passed          boolean NOT NULL DEFAULT false,
+                section_scores  jsonb,
+                answers         jsonb,
+                started_at      timestamptz NOT NULL DEFAULT now(),
+                completed_at    timestamptz
+            );
+            CREATE INDEX IF NOT EXISTS ix_exam_attempts_user_exam
+                ON exam_attempts (user_id, exam_id);
+
+            -- ===== Phase 11: Achievements =====
+            CREATE TABLE IF NOT EXISTS achievements (
+                id            uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                user_id       uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                category      text NOT NULL,
+                period_year   integer NOT NULL,
+                period_month  integer NOT NULL CHECK (period_month BETWEEN 1 AND 12),
+                score         integer NOT NULL DEFAULT 0,
+                awarded_at    timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE UNIQUE INDEX IF NOT EXISTS uq_achievement_category_period
+                ON achievements (category, period_year, period_month);
+            CREATE INDEX IF NOT EXISTS ix_achievements_user
+                ON achievements (user_id);
+
+            -- ===== Phase 8: Teacher notes =====
+            CREATE TABLE IF NOT EXISTS teacher_notes (
+                id           uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                student_id   uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                author_id    uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+                kind         text NOT NULL DEFAULT 'observation'
+                                CHECK (kind IN ('observation','praise','warning','plan')),
+                body         text NOT NULL,
+                created_at   timestamptz NOT NULL DEFAULT now(),
+                updated_at   timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_teacher_notes_student_created
+                ON teacher_notes (student_id, created_at DESC);
+
+            -- ===== Lesson review workflow (admin verifies LLM-seeded answers) =====
+            ALTER TABLE lessons ADD COLUMN IF NOT EXISTS is_reviewed boolean NOT NULL DEFAULT false;
+            ALTER TABLE lessons ADD COLUMN IF NOT EXISTS reviewed_at_utc timestamptz;
+            ALTER TABLE lessons ADD COLUMN IF NOT EXISTS reviewed_by uuid;
+            DO $$
+            BEGIN
+                IF NOT EXISTS (
+                    SELECT 1 FROM information_schema.table_constraints
+                    WHERE table_name = 'lessons' AND constraint_name = 'lessons_reviewed_by_fkey'
+                ) THEN
+                    ALTER TABLE lessons
+                        ADD CONSTRAINT lessons_reviewed_by_fkey
+                        FOREIGN KEY (reviewed_by) REFERENCES profiles(id) ON DELETE SET NULL;
+                END IF;
+            END$$;
+            CREATE INDEX IF NOT EXISTS ix_lessons_is_reviewed ON lessons (is_reviewed);
+
+            -- ===== Daily vocabulary system (image/frequency/topic + day grouping) =====
+            ALTER TABLE words ADD COLUMN IF NOT EXISTS image_url       text;
+            ALTER TABLE words ADD COLUMN IF NOT EXISTS frequency_rank  integer;
+            ALTER TABLE words ADD COLUMN IF NOT EXISTS topic_tags      text[];
+            CREATE INDEX IF NOT EXISTS ix_words_frequency_rank
+                ON words (frequency_rank) WHERE frequency_rank IS NOT NULL;
+            CREATE INDEX IF NOT EXISTS ix_words_topic_tags
+                ON words USING GIN (topic_tags);
+
+            ALTER TABLE user_wordlist_entries
+                ADD COLUMN IF NOT EXISTS day_number    integer;
+            ALTER TABLE user_wordlist_entries
+                ADD COLUMN IF NOT EXISTS source        text NOT NULL DEFAULT 'manual';
+            ALTER TABLE user_wordlist_entries
+                ADD COLUMN IF NOT EXISTS assigned_date date;
+            DO $$
+            BEGIN
+                IF NOT EXISTS (
+                    SELECT 1 FROM information_schema.table_constraints
+                    WHERE table_name = 'user_wordlist_entries'
+                      AND constraint_name = 'user_wordlist_entries_source_check'
+                ) THEN
+                    ALTER TABLE user_wordlist_entries
+                        ADD CONSTRAINT user_wordlist_entries_source_check
+                        CHECK (source IN ('manual','system_auto','lesson_picked'));
+                END IF;
+            END$$;
+            CREATE INDEX IF NOT EXISTS ix_user_wordlist_entries_user_day
+                ON user_wordlist_entries (user_id, day_number)
+                WHERE day_number IS NOT NULL;
+
+            ALTER TABLE profiles
+                ADD COLUMN IF NOT EXISTS vocab_target_level text NOT NULL DEFAULT 'A1';
+
+            -- ===== Finance / Buxgalteriya =====
+            CREATE TABLE IF NOT EXISTS finance_categories (
+                id          uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                name        text NOT NULL,
+                kind        text NOT NULL CHECK (kind IN ('income','expense')),
+                color       text,
+                is_active   boolean NOT NULL DEFAULT true,
+                created_at  timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_finance_categories_kind_active
+                ON finance_categories (kind, is_active);
+
+            CREATE TABLE IF NOT EXISTS finance_transactions (
+                id           uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+                occurred_on  date NOT NULL,
+                amount       numeric(14,2) NOT NULL CHECK (amount >= 0),
+                kind         text NOT NULL CHECK (kind IN ('income','expense')),
+                category_id  uuid REFERENCES finance_categories(id) ON DELETE SET NULL,
+                description  text,
+                created_by   uuid REFERENCES profiles(id) ON DELETE SET NULL,
+                created_at   timestamptz NOT NULL DEFAULT now()
+            );
+            CREATE INDEX IF NOT EXISTS ix_finance_tx_occurred
+                ON finance_transactions (occurred_on DESC);
+            CREATE INDEX IF NOT EXISTS ix_finance_tx_kind_occurred
+                ON finance_transactions (kind, occurred_on DESC);
+            CREATE INDEX IF NOT EXISTS ix_finance_tx_category
+                ON finance_transactions (category_id);
+
+            -- Default categories (idempotent inserts) — admins can rename or delete.
+            INSERT INTO finance_categories (name, kind, color)
+            SELECT * FROM (VALUES
+                ('Tuition', 'income', '#16a34a'),
+                ('Donations', 'income', '#22c55e'),
+                ('Other income', 'income', '#65a30d'),
+                ('Salaries', 'expense', '#dc2626'),
+                ('Utilities', 'expense', '#ea580c'),
+                ('Rent', 'expense', '#f97316'),
+                ('Supplies', 'expense', '#b45309'),
+                ('Other expense', 'expense', '#a855f7')
+            ) AS seed(name, kind, color)
+            WHERE NOT EXISTS (
+                SELECT 1 FROM finance_categories
+                WHERE finance_categories.name = seed.name
+                  AND finance_categories.kind = seed.kind
+            );
         """);
     }
 
@@ -206,6 +891,7 @@ public static class SeedRunner
         // First course (English A1) and the new advanced courses get assigned to groups so
         // students immediately see varied content on the dashboard.
         var englishA1 = courses[0];
+        var englishA2 = courses.First(c => c.Title.StartsWith("English A2", StringComparison.Ordinal));
         var french = courses.First(c => c.Title.StartsWith("French", StringComparison.Ordinal));
         var german = courses.First(c => c.Title.StartsWith("German", StringComparison.Ordinal));
 
@@ -236,8 +922,10 @@ public static class SeedRunner
                 {
                     db.GroupStudents.Add(new GroupStudent { GroupId = group.Id, StudentId = s.Id });
                 }
-                // Aiko gets English A1 + French B1; Mateo gets English A1 + German B1.
+                // Both groups get English A1, A2, and one other language so students see
+                // the full progression (A1 → A2) plus a second language for variety.
                 db.GroupCourses.Add(new GroupCourse { GroupId = group.Id, CourseId = englishA1.Id });
+                db.GroupCourses.Add(new GroupCourse { GroupId = group.Id, CourseId = englishA2.Id });
                 db.GroupCourses.Add(new GroupCourse
                 {
                     GroupId = group.Id,
@@ -269,6 +957,98 @@ public static class SeedRunner
             await db.SaveChangesAsync();
             logger.LogInformation("Seeded sample payments");
         }
+
+        // ---- Badges (Sprint 1 gamification) — idempotent, upserts by Code ----
+        await SeedBadgesAsync(db, logger);
+
+        // ---- LA Dollar store items (Phase 4) — idempotent, upserts by Title ----
+        await SeedLaDollarStoreAsync(db, logger);
+    }
+
+    private static async Task SeedLaDollarStoreAsync(AppDbContext db, ILogger logger)
+    {
+        var catalog = new (string Type, string Title, string Description, int Cost, int? Stock)[]
+        {
+            ("coffee",       "Free coffee at the cafe",            "Redeem at the LangArt cafe counter.",                   50,  null),
+            ("book",         "English novel of your choice",       "Pick from the small library shelf.",                   200,    20),
+            ("discount",     "10% off next month's tuition",       "Applied automatically to your next invoice.",          500,   100),
+            ("discount",     "25% off next month's tuition",       "Applied automatically to your next invoice.",         1200,    40),
+            ("extra_lesson", "1 extra 1-on-1 lesson",              "Schedule with any available teacher.",                 800,    null),
+            ("other",        "LangArt branded notebook",           "Pick up at the front desk.",                            100,    50),
+        };
+
+        var added = 0;
+        foreach (var (type, title, description, cost, stock) in catalog)
+        {
+            var existing = await db.LaDollarStoreItems.FirstOrDefaultAsync(i => i.Title == title);
+            if (existing is null)
+            {
+                db.LaDollarStoreItems.Add(new Data.Entities.LaDollarStoreItem
+                {
+                    Type = type,
+                    Title = title,
+                    Description = description,
+                    CostLaDollars = cost,
+                    Stock = stock,
+                    IsActive = true,
+                });
+                added++;
+            }
+            else
+            {
+                existing.Type = type;
+                existing.Description = description;
+                existing.CostLaDollars = cost;
+                if (existing.Stock is null && stock.HasValue) existing.Stock = stock;
+                existing.IsActive = true;
+                existing.UpdatedAt = DateTime.UtcNow;
+            }
+        }
+        await db.SaveChangesAsync();
+        logger.LogInformation("Seeded {Count} LA Dollar store item(s) ({Added} new)", catalog.Length, added);
+    }
+
+    private static async Task SeedBadgesAsync(AppDbContext db, ILogger logger)
+    {
+        var catalog = new[]
+        {
+            ("first_lesson",     "First Lesson",      "Complete your first lesson.",                            20),
+            ("streak_7",         "Week-Long Learner", "Maintain a 7-day streak.",                              50),
+            ("streak_30",        "Monthly Maven",     "Maintain a 30-day streak.",                            200),
+            ("streak_100",       "Centurion",         "Maintain a 100-day streak.",                          1000),
+            ("quiz_master_10",   "Quiz Apprentice",   "Pass 10 quizzes.",                                      75),
+            ("quiz_master_50",   "Quiz Master",       "Pass 50 quizzes.",                                     300),
+            ("quiz_perfect_10",  "Perfectionist",     "Score 100% on 10 quizzes.",                            150),
+            ("polyglot",         "Polyglot",          "Make progress in two or more languages.",              100),
+            ("early_bird",       "Early Bird",        "Complete a lesson before 8 AM (server UTC).",           30),
+            ("night_owl",        "Night Owl",         "Complete a lesson after 11 PM (server UTC).",           30),
+        };
+
+        var added = 0;
+        foreach (var (code, name, description, xp) in catalog)
+        {
+            var existing = await db.Badges.FirstOrDefaultAsync(b => b.Code == code);
+            if (existing is null)
+            {
+                db.Badges.Add(new Data.Entities.Badge
+                {
+                    Code = code,
+                    Name = name,
+                    Description = description,
+                    XpReward = xp,
+                });
+                added++;
+            }
+            else
+            {
+                // Keep description / name in sync with the catalog in case it was edited.
+                existing.Name = name;
+                existing.Description = description;
+                existing.XpReward = xp;
+            }
+        }
+        await db.SaveChangesAsync();
+        logger.LogInformation("Seeded {Count} badge(s) ({Added} new)", catalog.Length, added);
     }
 
     private static async Task SeedCurriculumAsync(AppDbContext db, Course course, CourseBlueprint bp, ILogger logger)
@@ -343,9 +1123,68 @@ public static class SeedRunner
         await db.Lessons.ExecuteDeleteAsync();
         await db.Modules.ExecuteDeleteAsync();
         await db.Courses.ExecuteDeleteAsync();
+        // Sprint 1 gamification — wipe user-specific state so reset is clean, but
+        // keep the Badge catalog: SeedBadgesAsync below is idempotent.
+        await db.PushSubscriptions.ExecuteDeleteAsync();
+        await db.XpLedger.ExecuteDeleteAsync();
+        await db.UserBadges.ExecuteDeleteAsync();
+        await db.UserStreaks.ExecuteDeleteAsync();
+        await db.UserXp.ExecuteDeleteAsync();
         await db.Sessions.ExecuteDeleteAsync();
         await db.Profiles.ExecuteDeleteAsync();
         logger.LogInformation("Cleared all seeded tables");
+    }
+
+    /// <summary>
+    /// Deletes every Course whose title does NOT end with " Grammar", along with
+    /// all dependent rows (modules, lessons, lesson_content, enrollments,
+    /// group_courses, payments, etc.). Used when a project has accumulated demo
+    /// courses and only the test-english Grammar courses should remain.
+    /// Leaves profiles, groups, badges, and gamification state untouched.
+    /// </summary>
+    private static async Task ClearNonGrammarCoursesAsync(AppDbContext db, ILogger logger)
+    {
+        var victimIds = await db.Courses
+            .Where(c => !c.Title.EndsWith(" Grammar"))
+            .Select(c => c.Id)
+            .ToListAsync();
+
+        if (victimIds.Count == 0)
+        {
+            logger.LogInformation("ClearNonGrammar: nothing to delete (every course already ends with ' Grammar').");
+            return;
+        }
+        logger.LogInformation("ClearNonGrammar: deleting {N} non-grammar course(s)…", victimIds.Count);
+
+        var victimLessonIds = await db.Lessons
+            .Where(l => victimIds.Contains(l.Module.CourseId))
+            .Select(l => l.Id)
+            .ToListAsync();
+
+        var victimContentIds = await db.LessonContent
+            .Where(lc => victimLessonIds.Contains(lc.LessonId))
+            .Select(lc => lc.Id)
+            .ToListAsync();
+
+        await db.QuizResults
+            .Where(qr => qr.ContentId.HasValue && victimContentIds.Contains(qr.ContentId.Value))
+            .ExecuteDeleteAsync();
+        // QuizResult also references the lesson directly, so any quiz that was
+        // recorded against a lesson without a specific content row still cleans up.
+        await db.QuizResults.Where(qr => victimLessonIds.Contains(qr.LessonId)).ExecuteDeleteAsync();
+        await db.LessonCompletions.Where(lc => victimLessonIds.Contains(lc.LessonId)).ExecuteDeleteAsync();
+        await db.StudentLessonAccess.Where(s => victimLessonIds.Contains(s.LessonId)).ExecuteDeleteAsync();
+        await db.LessonResources.Where(r => victimLessonIds.Contains(r.LessonId)).ExecuteDeleteAsync();
+        await db.LessonContent.Where(lc => victimLessonIds.Contains(lc.LessonId)).ExecuteDeleteAsync();
+        await db.Lessons.Where(l => victimLessonIds.Contains(l.Id)).ExecuteDeleteAsync();
+        await db.Modules.Where(m => victimIds.Contains(m.CourseId)).ExecuteDeleteAsync();
+        await db.Enrollments.Where(e => victimIds.Contains(e.CourseId)).ExecuteDeleteAsync();
+        await db.GroupCourses.Where(gc => victimIds.Contains(gc.CourseId)).ExecuteDeleteAsync();
+        await db.Payments.Where(p => victimIds.Contains(p.CourseId)).ExecuteDeleteAsync();
+        await db.Courses.Where(c => victimIds.Contains(c.Id)).ExecuteDeleteAsync();
+
+        logger.LogInformation("ClearNonGrammar: removed {C} courses, {M} modules-worth, {L} lessons, {Lc} content blocks.",
+            victimIds.Count, "—", victimLessonIds.Count, victimContentIds.Count);
     }
 
     // =================================================================================
@@ -419,6 +1258,76 @@ public static class SeedRunner
         ToDoc(new { ExerciseType = "fill_blank", Sentences = sentences }),
         "fill_blank");
 
+    private static ContentBp Reading(string passageTitle, string passage, int passingScore, params Q[] questions) => new(
+        ContentType.Exercise,
+        ToDoc(new
+        {
+            ExerciseType = "reading",
+            PassageTitle = passageTitle,
+            Passage = passage,
+            PassingScore = passingScore,
+            Questions = questions.Select(q => new
+            {
+                Id = q.Id,
+                Question = q.Question,
+                Options = q.Options,
+                CorrectAnswerIndex = q.Correct,
+                Explanation = q.Explanation,
+            }),
+        }),
+        "reading");
+
+    private static ContentBp Speaking(string promptType, string promptText, int maxDurationSeconds, string? imageUrl = null) => new(
+        ContentType.Exercise,
+        ToDoc(new
+        {
+            ExerciseType = "speaking",
+            PromptType = promptType,
+            PromptText = promptText,
+            ImageUrl = imageUrl,
+            MaxDurationSeconds = maxDurationSeconds,
+        }),
+        "speaking");
+
+    private static ContentBp VideoQuiz(
+        string videoUrl,
+        string videoTitle,
+        string provider,
+        string? intro,
+        int passingScore,
+        params Q[] questions) => new(
+        ContentType.Exercise,
+        ToDoc(new
+        {
+            ExerciseType = "video_quiz",
+            VideoUrl = videoUrl,
+            VideoTitle = videoTitle,
+            VideoProvider = provider,
+            Intro = intro,
+            PassingScore = passingScore,
+            LockUntilWatched = true,
+            Questions = questions.Select(q => new
+            {
+                Id = q.Id,
+                Question = q.Question,
+                Options = q.Options,
+                CorrectAnswerIndex = q.Correct,
+                Explanation = q.Explanation,
+            }),
+        }),
+        "video_quiz");
+
+    /// <summary>
+    /// Multilingual-aware grammar explanation. Renders as <see cref="GrammarExplanationContent"/>
+    /// on the frontend (via the <c>kind: "grammar_explanation"</c> marker on the
+    /// text payload), and supports per-language translations through the
+    /// lesson_content_translations table.
+    /// </summary>
+    private static ContentBp GrammarExplanation(string title, string body) => new(
+        ContentType.Text,
+        ToDoc(new { Title = title, Body = body, Kind = "grammar_explanation" }),
+        null);
+
     private static IReadOnlyList<CourseBlueprint> BuildBlueprints() => new[]
     {
         // -------------------------------------------------------------------- English A1
@@ -432,14 +1341,32 @@ public static class SeedRunner
                 {
                     new LessonBp("Saying Hello", new[]
                     {
-                        Text("Welcome", "# Hello!\n\nLet's start with basic greetings. **Hello**, *Hi*, and *Hey* are common in English."),
+                        GrammarExplanation("Welcome",
+                            "# Hello!\n\nLet's start with basic greetings. **Hello**, *Hi*, and *Hey* are common in English.\n\n" +
+                            "Use *Hello* in formal situations and *Hi* / *Hey* with friends."),
                         Quiz(70,
                             new Q("q1", "How do you say 'Hello' formally?", new[]{"Hi","Hello","Hey","Yo"}, 1),
                             new Q("q2", "Which is informal?", new[]{"Hello","Good morning","Hey","Greetings"}, 2)),
+                        Reading("A Friendly Greeting",
+                            "Sara walks into the office. She sees her colleague Tom at the coffee machine. \"Good morning, Tom!\" she says with a smile. Tom turns around. \"Hi Sara, how are you today?\" he replies. They chat for a few minutes about the weekend before heading to their desks.",
+                            70,
+                            new Q("rq1", "Where do they meet?", new[]{"At a restaurant","In the office","At home","On the street"}, 1),
+                            new Q("rq2", "What do they talk about?", new[]{"Work projects","Their families","The weekend","Sports"}, 2)),
+                        Speaking("topic_card",
+                            "Introduce yourself in 30-60 seconds. Say your name, where you're from, and one thing you enjoy doing.",
+                            60),
                     }),
                     new LessonBp("Numbers 1-10", new[]
                     {
-                        Text("Counting", "Practice the numbers one through ten: **one, two, three, four, five, six, seven, eight, nine, ten**."),
+                        GrammarExplanation("Counting",
+                            "Practice the numbers one through ten: **one, two, three, four, five, six, seven, eight, nine, ten**."),
+                        FillBlank(
+                            "I have [two] eyes and [one] nose.",
+                            "There are [seven] days in a week.",
+                            "A spider has [eight] legs."),
+                        Quiz(70,
+                            new Q("nq1", "How many fingers do most people have?", new[]{"eight","ten","twelve","five"}, 1),
+                            new Q("nq2", "Which number comes after 'three'?", new[]{"two","five","four","six"}, 2)),
                     }),
                 }),
                 new ModuleBp("Daily Conversations", new[]
@@ -447,6 +1374,156 @@ public static class SeedRunner
                     new LessonBp("Ordering Coffee", new[]
                     {
                         Text("At the Café", "Useful phrases: *Can I have...?*, *I'd like..., please.*, *How much is it?*"),
+                        Speaking("topic_card",
+                            "Order your favorite drink at a café. Start with a greeting, ask for the drink politely, and thank the barista.",
+                            45),
+                    }),
+                }),
+            }),
+
+        // -------------------------------------------------------------------- English A2
+        new CourseBlueprint(
+            "English A2 — Elementary",
+            "Build on A1 basics: past tenses, daily routines, travel vocabulary, and short conversations.",
+            "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+            new[]
+            {
+                new ModuleBp("Talking About the Past", new[]
+                {
+                    new LessonBp("Past Simple — Regular Verbs", new[]
+                    {
+                        GrammarExplanation("Past Simple",
+                            "# Past Simple Tense\n\nUse **past simple** for completed actions in the past.\n\n" +
+                            "Regular verbs add **-ed**: *worked, played, visited*.\n\n" +
+                            "- I **worked** late yesterday.\n" +
+                            "- She **visited** her grandma last weekend.\n" +
+                            "- They **played** football on Sunday.\n\n" +
+                            "**Negative:** *did not (didn't) + base verb*\n" +
+                            "**Question:** *Did + subject + base verb?*"),
+                        VideoQuiz(
+                            // Big Buck Bunny — Creative Commons, globally accessible demo video.
+                            // Replace this with a real Past Simple grammar lesson via the admin Lesson Editor.
+                            "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+                            "📺 Demo Video — Replace with your own grammar lesson",
+                            "raw",
+                            "**⚠️ This is a demo video** showing how the Video+Quiz feature works. " +
+                            "An admin can replace this with a real Past Simple grammar lesson via " +
+                            "the Lesson Editor (`/admin/courses/.../lessons/...` → Edit this content). " +
+                            "Common picks: BBC Learning English, engVid, or your own teacher-recorded YouTube video. " +
+                            "The questions below test Past Simple regardless of which video plays here.",
+                            70,
+                            new Q("vq1", "Which verbs are regular in the past simple?",
+                                new[]{"go, see, eat","work, play, watch","be, have, do","run, swim, write"}, 1,
+                                "Regular verbs follow the -ed rule."),
+                            new Q("vq2", "How do you form the past simple of regular verbs?",
+                                new[]{"Add -s","Add -ing","Add -ed","Change the spelling completely"}, 2),
+                            new Q("vq3", "Choose the correct negative form:",
+                                new[]{"I didn't worked.","I didn't work.","I not worked.","I no work."}, 1,
+                                "Use 'didn't + base verb' for negatives."),
+                            new Q("vq4", "Choose the correct question form:",
+                                new[]{"Did you played football?","Did you play football?","You did play football?","You played football?"}, 1)),
+                        FillBlank(
+                            "Yesterday I [walked] to the park.",
+                            "She [played] tennis last Friday.",
+                            "They [watched] a film together.",
+                            "He [studied] hard for the exam."),
+                        Quiz(70,
+                            new Q("psq1", "What is the past simple of 'work'?", new[]{"worked","working","works","work"}, 0),
+                            new Q("psq2", "Choose the correct sentence:",
+                                new[]{"She play tennis yesterday.","She played tennis yesterday.","She is playing tennis yesterday.","She plays tennis yesterday."}, 1),
+                            new Q("psq3", "Form the negative: 'He visited Paris.'",
+                                new[]{"He no visited Paris.","He didn't visit Paris.","He didn't visited Paris.","He not visit Paris."}, 1)),
+                        Reading("My Weekend",
+                            "Last weekend was wonderful. On Saturday morning I walked in the park with my dog. We played with a ball for an hour. Then I visited my parents and we cooked lunch together. On Sunday I stayed home and watched two films. I really enjoyed my weekend.",
+                            70,
+                            new Q("psrq1", "What did the writer do on Saturday morning?",
+                                new[]{"Cooked lunch","Walked in the park","Watched films","Visited parents"}, 1),
+                            new Q("psrq2", "How many films did they watch on Sunday?",
+                                new[]{"One","Two","Three","None"}, 1),
+                            new Q("psrq3", "How did the writer feel about the weekend?",
+                                new[]{"Bored","Tired","Wonderful","Disappointed"}, 2)),
+                        Speaking("topic_card",
+                            "Talk about your last weekend in 45 seconds. What did you do? Use at least 5 past-simple verbs.",
+                            60),
+                    }),
+                    new LessonBp("Irregular Verbs", new[]
+                    {
+                        GrammarExplanation("Common Irregular Verbs",
+                            "Some verbs don't follow the -ed rule. You need to memorize them:\n\n" +
+                            "| Base | Past Simple |\n|---|---|\n| go | went |\n| have | had |\n| see | saw |\n| eat | ate |\n| make | made |\n| do | did |\n| say | said |\n| come | came |"),
+                        Quiz(70,
+                            new Q("ivq1", "What is the past simple of 'go'?", new[]{"goed","went","gone","goes"}, 1),
+                            new Q("ivq2", "Past simple of 'have'?", new[]{"haved","has","had","having"}, 2),
+                            new Q("ivq3", "Choose correct: I ___ pizza for dinner.", new[]{"eated","ate","eat","eaten"}, 1),
+                            new Q("ivq4", "Past simple of 'see'?", new[]{"seed","saw","seen","sees"}, 1)),
+                        FillBlank(
+                            "I [went] to school yesterday.",
+                            "She [had] a great time at the party.",
+                            "We [ate] sushi for lunch.",
+                            "They [saw] a film last night."),
+                    }),
+                }),
+                new ModuleBp("Daily Routines", new[]
+                {
+                    new LessonBp("Describing Your Day", new[]
+                    {
+                        GrammarExplanation("Adverbs of Frequency",
+                            "Use **adverbs of frequency** to say how often you do something.\n\n" +
+                            "**always (100%)** → usually → often → sometimes → rarely → **never (0%)**\n\n" +
+                            "They go **before** the main verb but **after** the verb *to be*:\n" +
+                            "- I **always** eat breakfast.\n" +
+                            "- She is **never** late."),
+                        Reading("A Morning Routine",
+                            "Maya is a teacher. She always wakes up at 6:30 a.m. and drinks a cup of coffee. She usually walks to school, but she sometimes takes the bus when it rains. She arrives at 7:45 and prepares her classroom. Her first lesson starts at 8:15. She never eats breakfast before school — she has a snack at 10.",
+                            70,
+                            new Q("drrq1", "What time does Maya wake up?",
+                                new[]{"6:00","6:30","7:00","8:00"}, 1),
+                            new Q("drrq2", "How does she usually get to school?",
+                                new[]{"By car","By bus","On foot","By bike"}, 2),
+                            new Q("drrq3", "When does she have breakfast?",
+                                new[]{"At 6:30","Before school","She doesn't have breakfast","At 8:15"}, 2)),
+                        Speaking("topic_card",
+                            "Describe your typical weekday morning. Use at least 3 adverbs of frequency (always, usually, often, sometimes, never).",
+                            60),
+                        Writing(
+                            "Write a short paragraph (50-100 words) describing your daily routine. Include what time you wake up, how often you eat breakfast, and how you get to work/school.",
+                            50),
+                    }),
+                }),
+                new ModuleBp("Travel & Places", new[]
+                {
+                    new LessonBp("At the Airport", new[]
+                    {
+                        Text("Useful Vocabulary",
+                            "**Key terms:** boarding pass, check-in, gate, departure, arrival, luggage, passport, customs, security."),
+                        Listening(
+                            "https://download.samplelib.com/mp3/sample-15s.mp3",
+                            "Airport Announcement (Sample)",
+                            70,
+                            new Q("apl1", "This is a placeholder audio. Once the teacher uploads a real airport announcement, the questions become meaningful. What kind of audio is intended here?",
+                                new[]{"A song","An airport announcement","A weather report","A film soundtrack"}, 1,
+                                "Replace the audio URL via the admin Lesson Editor with a real recording (e.g. uploaded via /api/uploads/audio)."),
+                            new Q("apl2", "Where would you typically hear an airport announcement?",
+                                new[]{"At a restaurant","At an airport","At home","In a library"}, 1)),
+                        Quiz(70,
+                            new Q("apq1", "What document do you show at check-in?",
+                                new[]{"Receipt","Boarding pass","Passport","Map"}, 2),
+                            new Q("apq2", "Where do you go after check-in?",
+                                new[]{"Home","Security","Customs","Restaurant"}, 1),
+                            new Q("apq3", "What is 'luggage'?",
+                                new[]{"Food","Bags and suitcases","Tickets","A vehicle"}, 1)),
+                        Reading("Maria's First Flight",
+                            "Maria arrived at the airport two hours before her flight. She found the check-in counter and showed her passport to the agent. The agent gave her a boarding pass and a seat near the window. After check-in, Maria walked to security where she put her bag on the X-ray machine. Then she waited at gate 24 and read a magazine until boarding time.",
+                            70,
+                            new Q("aprq1", "When did Maria arrive at the airport?",
+                                new[]{"One hour before","Two hours before","Just in time","Late"}, 1),
+                            new Q("aprq2", "What kind of seat did she get?",
+                                new[]{"Aisle","Window","Middle","Business class"}, 1),
+                            new Q("aprq3", "What did she do at gate 24?",
+                                new[]{"Bought food","Slept","Read a magazine","Called a friend"}, 2)),
+                        Speaking("interactive",
+                            "Imagine you're at the airport check-in counter. Greet the agent, ask about your seat, and confirm your luggage.",
+                            45),
                     }),
                 }),
             }),
@@ -513,12 +1590,59 @@ public static class SeedRunner
                     }),
                     new LessonBp("Phrasal Verbs", new[]
                     {
-                        Text("Phrasal Verbs",
+                        GrammarExplanation("Phrasal Verbs",
                             "Phrasal verbs are verb + particle combinations: **give up**, **look after**, **run into**, **bring up**.\n\n" +
-                            "They often have meanings that differ from the parts."),
+                            "They often have meanings that differ from the parts.\n\n" +
+                            "- **give up** = stop trying\n" +
+                            "- **look after** = take care of\n" +
+                            "- **run into** = meet by chance\n" +
+                            "- **bring up** = mention; raise a child"),
+                        Reading("A Chance Meeting",
+                            "Yesterday I ran into my old school friend Anna at the supermarket. We had not seen each other for ten years! She told me she gave up her job in marketing two years ago to look after her newborn son. Now she runs a small online bakery from home. We had coffee together and brought up so many memories from our school days.",
+                            70,
+                            new Q("pvrq1", "Where did the writer meet Anna?",
+                                new[]{"At school","At a café","At the supermarket","At work"}, 2),
+                            new Q("pvrq2", "Why did Anna give up her job?",
+                                new[]{"She was bored","To look after her son","To travel","She was fired"}, 1),
+                            new Q("pvrq3", "What does Anna do now?",
+                                new[]{"Marketing","Teaching","Online bakery","She doesn't work"}, 2),
+                            new Q("pvrq4", "What did they 'bring up' during coffee?",
+                                new[]{"Children","Memories","Complaints","Jobs"}, 1)),
                         Writing(
                             "Write a short story (min 100 words) using at least four phrasal verbs. Underline each phrasal verb you use.",
                             100),
+                    }),
+                }),
+                new ModuleBp("Speaking Practice", new[]
+                {
+                    new LessonBp("Describing a Photo", new[]
+                    {
+                        GrammarExplanation("Useful phrases for photo description",
+                            "When describing a photo, use these structures:\n\n" +
+                            "- **In the foreground / In the background** — what's near or far\n" +
+                            "- **On the left / right / in the middle** — position\n" +
+                            "- **It looks like / It seems that** — guessing\n" +
+                            "- **There is / there are** — listing what you see"),
+                        Speaking("photo_description",
+                            "Describe what you see in your favorite recent photo. Talk about the people, place, and atmosphere. Use at least 3 location phrases (in the background, on the left, etc.).",
+                            90),
+                    }),
+                    new LessonBp("Giving Your Opinion", new[]
+                    {
+                        GrammarExplanation("Expressing opinions",
+                            "Phrases to share your view:\n\n" +
+                            "- **In my opinion / I think / I believe**\n" +
+                            "- **From my point of view**\n" +
+                            "- **As far as I'm concerned**\n" +
+                            "- **I'd argue that...**\n\n" +
+                            "To agree: *I couldn't agree more / That's a good point.*\n" +
+                            "To disagree politely: *I see what you mean, but... / I'm not sure about that.*"),
+                        Speaking("topic_card",
+                            "Should social media be limited for teenagers? Give your opinion in 60-90 seconds. Use at least 3 opinion phrases and 1 example.",
+                            90),
+                        Writing(
+                            "Write a 150-word opinion paragraph on: 'Is remote work better than working in an office?' Give 2 reasons and 1 example.",
+                            150),
                     }),
                 }),
             }),

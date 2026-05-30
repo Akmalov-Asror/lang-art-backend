@@ -11,11 +11,19 @@ public class ProgressService
 {
     private readonly AppDbContext _db;
     private readonly Features.Notifications.NotificationsService _notify;
+    private readonly Features.Gamification.IGamificationService _gamification;
+    private readonly Features.LaDollar.ILaDollarService _laDollar;
 
-    public ProgressService(AppDbContext db, Features.Notifications.NotificationsService notify)
+    public ProgressService(
+        AppDbContext db,
+        Features.Notifications.NotificationsService notify,
+        Features.Gamification.IGamificationService gamification,
+        Features.LaDollar.ILaDollarService laDollar)
     {
         _db = db;
         _notify = notify;
+        _gamification = gamification;
+        _laDollar = laDollar;
     }
 
     // ---------------- Completions ----------------
@@ -26,6 +34,7 @@ public class ProgressService
         if (!lessonExists) throw new NotFoundException("Lesson not found");
 
         var existing = await _db.LessonCompletions.FirstOrDefaultAsync(c => c.UserId == userId && c.LessonId == lessonId);
+        var isFirstCompletion = existing is null;
         if (existing is null)
         {
             existing = new LessonCompletion
@@ -37,6 +46,24 @@ public class ProgressService
             _db.LessonCompletions.Add(existing);
             await _db.SaveChangesAsync();
         }
+
+        // Gamification side-effects. AwardXp + RecordActivity + EvaluateBadges all
+        // self-guard against duplicate awards; calling them on a repeat completion
+        // is cheap and intentional (e.g. badge criteria that hadn't been met yet
+        // might be met now due to other state).
+        if (isFirstCompletion)
+        {
+            await _gamification.AwardXpAsync(userId, Data.Enums.XpReason.LessonCompleted, 20, lessonId, default);
+            // Phase 4: also award LA Dollars (idempotent on lessonId source).
+            await _laDollar.AwardAsync(userId, "lesson_completed", 5, lessonId, "Lesson completed", default);
+
+            // Auto-unlock the next lesson in the course for this student so they
+            // can proceed without waiting for a teacher to explicitly unlock it.
+            await AutoUnlockNextLessonAsync(userId, lessonId);
+        }
+        await _gamification.RecordActivityAsync(userId, default);
+        await _gamification.EvaluateBadgesAsync(userId, default);
+
         return new LessonCompletionResponse
         {
             UserId = existing.UserId,
@@ -119,6 +146,40 @@ public class ProgressService
         };
         _db.QuizResults.Add(record);
         await _db.SaveChangesAsync();
+
+        // Gamification — first-time-per-submission rewards. We use record.Id as the
+        // ledger source_id so re-submitting the same QuizResult row never double-awards;
+        // independent attempts produce different rows and award independently.
+        if (passed)
+        {
+            // Reading exercises award a different reason (mirrors quiz flow otherwise).
+            var exerciseType = dto.ContentId.HasValue
+                ? await _db.LessonContent
+                    .Where(c => c.Id == dto.ContentId.Value)
+                    .Select(c => c.ExerciseType)
+                    .FirstOrDefaultAsync()
+                : null;
+            var primaryReason = exerciseType == "reading"
+                ? Data.Enums.XpReason.ReadingCompleted
+                : Data.Enums.XpReason.QuizPassed;
+            await _gamification.AwardXpAsync(userId, primaryReason, 30, record.Id, default);
+            var isPerfect = dto.TotalQuestions > 0 && dto.Score == dto.TotalQuestions;
+            if (isPerfect)
+            {
+                await _gamification.AwardXpAsync(userId, Data.Enums.XpReason.QuizPerfectBonus, 20, record.Id, default);
+            }
+            await _gamification.RecordActivityAsync(userId, default);
+            await _gamification.EvaluateBadgesAsync(userId, default);
+
+            // Phase 4: LA Dollar rewards for passing an exercise. record.Id is the
+            // unique source so re-submitting the same QuizResult never double-pays.
+            await _laDollar.AwardAsync(userId, "quiz_passed", 10, record.Id, "Exercise passed", default);
+            if (isPerfect)
+            {
+                await _laDollar.AwardAsync(userId, "quiz_perfect_bonus", 5, record.Id, "Perfect score bonus", default);
+            }
+        }
+
         return ToQuizResultResponse(record);
     }
 
@@ -278,6 +339,83 @@ public class ProgressService
             .Where(a => a.StudentId == studentId && a.IsUnlocked)
             .Select(a => a.LessonId)
             .ToListAsync();
+    }
+
+    /// <summary>
+    /// Called from MarkCompleteAsync — when a student finishes a lesson we
+    /// automatically grant them access to the following lesson in course order.
+    /// Looks first in the same module (order_index + 1); if that was the last
+    /// lesson, looks for the first lesson of the next module. Honors the
+    /// existing StudentLessonAccess pattern, so a teacher can still manually
+    /// re-lock it via the existing API.
+    /// </summary>
+    private async Task AutoUnlockNextLessonAsync(Guid studentId, Guid currentLessonId)
+    {
+        var current = await _db.Lessons.AsNoTracking()
+            .Where(l => l.Id == currentLessonId)
+            .Select(l => new { l.Id, l.ModuleId, l.OrderIndex, CourseId = l.Module.CourseId, ModuleOrder = l.Module.OrderIndex })
+            .FirstOrDefaultAsync();
+        if (current is null) return;
+
+        // 1. Same module, next order.
+        var next = await _db.Lessons.AsNoTracking()
+            .Where(l => l.ModuleId == current.ModuleId && l.OrderIndex > current.OrderIndex)
+            .OrderBy(l => l.OrderIndex)
+            .Select(l => new { l.Id })
+            .FirstOrDefaultAsync();
+
+        if (next is null)
+        {
+            // 2. First lesson of the next module in the same course.
+            next = await _db.Lessons.AsNoTracking()
+                .Where(l => l.Module.CourseId == current.CourseId && l.Module.OrderIndex > current.ModuleOrder)
+                .OrderBy(l => l.Module.OrderIndex)
+                .ThenBy(l => l.OrderIndex)
+                .Select(l => new { l.Id })
+                .FirstOrDefaultAsync();
+        }
+        if (next is null) return;
+
+        // Idempotent grant — if a row already exists, just flip is_unlocked back to true.
+        var existing = await _db.StudentLessonAccess
+            .FirstOrDefaultAsync(a => a.StudentId == studentId && a.LessonId == next.Id);
+        if (existing is null)
+        {
+            _db.StudentLessonAccess.Add(new StudentLessonAccess
+            {
+                StudentId = studentId,
+                LessonId = next.Id,
+                IsUnlocked = true,
+                CreatedBy = null, // null = auto-unlocked by system, not a specific teacher
+            });
+        }
+        else if (!existing.IsUnlocked)
+        {
+            existing.IsUnlocked = true;
+            existing.UnlockedAt = DateTime.UtcNow;
+        }
+        else
+        {
+            // Already unlocked — no-op.
+            return;
+        }
+        await _db.SaveChangesAsync();
+
+        // Best-effort student notification — failure shouldn't roll back the completion.
+        try
+        {
+            var title = await _db.Lessons.AsNoTracking()
+                .Where(l => l.Id == next.Id)
+                .Select(l => l.Title)
+                .FirstOrDefaultAsync();
+            await _notify.NotifyAsync(
+                studentId,
+                "lesson_unlocked",
+                "New lesson unlocked!",
+                title is null ? null : $"\"{title}\" is now available.",
+                null);
+        }
+        catch { /* notification is best-effort */ }
     }
 
     public async Task<UnlockStatusResponse> GetUnlockStatusAsync(Guid studentId, Guid lessonId)

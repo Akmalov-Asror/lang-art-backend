@@ -12,6 +12,8 @@ public class Group
     public TimeOnly? StartTime { get; set; }
     public TimeOnly? EndTime { get; set; }
     public DateTime CreatedAt { get; set; }
+    /// <summary>Optional multibranch tag (Phase 19).</summary>
+    public Guid? BranchId { get; set; }
 
     public Profile Teacher { get; set; } = null!;
     public ICollection<GroupStudent> GroupStudents { get; set; } = new List<GroupStudent>();

@@ -15,4 +15,5 @@ public class LessonContent
 
     public Lesson Lesson { get; set; } = null!;
     public ICollection<QuizResult> QuizResults { get; set; } = new List<QuizResult>();
+    public ICollection<LessonContentTranslation> Translations { get; set; } = new List<LessonContentTranslation>();
 }

@@ -13,6 +13,8 @@ public class CourseResponse
     public string? Description { get; set; }
     public string? ThumbnailUrl { get; set; }
     public decimal? PriceMonthly { get; set; }
+    public Guid? OwnerId { get; set; }
+    public string? OwnerName { get; set; }
     public DateTime CreatedAt { get; set; }
     public DateTime UpdatedAt { get; set; }
 }
@@ -44,6 +46,14 @@ public class LessonResponse
     public int OrderIndex { get; set; }
     public bool IsLocked { get; set; }
     public DateTime CreatedAt { get; set; }
+    public bool IsReviewed { get; set; }
+    public DateTime? ReviewedAtUtc { get; set; }
+    public Guid? ReviewedBy { get; set; }
+}
+
+public class ReviewLessonRequest
+{
+    public bool IsReviewed { get; set; }
 }
 
 public class LessonWithContentResponse : LessonResponse

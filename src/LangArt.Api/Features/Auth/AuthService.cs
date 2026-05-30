@@ -15,14 +15,22 @@ public class AuthService
     private readonly ILogger<AuthService> _logger;
     private readonly IHostEnvironment _env;
     private readonly Common.Email.IEmailSender _email;
+    private readonly Features.Gamification.IGamificationService _gamification;
 
-    public AuthService(AppDbContext db, JwtTokenService jwt, ILogger<AuthService> logger, IHostEnvironment env, Common.Email.IEmailSender email)
+    public AuthService(
+        AppDbContext db,
+        JwtTokenService jwt,
+        ILogger<AuthService> logger,
+        IHostEnvironment env,
+        Common.Email.IEmailSender email,
+        Features.Gamification.IGamificationService gamification)
     {
         _db = db;
         _jwt = jwt;
         _logger = logger;
         _env = env;
         _email = email;
+        _gamification = gamification;
     }
 
     public async Task<AuthTokensResponse> RegisterAsync(RegisterRequest dto, string? userAgent, string? ipAddress)
@@ -62,6 +70,20 @@ public class AuthService
 
         var tokens = _jwt.Generate(user);
         await StoreRefreshTokenAsync(user.Id, tokens, userAgent, ipAddress);
+
+        // Gamification: once-per-UTC-day +10 XP, bump streak, evaluate badges.
+        // The unique partial index on the ledger makes a second login the same
+        // day a silent no-op; failures here must never block authentication.
+        try
+        {
+            await _gamification.AwardXpAsync(user.Id, Data.Enums.XpReason.DailyLogin, 10, sourceId: null, default);
+            await _gamification.RecordActivityAsync(user.Id, default);
+            await _gamification.EvaluateBadgesAsync(user.Id, default);
+        }
+        catch (Exception ex)
+        {
+            _logger.LogWarning(ex, "Gamification daily-login hook failed for {UserId} — login itself succeeded", user.Id);
+        }
 
         return new AuthTokensResponse { AccessToken = tokens.AccessToken, RefreshToken = tokens.RefreshToken };
     }

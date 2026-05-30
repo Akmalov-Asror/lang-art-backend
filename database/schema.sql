@@ -349,3 +349,73 @@ SECURITY NOTES:
 - Enable SSL/TLS in production
 - Regular backups with pg_dump or pg_basebackup
 */
+
+-- =============================================================================
+-- Sprint 1 additions — gamification + push notifications
+-- These tables are also created at runtime by
+-- Data/Seeders/SeedRunner.EnsureSchemaUpgradesAsync (idempotent via IF NOT EXISTS),
+-- so applying schema.sql to a fresh DB and applying it to an existing one are
+-- both safe.
+-- =============================================================================
+
+CREATE TABLE IF NOT EXISTS user_xp (
+    user_id     uuid PRIMARY KEY REFERENCES profiles(id) ON DELETE CASCADE,
+    total_xp    integer NOT NULL DEFAULT 0,
+    updated_at  timestamptz NOT NULL DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS user_streaks (
+    user_id                 uuid PRIMARY KEY REFERENCES profiles(id) ON DELETE CASCADE,
+    current_streak          integer NOT NULL DEFAULT 0,
+    longest_streak          integer NOT NULL DEFAULT 0,
+    last_activity_date_utc  date    NOT NULL DEFAULT CURRENT_DATE
+);
+
+CREATE TABLE IF NOT EXISTS badges (
+    id           uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+    code         text NOT NULL UNIQUE,
+    name         text NOT NULL,
+    description  text NOT NULL DEFAULT '',
+    icon_url     text,
+    criteria     jsonb NOT NULL DEFAULT '{}'::jsonb,
+    xp_reward    integer NOT NULL DEFAULT 0,
+    created_at   timestamptz NOT NULL DEFAULT now()
+);
+
+CREATE TABLE IF NOT EXISTS user_badges (
+    user_id        uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+    badge_id       uuid NOT NULL REFERENCES badges(id)   ON DELETE CASCADE,
+    earned_at_utc  timestamptz NOT NULL DEFAULT now(),
+    PRIMARY KEY (user_id, badge_id)
+);
+
+CREATE TABLE IF NOT EXISTS xp_ledger (
+    id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id         uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+    amount          integer NOT NULL,
+    reason          text NOT NULL CHECK (reason IN (
+                       'lesson_completed', 'quiz_passed', 'quiz_perfect_bonus',
+                       'daily_login', 'streak_bonus', 'badge_reward', 'admin_adjustment'
+                    )),
+    source_id       uuid,
+    created_at_utc  timestamptz NOT NULL DEFAULT now()
+);
+CREATE INDEX IF NOT EXISTS ix_xp_ledger_user_created
+    ON xp_ledger (user_id, created_at_utc DESC);
+CREATE UNIQUE INDEX IF NOT EXISTS uq_xp_ledger_source
+    ON xp_ledger (user_id, reason, source_id)
+    WHERE source_id IS NOT NULL;
+CREATE UNIQUE INDEX IF NOT EXISTS uq_xp_ledger_daily_login
+    ON xp_ledger (user_id, ((created_at_utc AT TIME ZONE 'UTC')::date))
+    WHERE reason = 'daily_login';
+
+CREATE TABLE IF NOT EXISTS push_subscriptions (
+    id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+    user_id         uuid NOT NULL REFERENCES profiles(id) ON DELETE CASCADE,
+    endpoint        text NOT NULL UNIQUE,
+    p256dh          text NOT NULL,
+    auth            text NOT NULL,
+    user_agent      text,
+    created_at_utc  timestamptz NOT NULL DEFAULT now()
+);
+CREATE INDEX IF NOT EXISTS ix_push_subscriptions_user ON push_subscriptions (user_id);

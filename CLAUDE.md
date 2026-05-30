@@ -144,6 +144,182 @@ DEFAULT_ADMIN_PASSWORD
 3. Inject `AppDbContext` for data, `ICurrentUser` for auth context, your own service for orchestration.
 4. Return raw DTOs — the global filter wraps them in the envelope. Throw `ApiException`-derived types for errors.
 
+## Gamification (Sprint 1)
+
+**Where it lives.** All code under [Features/Gamification/](src/LangArt.Api/Features/Gamification/);
+entities under [Data/Entities/](src/LangArt.Api/Data/Entities/) (`UserXp`,
+`UserStreak`, `Badge`, `UserBadge`, `XpLedger`); the snake_case-to-enum
+converter at [Data/Enums/XpReasonNames.cs](src/LangArt.Api/Data/Enums/XpReasonNames.cs);
+schema DDL at [Data/Seeders/SeedRunner.EnsureSchemaUpgradesAsync](src/LangArt.Api/Data/Seeders/SeedRunner.cs).
+
+**How XP is awarded.** The single entry point is `IGamificationService.AwardXpAsync(userId, reason, amount, sourceId, ct)`.
+It does two things in sequence: inserts a row in `xp_ledger` (the audit log)
+and `+=`'s the denormalised `user_xp.total_xp`. Idempotency is enforced **at
+the database**, not in code:
+
+- `uq_xp_ledger_source` — unique on `(user_id, reason, source_id) WHERE source_id IS NOT NULL`.
+  Re-completing the same lesson, re-submitting the same quiz attempt id, etc.
+  all collide here and become silent no-ops.
+- `uq_xp_ledger_daily_login` — unique on `(user_id, created_at_utc::date) WHERE reason = 'daily_login'`.
+  Caps the daily-login bonus at one per UTC day even though it has no `source_id`.
+
+When `AwardXpAsync` hits a PG `23505` (unique violation) it detaches the
+failed entry and returns `false`. Callers don't need to think about it.
+
+**XP amounts** (canonical, in code at [GamificationService.cs](src/LangArt.Api/Features/Gamification/GamificationService.cs)
+and [ProgressService.cs](src/LangArt.Api/Features/Progress/ProgressService.cs)):
+
+| Event | XP | Where |
+|---|---|---|
+| Lesson completed (first time) | +20 | `ProgressService.MarkCompleteAsync` |
+| Quiz passed (≥70%) | +30 | `ProgressService.SubmitQuizResultAsync` |
+| Quiz perfect (100%) bonus | +20 | same |
+| Daily login (once/UTC day) | +10 | `AuthService.LoginAsync` |
+| Streak bonus | `min(currentStreak * 5, 50)` | `GamificationService.RecordActivityAsync` |
+| Badge earned | per-badge `XpReward` | `GamificationService.EvaluateBadgesAsync` |
+
+**Streaks.** `RecordActivityAsync` is called by lesson/quiz/login flows. It's
+idempotent within a UTC day. The hourly `StreakResetService` (a
+`BackgroundService` registered with `AddHostedService`) zeroes
+`current_streak` for users whose `last_activity_date_utc < yesterday`.
+`longest_streak` is preserved through resets.
+
+**How badges work.** Catalog seeded by `SeedRunner.SeedBadgesAsync` (upsert by
+`Code`). The criteria rule for each badge is hard-coded in
+[BadgeCriteriaEvaluator.IsMetAsync](src/LangArt.Api/Features/Gamification/BadgeCriteriaEvaluator.cs)
+— a switch on `badge.Code`. `EvaluateBadgesAsync` is called from every
+gamification-relevant flow (lesson complete, quiz submit, login); it
+diffs unmet vs already-earned, inserts `user_badges` rows, awards
+`XpReward`, and best-effort sends a push notification per newly-earned
+badge.
+
+### Adding a new badge
+
+1. Add a row in `SeedBadgesAsync` — `(code, name, description, xpReward)`.
+2. Add a `case` in `BadgeCriteriaEvaluator.IsMetAsync` returning `true` when
+   the criteria is met for `userId`.
+3. Reseed (`dotnet run -- seed` or `docker compose exec backend dotnet LangArt.Api.dll seed`)
+   — idempotent, upserts existing badges, only inserts the new one.
+
+The `badges.criteria` jsonb column is intentional headroom for moving rules
+out of the C# switch into data-driven JSON later (e.g.
+`{ "kind": "streak", "days": 7 }`). Today it's `{}` for every seeded badge.
+
+### Level curve
+
+`xpForLevel(n) = floor(50 * n^1.5)` cumulative. A user starts at level 0 with
+0 XP, crosses to level 1 at 50 XP, level 2 at 141, level 5 at 559, level 10
+at 1581, level 25 at 6250, level 50 at 17677. The pure functions live at
+[LevelCalculator.cs](src/LangArt.Api/Features/Gamification/LevelCalculator.cs);
+test coverage in [tests/LangArt.Api.Tests/LevelCalculatorTests.cs](../tests/LangArt.Api.Tests/LevelCalculatorTests.cs).
+
+### Endpoints
+
+```
+GET  /api/gamification/me                            — XP + streak + earned badges + recent 5 ledger
+GET  /api/gamification/badges                        — full catalog with per-user earned flag
+GET  /api/gamification/ledger/me?limit=20            — recent XP events, max 100
+GET  /api/gamification/leaderboard/{groupId}         — group ranking; student must be a member, admin/teacher unrestricted
+POST /api/notifications/push/subscribe               — upsert by endpoint
+DELETE /api/notifications/push/subscribe             — by endpoint
+```
+
+## Real-time (Sprint 2)
+
+**Where it lives.** All hub + dispatcher + tracker code under
+[Features/Realtime/](src/LangArt.Api/Features/Realtime/). Existing
+notification flow (`Features/Notifications/NotificationsService.NotifyAsync`)
+now ALSO dispatches via SignalR after the DB insert. Badge-earn
+(`Features/Gamification/GamificationService.EvaluateBadgesAsync`) does
+**dual delivery** — Web Push for offline users + SignalR `BadgeEarned`
+for online users.
+
+### Hub paths
+
+| URL | Hub | Purpose |
+|---|---|---|
+| `/hubs/notifications` | `NotificationsHub` | bell notifications + `BadgeEarned` + `JoinClassroomAsync` / `LeaveClassroomAsync` |
+| `/hubs/presence` | `PresenceHub` | online tracking + reserved for Sprint 3 UserOnline/UserOffline broadcasts |
+| `/hubs/live-lesson` | `LiveLessonHub` | existing — unchanged |
+
+### JWT in the query string
+
+WebSocket upgrades can't carry an `Authorization` header from a browser,
+so SignalR's convention is to pass the JWT as `?access_token=…`. The
+[`JwtBearerEvents.OnMessageReceived`](src/LangArt.Api/Program.cs) handler
+honours this **only for `/hubs/*` paths** — every other request must still
+use the `Authorization` header. Don't widen this.
+
+### Wire format
+
+The SignalR JSON protocol is configured (in `Program.cs`'s `AddSignalR().AddJsonProtocol(...)`)
+to use `JsonNamingPolicy.SnakeCaseLower`, matching the REST output formatter.
+Hub payload property names go on the wire as `user_id`, `created_at_utc`,
+etc. — same as REST responses. **Do not add `[JsonPropertyName]` attributes.**
+
+### Single-instance constraint
+
+Connection tracking lives in-memory in
+[`InMemoryConnectionTracker`](src/LangArt.Api/Features/Realtime/InMemoryConnectionTracker.cs)
+(process singleton). **The API must run as a single instance** until a
+Redis backplane (`Microsoft.AspNetCore.SignalR.StackExchangeRedis`) is
+added. Horizontal scale-out will fan messages to the wrong process
+otherwise. This is a Sprint 2 conscious limitation; revisit when load
+demands. The interface (`IConnectionTracker`) is intentionally
+Redis-shaped already so the swap is one impl swap + one DI line.
+
+### IUserIdProvider
+
+[`JwtSubUserIdProvider`](src/LangArt.Api/Features/Realtime/JwtSubUserIdProvider.cs)
+reads `Context.User.FindFirst("sub")` so SignalR's `Clients.User(userId)`
+routing matches the JWT `sub` claim. The default would also work today
+(our JWT issues `NameIdentifier` with the same value), but binding to
+`sub` explicitly future-proofs against claim-shape changes.
+
+### Sending a hub message from a service
+
+Inject `INotificationDispatcher`:
+
+```csharp
+public class MyService(INotificationDispatcher dispatcher) {
+    public async Task DoThing(Guid userId) {
+        // ... do the DB work ...
+        await dispatcher.SendNotificationAsync(userId, new NotificationDto {
+            Id = row.Id, UserId = userId, Type = "thing_happened",
+            Title = "Done", CreatedAtUtc = DateTime.UtcNow,
+        });
+    }
+}
+```
+
+The dispatcher is **best-effort** — exceptions are caught and logged, never
+re-thrown. Offline users miss the live event; they'll see it next time
+they hit the polling endpoint or reconnect.
+
+### Adding a new hub event type
+
+1. Add the C# method signature to the strongly-typed client interface
+   (`INotificationsClient` or `IPresenceClient`).
+2. The method name on that interface IS the wire name the frontend
+   subscribes to (`connection.on("ThingHappened", …)`). Renaming = breaking
+   change.
+3. Add a payload DTO under `Features/Realtime/Dto/`. PascalCase property
+   names — the snake_case naming policy handles the wire format.
+4. Add a method to `INotificationDispatcher` if it's a recurring server
+   trigger (so call-sites stay clean), or call `IHubContext` directly
+   for one-offs.
+5. Update [docs/sprint-2-signalr-frontend.md](docs/sprint-2-signalr-frontend.md)
+   with the new event name + payload shape so frontend can subscribe.
+
+### Why connection tracking is also a singleton
+
+SignalR's `IUserIdProvider` answers "who's this connection?" at handshake
+time but doesn't tell you "what connections does this user have?". The
+tracker fills that gap for the REST presence endpoint and any future
+"is X online?" widget. Keeping it as a process singleton matches the
+SignalR backplane story — when Redis lands, the tracker moves into Redis
+too, and the rest of the codebase doesn't change.
+
 ## Phase status
 
 - ✅ **Phase A**: scaffolding, entities, cross-cutting plumbing, Auth (8 endpoints), Health (3 endpoints).

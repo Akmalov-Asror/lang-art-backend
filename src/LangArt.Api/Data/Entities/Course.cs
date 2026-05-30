@@ -7,9 +7,16 @@ public class Course
     public string? Description { get; set; }
     public string? ThumbnailUrl { get; set; }
     public decimal? PriceMonthly { get; set; }
+    /// <summary>
+    /// Teacher who created/owns this course. Null = system/admin-created course
+    /// (shared, visible in the management UI to admins only). Non-null = teacher
+    /// course; only that teacher + admins can edit/delete it.
+    /// </summary>
+    public Guid? OwnerId { get; set; }
     public DateTime CreatedAt { get; set; }
     public DateTime UpdatedAt { get; set; }
 
+    public Profile? Owner { get; set; }
     public ICollection<Module> Modules { get; set; } = new List<Module>();
     public ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();
     public ICollection<GroupCourse> GroupCourses { get; set; } = new List<GroupCourse>();

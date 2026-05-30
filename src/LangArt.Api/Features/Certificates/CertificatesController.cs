@@ -37,4 +37,21 @@ public class CertificatesController : ControllerBase
         // Return raw PDF — this bypasses the ApiResponseFilter envelope, which is what we want for a file download.
         return File(pdf, "application/pdf", fileName);
     }
+
+    /// <summary>
+    /// Downloads a PDF certificate for a passed exam attempt (Unit Review,
+    /// Midterm, Final, Placement etc). Per-section breakdown included.
+    /// </summary>
+    [HttpGet("exams/{examAttemptId:guid}")]
+    [Produces("application/pdf")]
+    public async Task<IActionResult> DownloadExamCertificate(Guid examAttemptId, [FromQuery] Guid? userId)
+    {
+        var targetUserId = userId ?? _currentUser.Id;
+        if (targetUserId != _currentUser.Id && _currentUser.Role == "student")
+        {
+            throw new ForbiddenException("Cannot download another student's certificate");
+        }
+        var (pdf, fileName) = await _svc.GenerateExamCertificateAsync(targetUserId, examAttemptId);
+        return File(pdf, "application/pdf", fileName);
+    }
 }

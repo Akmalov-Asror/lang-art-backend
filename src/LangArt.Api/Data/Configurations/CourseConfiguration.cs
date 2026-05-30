@@ -15,6 +15,13 @@ public class CourseConfiguration : IEntityTypeConfiguration<Course>
         b.Property(c => c.PriceMonthly).HasColumnType("decimal");
         b.Property(c => c.CreatedAt).HasColumnType("timestamptz").HasDefaultValueSql("now()");
         b.Property(c => c.UpdatedAt).HasColumnType("timestamptz").HasDefaultValueSql("now()");
+
+        // Phase 5.4 — teacher ownership of courses.
+        b.HasOne(c => c.Owner)
+            .WithMany()
+            .HasForeignKey(c => c.OwnerId)
+            .OnDelete(DeleteBehavior.SetNull);
+        b.HasIndex(c => c.OwnerId);
     }
 }
 
@@ -47,11 +54,18 @@ public class LessonConfiguration : IEntityTypeConfiguration<Lesson>
         b.Property(l => l.OrderIndex).HasDefaultValue(0);
         b.Property(l => l.IsLocked).HasDefaultValue(false);
         b.Property(l => l.CreatedAt).HasColumnType("timestamptz").HasDefaultValueSql("now()");
+        b.Property(l => l.IsReviewed).HasDefaultValue(false);
+        b.Property(l => l.ReviewedAtUtc).HasColumnType("timestamptz");
 
         b.HasOne(l => l.Module)
             .WithMany(m => m.Lessons)
             .HasForeignKey(l => l.ModuleId)
             .OnDelete(DeleteBehavior.Cascade);
+
+        b.HasOne(l => l.Reviewer)
+            .WithMany()
+            .HasForeignKey(l => l.ReviewedBy)
+            .OnDelete(DeleteBehavior.SetNull);
     }
 }
 

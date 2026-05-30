@@ -29,6 +29,14 @@ public class CoursesController : ControllerBase
     public Task<List<CourseResponse>> Enrolled() =>
         _courses.ListEnrolledForUserAsync(_currentUser.Id);
 
+    /// <summary>
+    /// Courses the current user can manage. Teachers see only their own;
+    /// admins see all.
+    /// </summary>
+    [Authorize(Roles = "admin,teacher")]
+    [HttpGet("mine")]
+    public Task<List<CourseResponse>> Mine() => _courses.ListManageableAsync();
+
     [AllowAnonymous]
     [HttpGet("{id:guid}")]
     public Task<CourseWithModulesResponse> GetById(Guid id) =>
@@ -44,10 +52,12 @@ public class CoursesController : ControllerBase
     public Task<CourseResponse> Update(Guid id, [FromBody] UpdateCourseRequest dto) =>
         _courses.UpdateAsync(id, dto);
 
-    [Authorize(Roles = "admin")]
+    [Authorize(Roles = "admin,teacher")]
     [HttpDelete("{id:guid}")]
     public async Task<IActionResult> Delete(Guid id)
     {
+        // Ownership enforced inside the service (admin can delete anything,
+        // teacher only their own courses).
         await _courses.DeleteCourseAsync(id);
         return Ok(new { });
     }
@@ -101,6 +111,11 @@ public class CoursesController : ControllerBase
         await _courses.DeleteLessonAsync(lessonId);
         return Ok(new { });
     }
+
+    [Authorize(Roles = "admin,teacher")]
+    [HttpPatch("lessons/{lessonId:guid}/review")]
+    public Task<LessonResponse> SetLessonReviewed(Guid lessonId, [FromBody] ReviewLessonRequest dto) =>
+        _courses.SetLessonReviewedAsync(lessonId, dto.IsReviewed);
 
     // ---------------- Lesson content ----------------
 

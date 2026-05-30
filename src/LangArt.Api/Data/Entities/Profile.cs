@@ -20,6 +20,16 @@ public class Profile
     public bool TotpEnabled { get; set; }
     public DateTime CreatedAt { get; set; }
     public DateTime UpdatedAt { get; set; }
+    /// <summary>Optional multibranch tag (Phase 19). Null = unassigned / head-office.</summary>
+    public Guid? BranchId { get; set; }
+    /// <summary>Short personal referral code (Phase 21). Lazily populated.</summary>
+    public string? ReferralCode { get; set; }
+    /// <summary>Phase 21 — student graduated / moved on. Used for alumni roster.</summary>
+    public bool IsAlumni { get; set; }
+    /// <summary>Phase 21 — optional bio/note shown on alumni roster.</summary>
+    public string? AlumniNote { get; set; }
+    /// <summary>CEFR level used for daily vocabulary auto-assignment. Default A1.</summary>
+    public string VocabTargetLevel { get; set; } = "A1";
 
     public ICollection<Session> Sessions { get; set; } = new List<Session>();
     public ICollection<Enrollment> Enrollments { get; set; } = new List<Enrollment>();

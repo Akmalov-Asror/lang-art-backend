@@ -1,4 +1,5 @@
 using System.Text.Json;
+using LangArt.Api.Common.Auth;
 using LangArt.Api.Common.Exceptions;
 using LangArt.Api.Data;
 using LangArt.Api.Data.Entities;
@@ -10,20 +11,44 @@ namespace LangArt.Api.Features.Courses;
 public class CoursesService
 {
     private readonly AppDbContext _db;
+    private readonly ICurrentUser _currentUser;
 
-    public CoursesService(AppDbContext db)
+    public CoursesService(AppDbContext db, ICurrentUser currentUser)
     {
         _db = db;
+        _currentUser = currentUser;
     }
 
     // ---------------- Courses ----------------
 
     public async Task<List<CourseResponse>> ListAsync()
     {
+        // Public catalog — no filtering on ownership. The management UI for
+        // teachers uses a separate /api/courses/mine endpoint.
         var rows = await _db.Courses
             .AsNoTracking()
+            .Include(c => c.Owner)
             .OrderBy(c => c.CreatedAt)
             .ToListAsync();
+        return rows.Select(ToResponse).ToList();
+    }
+
+    /// <summary>
+    /// Lists courses the current teacher can manage. Admin sees everything;
+    /// a teacher sees only courses they own (OwnerId == their id) — they can
+    /// still see admin/shared courses via the public list, but they cannot
+    /// edit them.
+    /// </summary>
+    public async Task<List<CourseResponse>> ListManageableAsync()
+    {
+        var role = _currentUser.Role;
+        var q = _db.Courses.AsNoTracking().Include(c => c.Owner).AsQueryable();
+        if (role != "admin")
+        {
+            var me = _currentUser.Id;
+            q = q.Where(c => c.OwnerId == me);
+        }
+        var rows = await q.OrderByDescending(c => c.UpdatedAt).ToListAsync();
         return rows.Select(ToResponse).ToList();
     }
 
@@ -87,22 +112,28 @@ public class CoursesService
 
     public async Task<CourseResponse> CreateAsync(CreateCourseRequest dto)
     {
+        // Teachers own the courses they create; admin-created courses are
+        // system-wide (OwnerId stays null).
+        var ownerId = _currentUser.Role == "teacher" ? (Guid?)_currentUser.Id : null;
         var course = new Course
         {
             Title = dto.Title,
             Description = dto.Description,
             ThumbnailUrl = dto.ThumbnailUrl,
             PriceMonthly = dto.PriceMonthly,
+            OwnerId = ownerId,
         };
         _db.Courses.Add(course);
         await _db.SaveChangesAsync();
-        return ToResponse(course);
+        var withOwner = await _db.Courses.AsNoTracking().Include(c => c.Owner).FirstAsync(c => c.Id == course.Id);
+        return ToResponse(withOwner);
     }
 
     public async Task<CourseResponse> UpdateAsync(Guid id, UpdateCourseRequest dto)
     {
-        var course = await _db.Courses.FirstOrDefaultAsync(c => c.Id == id)
+        var course = await _db.Courses.Include(c => c.Owner).FirstOrDefaultAsync(c => c.Id == id)
                      ?? throw new NotFoundException("Course not found");
+        EnsureCanEditCourse(course);
 
         if (dto.Title is not null) course.Title = dto.Title;
         if (dto.Description is not null) course.Description = dto.Description;
@@ -116,8 +147,59 @@ public class CoursesService
 
     public async Task DeleteCourseAsync(Guid id)
     {
-        var deleted = await _db.Courses.Where(c => c.Id == id).ExecuteDeleteAsync();
-        if (deleted == 0) throw new NotFoundException("Course not found");
+        var course = await _db.Courses.FirstOrDefaultAsync(c => c.Id == id)
+                     ?? throw new NotFoundException("Course not found");
+        EnsureCanEditCourse(course);
+        _db.Courses.Remove(course);
+        await _db.SaveChangesAsync();
+    }
+
+    private void EnsureCanEditCourse(Course course)
+    {
+        if (_currentUser.Role == "admin") return;
+        if (course.OwnerId is not null && course.OwnerId == _currentUser.Id) return;
+        throw new ForbiddenException(
+            course.OwnerId is null
+                ? "Only admins can edit shared courses"
+                : "You can only manage courses you own");
+    }
+
+    private async Task EnsureCanEditCourseByIdAsync(Guid courseId)
+    {
+        var course = await _db.Courses.AsNoTracking()
+            .FirstOrDefaultAsync(c => c.Id == courseId)
+            ?? throw new NotFoundException("Course not found");
+        EnsureCanEditCourse(course);
+    }
+
+    private async Task EnsureCanEditLessonAsync(Guid lessonId)
+    {
+        var courseId = await _db.Lessons.AsNoTracking()
+            .Where(l => l.Id == lessonId)
+            .Select(l => l.Module.CourseId)
+            .FirstOrDefaultAsync();
+        if (courseId == Guid.Empty) throw new NotFoundException("Lesson not found");
+        await EnsureCanEditCourseByIdAsync(courseId);
+    }
+
+    private async Task EnsureCanEditContentAsync(Guid contentId)
+    {
+        var courseId = await _db.LessonContent.AsNoTracking()
+            .Where(c => c.Id == contentId)
+            .Select(c => c.Lesson.Module.CourseId)
+            .FirstOrDefaultAsync();
+        if (courseId == Guid.Empty) throw new NotFoundException("Content not found");
+        await EnsureCanEditCourseByIdAsync(courseId);
+    }
+
+    private async Task EnsureCanEditModuleAsync(Guid moduleId)
+    {
+        var courseId = await _db.Modules.AsNoTracking()
+            .Where(m => m.Id == moduleId)
+            .Select(m => m.CourseId)
+            .FirstOrDefaultAsync();
+        if (courseId == Guid.Empty) throw new NotFoundException("Module not found");
+        await EnsureCanEditCourseByIdAsync(courseId);
     }
 
     /// <summary>
@@ -204,8 +286,7 @@ public class CoursesService
 
     public async Task<ModuleResponse> CreateModuleAsync(Guid courseId, CreateModuleRequest dto)
     {
-        var courseExists = await _db.Courses.AnyAsync(c => c.Id == courseId);
-        if (!courseExists) throw new NotFoundException("Course not found");
+        await EnsureCanEditCourseByIdAsync(courseId);
 
         int order = dto.OrderIndex ?? (await _db.Modules
             .Where(m => m.CourseId == courseId)
@@ -225,6 +306,7 @@ public class CoursesService
 
     public async Task<ModuleResponse> UpdateModuleAsync(Guid moduleId, UpdateModuleRequest dto)
     {
+        await EnsureCanEditModuleAsync(moduleId);
         var module = await _db.Modules.FirstOrDefaultAsync(m => m.Id == moduleId)
                      ?? throw new NotFoundException("Module not found");
 
@@ -237,6 +319,7 @@ public class CoursesService
 
     public async Task DeleteModuleAsync(Guid moduleId)
     {
+        await EnsureCanEditModuleAsync(moduleId);
         var deleted = await _db.Modules.Where(m => m.Id == moduleId).ExecuteDeleteAsync();
         if (deleted == 0) throw new NotFoundException("Module not found");
     }
@@ -273,8 +356,7 @@ public class CoursesService
 
     public async Task<LessonResponse> CreateLessonAsync(Guid moduleId, CreateLessonRequest dto)
     {
-        var moduleExists = await _db.Modules.AnyAsync(m => m.Id == moduleId);
-        if (!moduleExists) throw new NotFoundException("Module not found");
+        await EnsureCanEditModuleAsync(moduleId);
 
         int order = dto.OrderIndex ?? (await _db.Lessons
             .Where(l => l.ModuleId == moduleId)
@@ -295,6 +377,7 @@ public class CoursesService
 
     public async Task<LessonResponse> UpdateLessonAsync(Guid lessonId, UpdateLessonRequest dto)
     {
+        await EnsureCanEditLessonAsync(lessonId);
         var lesson = await _db.Lessons.FirstOrDefaultAsync(l => l.Id == lessonId)
                      ?? throw new NotFoundException("Lesson not found");
 
@@ -308,8 +391,30 @@ public class CoursesService
 
     public async Task DeleteLessonAsync(Guid lessonId)
     {
+        await EnsureCanEditLessonAsync(lessonId);
         var deleted = await _db.Lessons.Where(l => l.Id == lessonId).ExecuteDeleteAsync();
         if (deleted == 0) throw new NotFoundException("Lesson not found");
+    }
+
+    public async Task<LessonResponse> SetLessonReviewedAsync(Guid lessonId, bool isReviewed)
+    {
+        await EnsureCanEditLessonAsync(lessonId);
+        var lesson = await _db.Lessons.FirstOrDefaultAsync(l => l.Id == lessonId)
+                     ?? throw new NotFoundException("Lesson not found");
+
+        lesson.IsReviewed = isReviewed;
+        if (isReviewed)
+        {
+            lesson.ReviewedAtUtc = DateTime.UtcNow;
+            lesson.ReviewedBy = _currentUser.Id;
+        }
+        else
+        {
+            lesson.ReviewedAtUtc = null;
+            lesson.ReviewedBy = null;
+        }
+        await _db.SaveChangesAsync();
+        return ToLessonResponse(lesson);
     }
 
     // ---------------- Lesson content ----------------
@@ -325,8 +430,7 @@ public class CoursesService
 
     public async Task<LessonContentResponse> CreateLessonContentAsync(Guid lessonId, CreateLessonContentRequest dto)
     {
-        var lessonExists = await _db.Lessons.AnyAsync(l => l.Id == lessonId);
-        if (!lessonExists) throw new NotFoundException("Lesson not found");
+        await EnsureCanEditLessonAsync(lessonId);
 
         int order = dto.OrderIndex ?? (await _db.LessonContent
             .Where(c => c.LessonId == lessonId)
@@ -348,6 +452,7 @@ public class CoursesService
 
     public async Task<LessonContentResponse> UpdateLessonContentAsync(Guid contentId, UpdateLessonContentRequest dto)
     {
+        await EnsureCanEditContentAsync(contentId);
         var content = await _db.LessonContent.FirstOrDefaultAsync(c => c.Id == contentId)
                       ?? throw new NotFoundException("Lesson content not found");
 
@@ -365,6 +470,7 @@ public class CoursesService
 
     public async Task DeleteLessonContentAsync(Guid contentId)
     {
+        await EnsureCanEditContentAsync(contentId);
         var deleted = await _db.LessonContent.Where(c => c.Id == contentId).ExecuteDeleteAsync();
         if (deleted == 0) throw new NotFoundException("Lesson content not found");
     }
@@ -413,6 +519,8 @@ public class CoursesService
         Description = c.Description,
         ThumbnailUrl = c.ThumbnailUrl,
         PriceMonthly = c.PriceMonthly,
+        OwnerId = c.OwnerId,
+        OwnerName = c.Owner?.FullName,
         CreatedAt = c.CreatedAt,
         UpdatedAt = c.UpdatedAt,
     };
@@ -434,6 +542,9 @@ public class CoursesService
         OrderIndex = l.OrderIndex,
         IsLocked = l.IsLocked,
         CreatedAt = l.CreatedAt,
+        IsReviewed = l.IsReviewed,
+        ReviewedAtUtc = l.ReviewedAtUtc,
+        ReviewedBy = l.ReviewedBy,
     };
 
     private static LessonContentResponse ToContentResponse(LessonContent c) => new()

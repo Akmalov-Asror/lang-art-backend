@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8EA08893-CCF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangArt.Api", "src\LangArt.Api\LangArt.Api.csproj", "{E5F48C97-D5D9-4DFB-B05A-6F4449B689AB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{D0A31AED-40B9-4E03-BF6D-F5FCD5C8A193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LangArt.Api.Tests", "tests\LangArt.Api.Tests\LangArt.Api.Tests.csproj", "{FBF26857-44F1-427D-B81D-08F32895CA71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,13 @@ Global
 		{E5F48C97-D5D9-4DFB-B05A-6F4449B689AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5F48C97-D5D9-4DFB-B05A-6F4449B689AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5F48C97-D5D9-4DFB-B05A-6F4449B689AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF26857-44F1-427D-B81D-08F32895CA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF26857-44F1-427D-B81D-08F32895CA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF26857-44F1-427D-B81D-08F32895CA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF26857-44F1-427D-B81D-08F32895CA71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E5F48C97-D5D9-4DFB-B05A-6F4449B689AB} = {8EA08893-CCF9-46E1-A565-0767D6FA750C}
+		{FBF26857-44F1-427D-B81D-08F32895CA71} = {D0A31AED-40B9-4E03-BF6D-F5FCD5C8A193}
 	EndGlobalSection
 EndGlobal
