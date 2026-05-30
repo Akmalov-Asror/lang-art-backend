@@ -9,7 +9,7 @@ publish/
 .idea/
 appsettings.Local.json
 appsettings.*.Local.json
-uploads/
+/uploads/
 *.pfx
 *.key
 .env
