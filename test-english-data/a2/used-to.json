@@ -1,0 +1,649 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "used-to",
+  "order_index": 25,
+  "title": "Used to, didn’t use to: Past habits and states",
+  "source_url": "https://test-english.com/grammar-points/a2/used-to/",
+  "scraped_at": "2026-05-23T07:18:03.297Z",
+  "explanation": {
+    "markdown": "## **Used to, didn’t use to**: Grammar chart\n\n![Grammar chart explaining 'Used to' and 'Didn’t use to' for expressing past habits and states, contrasted with 'Usually' for present habits, with form and example sentences.](/uploads/grammar/a2/used-to/img-1.png)\n\n## **Used to**\n\n#### Past habits\n\nWe use **used to** to talk about **past habits** or things that **happened repeatedly** in the past but don’t happen any more.\n\n-   *I* ***used to play*** *chess every day, but now I don’t play very often.*\n-   *When the economy was better, we* ***used to eat*** ***out*** *every week.*\n\n#### Past states\n\nWe use **used to** with [non-action verbs](https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/) (**[be](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/), have, etc.**) for **past states**: things that were true in the past but are not true any more.\n\n-   *She* ***used to be*** *very shy when she was a child.*\n-   *I* ***used to like*** *her music, but now I hate it.*\n\n#### **Didn’t use to, did you use to**?\n\nWe use **did**/**didn’t** + **use to** for negatives and questions.\n\n-   *He **didn’t use to travel** a lot.*\n-   *‘****Did*** *he* ***use to live*** *here?’ ‘Yes, he* ***did****.’*\n\nWe can also use **never** for negatives\n\n-   *We* ***never used to argue****.*\n\n## Past simple vs **used to**\n\n#### Past simple + **always, usually, often**, etc.\n\nWe can also use the **past simple** tense + [**frequency adverbs**](https://test-english.com/grammar-points/a1/adverbs-frequency/) for past habits.\n\n-   *I* ***always met*** *her at the bar down the street.* (= *I used to meet* …)\n-   *I* ***usually had*** *a big salad for dinner.* (= *I used to have* …)\n\n#### Past simple (NOT **used to**)\n\nBut we use the [**past simple**](https://test-english.com/grammar-points/a2/past-simple-form-use/) (NOT **used to**) for actions that happened **once** or when we mention **when** they happened.\n\n-   ***Last week****, I* ***used to meet*** *her at the bar down the street*. ![](/uploads/grammar/a2/used-to/img-2.png)\n-   ***Last week****, I* ***met*** *her at the bar down the street*. ![](/uploads/grammar/a2/used-to/img-3.png)\n-   *I* ***used to have*** *a big salad for dinner* ***last Sunday***. ![](/uploads/grammar/a2/used-to/img-4.png)\n-   *I* ***had*** *a big salad for dinner* ***last Sunday***. ![](/uploads/grammar/a2/used-to/img-5.png)\n\n## **Usually** or **used to**?\n\n**Used to** is only used in the **past**. To talk about **present habits**, we should use the [**present simple**](https://test-english.com/grammar-points/a1/present-simple/) tense with **usually** or **normally**.\n\n-   *I* ***use*** ***get up*** *very early at weekends.* ![](/uploads/grammar/a2/used-to/img-6.png)\n-   *I* ***usually*** ***get up*** *very early at weekends.* ![](/uploads/grammar/a2/used-to/img-7.png)\n-   *We* ***don’t use to play*** *on Sunday.* ![](/uploads/grammar/a2/used-to/img-8.png)\n-   *We* ***don’t usually play*** *on Sunday.* ![](/uploads/grammar/a2/used-to/img-9.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/used.to-didnt.use_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-1.png",
+        "alt": "Grammar chart explaining 'Used to' and 'Didn’t use to' for expressing past habits and states, contrasted with 'Usually' for present habits, with form and example sentences."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a2/used-to/img-9.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Used to, didn’t use to: Past habits and states",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "What music {0} to like when you were a child?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you use",
+                "did you used",
+                "used you"
+              ],
+              "correct": "did you use",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3417"
+        },
+        {
+          "index": 1,
+          "template": "I {0} listen to music when I was a child.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't used to",
+                "usedn't to",
+                "didn't use to"
+              ],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3418"
+        },
+        {
+          "index": 2,
+          "template": "We {0} to the cinema at weekends.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "don't use to go",
+                "usually go",
+                "use to go"
+              ],
+              "correct": "usually go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3419"
+        },
+        {
+          "index": 3,
+          "template": "They {0} in the country, but now they live in the city",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "use to live",
+                "used to living",
+                "used to live"
+              ],
+              "correct": "used to live",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3420"
+        },
+        {
+          "index": 4,
+          "template": "I {0} the cake you made me last week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "loved",
+                "didn't use to love",
+                "used to love"
+              ],
+              "correct": "loved",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3421"
+        },
+        {
+          "index": 5,
+          "template": "{0} have long hair when you were younger?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Used you to",
+                "Did you use to",
+                "Did you used to"
+              ],
+              "correct": "Did you use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3422"
+        },
+        {
+          "index": 6,
+          "template": "She {0} very tall when she was in school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "used not to be",
+                "didn't used to be",
+                "didn't use to be"
+              ],
+              "correct": "didn't use to be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3423"
+        },
+        {
+          "index": 7,
+          "template": "I {0} to bed very late on Fridays and Saturdays.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "use to go",
+                "don't use to go",
+                "normally go"
+              ],
+              "correct": "normally go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3424"
+        },
+        {
+          "index": 8,
+          "template": "Robert {0} in a band.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "use to play",
+                "used to play",
+                "used to playing"
+              ],
+              "correct": "used to play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3425"
+        },
+        {
+          "index": 9,
+          "template": "I {0} my right arm in a skiing accident when I was 21.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "broke",
+                "use to break",
+                "used to break"
+              ],
+              "correct": "broke",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3426"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Used to, didn’t use to: Past habits and states",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Not too many people {0} (live) in the cities.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3428"
+        },
+        {
+          "index": 1,
+          "template": "Salaries {0} (be) much lower.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3429"
+        },
+        {
+          "index": 2,
+          "template": "People {0} (not buy) so much stuff.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3436"
+        },
+        {
+          "index": 3,
+          "template": "People {0} (not get) divorced.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3430"
+        },
+        {
+          "index": 4,
+          "template": "People {0} (not eat) so much processed food; their diet was healthier.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3432"
+        },
+        {
+          "index": 5,
+          "template": "People {0} (have) more children and at a younger age.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3431"
+        },
+        {
+          "index": 6,
+          "template": "People {0} (not travel) so often, or they just didn't travel at all.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3433"
+        },
+        {
+          "index": 7,
+          "template": "People {0} (write) letters because they didn't have computers.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3434"
+        },
+        {
+          "index": 8,
+          "template": "People {0} (not live) together before getting married.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3435"
+        },
+        {
+          "index": 9,
+          "template": "Families {0} (be) closer and more connected than they are today.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3437"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Used to, didn’t use to: Past habits and states",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "INTERVIEWER: What 1 {0} (you/be) like when you were a child? SALLY: I remember I 2 {1} (wear) very thick glasses, and I 3 {2} (be) quite short and uncoordinated. To be honest, I 4 {3} (not like) myself very much. However, I'd say I had a very happy childhood. INTERVIEWER: What 5 {4} (you/do) for fun? SALLY: Oh, I have great memories. We 6 {5} (not have) phones or technology of any kind and the streets 7 {6} (be) safer than now, so we 8 {7} (play) outdoors all the time. INTERVIEWER: 9 {8} (you/get) good marks in school? SALLY: Yes, I 10 {9} (study) very hard.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wore",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't like",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "did",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't have",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "played",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "did",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "studied",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3427"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Used to, didn’t use to: Past habits and states",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "What music {0} to like when you were a child?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you use",
+                "did you used",
+                "used you"
+              ],
+              "correct": "did you use",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3417"
+        },
+        {
+          "index": 1,
+          "template": "I {0} listen to music when I was a child.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't used to",
+                "usedn't to",
+                "didn't use to"
+              ],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3418"
+        },
+        {
+          "index": 2,
+          "template": "We {0} to the cinema at weekends.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "don't use to go",
+                "usually go",
+                "use to go"
+              ],
+              "correct": "usually go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3419"
+        },
+        {
+          "index": 3,
+          "template": "They {0} in the country, but now they live in the city",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "use to live",
+                "used to living",
+                "used to live"
+              ],
+              "correct": "used to live",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3420"
+        },
+        {
+          "index": 4,
+          "template": "I {0} the cake you made me last week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "loved",
+                "didn't use to love",
+                "used to love"
+              ],
+              "correct": "loved",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3421"
+        },
+        {
+          "index": 5,
+          "template": "{0} have long hair when you were younger?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Used you to",
+                "Did you use to",
+                "Did you used to"
+              ],
+              "correct": "Did you use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3422"
+        },
+        {
+          "index": 6,
+          "template": "She {0} very tall when she was in school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "used not to be",
+                "didn't used to be",
+                "didn't use to be"
+              ],
+              "correct": "didn't use to be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3423"
+        },
+        {
+          "index": 7,
+          "template": "I {0} to bed very late on Fridays and Saturdays.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "use to go",
+                "don't use to go",
+                "normally go"
+              ],
+              "correct": "normally go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3424"
+        },
+        {
+          "index": 8,
+          "template": "Robert {0} in a band.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "use to play",
+                "used to play",
+                "used to playing"
+              ],
+              "correct": "used to play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3425"
+        },
+        {
+          "index": 9,
+          "template": "I {0} my right arm in a skiing accident when I was 21.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "broke",
+                "use to break",
+                "used to break"
+              ],
+              "correct": "broke",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3426"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

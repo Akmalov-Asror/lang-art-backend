@@ -1,0 +1,575 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "imperative-sit-dont-talk",
+  "order_index": 15,
+  "title": "The imperative: Sit down! Don’t talk!",
+  "source_url": "https://test-english.com/grammar-points/a1/imperative-sit-dont-talk/",
+  "scraped_at": "2026-05-23T07:02:52.538Z",
+  "explanation": {
+    "markdown": "## The imperative: Grammar chart\n\n![Visual chart outlining the imperative form in English with examples of positive and negative commands and uses for offers, advice, instructions, orders, and warnings.](/uploads/grammar/a1/imperative-sit-dont-talk/img-1.jpg)\n\n## Form\n\nThe form of the verb used for the imperative is the base form of the verb (=the infinitive without *to*). There is no subject.  \nThe negative imperative is made with **do not** or **don’t** + infinitive (no subject).\n\n## Use\n\nYou can use the imperative to:\n\n#### Give instructions\n\n-   ***Open** the package carefully.*\n-   ***Connect** the cable to the plug.*\n\n#### Give orders\n\n-   ***Fasten** your seatbelt.*\n-   ***Stop** talking!*\n-   ***Run**!*\n\n#### Offer something or invite someone to something\n\n-   ***Have** some cookies.*\n-   ***Come** and **sit** with us.*\n\n#### Give advice\n\n-   ***Get** some sleep.*\n-   ***Tell** her how you feel.*\n-   ***Go** and **have** fun.*\n\n#### Give warnings\n\n-   ***Don’t touch** that cable.*\n-   *Please, **Stop** the car!*\n\n### Let’s\n\n#### Make suggestions\n\nYou can use the form **let’s** \\+ verb or **let’s not** \\+ verb to make suggestions.  \n  \n**(+)** *It’s very hot today. **Let’s go** to the swimming pool.*  \n**(-)** ***Let’s not go out** today. I’m very tired.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Imperative_form-use.jpg",
+        "local_filename": "img-1.jpg",
+        "public_path": "/uploads/grammar/a1/imperative-sit-dont-talk/img-1.jpg",
+        "alt": "Visual chart outlining the imperative form in English with examples of positive and negative commands and uses for offers, advice, instructions, orders, and warnings."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "The imperative: Sit down! Don’t talk!",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Please, {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "sit down",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5059"
+        },
+        {
+          "index": 1,
+          "template": "{0} in this area.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5060"
+        },
+        {
+          "index": 2,
+          "template": "{0} your mobile phone.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "turn off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5061"
+        },
+        {
+          "index": 3,
+          "template": "{0} right.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5062"
+        },
+        {
+          "index": 4,
+          "template": "Please, {0} in this area.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5063"
+        },
+        {
+          "index": 5,
+          "template": "{0} your name here.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "write",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5064"
+        },
+        {
+          "index": 6,
+          "template": "{0} careful. The floor is wet.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5065"
+        },
+        {
+          "index": 7,
+          "template": "{0} your hands.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wash",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5066"
+        },
+        {
+          "index": 8,
+          "template": "{0} slowly.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "drive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5067"
+        },
+        {
+          "index": 9,
+          "template": "{0} this water.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5068"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "The imperative: Sit down! Don’t talk!",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_____ to the cinema. There is a good film today.",
+          "options": [
+            "You go",
+            "Don't go",
+            "Let's go"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ candy. It's bad for your teeth.",
+          "options": [
+            "You don't eat",
+            "Let's eat",
+            "Don't eat"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "_____ to the party. I'm very tired and I want to go to bed.",
+          "options": [
+            "Let's don't go",
+            "You don't go",
+            "Let's not go"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_____ here, please.",
+          "options": [
+            "Come",
+            "You come",
+            "Let's come"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____ this book. It's horrible.",
+          "options": [
+            "Let's read",
+            "Don't read",
+            "You don't read"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_____ the window, please. It's very cold outside.",
+          "options": [
+            "You don't open",
+            "Open",
+            "Don't open"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "_____ the light, please. It's very dark.",
+          "options": [
+            "Let's turn on",
+            "Don't turn",
+            "Turn on"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ sad for me. I'm OK.",
+          "options": [
+            "Aren't",
+            "Don't be",
+            "You not be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The fridge is empty. _____ to a restaurant today.",
+          "options": [
+            "Let's go",
+            "You go",
+            "Don't go"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "A: '_____ a piece of cake.' B: 'Thanks.'",
+          "options": [
+            "Let's have",
+            "Have",
+            "Don't have"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "The imperative: Sit down! Don’t talk!",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A: 'I'll turn off the TV.' B: 'No, {0} the TV, please.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't turn off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5079"
+        },
+        {
+          "index": 1,
+          "template": "A: 'I'll call you this evening.' B: 'Yes, {0} me this evening, please.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5080"
+        },
+        {
+          "index": 2,
+          "template": "A: 'Do you want to listen to music.' B: 'Yes, {0} to music.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "let's listen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5081"
+        },
+        {
+          "index": 3,
+          "template": "A: 'Let's go to the cinema.' B: 'No, {0} to the cinema. Let's stay home and watch TV.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "let's not go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5082"
+        },
+        {
+          "index": 4,
+          "template": "A: 'I will wake you up at 7.' B: 'No, {0} me up at 7. It's too early.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't wake",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5083"
+        },
+        {
+          "index": 5,
+          "template": "A: 'I will clean the fridge.' B: 'Yes, {0} the fridge, please. It's very dirty.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "clean",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5084"
+        },
+        {
+          "index": 6,
+          "template": "A: 'I will open a bottle of wine.' B: 'No, {0} a bottle of wine, please. I prefer beer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't open",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5085"
+        },
+        {
+          "index": 7,
+          "template": "A: 'Would you like to have a picnic in the park?' B: 'Yes, {0} a picnic in the park. What a great idea!'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "let's have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5086"
+        },
+        {
+          "index": 8,
+          "template": "A: 'I will order some pizza.' B:'Yes, {0} some pizza, please. I am too tired to cook.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "order",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5087"
+        },
+        {
+          "index": 9,
+          "template": "A: 'Do you want to talk about work?' B: 'No, {0} about work. Let's talk about something different.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "let's not talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5088"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "The imperative: Sit down! Don’t talk!",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Please, {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "sit down",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5059"
+        },
+        {
+          "index": 1,
+          "template": "{0} in this area.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5060"
+        },
+        {
+          "index": 2,
+          "template": "{0} your mobile phone.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "turn off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5061"
+        },
+        {
+          "index": 3,
+          "template": "{0} right.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5062"
+        },
+        {
+          "index": 4,
+          "template": "Please, {0} in this area.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5063"
+        },
+        {
+          "index": 5,
+          "template": "{0} your name here.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "write",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5064"
+        },
+        {
+          "index": 6,
+          "template": "{0} careful. The floor is wet.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5065"
+        },
+        {
+          "index": 7,
+          "template": "{0} your hands.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wash",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5066"
+        },
+        {
+          "index": 8,
+          "template": "{0} slowly.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "drive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5067"
+        },
+        {
+          "index": 9,
+          "template": "{0} this water.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5068"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,667 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "verbs-with-two-objects",
+  "order_index": 32,
+  "title": "Verbs with two objects",
+  "source_url": "https://test-english.com/grammar-points/a2/verbs-with-two-objects/",
+  "scraped_at": "2026-05-23T07:18:51.776Z",
+  "explanation": {
+    "markdown": "## Verbs with two objects: Grammar chart\n\n![Verbs with two objects - double object verbs](/uploads/grammar/a2/verbs-with-two-objects/img-1.png)\n\n## Direct and indirect objects\n\nThe direct object typically answers the question of ‘what’ or ‘who’.\n\n-   *I bought **a nice sweater**.* \n-   ***What** did you buy?*\n-   *I saw **Peter and Sarah**.*\n-   ***Who** did you see?*\n\nThe indirect object typically answers the question ‘to whom’ or ‘for whom’.\n\n-   *I sent **my friends** a picture of the house.* \n-   ***Who** did you send a picture **to**?*\n-   *I cooked my wife breakfast.*\n-   ***Who** did you cook breakfast **for**?*\n\n## Verbs with two objects\n\nThere are some verbs which have two objects: an indirect object and a direct object.  \n  \nSome of these verbs are:\n\n**bring, buy, cook, find, get, give, lend, make, offer, pass, promise, read, sell, send, show, tell,** and **write**.\n\nAfter these verbs, there are two possible structures:\n\n‣ I sent my friends a picture.\n\n‣ I sent a picture to my friends.\n\nIf the indirect object is a [pronoun (me, you, him, her, etc.)](https://test-english.pro/grammar-points/a1/object-pronouns/), we normally use it next to the verb.\n\n‣ I sent them a picture.\n\n#### **To** or **for**?\n\nWhen we use the indirect object next to the verb, we do not use **to** or **for**.\n\n-   *I send **to Alex** a postcard. ![](/uploads/grammar/a2/verbs-with-two-objects/img-2.png)* \n-   *I send **Alex** a postcard.* ![](/uploads/grammar/a2/verbs-with-two-objects/img-3.png)\n\nWe use **to** or **for** in: verb + direct object + **to/for** \\+ indirect object.\n\n-   *I sent a postcard **to** Alex.* \n-   *She bought a present **for** her friend.*\n\nSome verbs are used with **to**, and some other verbs are used with **for** before the indirect object.\n\n#### **To** + indirect object\n\nSome common verbs that are used with **to** \\+ indirect object are **give, lend, offer, pass, promise, read, sell, send, show, tell,** and **write**.\n\n-   *You should give an apology **to** Tom.* \n-   *She showed the letter **to** all her friends.*\n\n#### **For** + indirect object\n\nSome common verbs that are used with **for** \\+ indirect object are **bring, buy, cook, find, get,** and **make**.\n\n-   *Can you bring some food **for** the dog?*\n-   *I’ll cook a nice dinner **for** you.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Verbs-with-two-objects.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/verbs-with-two-objects/img-1.png",
+        "alt": "Verbs with two objects - double object verbs"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/verbs-with-two-objects/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/verbs-with-two-objects/img-3.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Verbs with two objects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I sent {0} a postcard.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for her",
+                "him",
+                "to me"
+              ],
+              "correct": "him",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6170"
+        },
+        {
+          "index": 1,
+          "template": "I wrote a letter {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "him",
+                "for him",
+                "to him"
+              ],
+              "correct": "to him",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6171"
+        },
+        {
+          "index": 2,
+          "template": "Have you brought {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me a cake",
+                "a cake me",
+                "a cake to me"
+              ],
+              "correct": "me a cake",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6172"
+        },
+        {
+          "index": 3,
+          "template": "They offered {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to me a discount",
+                "me a discount",
+                "a discount me"
+              ],
+              "correct": "me a discount",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6173"
+        },
+        {
+          "index": 4,
+          "template": "Pass {0}, please.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to our guest the biscuits",
+                "our guest the biscuits",
+                "the biscuits our guest"
+              ],
+              "correct": "our guest the biscuits",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6174"
+        },
+        {
+          "index": 5,
+          "template": "She made {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to her sister a bracelet",
+                "a bracelet for her sister",
+                "a bracelet to her sister"
+              ],
+              "correct": "a bracelet for her sister",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6175"
+        },
+        {
+          "index": 6,
+          "template": "She taught {0} a lesson.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to me",
+                "me",
+                "for me"
+              ],
+              "correct": "me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6176"
+        },
+        {
+          "index": 7,
+          "template": "I cooked {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "some pasta to the children",
+                "some pasta for the children",
+                "for the children some pasta"
+              ],
+              "correct": "some pasta for the children",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6177"
+        },
+        {
+          "index": 8,
+          "template": "I never lend {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "money anyone",
+                "to anyone money",
+                "anyone money"
+              ],
+              "correct": "anyone money",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6178"
+        },
+        {
+          "index": 9,
+          "template": "If you have any questions, give {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me a call",
+                "to me a call",
+                "a call me"
+              ],
+              "correct": "me a call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6179"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Verbs with two objects",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He showed _____.",
+          "options": [
+            "the police a video of the robbers.",
+            "to the police a video of the robbers.",
+            "a video of the robbers for the police"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "They promised _____.",
+          "options": [
+            "to their daughter a new car",
+            "a new car their daughter",
+            "their daughter a new car"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We should get ______ for her birthday.",
+          "options": [
+            "her a present",
+            "a present her",
+            "for her a present"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "They found _____.",
+          "options": [
+            "a place to stay me",
+            "me a place to stay",
+            "to me a place to stay"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "She gave ______.",
+          "options": [
+            "to the waiter a generous tip",
+            "the waiter a generous tip",
+            "a generous tip the waiter"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "You should tell _____.",
+          "options": [
+            "to the police the truth",
+            "the police the truth",
+            "the truth for the police"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "He reads _____ every night.",
+          "options": [
+            "them a story",
+            "to them a story",
+            "a story them"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "She brought _____.",
+          "options": [
+            "a cake me",
+            "for me a cake",
+            "a cake for me"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "He has offered _____.",
+          "options": [
+            "to his brother a job",
+            "a job his brother",
+            "a job to his brother"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Send _____.",
+          "options": [
+            "a copy them",
+            "to them a copy",
+            "them a copy"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Verbs with two objects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She wrote her father a long email. ⇒ She wrote {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "him a long email.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6197"
+        },
+        {
+          "index": 1,
+          "template": "Did you buy the children a present? ⇒ Did you buy {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "them a present?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6193"
+        },
+        {
+          "index": 2,
+          "template": "He gave the clerk his card. ⇒ He gave {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "him his card.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6190"
+        },
+        {
+          "index": 3,
+          "template": "I offered the police officer a drink. ⇒ I offered {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "him a drink.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6191"
+        },
+        {
+          "index": 4,
+          "template": "I made my wife a cake. ⇒ I made {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "her a cake.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6192"
+        },
+        {
+          "index": 5,
+          "template": "He sold his neighbour his apartment. ⇒ He sold {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "him his apartment.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6195"
+        },
+        {
+          "index": 6,
+          "template": "He lent me some money. ⇒ He lent {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "me some money.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6196"
+        },
+        {
+          "index": 7,
+          "template": "She sent her sister a letter. ⇒ She sent {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "her a letter.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6194"
+        },
+        {
+          "index": 8,
+          "template": "She read the audience a message. ⇒ She read {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "them a message.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6198"
+        },
+        {
+          "index": 9,
+          "template": "He showed the doctor his arm. ⇒ He showed {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "him his arm.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6199"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Verbs with two objects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I sent {0} a postcard.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for her",
+                "him",
+                "to me"
+              ],
+              "correct": "him",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6170"
+        },
+        {
+          "index": 1,
+          "template": "I wrote a letter {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "him",
+                "for him",
+                "to him"
+              ],
+              "correct": "to him",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6171"
+        },
+        {
+          "index": 2,
+          "template": "Have you brought {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me a cake",
+                "a cake me",
+                "a cake to me"
+              ],
+              "correct": "me a cake",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6172"
+        },
+        {
+          "index": 3,
+          "template": "They offered {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to me a discount",
+                "me a discount",
+                "a discount me"
+              ],
+              "correct": "me a discount",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6173"
+        },
+        {
+          "index": 4,
+          "template": "Pass {0}, please.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to our guest the biscuits",
+                "our guest the biscuits",
+                "the biscuits our guest"
+              ],
+              "correct": "our guest the biscuits",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6174"
+        },
+        {
+          "index": 5,
+          "template": "She made {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to her sister a bracelet",
+                "a bracelet for her sister",
+                "a bracelet to her sister"
+              ],
+              "correct": "a bracelet for her sister",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6175"
+        },
+        {
+          "index": 6,
+          "template": "She taught {0} a lesson.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to me",
+                "me",
+                "for me"
+              ],
+              "correct": "me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6176"
+        },
+        {
+          "index": 7,
+          "template": "I cooked {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "some pasta to the children",
+                "some pasta for the children",
+                "for the children some pasta"
+              ],
+              "correct": "some pasta for the children",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6177"
+        },
+        {
+          "index": 8,
+          "template": "I never lend {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "money anyone",
+                "to anyone money",
+                "anyone money"
+              ],
+              "correct": "anyone money",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6178"
+        },
+        {
+          "index": 9,
+          "template": "If you have any questions, give {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me a call",
+                "to me a call",
+                "a call me"
+              ],
+              "correct": "me a call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6179"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

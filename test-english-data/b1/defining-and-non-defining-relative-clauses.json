@@ -1,0 +1,672 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "defining-and-non-defining-relative-clauses",
+  "order_index": 29,
+  "title": "Defining and non-defining relative clauses",
+  "source_url": "https://test-english.com/grammar-points/b1/defining-and-non-defining-relative-clauses/",
+  "scraped_at": "2026-05-23T07:23:35.870Z",
+  "explanation": {
+    "markdown": "## Defining vs non-defining: Grammar chart\n\n![Defining and non-defining relative clauses](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-1.png)\n\n## Defining relative clauses\n\nDefining relative clauses carry **essential information** because they **identify which** thing or person we are talking about, and they are used **without commas**.\n\n-   *This is the music **which was used at the show**.* \n-   *Have they found the prisoner **who escaped last week**?*\n\n#### We can use **that**\n\nIn defining relative clauses, we can use **that** instead of **which** or **who**.\n\n-   *This is the music **that** was used at the show.* \n-   *Have they found the prisoner **that** escaped last week?*\n\n#### When can we omit **who/which/that**?\n\n**Who/which/that** can be **omitted** if they are followed by **subject + verb**\n\n-   *Can you pass me the box **(which/that)** I keep in the top drawer?*\n-   *You are not the man **(who/that)** I thought you were.* \n\n## Non-defining relative clauses\n\nNon-defining relative clauses are used **between commas**, and they add **extra information**, which is **not necessary** to know who or what we are talking about.\n\n-   *This music, **which I really like**, was used at the show.*\n-   *My sister, **who I truly admire**, is coming for Thanksgiving.* \n\n#### We cannot use **that**, and we cannot omit **who/which**\n\nIn non-defining relative clauses (between commas), we cannot use **that**, and we cannot omit **who/which**.\n\n-   *This music, **that I really like**, was used at the show.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-2.png)\n-   *This music, **which I** **really** **like**, was used at the show.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-3.png)\n-   *My sister, **I truly admire**, is coming for Thanksgiving.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-4.png)\n-   *My sister, **whom I truly admire**, is coming for Thanksgiving.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-5.png)\n\n## Defining vs non-defining relative clauses\n\nIn a defining relative clause, the information is essential to identify who or what we are talking about, whereas in non-defining relative clauses, we just add extra information, which is not necessary. Compare:\n\n-   *My brother **who lives in Cardiff** is much older than me.* (=I have more than one brother, and the relative clause helps identify which brother I am talking about)\n-   *My brother, **who lives in Cardiff**, is much older than me.* (=I have only one brother, so we don’t need the relative clause to know who I am talking about)\n\n## Relative pronouns and adverbs\n\nHere, you can see a grammar chart with the relative pronouns and adverbs that we normally use in relative clauses.  \n  \n![Relative clauses - Relative pronouns and relative adverbs](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-6.png)\n\n## Common mistakes\n\n#### Two subjects\n\nWhen **who**, **which**, or **that** is the subject of a relative clause, we don’t use another pronoun or noun after it because we can only have one subject (**who**, **which**, or **that**). We can never have [two subjects in a sentence](https://test-english.com/grammar-points/shorts/how-to-avoid-double-subjects-in-english-grammar-shorts/).\n\n-   *I saw a man **who he was** very tall.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-7.png)\n-   *I saw a man **who was** very tall.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-8.png)\n-   *That is the painting **that it was** stolen from the gallery.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-9.png)\n-   *That is the painting **that was** stolen from the gallery.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-10.png)\n\n#### **That** between commas\n\nWe cannot use the relative pronoun **that** in a non-defining relative clause (between commas)\n\n-   *The victim, **that** suffered a concussion, said he didn’t remember the accident.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-11.png)\n-   *The victim, **who** suffered a concussion, said he didn’t remember the accident.* ![](/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-12.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Defining_non-defining-relative-clauses-new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-1.png",
+        "alt": "Defining and non-defining relative clauses"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/relative.pronouns-relative-adverbs_new.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-6.png",
+        "alt": "Relative clauses - Relative pronouns and relative adverbs"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-9.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-10.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-10.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-11.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-11.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-12.png",
+        "public_path": "/uploads/grammar/b1/defining-and-non-defining-relative-clauses/img-12.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Defining and non-defining relative clauses",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "This is the place ______ I saw him the last time.",
+          "options": [
+            "where",
+            "which",
+            "that"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "That's the man ______ daughter has won the lottery.",
+          "options": [
+            "which",
+            "who",
+            "whose"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Do you know the musician ______ is playing the guitar. Choose TWO correct options",
+          "options": [
+            "who",
+            "-",
+            "that"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The painting, ______ was finished in 1850, is one of the most representative works of that time.",
+          "options": [
+            "which",
+            "-",
+            "that"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "This is the person ______ I introduced you to a few weeks ago. Choose TWO correct options",
+          "options": [
+            "which",
+            "that",
+            "-"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I can't find the shop ______ I bought my computer two years ago.",
+          "options": [
+            "where",
+            "that",
+            "which"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "What's the book ______ we must read this term?",
+          "options": [
+            "where",
+            "who",
+            "–"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "This is the girl ______ parents are getting divorced.",
+          "options": [
+            "who",
+            "whose",
+            "whom"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The final decision, ______ not everybody is going to like, will be announced at the next meeting.",
+          "options": [
+            "which",
+            "that",
+            "–"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "This phone is much better than the first phone ______ you showed me. Choose TWO correct options",
+          "options": [
+            "whose",
+            "that",
+            "–"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Defining and non-defining relative clauses",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "My sister, {0} is now living in New York, has just had a baby.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "who",
+                "–",
+                "that"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2127"
+        },
+        {
+          "index": 1,
+          "template": "Can you give me the number of the plumber {0} repaired your shower?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "–",
+                "which",
+                "that"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2128"
+        },
+        {
+          "index": 2,
+          "template": "I'd like to eat at the restaurant {0} we met.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "where",
+                "–",
+                "that"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2129"
+        },
+        {
+          "index": 3,
+          "template": "Thanks for the wine {0} you brought us.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "what",
+                "–",
+                "whose"
+              ],
+              "correct": "–",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2130"
+        },
+        {
+          "index": 4,
+          "template": "The car, {0} cost more than 20,000 dollars, was a present from his family.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "–",
+                "which"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2131"
+        },
+        {
+          "index": 5,
+          "template": "The company, {0} workers are now being forced to stay home, will probably go bankrupt.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "whose",
+                "that",
+                "which"
+              ],
+              "correct": "whose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2132"
+        },
+        {
+          "index": 6,
+          "template": "This is the bar {0} I work.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "where",
+                "–",
+                "that"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2133"
+        },
+        {
+          "index": 7,
+          "template": "I'll always remember the day {0} we met.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "when",
+                "where",
+                "which"
+              ],
+              "correct": "when",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2134"
+        },
+        {
+          "index": 8,
+          "template": "Joe was carrying a gun, {0} was fortunate, because it saved our lives.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "which",
+                "–"
+              ],
+              "correct": "which",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2135"
+        },
+        {
+          "index": 9,
+          "template": "You should write a thank you email to the lady {0} assisted you the night of the accident.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "who",
+                "–",
+                "whose"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2136"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Defining and non-defining relative clauses",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Sony is building a robot {0} can form an 'emotional connection' with humans.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2137"
+        },
+        {
+          "index": 1,
+          "template": "Apple co-founder Steve Jobs, {0} died in October at the age of 56, had a rare form of pancreatic cancer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2138"
+        },
+        {
+          "index": 2,
+          "template": "Can you give me back the book {0} I lent you last year?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2139"
+        },
+        {
+          "index": 3,
+          "template": "Is that the man {0} house was destroyed by the hurricane?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "whose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2140"
+        },
+        {
+          "index": 4,
+          "template": "Do you remember the summer {0} Jack came home by surprise?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "when",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2141"
+        },
+        {
+          "index": 5,
+          "template": "A love affair quickly developed between Gala and Dalí, {0} was about 10 years younger than her.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2143"
+        },
+        {
+          "index": 6,
+          "template": "Why don't we book a room at the hotel {0} we stayed last year?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2142"
+        },
+        {
+          "index": 7,
+          "template": "Is that the boy {0} insulted you?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2144"
+        },
+        {
+          "index": 8,
+          "template": "William Colgate, {0} name is on toothpaste tubes all around the world, left home because the family was very poor.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "whose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2145"
+        },
+        {
+          "index": 9,
+          "template": "He took us into his house and gave us food, {0} was really nice of him.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "which",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2146"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Defining and non-defining relative clauses",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "This is the place ______ I saw him the last time.",
+          "options": [
+            "where",
+            "which",
+            "that"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "That's the man ______ daughter has won the lottery.",
+          "options": [
+            "which",
+            "who",
+            "whose"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Do you know the musician ______ is playing the guitar. Choose TWO correct options",
+          "options": [
+            "who",
+            "-",
+            "that"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The painting, ______ was finished in 1850, is one of the most representative works of that time.",
+          "options": [
+            "which",
+            "-",
+            "that"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "This is the person ______ I introduced you to a few weeks ago. Choose TWO correct options",
+          "options": [
+            "which",
+            "that",
+            "-"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I can't find the shop ______ I bought my computer two years ago.",
+          "options": [
+            "where",
+            "that",
+            "which"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "What's the book ______ we must read this term?",
+          "options": [
+            "where",
+            "who",
+            "–"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "This is the girl ______ parents are getting divorced.",
+          "options": [
+            "who",
+            "whose",
+            "whom"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The final decision, ______ not everybody is going to like, will be announced at the next meeting.",
+          "options": [
+            "which",
+            "that",
+            "–"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "This phone is much better than the first phone ______ you showed me. Choose TWO correct options",
+          "options": [
+            "whose",
+            "that",
+            "–"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

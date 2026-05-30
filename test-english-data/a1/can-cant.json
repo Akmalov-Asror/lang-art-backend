@@ -1,0 +1,736 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "can-cant",
+  "order_index": 12,
+  "title": "Can, can’t: Ability, possibility, permission",
+  "source_url": "https://test-english.com/grammar-points/a1/can-cant/",
+  "scraped_at": "2026-05-23T07:02:42.844Z",
+  "explanation": {
+    "markdown": "## Can, can’t: Grammar chart\n\n![Grammar chart displaying the form and use of modal verbs 'can' and 'can't' for expressing ability, permission, and possibility, with correct and incorrect example sentences.](/uploads/grammar/a1/can-cant/img-1.jpg)\n\n## Can, can’t: Form\n\n#### Infinitive without **to**\n\nWe use **can** + **[infinitive](https://test-english.com/grammar-points/a1/verbs-infinitive-verbs-ing/)** without **to**.\n\n-   *I **can swim**. ![](/uploads/grammar/a1/can-cant/img-2.png)* \n-   *I **can to swim**. ![](/uploads/grammar/a1/can-cant/img-3.png)* \n-   *We **can’t come**.* *![](/uploads/grammar/a1/can-cant/img-4.png)*\n-   *We **can’t to come**.* *![](/uploads/grammar/a1/can-cant/img-5.png)*\n\n#### Don’t use **\\-s** after **he/she/it**\n\nWe don’t add **\\-s** after **he/she/it**. We use **can** for all persons.\n\n-   *He **can** swim. ![](/uploads/grammar/a1/can-cant/img-6.png)* \n-   *He **cans** swim. ![](/uploads/grammar/a1/can-cant/img-7.png)* \n\n#### Don’t use **do/don’t**\n\n**Can** is an auxiliary verb and has a negative and interrogative form. We don’t use **do/don’t** to make questions and negatives.\n\n-   ***Can** you swim? ![](/uploads/grammar/a1/can-cant/img-8.png)* \n-   ***Do** you **can** swim? ![](/uploads/grammar/a1/can-cant/img-9.png)* \n-   *He **can’t** swim. ![](/uploads/grammar/a1/can-cant/img-10.png)* \n-   *He **don’t can** swim. ![](/uploads/grammar/a1/can-cant/img-11.png)* \n\n## Can, can’t: Use\n\n#### Ability\n\nWe use **can/can’t** to talk about **ability** in the present (=things that we know how to do).\n\n-   *Laura **can sing** very well.* \n-   *I **can’t speak** German.* \n\n#### Possibility\n\nWe use **can/can’t** to ask for **permission** or to say if something is **possible** or not.\n\n-   ***Can** I sit here?*\n-   *You **can’t vote** if you aren’t 18 years old.* \n-   *I’m sorry, but I **can’t come** to the party.* \n\n#### Ask for something\n\nWe use **can/can’t** to **ask for something** and to **order** in bars, restaurants, shops, etc.\n\n-   ***Can you lend** me some money?*\n-   ***Can I have** some water, please?*\n-   ***Can I have** a burger and a soda?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/can-cannot_form-use.jpg",
+        "local_filename": "img-1.jpg",
+        "public_path": "/uploads/grammar/a1/can-cant/img-1.jpg",
+        "alt": "Grammar chart displaying the form and use of modal verbs 'can' and 'can't' for expressing ability, permission, and possibility, with correct and incorrect example sentences."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-9.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-10.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-10.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-11.png",
+        "public_path": "/uploads/grammar/a1/can-cant/img-11.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Can, can’t: Ability, possibility, permission",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} ask you a question?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I can",
+                "Can I",
+                "Do I can"
+              ],
+              "correct": "Can I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3920"
+        },
+        {
+          "index": 1,
+          "template": "I {0}. The music is too loud.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "don't can hear",
+                "can't to hear",
+                "can't hear"
+              ],
+              "correct": "can't hear",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3921"
+        },
+        {
+          "index": 2,
+          "template": "'Can you play the piano?' 'Yes, I {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can",
+                "do",
+                "play"
+              ],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3925"
+        },
+        {
+          "index": 3,
+          "template": "He {0} four languages.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can speaks",
+                "cans speak",
+                "can speak"
+              ],
+              "correct": "can speak",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3922"
+        },
+        {
+          "index": 4,
+          "template": "He says that he {0} me.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't help",
+                "can't helps",
+                "can't to help"
+              ],
+              "correct": "can't help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3923"
+        },
+        {
+          "index": 5,
+          "template": "{0} a ham and cheese pizza, please?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Can I to have",
+                "Do I can have",
+                "Can I have"
+              ],
+              "correct": "Can I have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3924"
+        },
+        {
+          "index": 6,
+          "template": "'Can I smoke here?' 'No, you {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't",
+                "aren't",
+                "don't"
+              ],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3926"
+        },
+        {
+          "index": 7,
+          "template": "We {0} use our phones in class.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cannot",
+                "don't can",
+                "can't to"
+              ],
+              "correct": "cannot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3927"
+        },
+        {
+          "index": 8,
+          "template": "He {0} my car if he needs it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cans use",
+                "can use",
+                "can to use"
+              ],
+              "correct": "can use",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3928"
+        },
+        {
+          "index": 9,
+          "template": "{0} the window, please?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Can you open",
+                "Do you can open",
+                "Can you to open"
+              ],
+              "correct": "Can you open",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3929"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Can, can’t: Ability, possibility, permission",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She / dance / very well. ⇒ She {0}. (+)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3930"
+        },
+        {
+          "index": 1,
+          "template": "I / finish / the composition for tomorrow. ⇒ I {0} for tomorrow. (-)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3931"
+        },
+        {
+          "index": 2,
+          "template": "You / park / your car here. ⇒ You {0} here. (-)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3932"
+        },
+        {
+          "index": 3,
+          "template": "Jim / come / to the concert with us. ⇒ Jim {0} with us. (+)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3933"
+        },
+        {
+          "index": 4,
+          "template": "She / meet / you at 7. ⇒ She {0}. (-)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3934"
+        },
+        {
+          "index": 5,
+          "template": "You / use / this app to view documents. ⇒ You {0} to view documents. (+)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3935"
+        },
+        {
+          "index": 6,
+          "template": "We / lose / this match. ⇒ We {0}. (-)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3936"
+        },
+        {
+          "index": 7,
+          "template": "They / understand / my decision. ⇒ They {0}. (-)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3937"
+        },
+        {
+          "index": 8,
+          "template": "She / stay / at my house tonight. ⇒ She {0} tonight. (+)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3938"
+        },
+        {
+          "index": 9,
+          "template": "You / see / the sea from the balcony. ⇒ You {0} from the balcony. (-)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3939"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Can, can’t: Ability, possibility, permission",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Interviewer: {0} (you/drive)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3940"
+        },
+        {
+          "index": 1,
+          "template": "Ann: Yes, I {0}. I have a driving license and a car.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3941"
+        },
+        {
+          "index": 2,
+          "template": "Interviewer: {0} (you/accept) criticism?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3942"
+        },
+        {
+          "index": 3,
+          "template": "Ann: I {0} (not accept) negative criticism, but I {1} (accept) constructive criticism.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3943"
+        },
+        {
+          "index": 4,
+          "template": "Interviewer: {0} (you/use) the Microsoft Office Suite?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3944"
+        },
+        {
+          "index": 5,
+          "template": "Ann: Yes, I {0}. I have a lot of experience using Word, Excel, and PowerPoint.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3945"
+        },
+        {
+          "index": 6,
+          "template": "Interviewer: {0} (speak) German or French?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3946"
+        },
+        {
+          "index": 7,
+          "template": "Ann: I {0} (speak) German very well, but I {1} (not speak) French very fluently.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3947"
+        },
+        {
+          "index": 8,
+          "template": "Interviewer: When {0} (you/start)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3948"
+        },
+        {
+          "index": 9,
+          "template": "Ann: I {0} (be) here tomorrow morning if you want.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3949"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Can, can’t: Ability, possibility, permission",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} ask you a question?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I can",
+                "Can I",
+                "Do I can"
+              ],
+              "correct": "Can I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3920"
+        },
+        {
+          "index": 1,
+          "template": "I {0}. The music is too loud.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "don't can hear",
+                "can't to hear",
+                "can't hear"
+              ],
+              "correct": "can't hear",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3921"
+        },
+        {
+          "index": 2,
+          "template": "'Can you play the piano?' 'Yes, I {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can",
+                "do",
+                "play"
+              ],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3925"
+        },
+        {
+          "index": 3,
+          "template": "He {0} four languages.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can speaks",
+                "cans speak",
+                "can speak"
+              ],
+              "correct": "can speak",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3922"
+        },
+        {
+          "index": 4,
+          "template": "He says that he {0} me.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't help",
+                "can't helps",
+                "can't to help"
+              ],
+              "correct": "can't help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3923"
+        },
+        {
+          "index": 5,
+          "template": "{0} a ham and cheese pizza, please?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Can I to have",
+                "Do I can have",
+                "Can I have"
+              ],
+              "correct": "Can I have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3924"
+        },
+        {
+          "index": 6,
+          "template": "'Can I smoke here?' 'No, you {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't",
+                "aren't",
+                "don't"
+              ],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3926"
+        },
+        {
+          "index": 7,
+          "template": "We {0} use our phones in class.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cannot",
+                "don't can",
+                "can't to"
+              ],
+              "correct": "cannot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3927"
+        },
+        {
+          "index": 8,
+          "template": "He {0} my car if he needs it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cans use",
+                "can use",
+                "can to use"
+              ],
+              "correct": "can use",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3928"
+        },
+        {
+          "index": 9,
+          "template": "{0} the window, please?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Can you open",
+                "Do you can open",
+                "Can you to open"
+              ],
+              "correct": "Can you open",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3929"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

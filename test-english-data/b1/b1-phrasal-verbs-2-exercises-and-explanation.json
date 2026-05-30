@@ -1,0 +1,697 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "b1-phrasal-verbs-2-exercises-and-explanation",
+  "order_index": 38,
+  "title": "B1 Phrasal verbs 2: Exercises and explanation",
+  "source_url": "https://test-english.com/grammar-points/b1/b1-phrasal-verbs-2-exercises-and-explanation/",
+  "scraped_at": "2026-05-23T07:24:34.318Z",
+  "explanation": {
+    "markdown": "## B1 Phrasal verbs 31-60\n\nThis is the second of our three B1 grammar lessons, where you will learn the most common intermediate phrasal verbs. All the verbs in these three lessons come from the [vocabulary list](https://www.cambridgeenglish.org/images/506887-b1-preliminary-2020-vocabulary-list.pdf) used for the Cambridge Preliminary English Test (PET). In each of these three lessons, you will find 30 phrasal verbs, making up a total of 90 (out of the 94 that you can see in the Cambridge Preliminary vocabulary list).\n\n### B1 Phrasal verbs 31-40\n\n![B1 Phrasal Verbs 31-40](/uploads/grammar/b1/b1-phrasal-verbs-2-exercises-and-explanation/img-1.png)\n\n-   GIVE UP: If you **give up** something, you stop doing it or taking it: “I’m going to give up smoking.”\n-   GIVE WAY: If you **give way** to a vehicle, you allow it to go past before you move.\n-   GO FOR: If you **go for** something, you try to have or achieve something.\n-   GO OFF: If a light or a machine **goes off**, it stops working. Also, if an alarm **goes off**, it starts to make a loud noise, and if a bomb **goes off**, it explodes.\n-   GO ON: If something **goes on**, it continues to happen or exist. Also, if something **is going on**, it is happening: “I don’t know what is going on.”\n-   GO OUT: If you **go out**, you leave your home to do something fun, such as going to a bar, a party, etc. Also, if you **go out with** someone, you have a romantic or sexual relationship.\n-   GO WITH: If one thing **goes with** another, they look or taste good together: “This wine goes well with this cheese.”\n-   GO TOGETHER: If two things **go together**, they look good together.\n-   GROW UP: When someone **grows up**, they change from being a child into being an adult.\n-   HAND IN: If you **hand in** an exam, homework, a document, or something that you have found, you give it to a teacher, police officer, or another person in authority.\n\n### B1 Phrasal verbs 41-50\n\n![B1 Phrasal Verbs 41-50](/uploads/grammar/b1/b1-phrasal-verbs-2-exercises-and-explanation/img-2.png)\n\n-   HAND OUT: If you **hand** things **out** to a group of people, you give one or more to each person in a group.\n-   HANG OUT: If you **hang out** in a place or you **hang out** with someone, you spend a lot of time in that place or with those people.\n-   HANG UP: If you **hang up** or you **hang up** the phone, you end a phone call.\n-   HOLD UP: To **hold up** someone or something means to delay them or make them late.\n-   KEEP IN: If you **keep** someone **in** (a place), you make them stay in that place.\n-   KEEP ON: If you **keep on** doing something, you continue doing it.\n-   KEEP UP: If you **keep up** something good, you continue to do it well or maintain good results.\n-   KNOCK DOWN: If a person **is knocked down** by a vehicle or a driver, they are hit by this vehicle and fall to the ground and are often injured or killed. Also, to **knock** someone **down** means to hit a person so that this person falls down.\n-   LIE DOWN: When you **lie down**, you move into a horizontal position, usually in order to rest or sleep.\n-   LOOK AFTER: If you **look after** someone or something, you take care of them and try to keep them healthy or in good condition.\n\n### B1 Phrasal verbs 51-60\n\n![B1 Phrasal Verbs 41-50](/uploads/grammar/b1/b1-phrasal-verbs-2-exercises-and-explanation/img-3.png)\n\n-   LOOK FOR: If you **look for** something, you try to get something that you want or need.\n-   LOOK FORWARD TO: If you **look forward to** something that is going to happen, you want it to happen and feel excited about it.\n-   LOOK OUT: If you say or shout “**Look out!**” to someone, you are warning them that they are in danger.\n-   LOOK UP: If you **look up** a particular piece of information, you try to find it by looking in a book, on a list, or using a computer.\n-   PASS ON: If you **pass** something **on** (to someone), you give something to someone, especially something that someone else has given you.\n-   PICK UP: When you **pick up** someone or something that is waiting, you go to the place where they are and take them somewhere, usually in your car.\n-   PUT AWAY: If you **put** something **away**, you put it into the place or container where it is normally kept.\n-   PUT DOWN: If you **put** something **down**, especially your name, on a list or piece of paper, you write it down.\n-   PUT OFF: If you **put off** something or doing something, you arrange to do it at a later time.\n-   PUT ON: If you **put on** weight, you become fatter. Also, if you **put on** clothes, glasses or make-up, you place them on your body to wear them.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs_31-40.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-2-exercises-and-explanation/img-1.png",
+        "alt": "B1 Phrasal Verbs 31-40"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs_41-50.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-2-exercises-and-explanation/img-2.png",
+        "alt": "B1 Phrasal Verbs 41-50"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs-51-60.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-2-exercises-and-explanation/img-3.png",
+        "alt": "B1 Phrasal Verbs 41-50"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 2)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You must {0} to the cars that are coming from the right.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hand in",
+                "grow up",
+                "give way",
+                "go on"
+              ],
+              "correct": "give way",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6801"
+        },
+        {
+          "index": 1,
+          "template": "The lights {0} in most buildings because of the earthquake.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "gave up",
+                "went on",
+                "gave way",
+                "went off"
+              ],
+              "correct": "went off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6803"
+        },
+        {
+          "index": 2,
+          "template": "He is going {0} the gold medal in the Olympic Games this summer.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "out",
+                "for",
+                "on",
+                "with"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6802"
+        },
+        {
+          "index": 3,
+          "template": "I have to {0} this essay by Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go with",
+                "go for",
+                "hand in",
+                "give up"
+              ],
+              "correct": "hand in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6809"
+        },
+        {
+          "index": 4,
+          "template": "The war {0} for over two years.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "grew up",
+                "gave up",
+                "went on",
+                "gave way"
+              ],
+              "correct": "went on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6804"
+        },
+        {
+          "index": 5,
+          "template": "After the accident he couldn't walk, so he had to {0} golf.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go off",
+                "give way",
+                "give up",
+                "go for"
+              ],
+              "correct": "give up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6800"
+        },
+        {
+          "index": 6,
+          "template": "Would you like to go {0} for a drink tonight?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "out",
+                "on",
+                "with",
+                "off"
+              ],
+              "correct": "out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6805"
+        },
+        {
+          "index": 7,
+          "template": "She had a child when she was very young and had to {0} very fast.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go together",
+                "grow up",
+                "give up",
+                "go off"
+              ],
+              "correct": "grow up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6808"
+        },
+        {
+          "index": 8,
+          "template": "These shoes and this dress don't {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hand in",
+                "go together",
+                "go on",
+                "grow up"
+              ],
+              "correct": "go together",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6807"
+        },
+        {
+          "index": 9,
+          "template": "These shoes don't {0} this dress.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "give way",
+                "go with",
+                "hand in",
+                "go out"
+              ],
+              "correct": "go with",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6806"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "B1 Phrasal verbs (Part 2)",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He told me to _____ and turn off my phone.",
+          "options": [
+            "hand out",
+            "hang up",
+            "keep on",
+            "hold up"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Volunteers _____ food to the homeless twice a week.",
+          "options": [
+            "hand out",
+            "hold up",
+            "look after",
+            "knock down"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I'm exhausted. I need to _____ for a while.",
+          "options": [
+            "keep up",
+            "hold up",
+            "lie down",
+            "hang up"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We missed our flight because we were _____ in traffic.",
+          "options": [
+            "kept up",
+            "held up",
+            "knocked down",
+            "kept on"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I _____ my brother's dog when he's away.",
+          "options": [
+            "look after",
+            "lie down",
+            "keep in",
+            "hand out"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "He often _____ talking for hours.",
+          "options": [
+            "keeps up",
+            "lies down",
+            "keeps on",
+            "hands out"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "You have done a fantastic job. _____ the good work!",
+          "options": [
+            "keep up",
+            "hold up",
+            "look after",
+            "hang up"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "In summer, I like to _____ with my friends on the beach.",
+          "options": [
+            "hang up",
+            "hold up",
+            "knock down",
+            "hang out"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "He was _____ by a car on his way to work.",
+          "options": [
+            "knocked down",
+            "kept in",
+            "handed out",
+            "hung up"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "She is in hospital now, and they want to ______ for a few days.",
+          "options": [
+            "keep her up",
+            "hang her out",
+            "lie her down",
+            "keep her in"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 2)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Can you look {0} the meaning of this word in the dictionary?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6822"
+        },
+        {
+          "index": 1,
+          "template": "They decided to put {0} the wedding until he recovered from his injury.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6827"
+        },
+        {
+          "index": 2,
+          "template": "Look {0}! A car is coming!",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6829"
+        },
+        {
+          "index": 3,
+          "template": "Please, can you {0} this message to your colleagues?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "forward",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6823"
+        },
+        {
+          "index": 4,
+          "template": "Some parents didn't {0} the children from school.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "pick",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6825"
+        },
+        {
+          "index": 5,
+          "template": "Put your name {0} on the list if you want to ask any questions.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "down",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6826"
+        },
+        {
+          "index": 6,
+          "template": "I'm really looking {0} to seeing you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "forward",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6821"
+        },
+        {
+          "index": 7,
+          "template": "Children should learn to {0} their toys when they finish playing with them.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "tidy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6824"
+        },
+        {
+          "index": 8,
+          "template": "I'm looking {0} my keys. Have you seen them?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6820"
+        },
+        {
+          "index": 9,
+          "template": "When she got pregnant, she {0} a lot of weight.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "gained",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6828"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 2)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You must {0} to the cars that are coming from the right.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hand in",
+                "grow up",
+                "give way",
+                "go on"
+              ],
+              "correct": "give way",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6801"
+        },
+        {
+          "index": 1,
+          "template": "The lights {0} in most buildings because of the earthquake.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "gave up",
+                "went on",
+                "gave way",
+                "went off"
+              ],
+              "correct": "went off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6803"
+        },
+        {
+          "index": 2,
+          "template": "He is going {0} the gold medal in the Olympic Games this summer.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "out",
+                "for",
+                "on",
+                "with"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6802"
+        },
+        {
+          "index": 3,
+          "template": "I have to {0} this essay by Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go with",
+                "go for",
+                "hand in",
+                "give up"
+              ],
+              "correct": "hand in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6809"
+        },
+        {
+          "index": 4,
+          "template": "The war {0} for over two years.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "grew up",
+                "gave up",
+                "went on",
+                "gave way"
+              ],
+              "correct": "went on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6804"
+        },
+        {
+          "index": 5,
+          "template": "After the accident he couldn't walk, so he had to {0} golf.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go off",
+                "give way",
+                "give up",
+                "go for"
+              ],
+              "correct": "give up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6800"
+        },
+        {
+          "index": 6,
+          "template": "Would you like to go {0} for a drink tonight?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "out",
+                "on",
+                "with",
+                "off"
+              ],
+              "correct": "out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6805"
+        },
+        {
+          "index": 7,
+          "template": "She had a child when she was very young and had to {0} very fast.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go together",
+                "grow up",
+                "give up",
+                "go off"
+              ],
+              "correct": "grow up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6808"
+        },
+        {
+          "index": 8,
+          "template": "These shoes and this dress don't {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hand in",
+                "go together",
+                "go on",
+                "grow up"
+              ],
+              "correct": "go together",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6807"
+        },
+        {
+          "index": 9,
+          "template": "These shoes don't {0} this dress.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "give way",
+                "go with",
+                "hand in",
+                "go out"
+              ],
+              "correct": "go with",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6806"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

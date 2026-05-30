@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "much-many-lot-little-few",
+  "order_index": 26,
+  "title": "Much, many, a lot of, a little, a few",
+  "source_url": "https://test-english.com/grammar-points/a1/much-many-lot-little-few/",
+  "scraped_at": "2026-05-23T07:03:28.115Z",
+  "explanation": {
+    "markdown": "## Grammar chart: Much, many, a lot of, a little, a few, no, any, none\n\n![Grammar chart illustrating the use of quantifiers such as 'much', 'many', 'a lot of', 'little', 'few', 'no', 'any', and 'none' with countable and uncountable nouns.](/uploads/grammar/a1/much-many-lot-little-few/img-1.png)\n\n## Much/many\n\n#### **Many** for countable, **much** for uncountable in (?) (-)\n\nWe use **much**/**many** in **negative** sentences and **questions**. We use **many** before **plural** **countable** nouns and **much** before **uncountable** nouns. We don’t normally use them in affirmative sentences.\n\n-   *There isn’t **much coffee** in the jar.*\n-   *Were there **many people** at the party?*\n\n#### How much/how many\n\nWe use **how many** + plural nouns and **how much** + uncountable nouns to ask about quantity.\n\n-   ***How many books** did you read last semester?*\n-   ***How much coffee** do you drink every day?*\n\nWe can also say **How much is it?** to ask about the price of an item.\n\n-   *‘How **much** is it?’ ‘It’s 43 pounds.’*\n-   *‘How **much** are the trousers?’ ‘They’re 58 pounds.’*\n\n## A lot (of)\n\n#### Before both countable and uncountable\n\nWe use **a lot of** before both **plural [countable](https://test-english.com/grammar-points/a1/a-some-any-countable-uncountable/)** [and **uncountable** nouns](https://test-english.com/grammar-points/a1/a-some-any-countable-uncountable/) to talk about a **large quantity**. We normally use **a lot of** in positive sentences.\n\n-   *She spends **a lot of time** watching TV.*\n-   *We had **lots of good** moments together.*\n\nWe can say **quite a lot of** to talk about **medium quantity**.\n\n-   *With my new job, I have **quite a lot of free time**.* \n\nIt is also possible to use **a lot of** in negative sentences and questions.\n\n-   *Do you eat **a lot of sugar**?*\n-   *I don’t read **a lot of books**.*\n\n#### **Of** before noun; ~**of**~ at the end of sentence\n\nWe must always use **a lot of** including **of** before a noun. However, we can use **a lot** (without **of**) at the end of a sentence or in short answers.\n\n-   *‘How many beers did you have?’ ‘I don’t know; I had **a lot**.’*\n-   *I like her **a lot**.*\n-   *‘How much coffee did you have?’ ‘**A lot**.’*\n\n## A few/a little\n\n#### **A few** for countable; **a little** for uncountable\n\nWe use **a few** before **plural countable** nouns and **a little** before **uncountable** nouns in affirmative, negative and interrogative sentences to talk about a **small quantity**.\n\n-   *I have to do **a few things** this afternoon.*\n-   *I always put **a little milk** in my tea.*\n\n#### Not many, not much\n\nWe can also use **not many** + **plural countable** or **not much** + **uncountable** nouns. The meaning is similar.\n\n-   *I **don’t** have to do **many things** this afternoon.*\n-   *I **don’t** put **much milk** in my tea.*\n\n#### No/not…any/none\n\nWhen we want to talk about **zero quantity**, we can use **no** + noun or **not…any** + noun. The meaning is the same.\n\n-   *I have **no time** today.*\n-   *I **don’t** have **any time** today.*\n\nIn short answers, we use **none**.\n\n-   *‘How much time do you have?’ ‘**None**.’*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Quantifiers-much-many-a-lot-few-little.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/much-many-lot-little-few/img-1.png",
+        "alt": "Grammar chart illustrating the use of quantifiers such as 'much', 'many', 'a lot of', 'little', 'few', 'no', 'any', and 'none' with countable and uncountable nouns."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Much, many, a lot of, a little, a few",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If I want to pass the exam, I need to study {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "many",
+                "a lot",
+                "a lot of"
+              ],
+              "correct": "a lot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4163"
+        },
+        {
+          "index": 1,
+          "template": "There aren't {0} things to do in this village.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "many",
+                "much",
+                "a lot"
+              ],
+              "correct": "many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4164"
+        },
+        {
+          "index": 2,
+          "template": "{0} sugar do you take in your tea?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "How much",
+                "How many",
+                "How little"
+              ],
+              "correct": "How much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4165"
+        },
+        {
+          "index": 3,
+          "template": "There was {0} tension at the meeting.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a lot of",
+                "much",
+                "many"
+              ],
+              "correct": "a lot of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4166"
+        },
+        {
+          "index": 4,
+          "template": "Dad, I need {0} money for school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "many",
+                "a few",
+                "a little"
+              ],
+              "correct": "a little",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4167"
+        },
+        {
+          "index": 5,
+          "template": "There are {0} things that you can do to improve your writing.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any",
+                "a little",
+                "a few"
+              ],
+              "correct": "a few",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4168"
+        },
+        {
+          "index": 6,
+          "template": "There is {0} milk in the fridge. We need to buy some.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "none",
+                "no",
+                "any"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4169"
+        },
+        {
+          "index": 7,
+          "template": "He doesn't have {0} hobbies.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any",
+                "no",
+                "none"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4170"
+        },
+        {
+          "index": 8,
+          "template": "'How many computers do you have?' '{0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "No",
+                "None",
+                "Any"
+              ],
+              "correct": "None",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4171"
+        },
+        {
+          "index": 9,
+          "template": "I can help you; I have {0} time today.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "much",
+                "a lot of",
+                "many"
+              ],
+              "correct": "a lot of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4172"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Much, many, a lot of, a little, a few",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "'How much water do you drink?' '_____.'",
+          "options": [
+            "Much",
+            "A lot of",
+            "A lot"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ goals did they score?",
+          "options": [
+            "How many",
+            "How much",
+            "How little"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Nowadays we don't use _____ cash, because we use our credit cards.",
+          "options": [
+            "many",
+            "much",
+            "a lot"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "There's _____ pressure on the players.",
+          "options": [
+            "a lot of",
+            "much",
+            "many"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "They got married _____ months after they met for the first time.",
+          "options": [
+            "much",
+            "a little",
+            "a few"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "'How much milk do you want in your coffee?' 'Only _____.'",
+          "options": [
+            "a little",
+            "a few",
+            "much"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "There were _____ problems during the festival.",
+          "options": [
+            "any",
+            "no",
+            "none"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I don't want _____ gifts.",
+          "options": [
+            "none",
+            "no",
+            "any"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "'How many gifts do you want?' '_____.'",
+          "options": [
+            "None",
+            "Any",
+            "No"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I eat _____ vegetables.",
+          "options": [
+            "much",
+            "a lot of",
+            "many"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Much, many, a lot of, a little, a few",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He has {0} paintings. It's a really big collection.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4183"
+        },
+        {
+          "index": 1,
+          "template": "{0} salt do you put in your food?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "How much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4184"
+        },
+        {
+          "index": 2,
+          "template": "I normally use {0} makeup, but not much, only some lipstick.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a little",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4185"
+        },
+        {
+          "index": 3,
+          "template": "It rained {0} last week; it rained every day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a lot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4189"
+        },
+        {
+          "index": 4,
+          "template": "They only scored one goal. They didn't have {0} opportunities to score; maybe two or three.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4188"
+        },
+        {
+          "index": 5,
+          "template": "Please, I just need 5 minutes of your time. I only have {0} questions.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a few",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4186"
+        },
+        {
+          "index": 6,
+          "template": "We had {0} problems. It was 100% perfect.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "no",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4187"
+        },
+        {
+          "index": 7,
+          "template": "We need to be fast; we haven't got {0} time, only 20 minutes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4190"
+        },
+        {
+          "index": 8,
+          "template": "I didn't see {0} people in the room. It was completely empty.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4191"
+        },
+        {
+          "index": 9,
+          "template": "'How many cups of coffee did you have?' '{0}. I don't drink coffee.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "None",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4192"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Much, many, a lot of, a little, a few",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If I want to pass the exam, I need to study {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "many",
+                "a lot",
+                "a lot of"
+              ],
+              "correct": "a lot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4163"
+        },
+        {
+          "index": 1,
+          "template": "There aren't {0} things to do in this village.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "many",
+                "much",
+                "a lot"
+              ],
+              "correct": "many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4164"
+        },
+        {
+          "index": 2,
+          "template": "{0} sugar do you take in your tea?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "How much",
+                "How many",
+                "How little"
+              ],
+              "correct": "How much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4165"
+        },
+        {
+          "index": 3,
+          "template": "There was {0} tension at the meeting.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a lot of",
+                "much",
+                "many"
+              ],
+              "correct": "a lot of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4166"
+        },
+        {
+          "index": 4,
+          "template": "Dad, I need {0} money for school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "many",
+                "a few",
+                "a little"
+              ],
+              "correct": "a little",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4167"
+        },
+        {
+          "index": 5,
+          "template": "There are {0} things that you can do to improve your writing.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any",
+                "a little",
+                "a few"
+              ],
+              "correct": "a few",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4168"
+        },
+        {
+          "index": 6,
+          "template": "There is {0} milk in the fridge. We need to buy some.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "none",
+                "no",
+                "any"
+              ],
+              "correct": "no",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4169"
+        },
+        {
+          "index": 7,
+          "template": "He doesn't have {0} hobbies.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any",
+                "no",
+                "none"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4170"
+        },
+        {
+          "index": 8,
+          "template": "'How many computers do you have?' '{0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "No",
+                "None",
+                "Any"
+              ],
+              "correct": "None",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4171"
+        },
+        {
+          "index": 9,
+          "template": "I can help you; I have {0} time today.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "much",
+                "a lot of",
+                "many"
+              ],
+              "correct": "a lot of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4172"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

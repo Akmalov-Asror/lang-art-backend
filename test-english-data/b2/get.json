@@ -1,0 +1,824 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "get",
+  "order_index": 6,
+  "title": "Get: Different meanings",
+  "source_url": "https://test-english.com/grammar-points/b2/get/",
+  "scraped_at": "2026-05-23T07:25:48.966Z",
+  "explanation": {
+    "markdown": "## Get: Different meanings\n\n![Chart explaining the different meanings of the verb 'get' with example sentences for a B2 pre-advanced grammar lesson.](/uploads/grammar/b2/get/img-1.webp)\n\n### **Get** + direct object= obtain, receive, bring, buy, bring, catch\n\n#### Obtain\n\n-   *He always **gets** everything he wants.* \n-   *He **got** his driving license last week.* \n\n#### Receive\n\n-   *I **got** a letter from John yesterday.* \n-   *She **gets** lots of presents from her fans.*\n\n#### Buy\n\n-   *We need to **get** a new computer. The old one is broken.* \n-   *Can you go to the shop to **get** some milk?*\n\n#### Bring\n\n-   *Can you **get** me a couple of glasses from the kitchen?*\n-   *Can I **get** you a drink?*\n\n#### Catch\n\n-   *Do you think we’ll have time to **get** the 7.40 train?*\n-   *I need to **get** the first flight to Seattle.* \n\n### **Get** **to** + place = arrive, reach\n\n-   *He always **gets** home very late.* \n-   *We **got** to London on the 8 o’clock train.* \n-   *How long does it take you to **get** to work?*\n\n### **Get** + adjective/past participle= become\n\n#### **Get** + adjective\n\n-   *I’m **getting old**.*\n-   *He **gets angry** very easily.* \n-   *You should go. It’s **getting dark**.* \n\n#### **Get** + past participle\n\n-   *It’s very late and they are not here. I’m **getting worried**.* \n-   *He **gets** very **tired** after every concert.* \n-   *We **got married** last year.* \n\n### **Get= be** (passive verb forms)\n\n-   *I **got caught** by the police after jumping a red light.* (=was caught)\n-   *She almost **got killed** by a drunk driver.* (=was killed)\n-   *His articles are always **getting criticised** by the press.* (=being criticised)\n\n### **Get something done**\\= [have something done](https://test-english.com/grammar-points/b1-b2/have-something-done/)\n\n-   *We are **getting the house painted** next week.* \n-   *You should **get your tyres changed**.* \n\n### **Get someone to do something**\\= make, ask, persuade someone to do something\n\n-   *How can parents **get their children to read** more?*\n-   *I don’t know how to **get my partner to do** more things around the house.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Get_Different-meanings_B2-grammar-chart.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/b2/get/img-1.webp",
+        "alt": "Chart explaining the different meanings of the verb 'get' with example sentences for a B2 pre-advanced grammar lesson."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Get: Different meanings",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "In the sales, I got a really good {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "pair of leather shoes.",
+                "me a glass of water from the fridge?",
+                "furious. I’d never seen him so angry.",
+                "somebody to repair it.",
+                "it to play in my car stereo.",
+                "to the airport?",
+                "it. Why did you do that?",
+                "going or we won’t arrive in time.",
+                "anything for my birthday.",
+                "robbed in Piccadilly."
+              ],
+              "correct": "pair of leather shoes.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "817"
+        },
+        {
+          "index": 1,
+          "template": "They insulted him and he got {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "robbed in Piccadilly.",
+                "pair of leather shoes.",
+                "me a glass of water from the fridge?",
+                "somebody to repair it.",
+                "anything for my birthday.",
+                "going or we won’t arrive in time.",
+                "furious. I’d never seen him so angry.",
+                "to the airport?",
+                "it. Why did you do that?",
+                "it to play in my car stereo."
+              ],
+              "correct": "furious. I’d never seen him so angry.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "818"
+        },
+        {
+          "index": 2,
+          "template": "I don't get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anything for my birthday.",
+                "furious. I’d never seen him so angry.",
+                "me a glass of water from the fridge?",
+                "it. Why did you do that?",
+                "somebody to repair it.",
+                "robbed in Piccadilly.",
+                "it to play in my car stereo.",
+                "to the airport?",
+                "going or we won’t arrive in time.",
+                "pair of leather shoes."
+              ],
+              "correct": "it. Why did you do that?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "819"
+        },
+        {
+          "index": 3,
+          "template": "Look at your car! You really need to get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "somebody to repair it.",
+                "pair of leather shoes.",
+                "me a glass of water from the fridge?",
+                "it to play in my car stereo.",
+                "anything for my birthday.",
+                "Why did you do that?",
+                "going or we won’t arrive in time.",
+                "robbed in Piccadilly.",
+                "to the airport?",
+                "furious. I’d never seen him so angry."
+              ],
+              "correct": "somebody to repair it.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "820"
+        },
+        {
+          "index": 4,
+          "template": "What time are we going to get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to the airport?",
+                "it to play in my car stereo.",
+                "going or we won’t arrive in time.",
+                "robbed in Piccadilly.",
+                "anything for my birthday.",
+                "pair of leather shoes.",
+                "furious. I’d never seen him so angry.",
+                "me a glass of water from the fridge?",
+                "somebody to repair it.",
+                "it. Why did you do that?"
+              ],
+              "correct": "to the airport?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "821"
+        },
+        {
+          "index": 5,
+          "template": "It’s very late. We need to get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "it to play in my car stereo.",
+                "to the airport?",
+                "anything for my birthday.",
+                "me a glass of water from the fridge?",
+                "somebody to repair it.",
+                "pair of leather shoes.",
+                "it. Why did you do that?",
+                "robbed in Piccadilly.",
+                "furious. I’d never seen him so angry.",
+                "going or we won’t arrive in time."
+              ],
+              "correct": "going or we won’t arrive in time.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "822"
+        },
+        {
+          "index": 6,
+          "template": "I’m thirsty. Please can you get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "going or we won’t arrive in time.",
+                "furious. I’d never seen him so angry.",
+                "it. Why did you do that?",
+                "anything for my birthday.",
+                "it to play in my car stereo.",
+                "pair of leather shoes.",
+                "to the airport?",
+                "somebody to repair it.",
+                "robbed in Piccadilly.",
+                "me a glass of water from the fridge?"
+              ],
+              "correct": "me a glass of water from the fridge?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "823"
+        },
+        {
+          "index": 7,
+          "template": "Something’s wrong with this CD. I can’t get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "going or we won’t arrive in time.",
+                "robbed in Piccadilly.",
+                "me a glass of water from the fridge?",
+                "somebody to repair it.",
+                "it to play in my car stereo.",
+                "anything for my birthday.",
+                "it. Why did you do that?",
+                "furious. I’d never seen him so angry.",
+                "to the airport?",
+                "pair of leather shoes."
+              ],
+              "correct": "it to play in my car stereo.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "824"
+        },
+        {
+          "index": 8,
+          "template": "Yesterday I went to the police because I got {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me a glass of water from the fridge?",
+                "it to play in my car stereo.",
+                "going or we won’t arrive in time.",
+                "anything for my birthday.",
+                "furious. I’d never seen him so angry.",
+                "robbed in Piccadilly.",
+                "somebody to repair it.",
+                "to the airport?",
+                "it. Why did you do that?",
+                "pair of leather shoes."
+              ],
+              "correct": "robbed in Piccadilly.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "825"
+        },
+        {
+          "index": 9,
+          "template": "It's depressing. I didn't get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anything for my birthday.",
+                "somebody to repair it.",
+                "furious. I’d never seen him so angry.",
+                "it to play in my car stereo.",
+                "to the airport?",
+                "going or we won’t arrive in time.",
+                "it. Why did you do that? ",
+                "pair of leather shoes.",
+                "me a glass of water from the fridge?",
+                "robbed in Piccadilly."
+              ],
+              "correct": "anything for my birthday.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "826"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Get: Different meanings",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Did you _______? (=become hurt) Choose TWO correct options",
+          "options": [
+            "get hurt",
+            "get an injury",
+            "get injury",
+            "get hurting"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I _______ for her birthday. (=bought a ring for my wife)",
+          "options": [
+            "got my wife a ring",
+            "'ve got my wife to a ring",
+            "got to my wife a ring",
+            "got a ring my wife"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "You _______ kidding. (=must be joking/can't be serious)",
+          "options": [
+            "get to be",
+            "get to",
+            "must get to be",
+            "'ve got to be"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "What time will you _______? (=arrive)",
+          "options": [
+            "get to here",
+            "get to be here",
+            "get here",
+            "'ve got here"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "You should _______. (=pay someone to do your nails)",
+          "options": [
+            "get someone do your nails",
+            "get your nails",
+            "get to do your nails",
+            "get your nails done"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Can you _______, please? (=bring)",
+          "options": [
+            "get to bring the sugar",
+            "get to the sugar",
+            "get bringing the sugar",
+            "get me the sugar"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I can’t _______ still at the dinner table. (=make my child sit)",
+          "options": [
+            "get my child to sit",
+            "get to sit my child",
+            "get sitting my child",
+            "get my child sit"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I _______. Could you be more specific? (=understand you)",
+          "options": [
+            "didn't get to you",
+            "didn't get understand you",
+            "didn't get you",
+            "didn't got you"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Can you help me _______ the room upstairs? (=move)",
+          "options": [
+            "get this sofa to",
+            "get this sofa",
+            "'ve got this sofa to",
+            "get moving this sofa to"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I _______ a year in my new job. (=receive/earn money)",
+          "options": [
+            "'ve got £22,000",
+            "get £22,000",
+            "get to earning",
+            "get earning"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q11",
+          "question": "We _______ last night. (=passive sense; someone burgled us)",
+          "options": [
+            "got burgled",
+            "got to be burgled",
+            "were get burgled",
+            "got to burgled"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Get: Different meanings",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If you have high expectations, you may get {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappointed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "827"
+        },
+        {
+          "index": 1,
+          "template": "Although he didn't want to, I finally got him {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "828"
+        },
+        {
+          "index": 2,
+          "template": "The party was going perfectly well until he arrived and things got {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "out of hand",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "829"
+        },
+        {
+          "index": 3,
+          "template": "I didn't get {0} so I asked him to tell it again.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "830"
+        },
+        {
+          "index": 4,
+          "template": "You'd better leave now if we want to get {0} before dinnertime.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "831"
+        },
+        {
+          "index": 5,
+          "template": "I can't get my car {0}. Do you know of a garage where I can get it {1}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "fixed",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "fixed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "832"
+        },
+        {
+          "index": 6,
+          "template": "She's not here; she's just gone to get {0} from school.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "833"
+        },
+        {
+          "index": 7,
+          "template": "Where did you get {0}? They're really nice.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "834"
+        },
+        {
+          "index": 8,
+          "template": "Could you get {0} to help us? We need him.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "someone",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "835"
+        },
+        {
+          "index": 9,
+          "template": "Where did you get {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4552"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Get: Different meanings",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "In the sales, I got a really good {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "pair of leather shoes.",
+                "me a glass of water from the fridge?",
+                "furious. I’d never seen him so angry.",
+                "somebody to repair it.",
+                "it to play in my car stereo.",
+                "to the airport?",
+                "it. Why did you do that?",
+                "going or we won’t arrive in time.",
+                "anything for my birthday.",
+                "robbed in Piccadilly."
+              ],
+              "correct": "pair of leather shoes.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "817"
+        },
+        {
+          "index": 1,
+          "template": "They insulted him and he got {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "robbed in Piccadilly.",
+                "pair of leather shoes.",
+                "me a glass of water from the fridge?",
+                "somebody to repair it.",
+                "anything for my birthday.",
+                "going or we won’t arrive in time.",
+                "furious. I’d never seen him so angry.",
+                "to the airport?",
+                "it. Why did you do that?",
+                "it to play in my car stereo."
+              ],
+              "correct": "furious. I’d never seen him so angry.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "818"
+        },
+        {
+          "index": 2,
+          "template": "I don't get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anything for my birthday.",
+                "furious. I’d never seen him so angry.",
+                "me a glass of water from the fridge?",
+                "it. Why did you do that?",
+                "somebody to repair it.",
+                "robbed in Piccadilly.",
+                "it to play in my car stereo.",
+                "to the airport?",
+                "going or we won’t arrive in time.",
+                "pair of leather shoes."
+              ],
+              "correct": "anything for my birthday.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "819"
+        },
+        {
+          "index": 3,
+          "template": "Look at your car! You really need to get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "somebody to repair it.",
+                "pair of leather shoes.",
+                "me a glass of water from the fridge?",
+                "it to play in my car stereo.",
+                "anything for my birthday.",
+                "Why did you do that?",
+                "going or we won’t arrive in time.",
+                "robbed in Piccadilly.",
+                "to the airport?",
+                "furious. I’d never seen him so angry."
+              ],
+              "correct": "somebody to repair it.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "820"
+        },
+        {
+          "index": 4,
+          "template": "What time are we going to get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to the airport?",
+                "it to play in my car stereo.",
+                "going or we won’t arrive in time.",
+                "robbed in Piccadilly.",
+                "anything for my birthday.",
+                "pair of leather shoes.",
+                "furious. I’d never seen him so angry.",
+                "me a glass of water from the fridge?",
+                "somebody to repair it.",
+                "it. Why did you do that?"
+              ],
+              "correct": "to the airport?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "821"
+        },
+        {
+          "index": 5,
+          "template": "It’s very late. We need to get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "it to play in my car stereo.",
+                "to the airport?",
+                "anything for my birthday.",
+                "me a glass of water from the fridge?",
+                "somebody to repair it.",
+                "pair of leather shoes.",
+                "it. Why did you do that?",
+                "robbed in Piccadilly.",
+                "furious. I’d never seen him so angry.",
+                "going or we won’t arrive in time."
+              ],
+              "correct": "to the airport?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "822"
+        },
+        {
+          "index": 6,
+          "template": "I’m thirsty. Please can you get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "going or we won’t arrive in time.",
+                "furious. I’d never seen him so angry.",
+                "it. Why did you do that?",
+                "anything for my birthday.",
+                "it to play in my car stereo.",
+                "pair of leather shoes.",
+                "to the airport?",
+                "somebody to repair it.",
+                "robbed in Piccadilly.",
+                "me a glass of water from the fridge?"
+              ],
+              "correct": "me a glass of water from the fridge?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "823"
+        },
+        {
+          "index": 7,
+          "template": "Something’s wrong with this CD. I can’t get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "going or we won’t arrive in time.",
+                "robbed in Piccadilly.",
+                "me a glass of water from the fridge?",
+                "somebody to repair it.",
+                "it to play in my car stereo.",
+                "anything for my birthday.",
+                "it. Why did you do that?",
+                "furious. I’d never seen him so angry.",
+                "to the airport?",
+                "pair of leather shoes."
+              ],
+              "correct": "it to play in my car stereo.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "824"
+        },
+        {
+          "index": 8,
+          "template": "Yesterday I went to the police because I got {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me a glass of water from the fridge?",
+                "it to play in my car stereo.",
+                "going or we won’t arrive in time.",
+                "anything for my birthday.",
+                "furious. I’d never seen him so angry.",
+                "robbed in Piccadilly.",
+                "somebody to repair it.",
+                "to the airport?",
+                "it. Why did you do that?",
+                "pair of leather shoes."
+              ],
+              "correct": "robbed in Piccadilly.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "825"
+        },
+        {
+          "index": 9,
+          "template": "It's depressing. I didn't get {0}",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anything for my birthday.",
+                "somebody to repair it.",
+                "furious. I’d never seen him so angry.",
+                "it to play in my car stereo.",
+                "to the airport?",
+                "going or we won’t arrive in time.",
+                "it. Why did you do that? ",
+                "pair of leather shoes.",
+                "me a glass of water from the fridge?",
+                "robbed in Piccadilly."
+              ],
+              "correct": "anything for my birthday.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "826"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

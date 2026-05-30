@@ -1,0 +1,606 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "distancing",
+  "order_index": 10,
+  "title": "Distancing: Expressions and passive of reporting verbs",
+  "source_url": "https://test-english.com/grammar-points/b2/distancing/",
+  "scraped_at": "2026-05-23T07:26:16.604Z",
+  "explanation": {
+    "markdown": "## Passive voice with reporting verbs\n\n![The passive with reporting verbs – distancing](/uploads/grammar/b2/distancing/img-1.png)\n\nIn news reports and formal writing, passive forms of reporting verbs (verbs of saying or believing) are common. This resource allows us to give information when we don’t know whether it is true, allowing us to distance ourselves from the information.  \n  \nReporting verbs include **agree,** **announce**, **believe**, **claim**, **consider**, **expect**, **hope,** **know**, **report**, **say**, **suggest**, **think**, **understand**, **etc.** And we can use their passive form for distancing in two different ways.\n\n#### It is said that …\n\n**It**\\+ passive reporting verb + **that**\\-clause (subject + verb)\n\n-   ***It is believed that** the murderer is no longer in the country.* \n-   ***It has been announced that** they are going to cancel the tour.*\n-   ***It has been suggested that** the team can’t be trusted defensively.*\n-   ***It was thought that** the building could collapse.*\n\n#### They are said to be\n\nSubject + passive reporting verb + **to**\\-infinitive\n\n-   ***He is thought to be** a close associate of the terrorist.* \n-   ***The terrorist is believed to have fled** to the mountains.*\n\nWhen we use this pattern, we use the **simple infinitive** or the **continuous infinitive** when the reported action is **simultaneous** to the reporting.\n\n-   *He is said **to be** an art collector.* \n-   *They were believed **to be** secretly in love.* \n-   *They are thought **to be living** under strict protection.*\n\nWe can also use the **simple infinitive** to refer to the **future**.\n\n-   *She is expected **to become** a superstar.* \n\nWe use the **perfect infinitive** or the **perfect continuous infinitive** when the reported action is **previous** to the reporting (earlier in the past).\n\n-   *She was thought **to have left** the previous week.* \n-   *He is claimed **to have hit** another student.*\n-   *He is known **to have been hiding** somewhere in Panama since he escaped.*  \n\n#### There are said to be\n\nWe can also use the same structure with the pronoun **there**.\n\n-   ***There are said to be** new leads on the case.* \n-   ***There is believed to be** a new donor who is partially financing the campaign.*\n\n## Other distancing expressions\n\n![Grammar chart for B2 pre-advanced level on distancing expressions, including \"seem/appear\" and other phrases like \"apparently,\" \"allegedly,\" \"according to,\" and \"may/might,\" with examples.](/uploads/grammar/b2/distancing/img-2.png)\n\n### Seem/appear\n\nWe can also use the verbs **seem** and **appear** to distance ourselves from the information we give.\n\n#### **It seems/appears + that**\\-clause\n\n-   ***It seems/******appears that** the new series will begin shooting in about two months.*\n\n#### **It would seem/appear** **\\+ that**\\-clause\n\nIt means the same as **it seems that**, but it is more formal.\n\n-   ***It would seem/******appear that** the situation is finally under control.*\n\n#### Subject + **seem/appear** + **to**\\-infinitive\n\n-   The *new secretary* **seems/*****appears** **to be** very concerned about climate.* (Simple infinitive)\n-   *They **seem/******appear** **to be having** some difficulties.* (Continuous infinitive)\n-   *Their leaders **seem/******appear** **to have suffered** some setbacks.* (Perfect infinitive)\n-   The company ***seems/******appears to have been doing** very well over the last year* (Perfect continuous infinitive)\n\n#### There seem(s) to be/to have been\n\n-   ***There seem to be** two options for kids.* \n-   ***There seems to have been** a great response on social media.* \n\n## Apparently, allegedly, according to\n\nThere are expressions that we can also use for distancing.\n\n### Apparently\n\n-   ***Apparently**, the new prime minister will not visit Cuba until the end of May.* \n\n### Allegedly\n\nWe use **allegedly** to give information when something wrong appears to have been done, but there is no proof.\n\n-   *He **allegedly** took a knife and stabbed the victim in the stomach.* \n\n### According to\n\n-   ***According to** witnesses, she abandoned the place well after midnight.* \n\n### Might/may\n\nWe can also use **might** or **may** to speculate and say that something is possible but that maybe it isn’t true.\n\n-   *They **might have fled** the scene, leaving the victim bleeding on the floor.* \n-   *They **may be spending** their Christmas holiday together.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Passive-reporting-verbs_distancing.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/distancing/img-1.png",
+        "alt": "The passive with reporting verbs – distancing"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Distancing-expressions_B2-grammar-chart.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b2/distancing/img-2.png",
+        "alt": "Grammar chart for B2 pre-advanced level on distancing expressions, including \"seem/appear\" and other phrases like \"apparently,\" \"allegedly,\" \"according to,\" and \"may/might,\" with examples."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Distancing: Expressions and passive of reporting verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} to be a lot of confusion and misinformation about the accident.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It would appear",
+                "It seems",
+                "There seems"
+              ],
+              "correct": "There seems",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "931"
+        },
+        {
+          "index": 1,
+          "template": "The actor is {0} have a degenerative eye condition. {1}, he is completely blind and housebound.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "seems to",
+                "apparently",
+                "reported to"
+              ],
+              "correct": "seems to",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "Apparently",
+                "There seems",
+                "It appears"
+              ],
+              "correct": "Apparently",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "935"
+        },
+        {
+          "index": 2,
+          "template": "{0} the shooter hacked a Facebook account and sent a message urging people to go to the shopping centre.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It appears that",
+                "Is reported",
+                "There seems that"
+              ],
+              "correct": "It appears that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "932"
+        },
+        {
+          "index": 3,
+          "template": "The film was {0} produced with money stolen from Malaysia.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "allegedly",
+                "said to",
+                "it appears"
+              ],
+              "correct": "allegedly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "933"
+        },
+        {
+          "index": 4,
+          "template": "The teenager who failed to return home is {0} have been found safe and well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "thought that",
+                "understood to",
+                "said"
+              ],
+              "correct": "understood to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "934"
+        },
+        {
+          "index": 5,
+          "template": "Both candidates are expected {0} their vice-presidential nominees by the end of next week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to announce",
+                "might announce",
+                "to have announced"
+              ],
+              "correct": "to announce",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "936"
+        },
+        {
+          "index": 6,
+          "template": "At least six people are believed {0} in a shooting rampage in a Munich shopping centre last Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be killed",
+                "to have killed",
+                "to have been killed"
+              ],
+              "correct": "to have been killed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "937"
+        },
+        {
+          "index": 7,
+          "template": "{0} seem that the presidential nominee is very skilled at manipulating the media.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It would",
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "938"
+        },
+        {
+          "index": 8,
+          "template": "The terrorist group is thought {0} a new attack as we speak.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to have planning",
+                "to have planned",
+                "to be planning"
+              ],
+              "correct": "to be planning",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "939"
+        },
+        {
+          "index": 9,
+          "template": "{0} to a new report, the teenager {1} using drugs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It seems",
+                "According",
+                "Apparently"
+              ],
+              "correct": "According",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "seems to",
+                "is said to",
+                "might be"
+              ],
+              "correct": "is said to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "940"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Distancing: Expressions and passive of reporting verbs",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_______ that the president is a very private man in a very public job.",
+          "options": [
+            "There seems",
+            "It would seem",
+            "It seems",
+            "There might be"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "The key witness is _______ a friend of the accuser.",
+          "options": [
+            "allegedly",
+            "according to",
+            "apparently",
+            "is said"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "_______ interested in signing Wilson.",
+          "options": [
+            "It seems that 14 clubs to be",
+            "There are understood to be 14 clubs",
+            "14 clubs are understood to be",
+            "There are understood to be 14 clubs are"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_______ continue for the next 24 to 72 hours",
+          "options": [
+            "It is expected that the blackouts will",
+            "The blackouts are expected to",
+            "The blackouts are expected will",
+            "There is expected that the blackouts will"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Leonardo and Nina _______ begun dating in early June.",
+          "options": [
+            "are thought to have",
+            "are thought to be",
+            "would",
+            "might have"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The team's supporters _______ forgotten what the manager did for the team last season.",
+          "options": [
+            "might",
+            "appear having",
+            "seem to have",
+            "are understood to have"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The terrorist group _______ trying to recruit new members.",
+          "options": [
+            "might be",
+            "is believed to be",
+            "seems to",
+            "there appears to"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Apple _______ looking to buy a Formula 1.",
+          "options": [
+            "is apparently",
+            "is said that it is",
+            "is said to be",
+            "is believed"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The murder suspect _______ have been hiding in the Netherlands.",
+          "options": [
+            "might to",
+            "is thought to",
+            "is though that",
+            "might"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_______ many homeowners don't want to risk selling their properties.",
+          "options": [
+            "There seems that",
+            "It would appear that",
+            "Apparently,",
+            "It apparently"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Distancing: Expressions and passive of reporting verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "John O'Donovan, a 20-year-old man from Folkestone, 1 {0} to have been missing since last Friday. John failed to return from a holiday in Majorca. 2 {1} that he never got on the coach that was scheduled to pick up his group from the Guadalupe Hotel in Magaluf. John's credit cards don't appear 3 {2} used since last Friday night.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is reported",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is reported",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is reported",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "941"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Distancing: Expressions and passive of reporting verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} to be a lot of confusion and misinformation about the accident.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It would appear",
+                "It seems",
+                "There seems"
+              ],
+              "correct": "There seems",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "931"
+        },
+        {
+          "index": 1,
+          "template": "The actor is {0} have a degenerative eye condition. {1}, he is completely blind and housebound.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "seems to",
+                "apparently",
+                "reported to"
+              ],
+              "correct": "reported to",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "Apparently",
+                "There seems",
+                "It appears"
+              ],
+              "correct": "It appears",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "935"
+        },
+        {
+          "index": 2,
+          "template": "{0} the shooter hacked a Facebook account and sent a message urging people to go to the shopping centre.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It appears that",
+                "Is reported",
+                "There seems that"
+              ],
+              "correct": "It appears that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "932"
+        },
+        {
+          "index": 3,
+          "template": "The film was {0} produced with money stolen from Malaysia.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "allegedly",
+                "said to",
+                "it appears"
+              ],
+              "correct": "allegedly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "933"
+        },
+        {
+          "index": 4,
+          "template": "The teenager who failed to return home is {0} have been found safe and well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "thought that",
+                "understood to",
+                "said"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "934"
+        },
+        {
+          "index": 5,
+          "template": "Both candidates are expected {0} their vice-presidential nominees by the end of next week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to announce",
+                "might announce",
+                "to have announced"
+              ],
+              "correct": "to announce",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "936"
+        },
+        {
+          "index": 6,
+          "template": "At least six people are believed {0} in a shooting rampage in a Munich shopping centre last Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be killed",
+                "to have killed",
+                "to have been killed"
+              ],
+              "correct": "to have been killed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "937"
+        },
+        {
+          "index": 7,
+          "template": "{0} seem that the presidential nominee is very skilled at manipulating the media.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It would",
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "938"
+        },
+        {
+          "index": 8,
+          "template": "The terrorist group is thought {0} a new attack as we speak.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to have planning",
+                "to have planned",
+                "to be planning"
+              ],
+              "correct": "to be planning",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "939"
+        },
+        {
+          "index": 9,
+          "template": "{0} to a new report, the teenager {1} using drugs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It seems",
+                "According",
+                "Apparently"
+              ],
+              "correct": "According",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "seems to",
+                "is said to",
+                "might be"
+              ],
+              "correct": "is said to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "940"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,667 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "there-it",
+  "order_index": 24,
+  "title": "There or It",
+  "source_url": "https://test-english.com/grammar-points/a1/there-it/",
+  "scraped_at": "2026-05-23T07:03:21.643Z",
+  "explanation": {
+    "markdown": "## There or It\n\n![Grammar chart distinguishing the use of 'There' and 'It' in English sentences, with correct and incorrect usage examples.](/uploads/grammar/a1/there-it/img-1.webp)\n\n## There\n\nWe use **[there](https://test-english.com/grammar-points/a1/there-is-there-are/)** to say when or where something is.\n\n-   ***There are** some dirty cups on the table.*\n-   ***There is** a party tomorrow.*\n\nWe use **there** to say that something exists or is happening.\n\n-   ***There is** a problem.* \n-   ***There was** an accident.*\n\nNote that we use **there** the first time we mention something. If we talk about the same thing again, we use **it** or **they**.\n\n-   ***There are** some cups on the table. But **they** are dirty.*\n-   ***There was** an accident. **It** was horrible.*\n\n## It\n\nWe use **it** to talk about something again in the conversation.\n\n-   *There is a party tomorrow. **It** will be fantastic!*\n-   *We saw a snake in the forest. **It** was very big.*\n\nWe use **it** to talk about times and dates.\n\n-   ***It**‘s my mum’s birthday today.* \n-   *Let’s go home. **It**‘s very late.* \n-   ***It**‘s four o’clock.*\n\nWe use **it** to talk about the weather.\n\n-   ***It**‘s very windy.* \n-   ***It**‘s a nice day.*\n-   ***It** rained a lot yesterday.*\n-   ***It**‘s four degrees.*\n\nWe use **it** to talk about distance.\n\n-   *How far is **it**?*\n-   ***It**‘s not very far.* \n-   ***It**‘s a long way to the nearest petrol station.*  \n-   ***It**‘s 2 kilometres from the hotel to the station.* \n\n❗ **Note** that we use **far** in negative sentences and questions, and we use **a long way** in affirmative sentences.\n\nWe use **it’s +** adjective **+ to-**infinitive.\n\n-   ***It’s nice to see** you again.*\n-   ***It was difficult to find** the hotel.*\n\n## Be careful with these common mistakes!\n\n-   *I think the worst part of the exam **it’s speaking**.*![](/uploads/grammar/a1/there-it/img-2.png)\n-   *I think the worst part of the exam **is speaking**.*![](/uploads/grammar/a1/there-it/img-3.png)\n\nWe do NOT use **it** when the subject of the verb is in the sentence. In the sentence above, the subject of **is** is ‘the worst part of the exam’.\n\n-   *I love their music. **Is fantastic**!*![](/uploads/grammar/a1/there-it/img-4.png)\n-   *I love their music. **It’s fantastic**!*![](/uploads/grammar/a1/there-it/img-5.png)\n\nDon’t forget to use **it** when you mention something again in the conversation.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/There-it_Grammar-chart.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/a1/there-it/img-1.webp",
+        "alt": "Grammar chart distinguishing the use of 'There' and 'It' in English sentences, with correct and incorrect usage examples."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/plugins/watupro/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/there-it/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/plugins/watupro/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/there-it/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/plugins/watupro/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/there-it/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/plugins/watupro/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/there-it/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} is dangerous to drive at night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5089"
+        },
+        {
+          "index": 1,
+          "template": "I opened the door and {0} was a strange man behind it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "it",
+                "there"
+              ],
+              "correct": "there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5090"
+        },
+        {
+          "index": 2,
+          "template": "{0} was a problem with the car. We took a taxi.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5091"
+        },
+        {
+          "index": 3,
+          "template": "I want to go home. {0}'s late and I'm tired.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5092"
+        },
+        {
+          "index": 4,
+          "template": "{0} aren't any students in the classroom.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "They"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5093"
+        },
+        {
+          "index": 5,
+          "template": "I'm watching a new series. {0}'s very good.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5094"
+        },
+        {
+          "index": 6,
+          "template": "{0} is very cold today.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5095"
+        },
+        {
+          "index": 7,
+          "template": "{0} is a new teacher at my school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "It"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5096"
+        },
+        {
+          "index": 8,
+          "template": "There's a park opposite my house. {0} is beautiful.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5097"
+        },
+        {
+          "index": 9,
+          "template": "They are in the classroom. {0} is an exam now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "It"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5098"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "____ was sunny when we arrived.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ is a long way from here to the shops.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Is _____ any milk in the fridge?",
+          "options": [
+            "there",
+            "it"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We didn't understand. _____ was a lot of confusion.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Go back to sleep. _____ 's early.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_____ snows a lot in winter.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "_____ was a terrible fire last year.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ is important to answer all the questions.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Let's not go to the park. _____ is very windy today.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_____ is a concert this weekend.",
+          "options": [
+            "There",
+            "It"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} were a lot of people at the party.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5109"
+        },
+        {
+          "index": 1,
+          "template": "{0} are two new students in my class. {1} are from Brazil.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5111"
+        },
+        {
+          "index": 2,
+          "template": "Can you give me my bag? {0} is on the sofa.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5110"
+        },
+        {
+          "index": 3,
+          "template": "Are {0} any good hotels in this town?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5113"
+        },
+        {
+          "index": 4,
+          "template": "{0} is late and {1} are a lot of things that I need to do.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "there",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5112"
+        },
+        {
+          "index": 5,
+          "template": "There's a new swimming pool. {0}'s very big.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5115"
+        },
+        {
+          "index": 6,
+          "template": "{0} is so nice to be here.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5116"
+        },
+        {
+          "index": 7,
+          "template": "I saw two people outside. {0} were my parents.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5117"
+        },
+        {
+          "index": 8,
+          "template": "{0} is very late. How far is {1}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "it",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5114"
+        },
+        {
+          "index": 9,
+          "template": "{0} were some problems last week.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5118"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} is dangerous to drive at night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5089"
+        },
+        {
+          "index": 1,
+          "template": "I opened the door and {0} was a strange man behind it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "it",
+                "there"
+              ],
+              "correct": "there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5090"
+        },
+        {
+          "index": 2,
+          "template": "{0} was a problem with the car. We took a taxi.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5091"
+        },
+        {
+          "index": 3,
+          "template": "I want to go home. {0}'s late and I'm tired.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5092"
+        },
+        {
+          "index": 4,
+          "template": "{0} aren't any students in the classroom.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "They"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5093"
+        },
+        {
+          "index": 5,
+          "template": "I'm watching a new series. {0}'s very good.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5094"
+        },
+        {
+          "index": 6,
+          "template": "{0} is very cold today.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5095"
+        },
+        {
+          "index": 7,
+          "template": "{0} is a new teacher at my school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "It"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5096"
+        },
+        {
+          "index": 8,
+          "template": "There's a park opposite my house. {0} is beautiful.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5097"
+        },
+        {
+          "index": 9,
+          "template": "They are in the classroom. {0} is an exam now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "It"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5098"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

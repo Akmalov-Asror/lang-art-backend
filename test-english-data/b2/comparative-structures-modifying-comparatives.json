@@ -1,0 +1,795 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "comparative-structures-modifying-comparatives",
+  "order_index": 31,
+  "title": "Comparative structures: Modifying comparatives",
+  "source_url": "https://test-english.com/grammar-points/b2/comparative-structures-modifying-comparatives/",
+  "scraped_at": "2026-05-23T07:28:49.654Z",
+  "explanation": {
+    "markdown": "## Modifying comparatives\n\n![Colourful grammar chart titled 'Modifying Comparatives' showcasing examples of comparative phrases used to describe varying degrees of difference: almost no difference, big difference, and small difference. The phrases include 'not quite as tall as his brother,' 'much cheaper than I thought,' and 'a bit colder than I prefer' categorized in red, blue, and yellow sections respectively.](/uploads/grammar/b2/comparative-structures-modifying-comparatives/img-1.png)\n\nWhen we are comparing things in English, we can use modifiers to describe different degrees of difference. For example, you can describe your brother as **taller** than you, but if the difference in height is big, you can say that he is **much** or **far taller** than you.\n\n### Describing a big difference\n\n#### Quite/much/a lot/far/way/a good deal\n\nWe can use **quite, much, a lot, far, way** or **a good deal** with comparative adjectives.\n\n-   *This dress is **quite cheaper** than the one I saw yesterday.*\n-   *It’s **much hotter** today than it was yesterday.*\n-   *He’s **a lot less experienced** than his brother.*\n-   *The journey to the city is **far longer** than I anticipated.*\n-   *This project is **way more complicated** than the last one.*\n-   *This new phone is **a good deal more expensive** than the previous model.*\n\n#### Nowhere near/not nearly/not at all  as … as\n\nWe can also modify the comparative form **as** \\+ adjective **\\+ as** to describe a big difference. To do this, we can add **nowhere near, not nearly,** or **not at all** before the first **as**.\n\n-   *The new restaurant is **nowhere near as crowded as** the one downtown.*\n-   *She’s **not nearly as experienced as** she claims to be.*\n-   *This book is **not at all as interesting as** the one I read last week.*\n\n#### By far + superlative\n\nWe can use **by far** with superlative adjectives to emphasise the greatest difference among a group.\n\n-   *This is **by far the best** pizza I’ve ever tasted.*\n-   *He is **by far the most** talented musician in the band.*\n\n### Describing a small difference\n\n#### A bit/a little/slightly/not much\n\nWe can use **a bit, a little, slightly, not much** with comparative adjectives to describe small differences.\n\n-   *This shirt is **a bit less expensive** than the one I bought last month.*\n-   *It’s **a little warmer** today than yesterday.*\n-   *The coffee is **slightly colder** than I prefer.*\n-   *This option is **not much cheaper** than the one I suggested.* \n\n### Describing no difference or almost no difference\n\n#### Almost, nearly, not quite, roughly, more or less, just, exactly as … as / the same as\n\nWe can use the modifiers **almost, nearly, not quite, roughly,** **more or less, just,** or **exactly** before the structure **as** \\+ adjective + **as** or before **the same as** to describe an (almost) inexistent difference.\n\n-   *She’s **almost as tall as** her brother.*\n-   *He’s **nearly as fast as** Mike in running races.*\n-   *The flavour of this dish is **not quite as spicy as** I expected.*\n-   *The distance to the beach is **roughly the same as** to the park.*\n-   *The party was **more or less as boring as** I’d expected.*\n-   *I’m **just/exactly as capable as** you are.* \n\n### Using modifiers with nouns\n\nWe can also make comparisons using **more** or **less** with nouns instead of adjectives:\n\n-   *I have **more games** than you.* \n-   *They owe **less money** than we thought.* \n\nIn these cases, we can also use modifiers.\n\n-   *I have **far more games** than you.*\n-   *They owe **much less money** than we thought.*\n-   *She has **a lot more experience** than her colleague.*\n-   *She has only **a little more time** than I do.*\n-   *There is **not much more traffic** today than there was yesterday.*\n-   *He has **slightly more food** left than his friend.*\n-   *She has **not quite as many friends as** she used to.*\n-   *We have **roughly the same number of cars as** our neighbours.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Modifying-comparatives_B2-grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/comparative-structures-modifying-comparatives/img-1.png",
+        "alt": "Colourful grammar chart titled 'Modifying Comparatives' showcasing examples of comparative phrases used to describe varying degrees of difference: almost no difference, big difference, and small difference. The phrases include 'not quite as tall as his brother,' 'much cheaper than I thought,' and 'a bit colder than I prefer' categorized in red, blue, and yellow sections respectively."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Comparative structures: Modifying comparatives",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "The new restaurant is {0} near as busy as the one downtown.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "quite",
+                "all",
+                "by far",
+                "or less",
+                "deal",
+                "much",
+                "roughly the",
+                "nowhere",
+                "nearly",
+                "less"
+              ],
+              "correct": "nearly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10072"
+        },
+        {
+          "index": 1,
+          "template": "She earns a lot {0} money than her sister.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "quite",
+                "by far",
+                "nowhere",
+                "all",
+                "roughly the",
+                "less",
+                "much",
+                "nearly",
+                "deal",
+                "or less"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10073"
+        },
+        {
+          "index": 2,
+          "template": "He has a good {0} more experience than his classmates.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "quite",
+                "by far",
+                "much",
+                "deal",
+                "or less",
+                "roughly the",
+                "all",
+                "nowhere",
+                "nearly",
+                "less"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10074"
+        },
+        {
+          "index": 3,
+          "template": "This is {0} the best movie I've seen all year.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "deal",
+                "all",
+                "nowhere",
+                "or less",
+                "by far",
+                "roughly the",
+                "nearly",
+                "less",
+                "quite",
+                "much"
+              ],
+              "correct": "by far",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10075"
+        },
+        {
+          "index": 4,
+          "template": "The cake is not at {0} as sweet as I expected.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "roughly the",
+                "all",
+                "deal",
+                "by far",
+                "or less",
+                "nowhere",
+                "much",
+                "less",
+                "nearly",
+                "quite"
+              ],
+              "correct": "quite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10076"
+        },
+        {
+          "index": 5,
+          "template": "There's not {0} more effort required to finish this task.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nearly",
+                "by far",
+                "nowhere",
+                "deal",
+                "quite",
+                "much",
+                "or less",
+                "roughly the",
+                "less",
+                "all"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10077"
+        },
+        {
+          "index": 6,
+          "template": "She's {0} as tall as her brother.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "roughly the",
+                "much",
+                "nearly",
+                "nowhere",
+                "by far",
+                "quite",
+                "all",
+                "less",
+                "deal",
+                "or less"
+              ],
+              "correct": "quite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10078"
+        },
+        {
+          "index": 7,
+          "template": "The weather is not {0} as warm as yesterday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "roughly the",
+                "by far",
+                "quite",
+                "all",
+                "nearly",
+                "deal",
+                "nowhere",
+                "or less",
+                "much",
+                "less"
+              ],
+              "correct": "nearly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10079"
+        },
+        {
+          "index": 8,
+          "template": "This shirt is more {0} as expensive as the one I saw last week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "all",
+                "nearly",
+                "less",
+                "deal",
+                "by far",
+                "or less",
+                "roughly the",
+                "much",
+                "nowhere",
+                "quite"
+              ],
+              "correct": "nowhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10080"
+        },
+        {
+          "index": 9,
+          "template": "The journey to the city is {0} same distance as I anticipated.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nearly",
+                "much",
+                "nowhere",
+                "or less",
+                "quite",
+                "less",
+                "deal",
+                "by far",
+                "roughly the",
+                "all"
+              ],
+              "correct": "nearly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10081"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Comparative structures: Modifying comparatives",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "That car isn't nearly as safe as people think. = That car is...",
+          "options": [
+            "safer than people think.",
+            "much more dangerous than people think.",
+            "a little more dangerous than people think."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "The movie was nowhere near as entertaining as I expected. = The movie was...",
+          "options": [
+            "more entertaining than I expected.",
+            "much less entertaining than I expected.",
+            "a little less entertaining than I expected."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "The workload is not much heavier than it was last week. = The workload is...",
+          "options": [
+            "slightly lighter than it was last week.",
+            "a bit heavier than it was last week.",
+            "almost as heavy as it was last week."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "She's far more talented than her peers realise. = She is...",
+          "options": [
+            "nowhere near as talented as her peers realise.",
+            "a good deal more talented than her peers realise.",
+            "nearly as talented as her peers realise."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "The journey to the summit was roughly as challenging as we anticipated. = The journey to the summit was...",
+          "options": [
+            "slightly less challenging than we anticipated.",
+            "not nearly as challenging than we anticipated.",
+            "almost as challenging as we anticipated."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The party was not at all as fun as last year's. = The party was...",
+          "options": [
+            "much less fun than last year's.",
+            "far more fun than last year's.",
+            "a bit less fun than last year's."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The temperature outside is slightly more comfortable than yesterday. = The temperature outside is...",
+          "options": [
+            "a bit less comfortable than yesterday.",
+            "not quite as comfortable as yesterday.",
+            "not much more comfortable than yesterday."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "This task is by far the simplest. = This task is...",
+          "options": [
+            "nowhere near as complex as the others.",
+            "a bit simpler than the others.",
+            "not nearly as simple as the others"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "His presentation was just as captivating as hers. = His presentation was...",
+          "options": [
+            "slightly more captivating than hers.",
+            "nearly as captivating as hers.",
+            "exactly as captivating as hers."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The new laptop is a bit less powerful than I anticipated. = The new laptop is...",
+          "options": [
+            "slightly less powerful than I anticipated.",
+            "not nearly as powerful as I anticipated.",
+            "roughly as powerful as I anticipated."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Comparative structures: Modifying comparatives",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "The new version is {0} faster. The old one was really slow.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10092"
+        },
+        {
+          "index": 1,
+          "template": "She's {0} better now. I can see a little improvement.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a bit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10099"
+        },
+        {
+          "index": 2,
+          "template": "You seem a {0} happier today. You were miserable yesterday,",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "bit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10093"
+        },
+        {
+          "index": 3,
+          "template": "The exam was a little hard, but {0} harder than I expected.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "harder",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10101"
+        },
+        {
+          "index": 4,
+          "template": "This is {0} the most challenging task I've ever encountered.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "by far",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10097"
+        },
+        {
+          "index": 5,
+          "template": "The coffee is a {0} less bitter than usual.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a bit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10098"
+        },
+        {
+          "index": 6,
+          "template": "This restaurant is nowhere {0} as crowded as the one downtown.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "near",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10095"
+        },
+        {
+          "index": 7,
+          "template": "He's not {0} as skilled as he claims to be.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "nearly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10094"
+        },
+        {
+          "index": 8,
+          "template": "I am {0} as capable as you. I can do the same things you do.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "not",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10100"
+        },
+        {
+          "index": 9,
+          "template": "The new car is {0} as fuel-efficient as the old one. I'm spending a lot more on petrol!",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "not",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10096"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Comparative structures: Modifying comparatives",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "The new restaurant is {0} near as busy as the one downtown.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "quite",
+                "all",
+                "by far",
+                "or less",
+                "deal",
+                "much",
+                "roughly the",
+                "nowhere",
+                "nearly",
+                "less"
+              ],
+              "correct": "nowhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10072"
+        },
+        {
+          "index": 1,
+          "template": "She earns a lot {0} money than her sister.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "quite",
+                "by far",
+                "nowhere",
+                "all",
+                "roughly the",
+                "less",
+                "much",
+                "nearly",
+                "deal",
+                "or less"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10073"
+        },
+        {
+          "index": 2,
+          "template": "He has a good {0} more experience than his classmates.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "quite",
+                "by far",
+                "much",
+                "deal",
+                "or less",
+                "roughly the",
+                "all",
+                "nowhere",
+                "nearly",
+                "less"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10074"
+        },
+        {
+          "index": 3,
+          "template": "This is {0} the best movie I've seen all year.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "deal",
+                "all",
+                "nowhere",
+                "or less",
+                "by far",
+                "roughly the",
+                "nearly",
+                "less",
+                "quite",
+                "much"
+              ],
+              "correct": "by far",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10075"
+        },
+        {
+          "index": 4,
+          "template": "The cake is not at {0} as sweet as I expected.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "roughly the",
+                "all",
+                "deal",
+                "by far",
+                "or less",
+                "nowhere",
+                "much",
+                "less",
+                "nearly",
+                "quite"
+              ],
+              "correct": "nearly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10076"
+        },
+        {
+          "index": 5,
+          "template": "There's not {0} more effort required to finish this task.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nearly",
+                "by far",
+                "nowhere",
+                "deal",
+                "quite",
+                "much",
+                "or less",
+                "roughly the",
+                "less",
+                "all"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10077"
+        },
+        {
+          "index": 6,
+          "template": "She's {0} as tall as her brother.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "roughly the",
+                "much",
+                "nearly",
+                "nowhere",
+                "by far",
+                "quite",
+                "all",
+                "less",
+                "deal",
+                "or less"
+              ],
+              "correct": "nearly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10078"
+        },
+        {
+          "index": 7,
+          "template": "The weather is not {0} as warm as yesterday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "roughly the",
+                "by far",
+                "quite",
+                "all",
+                "nearly",
+                "deal",
+                "nowhere",
+                "or less",
+                "much",
+                "less"
+              ],
+              "correct": "nearly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10079"
+        },
+        {
+          "index": 8,
+          "template": "This shirt is more {0} as expensive as the one I saw last week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "all",
+                "nearly",
+                "less",
+                "deal",
+                "by far",
+                "or less",
+                "roughly the",
+                "much",
+                "nowhere",
+                "quite"
+              ],
+              "correct": "quite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10080"
+        },
+        {
+          "index": 9,
+          "template": "The journey to the city is {0} same distance as I anticipated.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nearly",
+                "much",
+                "nowhere",
+                "or less",
+                "quite",
+                "less",
+                "deal",
+                "by far",
+                "roughly the",
+                "all"
+              ],
+              "correct": "roughly the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "10081"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

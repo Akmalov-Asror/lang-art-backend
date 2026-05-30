@@ -1,0 +1,707 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "basic-word-order-in-english",
+  "order_index": 33,
+  "title": "Basic word order in English",
+  "source_url": "https://test-english.com/grammar-points/a1/basic-word-order-in-english/",
+  "scraped_at": "2026-05-23T07:03:50.728Z",
+  "explanation": {
+    "markdown": "## Basic word order in English: Grammar chart\n\n![Grammar chart illustrating the basic word order in English sentences, placement of adverbs of frequency, and tips to avoid common mistakes.](/uploads/grammar/a1/basic-word-order-in-english/img-1.png)\n\n### Subject + verb\n\nIn English, we normally need to include the subject in a sentence. The subject goes before the verb.\n\n-   ****We** dance.**\n-   ****She** is waiting.**\n\nWe use **it** or **they** as a subject to talk about something that we mentioned before.\n\n-   *I like your guitar. **Is** nice. ![](/uploads/grammar/a1/basic-word-order-in-english/img-2.png)* \n-   *I like your guitar. **It** is nice.* *![](/uploads/grammar/a1/basic-word-order-in-english/img-3.png)*\n-   *Can you see those trees? **Are** beautiful. ![](/uploads/grammar/a1/basic-word-order-in-english/img-4.png)* \n-   *Can you see those trees? **They** are beautiful.* *![](/uploads/grammar/a1/basic-word-order-in-english/img-5.png)*\n\nWe don’t include the subject in [imperative sentences](https://test-english.com/grammar-points/a1/imperative-sit-dont-talk/).\n\n-   *Sit down, please.*\n-   *Call me soon.*\n\nWe can put an [adverb of frequency](https://test-english.com/grammar-points/a1/adverbs-frequency/) between the subject and the verb. BUT adverbs of frequency go after the verb when the verb is [**be**](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/).\n\n-   *We **often dance**.*\n-   BUT: *You **are always** late.*\n\n### Verb + object\n\nWhen there is an object in the sentence, we need to put it after the verb. Verb and object are together.\n\n-   *I **like** **very much** pizza. ![](/uploads/grammar/a1/basic-word-order-in-english/img-6.png)* \n-   *I **like pizza** very much.* *![](/uploads/grammar/a1/basic-word-order-in-english/img-7.png)* \n-   *She **plays** **every day** the guitar. ![](/uploads/grammar/a1/basic-word-order-in-english/img-8.png)* \n-   *She **plays the guitar** every day.* *![](/uploads/grammar/a1/basic-word-order-in-english/img-9.png)* \n\n### Place + time\n\nWe normally say ‘where’ and ‘when’ something happens in this order.\n\n-   *She arrives **in the morning at the hospital**. ![](/uploads/grammar/a1/basic-word-order-in-english/img-10.png)* \n-   *She arrives **at the hospital in the morning**. ![](/uploads/grammar/a1/basic-word-order-in-english/img-11.png)* \n-   *Will you be **at 3 pm** **in the office**? ![](/uploads/grammar/a1/basic-word-order-in-english/img-12.png)* \n-   *Will you be **in the office at 3 pm**? ![](/uploads/grammar/a1/basic-word-order-in-english/img-13.png)*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/english-word-order.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-1.png",
+        "alt": "Grammar chart illustrating the basic word order in English sentences, placement of adverbs of frequency, and tips to avoid common mistakes."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-9.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-10.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-10.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-11.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-11.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-12.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-12.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-13.png",
+        "public_path": "/uploads/grammar/a1/basic-word-order-in-english/img-13.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Basic word order in English",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I didn't like {0} last night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the food very much",
+                "very much the food"
+              ],
+              "correct": "the food very much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6084"
+        },
+        {
+          "index": 1,
+          "template": "We arrived {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "very late home",
+                "home very late"
+              ],
+              "correct": "home very late",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6085"
+        },
+        {
+          "index": 2,
+          "template": "Teresa speaks {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "very well English",
+                "English very well"
+              ],
+              "correct": "English very well",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6086"
+        },
+        {
+          "index": 3,
+          "template": "Please, can you put {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that box in the corner",
+                "in the corner that box"
+              ],
+              "correct": "that box in the corner",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6087"
+        },
+        {
+          "index": 4,
+          "template": "After the accident, Jim was {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in hospital for a week",
+                "for a week in hospital"
+              ],
+              "correct": "in hospital for a week",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6089"
+        },
+        {
+          "index": 5,
+          "template": "I like {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "this music a lot",
+                "a lot this music"
+              ],
+              "correct": "this music a lot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6088"
+        },
+        {
+          "index": 6,
+          "template": "They met {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "after a party at a friend's house",
+                "at a friend's house after a party"
+              ],
+              "correct": "after a party at a friend's house",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6090"
+        },
+        {
+          "index": 7,
+          "template": "Tigers approach {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "their victims very slowly",
+                "very slowly their victims"
+              ],
+              "correct": "their victims very slowly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6092"
+        },
+        {
+          "index": 8,
+          "template": "I saw {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at the library Hellen",
+                "Hellen at the library"
+              ],
+              "correct": "Hellen at the library",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6093"
+        },
+        {
+          "index": 9,
+          "template": "He finished {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the exam very quickly",
+                "very quickly the exam"
+              ],
+              "correct": "the exam very quickly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6096"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Basic word order in English",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I walk _____.",
+          "options": [
+            "my dog in the park every day",
+            "my dog every day in the park",
+            "every day my dog in the park"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Lisa took _____.",
+          "options": [
+            "her son to the doctor this morning",
+            "to the doctor her son this morning",
+            "this morning her son to the doctor"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Can you drive _____?",
+          "options": [
+            "home me after the concert",
+            "me after the concert home",
+            "me home after the concert"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We ______.",
+          "options": [
+            "enjoyed very much the trip",
+            "enjoyed the trip very much",
+            "very much enjoyed the trip"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I _____.",
+          "options": [
+            "bought in Paris this jacket last year",
+            "bought this jacket last year in Paris",
+            "bought this jacket in Paris last year"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I ______.",
+          "options": [
+            "will call my parents immediately",
+            "will call immediately my parents",
+            "immediately will call my parents"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "David ________.",
+          "options": [
+            "very much loves his children",
+            "loves his children very much",
+            "loves very much his children"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I learnt ______.",
+          "options": [
+            "Italian in Rome during a student exchange program",
+            "Italian during a student exchange program in Rome",
+            "in Rome Italian during a student exchange program"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "We ______.",
+          "options": [
+            "always finish school at 3.30 pm",
+            "finish always school at 3.30 pm",
+            "finish school at 3.30 pm always"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I _____.",
+          "options": [
+            "don't play very often tennis",
+            "don't like tennis very much",
+            "don't like very much tennis"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Basic word order in English",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "a nice lunch / had / today / we / at a restaurant ⇒ We {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had a nice lunch today at a restaurant.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6097"
+        },
+        {
+          "index": 1,
+          "template": "the keys / last night / in the car / forgot / He ⇒ He {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "forgot the keys last night in the car.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6098"
+        },
+        {
+          "index": 2,
+          "template": "often / Susan / takes / to work / a taxi ⇒ Susan {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "often takes a taxi to work.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6099"
+        },
+        {
+          "index": 3,
+          "template": "have to return / I / the book / to the library / today ⇒ I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "have to return the book to the library today.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6100"
+        },
+        {
+          "index": 4,
+          "template": "are / never / at lunchtime / They / at home ⇒ They {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are never at home at lunchtime.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6101"
+        },
+        {
+          "index": 5,
+          "template": "It / always / very hot / here / in July / is ⇒ It {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is always very hot here in July.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6104"
+        },
+        {
+          "index": 6,
+          "template": "play / football / after school / in the park / We ⇒ We {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "play football in the park after school.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6105"
+        },
+        {
+          "index": 7,
+          "template": "usually / She / cereal / has / for breakfast ⇒ She {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "usually has cereal for breakfast.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6106"
+        },
+        {
+          "index": 8,
+          "template": "met / at a nightclub / in 2006 / Linda / her husband ⇒ Linda {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "met her husband at a nightclub in 2006.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6109"
+        },
+        {
+          "index": 9,
+          "template": "always / I / from home / work / on Tuesdays ⇒ I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "always work from home on Tuesdays.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6111"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Basic word order in English",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I didn't like {0} last night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the food very much",
+                "very much the food"
+              ],
+              "correct": "the food very much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6084"
+        },
+        {
+          "index": 1,
+          "template": "We arrived {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "very late home",
+                "home very late"
+              ],
+              "correct": "home very late",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6085"
+        },
+        {
+          "index": 2,
+          "template": "Teresa speaks {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "very well English",
+                "English very well"
+              ],
+              "correct": "English very well",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6086"
+        },
+        {
+          "index": 3,
+          "template": "Please, can you put {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that box in the corner",
+                "in the corner that box"
+              ],
+              "correct": "that box in the corner",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6087"
+        },
+        {
+          "index": 4,
+          "template": "After the accident, Jim was {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in hospital for a week",
+                "for a week in hospital"
+              ],
+              "correct": "in hospital for a week",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6089"
+        },
+        {
+          "index": 5,
+          "template": "I like {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "this music a lot",
+                "a lot this music"
+              ],
+              "correct": "this music a lot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6088"
+        },
+        {
+          "index": 6,
+          "template": "They met {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "after a party at a friend's house",
+                "at a friend's house after a party"
+              ],
+              "correct": "at a friend's house after a party",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6090"
+        },
+        {
+          "index": 7,
+          "template": "Tigers approach {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "their victims very slowly",
+                "very slowly their victims"
+              ],
+              "correct": "their victims very slowly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6092"
+        },
+        {
+          "index": 8,
+          "template": "I saw {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at the library Hellen",
+                "Hellen at the library"
+              ],
+              "correct": "Hellen at the library",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6093"
+        },
+        {
+          "index": 9,
+          "template": "He finished {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the exam very quickly",
+                "very quickly the exam"
+              ],
+              "correct": "the exam very quickly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6096"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

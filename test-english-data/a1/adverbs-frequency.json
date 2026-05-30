@@ -1,0 +1,601 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "adverbs-frequency",
+  "order_index": 7,
+  "title": "Adverbs of frequency with present simple",
+  "source_url": "https://test-english.com/grammar-points/a1/adverbs-frequency/",
+  "scraped_at": "2026-05-23T07:02:26.312Z",
+  "explanation": {
+    "markdown": "## Adverbs of frequency\n\nWe use adverbs of frequency with the present simple to talk about how often something happens.  \n  \n![Educational chart for A1 elementary English learners showing adverbs of frequency with percentages and examples, plus word order rules in positive sentences and questions.](/uploads/grammar/a1/adverbs-frequency/img-1.png)\n\n#### Position\n\nThe [position](https://test-english.com/grammar-points/a1/basic-word-order-in-english/) of adverbs of frequency is **before the verb** but **after** the verb **be**.  \n  \nIn **negative sentences**, the adverb of frequency goes after **don’t/doesn’t**:\n\n-   *We don’t **often** go to bed late.*\n-   *He doesn’t **always** agree with me.*  \n\nIn **questions**, adverbs of frequency go after the subject.\n\n-   *Is he **always** late?*\n-   *Do they **often** go to the library?*\n\n#### **Never/hardly ever**\n\nThe adverbs **never** and **hardly ever** (=almost never) have a negative meaning, but they are used with a positive verb:\n\n-   *He **is never** late.* ![](/uploads/grammar/a1/adverbs-frequency/img-2.png)\n-   *He **isn’t never** late.* ![](/uploads/grammar/a1/adverbs-frequency/img-3.png)\n-   *They **hardly ever go** to the library.* ![](/uploads/grammar/a1/adverbs-frequency/img-4.png)\n-   *They **don’t hardly ever go** to the library.* ![](/uploads/grammar/a1/adverbs-frequency/img-5.png)\n\n## Expressions of frequency\n\nThere are other expressions that we use to talk about frequency: **once a day, twice a week, three times a month, every day, etc**. These expressions are longer (2 words or more), and they go at the end of the sentence.\n\n-   *I brush my teeth **three times a day**.* \n-   *I see her **every day**.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/adverbs_frequency_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/adverbs-frequency/img-1.png",
+        "alt": "Educational chart for A1 elementary English learners showing adverbs of frequency with percentages and examples, plus word order rules in positive sentences and questions."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/adverbs-frequency/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/adverbs-frequency/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/adverbs-frequency/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/adverbs-frequency/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Adverbs of frequency with present simple",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Our teacher is often late.",
+            "Our teacher often is late.",
+            "Is often our teacher late?",
+            "Often our teacher is late."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Never we eat fast food.",
+            "We eat never fast food.",
+            "We eat fast food never.",
+            "We never eat fast food."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Which sentence is correct?",
+          "options": [
+            "My father doesn't hardly ever watch football on TV.",
+            "My father watches hardly ever football on TV.",
+            "My father watches football on TV hardly ever.",
+            "My father hardly ever watches football on TV."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Do often you go to the cinema?",
+            "Do you often go to the cinema?",
+            "Do you go often to the cinema?",
+            "Do you go to the cinema often?"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Which sentence is correct?",
+          "options": [
+            "He usually doesn't go to bed late.",
+            "He doesn't go to bed late usually.",
+            "He doesn't usually go to bed late.",
+            "Does he go usually late to bed?"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Which sentence is correct?",
+          "options": [
+            "I  every week have piano lessons.",
+            "I  have every week piano lessons.",
+            "I have piano lessons every week.",
+            "I every week have piano lessons."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Which sentence is correct?",
+          "options": [
+            "They always are very tired after the match.",
+            "They are always very tired after the match.",
+            "They are very tired after the match always.",
+            "Always they are very tired after the match."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Which sentence is correct?",
+          "options": [
+            "We always have  breakfast at home.",
+            "Always we have breakfast at home.",
+            "We have always breakfast at home.",
+            "We have breakfast at home always."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Which sentence is correct?",
+          "options": [
+            "She doesn't wear jeans often.",
+            "She often doesn't wear jeans.",
+            "Often she doesn't wear jeans.",
+            "She doesn't often wear jeans."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Are you sometimes tired at the end of the class?",
+            "Are sometimes you tired at the end of the class?",
+            "Are you tired sometimes at the end of the class?",
+            "You are sometimes tired at the end of the class?"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Adverbs of frequency with present simple",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Tom _____ to the radio.",
+          "options": [
+            "never listens",
+            "doesn't never listen",
+            "never doesn't listen"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ in class on time?",
+          "options": [
+            "Is always your teacher",
+            "Is your teacher always",
+            "Always is your teacher"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "He _____ his homework.",
+          "options": [
+            "hardly ever doesn't do",
+            "doesn't hardly ever do",
+            "hardly ever does"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "He _____ to class.",
+          "options": [
+            "doesn't always go",
+            "always doesn't go",
+            "doesn't go always"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Alice and Tom _____.",
+          "options": [
+            "cook every day dinner",
+            "every day cook diner",
+            "cook dinner every day"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "She _____ during dinner.",
+          "options": [
+            "has hardly ever wine",
+            "hardly ever has wine",
+            "has wine hardly ever"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "What time _____ at the weekend?",
+          "options": [
+            "do you usually get up",
+            "usually do you get up",
+            "usually you get up"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "We _____ our mistakes.",
+          "options": [
+            "don't often admit",
+            "often don't admit",
+            "don't admit often"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Mark _____.",
+          "options": [
+            "always is busy",
+            "is busy always",
+            "is always busy"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "My brother _____.",
+          "options": [
+            "reads comics sometimes",
+            "sometimes reads comics",
+            "reads sometimes comics"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Adverbs of frequency with present simple",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She has a shower in the morning. (always) ⇒ She {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "always do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3910"
+        },
+        {
+          "index": 1,
+          "template": "Where do you go running? (usually) ⇒ Where {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do you usually go running",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3911"
+        },
+        {
+          "index": 2,
+          "template": "She is full of energy. (always) ⇒ She {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is always",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3912"
+        },
+        {
+          "index": 3,
+          "template": "My parents approve of my friends. (hardly ever) ⇒ My parents {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "hardly ever approve of my friends",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3914"
+        },
+        {
+          "index": 4,
+          "template": "I listen to the radio. (every night) ⇒ I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "listen to the radio every night",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3918"
+        },
+        {
+          "index": 5,
+          "template": "He is strict with his students. (sometimes) ⇒ He {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is sometimes strict with his students",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3913"
+        },
+        {
+          "index": 6,
+          "template": "I don't ask for help when I need it. (usually) ⇒ I {0} when I need it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "usually don't ask for help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3915"
+        },
+        {
+          "index": 7,
+          "template": "He is late for school. (never) ⇒ He {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is never late for school",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3916"
+        },
+        {
+          "index": 8,
+          "template": "You make mistakes. (often) ⇒ You {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "often make mistakes",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3917"
+        },
+        {
+          "index": 9,
+          "template": "I meditate. (usually/twice a day) ⇒ I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "usually meditate twice a day",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3919"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Adverbs of frequency with present simple",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Our teacher is often late.",
+            "Our teacher often is late.",
+            "Is often our teacher late?",
+            "Often our teacher is late."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Never we eat fast food.",
+            "We eat never fast food.",
+            "We eat fast food never.",
+            "We never eat fast food."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Which sentence is correct?",
+          "options": [
+            "My father doesn't hardly ever watch football on TV.",
+            "My father watches hardly ever football on TV.",
+            "My father watches football on TV hardly ever.",
+            "My father hardly ever watches football on TV."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Do often you go to the cinema?",
+            "Do you often go to the cinema?",
+            "Do you go often to the cinema?",
+            "Do you go to the cinema often?"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Which sentence is correct?",
+          "options": [
+            "He usually doesn't go to bed late.",
+            "He doesn't go to bed late usually.",
+            "He doesn't usually go to bed late.",
+            "Does he go usually late to bed?"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Which sentence is correct?",
+          "options": [
+            "I  every week have piano lessons.",
+            "I  have every week piano lessons.",
+            "I have piano lessons every week.",
+            "I every week have piano lessons."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Which sentence is correct?",
+          "options": [
+            "They always are very tired after the match.",
+            "They are always very tired after the match.",
+            "They are very tired after the match always.",
+            "Always they are very tired after the match."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Which sentence is correct?",
+          "options": [
+            "We always have  breakfast at home.",
+            "Always we have breakfast at home.",
+            "We have always breakfast at home.",
+            "We have breakfast at home always."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Which sentence is correct?",
+          "options": [
+            "She doesn't wear jeans often.",
+            "She often doesn't wear jeans.",
+            "Often she doesn't wear jeans.",
+            "She doesn't often wear jeans."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Which sentence is correct?",
+          "options": [
+            "Are you sometimes tired at the end of the class?",
+            "Are sometimes you tired at the end of the class?",
+            "Are you tired sometimes at the end of the class?",
+            "You are sometimes tired at the end of the class?"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

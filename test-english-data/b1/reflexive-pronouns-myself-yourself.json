@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "reflexive-pronouns-myself-yourself",
+  "order_index": 10,
+  "title": "Reflexive pronouns: Myself, yourself, etc.",
+  "source_url": "https://test-english.com/grammar-points/b1/reflexive-pronouns-myself-yourself/",
+  "scraped_at": "2026-05-23T07:21:31.707Z",
+  "explanation": {
+    "markdown": "## Reflexive pronouns\n\n![Educational chart detailing reflexive pronouns such as 'myself, yourself, himself' and their uses in sentences, with sections on reciprocal pronouns 'each other' and 'one another' and phrases like 'by myself' for B1 Intermediate English learners.](/uploads/grammar/b1/reflexive-pronouns-myself-yourself/img-1.png)\n\nThe reflexive  pronouns are **myself, yourself, himself, herself, itself, ourselves, yourselves, themselves**.\n\n#### Same subject and object\n\nThe reflexive pronouns are normally used when the [subject and the object](https://test-english.com/grammar-points/a1/object-pronouns/) are the same person.\n\n-   *She cut **herself** chopping the onions.* \n-   *We really enjoyed **ourselves** at the party.* \n-   *Talking to **oneself** is not necessarily a sign of madness.* \n\n#### After preposition\n\nWe can use reflexive pronouns after most prepositions if they refer back to the subject.\n\n-   *He should be really proud of **himself**.* \n-   *With the 3-D printer and this scanner, you can print a small version of **yourself**.* \n\n#### To emphasise who did the action\n\nWe also use a reflexive pronoun to emphasise that the subject does the action and nobody else. In this sense, we can use the reflexive at the end of the sentence or after the subject.\n\n-   *I will talk to Anna **myself**.* \n-   *I think you should do it **yourself** instead of having it done.* \n-   *Paul **himself** designed everything.* \n\n#### Verbs with NO reflexive pronoun\n\nStudents of English often make mistakes when they use some verbs which are used reflexively in their language but not in English. Some of these verbs are **concentrate, dress**, **shave**, [**wash**](https://test-english.com/grammar-points/shorts/clean-vs-wash-grammar-shorts/), **relax**, **hurry**, or **open**.\n\n-   *The first thing I do is **wash**, **shave**, and **dress**.*\n-   *When I arrive home, I only want to **relax** on the sofa.* \n-   *Please **hurry**, or we’ll be late.* \n-   *The door **opened**, and everybody got in.* \n\n#### **By myself, on my own**\n\nWe can say **by myself, by yourself, etc.** to mean ‘alone, without anybody else’, or ‘without anybody’s help’.\n\n-   *My son doesn’t like to be **by himself**; he always wants us around.* \n-   *She raised her four children **by herself**.* \n\nWe can also say **on my own, on your own, etc.**\n\n-   *I was **on my own** all morning.*\n-   *She did it **on her own**.*\n\n## Reciprocal pronouns\n\nWe use [**each other**](https://test-english.com/grammar-points/b2/reflexive-reciprocal-pronouns/) or **one another** when person A does something to person B and person B does something to person A.\n\n-   *When the twins found **each other**, they had been living apart for more than ten years.* \n-   *You should try to understand **one another**.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Reflexive-pronouns_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/reflexive-pronouns-myself-yourself/img-1.png",
+        "alt": "Educational chart detailing reflexive pronouns such as 'myself, yourself, himself' and their uses in sentences, with sections on reciprocal pronouns 'each other' and 'one another' and phrases like 'by myself' for B1 Intermediate English learners."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Reflexive pronouns: Myself, yourself, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Don't worry about the plants. I'll water them {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me",
+                "by me",
+                "myself"
+              ],
+              "correct": "myself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1720"
+        },
+        {
+          "index": 1,
+          "template": "I'm looking forward to your visit. It's been a long time since we last saw {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ourselves",
+                "each other",
+                "us"
+              ],
+              "correct": "each other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1721"
+        },
+        {
+          "index": 2,
+          "template": "When I get home, I like to relax {0}. I lie on the sofa and watch some TV.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "myself",
+                "-",
+                "me"
+              ],
+              "correct": "me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1722"
+        },
+        {
+          "index": 3,
+          "template": "Dear John, you must forgive {0} for not writing earlier.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me",
+                "my",
+                "myself"
+              ],
+              "correct": "myself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1723"
+        },
+        {
+          "index": 4,
+          "template": "Did you enjoy {0} at the party last night?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "-",
+                "yourself",
+                "you"
+              ],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1724"
+        },
+        {
+          "index": 5,
+          "template": "My mother and I don't see {0} very often now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "each other",
+                "ourselves",
+                "us"
+              ],
+              "correct": "each other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1725"
+        },
+        {
+          "index": 6,
+          "template": "We must learn to love {0} before we can love others.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ourselves",
+                "our",
+                "us"
+              ],
+              "correct": "ourselves",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1726"
+        },
+        {
+          "index": 7,
+          "template": "She often talks to {0} when she is stressed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "she",
+                "herself",
+                "her"
+              ],
+              "correct": "herself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1727"
+        },
+        {
+          "index": 8,
+          "template": "I'll introduce {0} to Erica. I think you'll like her.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "yourself",
+                "yours",
+                "you"
+              ],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1728"
+        },
+        {
+          "index": 9,
+          "template": "During the following months, Mat and I got to know {0} better.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "each other",
+                "we",
+                "us"
+              ],
+              "correct": "each other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1729"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Reflexive pronouns: Myself, yourself, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The food is on the table. Please serve ______.",
+          "options": [
+            "yourself",
+            "you",
+            "myself"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Susan's composition is brilliant. Do you think she wrote it ______. Choose TWO correct options",
+          "options": [
+            "her",
+            "herself",
+            "by herself"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I always wash ______ and shave ______ before going out for a drink.",
+          "options": [
+            "- / myself",
+            "- / -",
+            "myself / myself"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "You must be careful not to cut ______.",
+          "options": [
+            "you",
+            "myself",
+            "yourself"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Could you tell ______ what happened?",
+          "options": [
+            "me",
+            "ourselves",
+            "myself"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "During a race, I keep telling ______ that I'm not tired.",
+          "options": [
+            "myself",
+            "me",
+            "-"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I organised the whole event ______. Choose TWO correct options",
+          "options": [
+            "by myself",
+            "by my own",
+            "on my own"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "You should behave ______ when you are at your grandparent's home.",
+          "options": [
+            "you",
+            "your",
+            "yourselves"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Which TWO sentences are correct?",
+          "options": [
+            "I fixed my watch myself.",
+            "I fixed myself my watch.",
+            "I myself fixed my watch."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Several police officers have been injured when two police cars have crashed into ______.",
+          "options": [
+            "each other",
+            "them",
+            "themselves"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Reflexive pronouns: Myself, yourself, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She shouldn't blame {0} for what happened. It's not her fault.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1740"
+        },
+        {
+          "index": 1,
+          "template": "He had to prepare everything on his {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "own",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1741"
+        },
+        {
+          "index": 2,
+          "template": "Can you introduce {0} to your new friend? I'd like to meet him.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "myself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1744"
+        },
+        {
+          "index": 3,
+          "template": "You should be ashamed of {0}. What you did was very wrong.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1742"
+        },
+        {
+          "index": 4,
+          "template": "Don't worry about us. We can take care of {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ourselves",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1743"
+        },
+        {
+          "index": 5,
+          "template": "Please, don't hurt {0}. He hasn't done anything wrong.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "myself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1745"
+        },
+        {
+          "index": 6,
+          "template": "He's going to hurt {0} if he doesn't pay more attention.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1746"
+        },
+        {
+          "index": 7,
+          "template": "Her name's Alisha, but we call {0} Ali.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1747"
+        },
+        {
+          "index": 8,
+          "template": "I have taught {0} to play the guitar just by watching video tutorials.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "myself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1748"
+        },
+        {
+          "index": 9,
+          "template": "You will see {0} at the next event. We will be there.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "myself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1749"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Reflexive pronouns: Myself, yourself, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Don't worry about the plants. I'll water them {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me",
+                "by me",
+                "myself"
+              ],
+              "correct": "by me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1720"
+        },
+        {
+          "index": 1,
+          "template": "I'm looking forward to your visit. It's been a long time since we last saw {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ourselves",
+                "each other",
+                "us"
+              ],
+              "correct": "each other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1721"
+        },
+        {
+          "index": 2,
+          "template": "When I get home, I like to relax {0}. I lie on the sofa and watch some TV.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "myself",
+                "-",
+                "me"
+              ],
+              "correct": "me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1722"
+        },
+        {
+          "index": 3,
+          "template": "Dear John, you must forgive {0} for not writing earlier.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me",
+                "my",
+                "myself"
+              ],
+              "correct": "me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1723"
+        },
+        {
+          "index": 4,
+          "template": "Did you enjoy {0} at the party last night?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "-",
+                "yourself",
+                "you"
+              ],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1724"
+        },
+        {
+          "index": 5,
+          "template": "My mother and I don't see {0} very often now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "each other",
+                "ourselves",
+                "us"
+              ],
+              "correct": "each other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1725"
+        },
+        {
+          "index": 6,
+          "template": "We must learn to love {0} before we can love others.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ourselves",
+                "our",
+                "us"
+              ],
+              "correct": "ourselves",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1726"
+        },
+        {
+          "index": 7,
+          "template": "She often talks to {0} when she is stressed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "she",
+                "herself",
+                "her"
+              ],
+              "correct": "herself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1727"
+        },
+        {
+          "index": 8,
+          "template": "I'll introduce {0} to Erica. I think you'll like her.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "yourself",
+                "yours",
+                "you"
+              ],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1728"
+        },
+        {
+          "index": 9,
+          "template": "During the following months, Mat and I got to know {0} better.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "each other",
+                "we",
+                "us"
+              ],
+              "correct": "each other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1729"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

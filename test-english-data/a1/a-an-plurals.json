@@ -1,0 +1,704 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "a-an-plurals",
+  "order_index": 3,
+  "title": "A/an, plurals: Singular and plural forms",
+  "source_url": "https://test-english.com/grammar-points/a1/a-an-plurals/",
+  "scraped_at": "2026-05-23T07:02:13.719Z",
+  "explanation": {
+    "markdown": "## **A/an**, plurals – Grammar chart\n\n![Comprehensive English grammar chart displaying rules for using articles 'a/an' and forming regular and irregular plurals with examples and spelling guidelines.](/uploads/grammar/a1/a-an-plurals/img-1.png)\n\n## A/an\n\nWe use **a/an** with singular nouns.\n\n-   *This is **a table**.* \n-   *It’s **an orange**.* \n\nWe use **a** with nouns beginning with a consonant, and we use **an** with nouns beginning with a vowel (a, e, i, o, u).\n\n-   *Give me **an a**pple.* \n-   *There is **an e**lephant in the zoo.* \n-   *It’s **an a**mazing experience.* \n\nWe also use **an** with nouns beginning with **h** if the **h** is not pronounced. But we use **a** if the **h** is pronounced.\n\n-   *Give me **an h**our.* (The **h** is not pronounced in **~h~our**.)\n-   *I want to buy **a h**at*. (The **h** is pronounced in **hat**.)\n\nWe use **a** and NOT **an** with nouns beginning with **u** when it is pronounced /ju:/, like **university.** \n\n-   *Is there **a u**niversity in this city?* \n-   *I wear **a u**niform.* \n\n## Plurals in English\n\n#### Do not use ***a*** \\+ plural\n\nWe do NOT use **a/an** with plural nouns.\n\n-   *These are **tables***. ![](/uploads/grammar/a1/a-an-plurals/img-2.png) \n-   *These are **a tables***. ![](/uploads/grammar/a1/a-an-plurals/img-3.png) \n\n#### Regular plurals\n\nWe add **\\-s** to make plural nouns in English. Sometimes we need to add **\\-es**, **\\-ies** or –**ves**. Check the spelling in the grammar chart above.\n\n#### Irregular plurals\n\nSome words have irregular plurals and do NOT add **\\-s** to make their plural form.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/a-an_plurals.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/a-an-plurals/img-1.png",
+        "alt": "Comprehensive English grammar chart displaying rules for using articles 'a/an' and forming regular and irregular plurals with examples and spelling guidelines."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "A/an, plurals: Singular and plural forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It's {0} animal.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3666"
+        },
+        {
+          "index": 1,
+          "template": "I need {0} new bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a",
+                "an"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3667"
+        },
+        {
+          "index": 2,
+          "template": "It's {0} useful machine.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a",
+                "an"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3668"
+        },
+        {
+          "index": 3,
+          "template": "I'm {0} waiter.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3669"
+        },
+        {
+          "index": 4,
+          "template": "Do you have {0} umbrella?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3670"
+        },
+        {
+          "index": 5,
+          "template": "I'm {0} English teacher.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3671"
+        },
+        {
+          "index": 6,
+          "template": "I need {0} hat.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3672"
+        },
+        {
+          "index": 7,
+          "template": "Is she {0} student?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a",
+                "an"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3673"
+        },
+        {
+          "index": 8,
+          "template": "We have {0} ugly duck.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3674"
+        },
+        {
+          "index": 9,
+          "template": "I need {0} hour.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3675"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "A/an, plurals: Singular and plural forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "a university ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3676"
+        },
+        {
+          "index": 1,
+          "template": "a sandwich ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "sandwiches",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3677"
+        },
+        {
+          "index": 2,
+          "template": "a street ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "streets",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3678"
+        },
+        {
+          "index": 3,
+          "template": "a rich man ⇒ rich {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "men",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3679"
+        },
+        {
+          "index": 4,
+          "template": "one foot ⇒ two {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "feet",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3680"
+        },
+        {
+          "index": 5,
+          "template": "a dirty bag ⇒ dirty {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "bags",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3681"
+        },
+        {
+          "index": 6,
+          "template": "an expensive watch ⇒ expensive {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "watches",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3682"
+        },
+        {
+          "index": 7,
+          "template": "a new phone ⇒ new {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "phones",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3683"
+        },
+        {
+          "index": 8,
+          "template": "a nice photograph ⇒ nice {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "photographs",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3684"
+        },
+        {
+          "index": 9,
+          "template": "One glass of wine ⇒ two {0} of wine",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "glasses",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3685"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "A/an, plurals: Singular and plural forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} bus ⇒ {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3686"
+        },
+        {
+          "index": 1,
+          "template": "{0} nice family ⇒ nice {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "families",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3687"
+        },
+        {
+          "index": 2,
+          "template": "{0} Italian child ⇒ Italian {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "children",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3688"
+        },
+        {
+          "index": 3,
+          "template": "{0} strong tooth ⇒ strong {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "teeth",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3689"
+        },
+        {
+          "index": 4,
+          "template": "{0} nice dress ⇒ nice {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "dresses",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3690"
+        },
+        {
+          "index": 5,
+          "template": "{0} angry wife ⇒ angry {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wives",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3691"
+        },
+        {
+          "index": 6,
+          "template": "{0} uniform ⇒ {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3692"
+        },
+        {
+          "index": 7,
+          "template": "{0} amazing website ⇒ amazing {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "websites",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3693"
+        },
+        {
+          "index": 8,
+          "template": "{0} elephant ⇒ {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "an",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3694"
+        },
+        {
+          "index": 9,
+          "template": "{0} empty library ⇒ empty {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "libraries",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3695"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "A/an, plurals: Singular and plural forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It's {0} animal.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3666"
+        },
+        {
+          "index": 1,
+          "template": "I need {0} new bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a",
+                "an"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3667"
+        },
+        {
+          "index": 2,
+          "template": "It's {0} useful machine.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a",
+                "an"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3668"
+        },
+        {
+          "index": 3,
+          "template": "I'm {0} waiter.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3669"
+        },
+        {
+          "index": 4,
+          "template": "Do you have {0} umbrella?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3670"
+        },
+        {
+          "index": 5,
+          "template": "I'm {0} English teacher.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3671"
+        },
+        {
+          "index": 6,
+          "template": "I need {0} hat.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3672"
+        },
+        {
+          "index": 7,
+          "template": "Is she {0} student?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a",
+                "an"
+              ],
+              "correct": "a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3673"
+        },
+        {
+          "index": 8,
+          "template": "We have {0} ugly duck.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3674"
+        },
+        {
+          "index": 9,
+          "template": "I need {0} hour.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "an",
+                "a"
+              ],
+              "correct": "an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3675"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

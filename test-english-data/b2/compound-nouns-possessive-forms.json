@@ -1,0 +1,674 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "compound-nouns-possessive-forms",
+  "order_index": 23,
+  "title": "Compound nouns and possessive forms",
+  "source_url": "https://test-english.com/grammar-points/b2/compound-nouns-possessive-forms/",
+  "scraped_at": "2026-05-23T07:27:51.433Z",
+  "explanation": {
+    "markdown": "## Possessive **‘s**\n\nWe normally use **‘s** with people or animals. However, we can also use it with time expressions, shops, places (cities, countries, etc.) and organisations.  \n  \n![Grammar chart - Possessive 's](/uploads/grammar/b2/compound-nouns-possessive-forms/img-1.jpg)\n\n🔍 **Note** that we can use both the possessive **‘s** or **of** when talking about places or organisations,\n\n-   ***The decision of the country/The country’s decision** to raise taxes is very controversial.*\n-   ***The prediction of the bank/The bank’s prediction** is very optimistic.* \n\nLook at the table below to see how to use the possessive case.\n\n![Grammar chart showing rules and examples for using possessive ’s forms in English grammar.](/uploads/grammar/b2/compound-nouns-possessive-forms/img-2.png)\n\n🔍 **Note** that we use **of** + possessive case or possessive pronoun if there is a determiner (**a, some, this, etc**.) before the nouns.\n\n-   ***Some** friends of **Anna’s** came to the party.* (=some of Anna’s friends.)\n-   ***Some** friends of **hers** came to the party.*\n-   *Isn’t that **a** friend of your **sister’s**?* (=one of your sister’s friends.)\n\n## Using possessive **of**\n\n#### Inanimate things and abstract nouns\n\nWe normally use **of** instead of **‘s** when talking about inanimate things, parts of things, or abstract nouns.\n\n-   *We enjoyed the **beauty of the park**.*\n-   *The **head of the shower** is broken.* \n-   *Go to the **end of the street**.*\n-   *Love is the **secret of life**.*\n\n#### Long noun phrases\n\nWe also use **of** instead of **‘s** with long noun phrases.\n\n-   *This is the child **the neighbours who live next door’s child**. ![](/uploads/grammar/b2/compound-nouns-possessive-forms/img-3.png)* \n-   *This is the child **of the neighbours who live next door**.* ![](/uploads/grammar/b2/compound-nouns-possessive-forms/img-4.png)\n-   *That’s the wife **of one of my friends from Liverpool**.* \n\n## Compound nouns\n\nIn many cases, we use **noun + noun**, instead of possessive **‘s** or **of**. When we use **noun + noun**, the first noun is acting as a modifier of the second noun, like an adjective, and is normally singular (**tourist destination, stomach bug, school bus, etc.**). Sometimes more than one form is possible:\n\n-   *The **head of the shower/shower head** is broken.* \n-   *What’s the **school policy/school’s policy** on bullying?*\n\nHowever, we often prefer one form over the other because it’s more common: **bus stop, car key, toothpaste, car park, ice cream, haircut, etc**.\n\n#### One word, two separate words or two words linked with a hyphen?\n\nCompound nouns are often two separate words, e.g. **school bus, car park, etc**., but very common compound nouns are sometimes used as one word, e.g. **bathroom, haircut, etc**., and sometimes linked with a hyphen, e.g. **letter-box**. But on many occasions, you can see the same compound noun written in different ways.\n\n#### Containers\n\nWe can use a compound noun to refer to a container, which is usually empty: **a tea cup, a wine glass, a beer glass, a matchbox, etc.**\n\n-   *Can you pass me those **tea cups**? I’m going to wash them.* (=they are empty)\n-   *She keeps the insects that she catches in that **matchbox**.* \n\n❗ **But** we use **noun + of + noun** to refer to a container together with its contents: **a cup of tea, a glass of wine, a glass of beer, a box of matches, etc.** \n\n-   *Would you like a **cup of tea**?* (=a cup with tea in it)\n-   *I need to light this candle. Do you have a **box of matches**?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/possessive-s-use-new.jpg",
+        "local_filename": "img-1.jpg",
+        "public_path": "/uploads/grammar/b2/compound-nouns-possessive-forms/img-1.jpg",
+        "alt": "Grammar chart - Possessive 's"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/possessive-s-form_new.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b2/compound-nouns-possessive-forms/img-2.png",
+        "alt": "Grammar chart showing rules and examples for using possessive ’s forms in English grammar."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b2/compound-nouns-possessive-forms/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b2/compound-nouns-possessive-forms/img-4.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Compound nouns and possessive forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Would you like a {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wine's glass",
+                "wine glass",
+                "glass of wine"
+              ],
+              "correct": "wine glass",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1273"
+        },
+        {
+          "index": 1,
+          "template": "There are two big {0} outside the walls.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cars parks",
+                "parks of cars",
+                "car parks"
+              ],
+              "correct": "car parks",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1274"
+        },
+        {
+          "index": 2,
+          "template": "This is {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a Javier's friend",
+                "a Javier friend",
+                "a friend of Javier's"
+              ],
+              "correct": "a friend of Javier's",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1275"
+        },
+        {
+          "index": 3,
+          "template": "You must absolutely visit the {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "city centre",
+                "city's centre",
+                "centre of the city's"
+              ],
+              "correct": "city centre",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1276"
+        },
+        {
+          "index": 4,
+          "template": "I need to buy a new {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "computer keyboard",
+                "computer's keyboard",
+                "keyboard of computer"
+              ],
+              "correct": "computer keyboard",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1277"
+        },
+        {
+          "index": 5,
+          "template": "Are you coming to {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the party of Sunday",
+                "Sunday's party",
+                "Sunday party"
+              ],
+              "correct": "Sunday's party",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1278"
+        },
+        {
+          "index": 6,
+          "template": "Can you pass me a couple of {0} from the shelf?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "tea's cups",
+                "tea cups",
+                "cups of tea"
+              ],
+              "correct": "tea cups",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1280"
+        },
+        {
+          "index": 7,
+          "template": "We'll be back home in {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "two weeks' time",
+                "two week time",
+                "the time of two weeks"
+              ],
+              "correct": "two weeks' time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1281"
+        },
+        {
+          "index": 8,
+          "template": "He's one of {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the best chefs of Britain",
+                "Britain's best chefs",
+                "Britain best chefs"
+              ],
+              "correct": "Britain's best chefs",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1283"
+        },
+        {
+          "index": 9,
+          "template": "Forgetfulness is one of the main {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "problems of old age",
+                "old age's problems",
+                "problems of old age's"
+              ],
+              "correct": "problems of old age",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1284"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Compound nouns and possessive forms",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "This is ______.",
+          "options": [
+            "the brother of the student I told you about.",
+            "the student I told you about's brother.",
+            "the brother of the student's I told you about."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "It's ______ to the top of the mountain. Are you sure you want to go?",
+          "options": [
+            "a walk of 5 hours",
+            "5 hours' walk",
+            "5 hour's walk"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Some experts say that ______ isn't healthy for babies and toddlers.",
+          "options": [
+            "cow milk",
+            "milk of cow",
+            "cow's milk"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Write your name on ______.",
+          "options": [
+            "the top's page",
+            "the top of the page",
+            "the page's top"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "There are two new ______ in our street.",
+          "options": [
+            "shoe's shops",
+            "shoes shops",
+            "shoe shops"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The number of ______ has increased.",
+          "options": [
+            "road accidents",
+            "accidents of the road",
+            "road's accidents"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "A: Is that a ______? I need one to light the incense. B: No, that's just the ______ where I keep my old coins.",
+          "options": [
+            "matchbox / matchbox",
+            "matchbox / box of matches",
+            "box of matches / matchbox",
+            "box of matches / box of matches"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "______ was a total success.",
+          "options": [
+            "The party of yesterday",
+            "Yesterday's party",
+            "Yesterday party"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "One of the flashback sequences towards the ______ is absolutely brilliant.",
+          "options": [
+            "end of the film",
+            "film end",
+            "film's end"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The ______ is disappointing. Choose TWO correct options",
+          "options": [
+            "team's lack of ambition",
+            "lack of ambition of the team",
+            "team lack of ambition"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Compound nouns and possessive forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "New study suggests that laziness might be a high intelligence sign. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a sign of high intelligence.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1293"
+        },
+        {
+          "index": 1,
+          "template": "The attacker hit the victim with a table's leg. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the leg of the table.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1294"
+        },
+        {
+          "index": 2,
+          "template": "The world of sizes for clothes of women is bizarre. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "bizarre world of sizes for women's clothes.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1295"
+        },
+        {
+          "index": 3,
+          "template": "They stole several rings of gold and an expensive watch. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "several gold rings and an expensive watch.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1296"
+        },
+        {
+          "index": 4,
+          "template": "We bought some cheese of goat. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "some goat cheese.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1297"
+        },
+        {
+          "index": 5,
+          "template": "I have two weeks of holiday next month. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "two weeks' holiday next month.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1298"
+        },
+        {
+          "index": 6,
+          "template": "This is the car of mum and dad. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the car of my parents.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1299"
+        },
+        {
+          "index": 7,
+          "template": "I bought a new stories book. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a new book of stories.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1300"
+        },
+        {
+          "index": 8,
+          "template": "Do you know the man in the black suit's name? {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Do you know the name of the man in the black suit?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1301"
+        },
+        {
+          "index": 9,
+          "template": "We want to rebuild the stone's wall at the back of the courtyard. {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the wall of stone at the back of the courtyard.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1302"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Compound nouns and possessive forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Would you like a {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wine's glass",
+                "wine glass",
+                "glass of wine"
+              ],
+              "correct": "wine glass",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1273"
+        },
+        {
+          "index": 1,
+          "template": "There are two big {0} outside the walls.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cars parks",
+                "parks of cars",
+                "car parks"
+              ],
+              "correct": "car parks",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1274"
+        },
+        {
+          "index": 2,
+          "template": "This is {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a Javier's friend",
+                "a Javier friend",
+                "a friend of Javier's"
+              ],
+              "correct": "a friend of Javier's",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1275"
+        },
+        {
+          "index": 3,
+          "template": "You must absolutely visit the {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "city centre",
+                "city's centre",
+                "centre of the city's"
+              ],
+              "correct": "city centre",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1276"
+        },
+        {
+          "index": 4,
+          "template": "I need to buy a new {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "computer keyboard",
+                "computer's keyboard",
+                "keyboard of computer"
+              ],
+              "correct": "computer keyboard",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1277"
+        },
+        {
+          "index": 5,
+          "template": "Are you coming to {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the party of Sunday",
+                "Sunday's party",
+                "Sunday party"
+              ],
+              "correct": "Sunday's party",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1278"
+        },
+        {
+          "index": 6,
+          "template": "Can you pass me a couple of {0} from the shelf?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "tea's cups",
+                "tea cups",
+                "cups of tea"
+              ],
+              "correct": "tea cups",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1280"
+        },
+        {
+          "index": 7,
+          "template": "We'll be back home in {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "two weeks' time",
+                "two week time",
+                "the time of two weeks"
+              ],
+              "correct": "two weeks' time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1281"
+        },
+        {
+          "index": 8,
+          "template": "He's one of {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the best chefs of Britain",
+                "Britain's best chefs",
+                "Britain best chefs"
+              ],
+              "correct": "Britain's best chefs",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1283"
+        },
+        {
+          "index": 9,
+          "template": "Forgetfulness is one of the main {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "problems of old age",
+                "old age's problems",
+                "problems of old age's"
+              ],
+              "correct": "problems of old age",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1284"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

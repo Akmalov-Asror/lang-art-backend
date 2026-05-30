@@ -1,0 +1,689 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "so-neither",
+  "order_index": 28,
+  "title": "So, neither: So am I, neither do I, etc.",
+  "source_url": "https://test-english.com/grammar-points/a2/so-neither/",
+  "scraped_at": "2026-05-23T07:18:24.299Z",
+  "explanation": {
+    "markdown": "## So and neither: So am I, neither do I, etc.\n\n### **So-too, neither-either** – Grammar charts\n\n![So do I – so, neither](/uploads/grammar/a2/so-neither/img-1.png)\n\n![Neither do I – so, neither](/uploads/grammar/a2/so-neither/img-2.png)\n\n#### A is or does the same as B\n\nTo say that A is or does the same as B, we can use **so** + [**auxiliary verb**](https://test-english.com/grammar-points/a2/auxiliary-verbs-do-be-and-have/) + **subject** in affirmative sentences and **neither + auxiliary verb + subject** in negative sentences.\n\n-   A: *“I am from London.”*  B: *“**So** am I.”* (=I am from London too.)\n-   A: *“I’m not tired.”*  B: *“**Neither** am I.”* (=I am not tired either.)\n\n#### What auxiliary verb do we need?\n\nAfter **so**/**neither**, we use the same auxiliary or modal verb as in the first sentence: **be, do, have,** [**can**](https://test-english.com/grammar-points/a1/can-cant/), [**will**](https://test-english.com/grammar-points/a1/will-and-shall/), [must](https://test-english.com/grammar-points/a2/have-to-dont-have-to-must-mustnt/)**, etc.**\n\n-   A: *“Tomas **is** not going to the party.”*  B: *“Neither **is** Sally.”*\n-   A: *“I’**ll** be here at 7.”*  B: *“So **will** I.”*\n-   A: *“Lisa **can** play the guitar.”*  B: *“So **can** Tim.”*\n\nWhen there isn’t an auxiliary or modal verb in the first sentence, we use **do/does** in the present and **did** in the past.\n\n-   A: *“I want to leave.”*  B: *“So **do** I.”*\n-   A: *“George loves chocolate.”*  B: *“So **does** Bruno.”*\n-   A: *“I went to bed very late.”*  B: *“So **did** I.”*\n\n#### Nor = neither\n\nWe can use **nor** instead of **neither**.\n\n-   A: *“I wasn’t ready.”*  B: *“**Nor/Neither** was I.”*\n\n#### **Neither** is negative\n\n**Neither/nor** is a negative word, like **not**. For this reason, the auxiliary verb after **neither** should be affirmative.\n\n-   A: *“I didn’t see the film yesterday.”*  B: *“Neither **didn’t** I.” ![](/uploads/grammar/a2/so-neither/img-3.png)* \n-   A: *“I didn’t see the film yesterday.”*  B: *“Neither **did** I.” ![](/uploads/grammar/a2/so-neither/img-4.png)* \n-   A: *“Ray couldn’t answer the question.”*  B: *“Neither **couldn’t** Jimmy.” ![](/uploads/grammar/a2/so-neither/img-5.png)* \n-   A: *“Ray couldn’t answer the question.”*  B: *“Neither **could** Jimmy.” ![](/uploads/grammar/a2/so-neither/img-6.png)* \n\n## Too, either\n\nAnother way of saying that A is or does the same as B, is the use of **too** or **either** at the end of the sentence. We use **too** for affirmative sentences and **either** for negative sentences.\n\n-   A: *“I want to leave.”*  B: *“I want to leave **too**.”*\n-   A: *“I didn’t go.”*  B: *“I didn’t go **either**.”*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/so-neither_so-too_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/so-neither/img-1.png",
+        "alt": "So do I – so, neither"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/so-neither_neither-either_new.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/so-neither/img-2.png",
+        "alt": "Neither do I – so, neither"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/so-neither/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/so-neither/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/so-neither/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a2/so-neither/img-6.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "So, neither: So am I, neither do I, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A: 'I haven't written the essay yet.' B: 'Neither {0} I.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do",
+                "haven't",
+                "have"
+              ],
+              "correct": "have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3492"
+        },
+        {
+          "index": 1,
+          "template": "A: 'I'm very thirsty.' B: '{0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "So do I",
+                "So am I",
+                "Too I am"
+              ],
+              "correct": "So am I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3499"
+        },
+        {
+          "index": 2,
+          "template": "A: 'Sam won't help us.' B: 'Neither {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will Scotty",
+                "does Scotty",
+                "won't Scotty"
+              ],
+              "correct": "will Scotty",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3498"
+        },
+        {
+          "index": 3,
+          "template": "A: 'I can't forgive them for what happened.' B: 'I can't forgive them {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "neither",
+                "too",
+                "either"
+              ],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3500"
+        },
+        {
+          "index": 4,
+          "template": "A: 'I drink too much coffee.' B: '{0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "So do I",
+                "So am I",
+                "Neither do I"
+              ],
+              "correct": "So do I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3501"
+        },
+        {
+          "index": 5,
+          "template": "A: 'Mum was very proud of us.' B: 'And {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so was dad",
+                "too was dad",
+                "so dad was"
+              ],
+              "correct": "so was dad",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3502"
+        },
+        {
+          "index": 6,
+          "template": "Ann will be there and so {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will her sister",
+                "her sister will",
+                "is her sister"
+              ],
+              "correct": "will her sister",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3503"
+        },
+        {
+          "index": 7,
+          "template": "A: 'You didn't tell the truth.' B: 'Nor {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you",
+                "you did",
+                "didn't you"
+              ],
+              "correct": "did you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3504"
+        },
+        {
+          "index": 8,
+          "template": "A: 'I watched the match in a pub.' B: 'So {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I did",
+                "did I",
+                "was I"
+              ],
+              "correct": "I did",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3505"
+        },
+        {
+          "index": 9,
+          "template": "A: 'I would really like to go.' B: '{0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Neither would I",
+                "So would I",
+                "So did I"
+              ],
+              "correct": "So would I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3506"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "So, neither: So am I, neither do I, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "A: 'I can't go to the presentation.' B: '_____ .'",
+          "options": [
+            "Neither can't I",
+            "Neither can I",
+            "So can I"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "A: 'I'm not going out tonight.' B: '_____.' Choose TWO correct answers",
+          "options": [
+            "Neither I am",
+            "Neither am I",
+            "I am either",
+            "I'm not going out either"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: 'I haven't got time.' B: 'Neither _____.'",
+          "options": [
+            "have I",
+            "I have",
+            "do I"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "A: ‘I went for a run this morning.’ B: ‘_____ .’ Choose TWO correct answers",
+          "options": [
+            "So did I",
+            "So am I",
+            "So was I",
+            "I went for a run too"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "A: 'I never go to the cinema.' B: '______.'",
+          "options": [
+            "Neither do I",
+            "Neither am I",
+            "So am I"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: 'Sophia isn't coming with us.' B: 'And _____.'",
+          "options": [
+            "so isn't Emily",
+            "neither is Emily",
+            "either isn't Emily"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "A: 'I want some pizza.' B: '_____.'",
+          "options": [
+            "So do I",
+            "Neither do I",
+            "So I do"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "A: 'I wasn't scared.' B: '_____.' Choose TWO correct answers",
+          "options": [
+            "Neither was I",
+            "Neither wasn't I",
+            "I was scared either",
+            "I wasn't scared either"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "A: 'I thought it was difficult.' B: '_____.'",
+          "options": [
+            "Neither did I",
+            "So I did",
+            "So did I"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "A: 'I didn't enjoy the concert.' B: '_____.' Choose TWO correct answers",
+          "options": [
+            "So didn't I",
+            "Neither didn't I",
+            "Neither did I",
+            "I didn't enjoy it either."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "So, neither: So am I, neither do I, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "'My phone doesn't work very well.' '{0} (mine).'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Mine doesn't either.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3512"
+        },
+        {
+          "index": 1,
+          "template": "'Emily has passed the exam.' '{0} (Victor).'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Victor has.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3513"
+        },
+        {
+          "index": 2,
+          "template": "'I live in the city center.' '{0} (my parents).'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "My parents do.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3514"
+        },
+        {
+          "index": 3,
+          "template": "'We went camping last summer.' '{0} (we).'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We did.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3515"
+        },
+        {
+          "index": 4,
+          "template": "'Sofia wasn't very inspired by the teacher.' '{0} (Nic).'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Nic wasn't.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3516"
+        },
+        {
+          "index": 5,
+          "template": "James didn't say \"hello\" when he saw us and {0} (Daniel).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Daniel didn't either.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3517"
+        },
+        {
+          "index": 6,
+          "template": "'I'm working this weekend.' '{0} (I).'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I am too.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3518"
+        },
+        {
+          "index": 7,
+          "template": "Ellen should apologise and {0} (you).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "You should.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3519"
+        },
+        {
+          "index": 8,
+          "template": "I won't accept your apology and {0} (my wife).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "My wife won't either.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3520"
+        },
+        {
+          "index": 9,
+          "template": "'I'm not really worried.' '{0} (I).'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I'm not either.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3521"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "So, neither: So am I, neither do I, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A: 'I haven't written the essay yet.' B: 'Neither {0} I.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do",
+                "haven't",
+                "have"
+              ],
+              "correct": "have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3492"
+        },
+        {
+          "index": 1,
+          "template": "A: 'I'm very thirsty.' B: '{0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "So do I",
+                "So am I",
+                "Too I am"
+              ],
+              "correct": "So am I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3499"
+        },
+        {
+          "index": 2,
+          "template": "A: 'Sam won't help us.' B: 'Neither {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will Scotty",
+                "does Scotty",
+                "won't Scotty"
+              ],
+              "correct": "will Scotty",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3498"
+        },
+        {
+          "index": 3,
+          "template": "A: 'I can't forgive them for what happened.' B: 'I can't forgive them {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "neither",
+                "too",
+                "either"
+              ],
+              "correct": "too",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3500"
+        },
+        {
+          "index": 4,
+          "template": "A: 'I drink too much coffee.' B: '{0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "So do I",
+                "So am I",
+                "Neither do I"
+              ],
+              "correct": "So do I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3501"
+        },
+        {
+          "index": 5,
+          "template": "A: 'Mum was very proud of us.' B: 'And {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so was dad",
+                "too was dad",
+                "so dad was"
+              ],
+              "correct": "so was dad",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3502"
+        },
+        {
+          "index": 6,
+          "template": "Ann will be there and so {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will her sister",
+                "her sister will",
+                "is her sister"
+              ],
+              "correct": "will her sister",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3503"
+        },
+        {
+          "index": 7,
+          "template": "A: 'You didn't tell the truth.' B: 'Nor {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you",
+                "you did",
+                "didn't you"
+              ],
+              "correct": "did you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3504"
+        },
+        {
+          "index": 8,
+          "template": "A: 'I watched the match in a pub.' B: 'So {0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I did",
+                "did I",
+                "was I"
+              ],
+              "correct": "I did",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3505"
+        },
+        {
+          "index": 9,
+          "template": "A: 'I would really like to go.' B: '{0}.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Neither would I",
+                "So would I",
+                "So did I"
+              ],
+              "correct": "So would I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3506"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

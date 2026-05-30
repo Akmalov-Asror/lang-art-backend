@@ -1,0 +1,542 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "ed-ing-adjectives-adjectives-verbs",
+  "order_index": 11,
+  "title": "-Ed/-ing adjectives: Adjectives from verbs",
+  "source_url": "https://test-english.com/grammar-points/b1/ed-ing-adjectives-adjectives-verbs/",
+  "scraped_at": "2026-05-23T07:21:36.632Z",
+  "explanation": {
+    "markdown": "## **\\-Ed/-ing** adjectives\n\n![Color-coded chart demonstrating how to form -ed and -ing adjectives from verbs, with three columns showing the base verb, the adjective that describes the feeling it inspires, and the adjective describing how someone feels](/uploads/grammar/b1/ed-ing-adjectives-adjectives-verbs/img-1.png)\n\nA lot of [adjectives](https://test-english.com/grammar-points/a1/adjectives/) are made from verbs by adding **\\-ing** or **\\-ed**. They are called participial adjectives they take the forms of the present (**\\-ing**) and past participle (**\\-ed**) of the verb.\n\n#### **\\-Ed** adjectives\n\n**\\-ed** adjectives are used to describe **how we feel**. Look at the following examples:\n\n-   *We’re **tired**. Can we stop running?*\n-   *I’m **bored**. Let’s play cards.*\n-   *I was **surprised** to see her.*\n\n#### **\\-Ing** adjectives\n\n**\\-ing** adjectives are used to talk about the **things that produce these feelings**. Check the examples below:\n\n-   *Running is very **tiring**.* *We don’t want to run.*\n-   *This film is very **boring**. Let’s play cards.*\n-   *Her visit was very **surprising**. We weren’t expecting her.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Ed-ing-adjectives_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/ed-ing-adjectives-adjectives-verbs/img-1.png",
+        "alt": "Color-coded chart demonstrating how to form -ed and -ing adjectives from verbs, with three columns showing the base verb, the adjective that describes the feeling it inspires, and the adjective describing how someone feels"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "-Ed/-ing adjectives: Adjectives from verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I love skydiving. It's an {0} feeling.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "amazing",
+                "amazed"
+              ],
+              "correct": "amazing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1750"
+        },
+        {
+          "index": 1,
+          "template": "The robber was carrying a gun and wearing the mask of a clown. He was {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "terrified",
+                "terrifying"
+              ],
+              "correct": "terrified",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1751"
+        },
+        {
+          "index": 2,
+          "template": "She was very {0} with him for not telling her the truth.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "annoyed",
+                "annoying"
+              ],
+              "correct": "annoyed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1752"
+        },
+        {
+          "index": 3,
+          "template": "The students are very {0} about the exam results.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "disappointing",
+                "disappointed"
+              ],
+              "correct": "disappointed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1753"
+        },
+        {
+          "index": 4,
+          "template": "My teacher is very {0}. He speaks so slowly that we just want to sleep.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "boring",
+                "bored"
+              ],
+              "correct": "boring",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1754"
+        },
+        {
+          "index": 5,
+          "template": "This year, all the presents that I got for Christmas were very {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "disappointed",
+                "disappointing"
+              ],
+              "correct": "disappointing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1755"
+        },
+        {
+          "index": 6,
+          "template": "He's a very {0} man. He's travelled all around the world.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "interesting",
+                "interested"
+              ],
+              "correct": "interesting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1756"
+        },
+        {
+          "index": 7,
+          "template": "I was so {0} to see her. She wasn't supposed to be there.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "surprised",
+                "surprising"
+              ],
+              "correct": "surprised",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1757"
+        },
+        {
+          "index": 8,
+          "template": "Teenagers get very {0} when they have to speak in public.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "embarrassed",
+                "embarrassing"
+              ],
+              "correct": "embarrassed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1758"
+        },
+        {
+          "index": 9,
+          "template": "In the photo you can see the {0} image of what seems to be a ghost.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "shocked",
+                "shocking"
+              ],
+              "correct": "shocking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1759"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "-Ed/-ing adjectives: Adjectives from verbs",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I am so ______! This massage chair is very ______.",
+          "options": [
+            "relaxed / relaxing",
+            "relaxing / relaxed",
+            "relaxing / relaxing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I get very _____ when I can't find the words to say what I mean to say. It's so ______.",
+          "options": [
+            "frustrated / frustrating",
+            "frustrating / frustrated",
+            "frustrated / frustrated"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "She knows a lot of ______ facts. She is very ______.",
+          "options": [
+            "interesting / interested",
+            "interested / interesting",
+            "interesting / interesting"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "She is never ______ with her work. She should try to do something more ______.",
+          "options": [
+            "satisfied / satisfied",
+            "satisfied / satisfying",
+            "satisfying / satisfied"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "The journey was very ______. We were very ______ when we arrived.",
+          "options": [
+            "tired / tired",
+            "tired / tiring",
+            "tiring / tired"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I find my parents very ______. They put me in a lot of ______ situations.",
+          "options": [
+            "embarrassing / embarrassed",
+            "embarrassed / embarrassing",
+            "embarrassing / embarrassing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "We were totally ______ by the ______ views.",
+          "options": [
+            "amazed / amazed",
+            "amazed / amazing",
+            "amazing / amazing"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The truth is that it's a very ______ situation. You should be ______.",
+          "options": [
+            "worried / worried",
+            "worried / worrying",
+            "worrying / worried"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I'm always ______ on Monday mornings. They are so ______.",
+          "options": [
+            "depressing / depressed",
+            "depressed / depressing",
+            "depressed / depressed"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The teacher's instructions were very ______. All the students were really ______.",
+          "options": [
+            "confusing / confused",
+            "confusing / confusing",
+            "confused / confusing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "-Ed/-ing adjectives: Adjectives from verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "When I finish work, I'm usually 1 {0} (exhaust) because my job is very 2 {1} (tire). Every day at 6 p.m. I just want to go home and have a 3 {2} (relax) bath. I love having a bath after work! In the bath I feel very 4 {3} (relax) and I forget about how 5 {4} (bore) my job is.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "exhausted",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "tiring",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "relaxing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "relaxed",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "boring",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1770"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "-Ed/-ing adjectives: Adjectives from verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I love skydiving. It's an {0} feeling.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "amazing",
+                "amazed"
+              ],
+              "correct": "amazing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1750"
+        },
+        {
+          "index": 1,
+          "template": "The robber was carrying a gun and wearing the mask of a clown. He was {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "terrified",
+                "terrifying"
+              ],
+              "correct": "terrified",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1751"
+        },
+        {
+          "index": 2,
+          "template": "She was very {0} with him for not telling her the truth.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "annoyed",
+                "annoying"
+              ],
+              "correct": "annoyed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1752"
+        },
+        {
+          "index": 3,
+          "template": "The students are very {0} about the exam results.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "disappointing",
+                "disappointed"
+              ],
+              "correct": "disappointed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1753"
+        },
+        {
+          "index": 4,
+          "template": "My teacher is very {0}. He speaks so slowly that we just want to sleep.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "boring",
+                "bored"
+              ],
+              "correct": "boring",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1754"
+        },
+        {
+          "index": 5,
+          "template": "This year, all the presents that I got for Christmas were very {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "disappointed",
+                "disappointing"
+              ],
+              "correct": "disappointing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1755"
+        },
+        {
+          "index": 6,
+          "template": "He's a very {0} man. He's travelled all around the world.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "interesting",
+                "interested"
+              ],
+              "correct": "interesting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1756"
+        },
+        {
+          "index": 7,
+          "template": "I was so {0} to see her. She wasn't supposed to be there.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "surprised",
+                "surprising"
+              ],
+              "correct": "surprised",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1757"
+        },
+        {
+          "index": 8,
+          "template": "Teenagers get very {0} when they have to speak in public.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "embarrassed",
+                "embarrassing"
+              ],
+              "correct": "embarrassed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1758"
+        },
+        {
+          "index": 9,
+          "template": "In the photo you can see the {0} image of what seems to be a ghost.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "shocked",
+                "shocking"
+              ],
+              "correct": "shocking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1759"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,830 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "present-simple-forms-of-to-be",
+  "order_index": 0,
+  "title": "Present simple forms of ‘to be’: am/is/are",
+  "source_url": "https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/",
+  "scraped_at": "2026-05-23T07:02:03.702Z",
+  "explanation": {
+    "markdown": "## The present simple of **be**: Form\n\n![Educational chart illustrating the present simple forms of the verb 'to be' with examples in positive, negative, and question forms, alongside short answers for an elementary-level English grammar lesson.](/uploads/grammar/a1/present-simple-forms-of-to-be/img-1.png)\n\nThe present simple of the verb **be** has three forms:\n\n‣ I **am**.  \n‣ He/She/It **is**.  \n‣ We/You/They **are**.\n\n#### **They**\\= people and things\n\nWe use **he** for a man, **she** for a woman, and **it** for a thing.\n\n-   ***He**‘s a little boy.* \n-   ***She**‘s beautiful.* \n-   *I like this TV. **It**‘s very big.* \n\nWe use **they** for people and for things.\n\n-   *I love Sara and Jonas. **They** are my friends.*\n-   *I love these chairs. **They** are very beautiful.*\n\n#### Don’t forget the subject\n\nWe always need a [subject](https://test-english.com/grammar-points/a1/object-pronouns/) before the verb.\n\n-   ***It is** cold. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-2.png)* \n-   ***Is** cold. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-3.png)* \n-   ***Sally is** a wonderful woman. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-4.png)* \n-   ***Is** a wonderful woman. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-5.png)* \n\n#### Contractions or short forms\n\nWe use **‘m,** **‘s** and ‘**re** with personal pronouns (**I, you, he, etc.**)\n\n-   ***I’m** sad.*\n-   ***You’re** tired.*\n-   ***She’s** from Scotland.*\n\nBut we can also use **‘s** with names.\n\n-   ***Laura’s** beautiful.*\n-   ***London’s** an expensive city.* \n\n#### Contractions in short answers\n\nWe can only use **contractions** in **negative short answers**. Not in positive short answers.\n\n-   *Yes, **I am**. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-6.png)* \n-   *Yes, **I’m**. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-7.png)* \n-   *Yes, **she is**. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-8.png)* \n-   *Yes, **she’s**. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-9.png)* \n-   *Yes, **they are**. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-10.png)* \n-   *Yes, **they’re**. ![](/uploads/grammar/a1/present-simple-forms-of-to-be/img-11.png)* \n\n## The present simple of **be** – USE\n\n![Infographic displaying various uses of the verb 'to be', including introducing people, age, job, nationality, feelings, color, prices, weather, time, and descriptions, with example sentences.](/uploads/grammar/a1/present-simple-forms-of-to-be/img-12.png)\n\nWe use the verb **be** to talk about:\n\n**Who we are**: *I**‘m** Steven, and this **is** Isabella. And this **is** my daughter, Alicia.*\n\n**Age**: *I**‘m** 24 years old, and my father **is** 50.* \n\n**Job:** *I**‘m** a teacher, and my wife **is** a doctor.* \n\n**Nationality:** *Alex **is** from Ireland, and Sonia **is** from Spain.*\n\n**Feelings**: *I**‘m** scared. She **is** very tired.* \n\n**Colour**: *Our dog **is** black. His eyes **are** blue.*\n\n**Prices**: *It**‘s** seven pounds. This T-shirt **is** twenty dollars.*  \n\n**The weather**: *It**‘s** sunny today. It **is** very cold this morning.* \n\n**The time**: *What time **is** it? It**‘s** ten past four.* \n\n**Descriptions in general**: *He **is** very short and thin. The cars **are** old and cheap.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present_simple_be-form.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-1.png",
+        "alt": "Educational chart illustrating the present simple forms of the verb 'to be' with examples in positive, negative, and question forms, alongside short answers for an elementary-level English grammar lesson."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-9.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-10.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-10.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-11.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-11.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/be-different-uses.png",
+        "local_filename": "img-12.png",
+        "public_path": "/uploads/grammar/a1/present-simple-forms-of-to-be/img-12.png",
+        "alt": "Infographic displaying various uses of the verb 'to be', including introducing people, age, job, nationality, feelings, color, prices, weather, time, and descriptions, with example sentences."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple forms of ‘to be’: am/is/are",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A: {0} you a teacher? B: Yes, I {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is",
+                "Are"
+              ],
+              "correct": "Are",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "are",
+                "am"
+              ],
+              "correct": "am",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2242"
+        },
+        {
+          "index": 1,
+          "template": "A: {0} your name Marcus? B: Yes, it {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Is",
+                "Are"
+              ],
+              "correct": "Is",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "is",
+                "are"
+              ],
+              "correct": "is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2243"
+        },
+        {
+          "index": 2,
+          "template": "A: {0} your children here? B: No, they {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are",
+                "am"
+              ],
+              "correct": "Are",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "aren't",
+                "isn't"
+              ],
+              "correct": "aren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2244"
+        },
+        {
+          "index": 3,
+          "template": "A: {0} this your suitcase? B: No, it {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are",
+                "Is"
+              ],
+              "correct": "Is",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "isn't",
+                "aren't"
+              ],
+              "correct": "isn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2245"
+        },
+        {
+          "index": 4,
+          "template": "A: Where {0} we? B: I think this {1} Oxford street.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are",
+                "is",
+                "am"
+              ],
+              "correct": "are",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "is",
+                "are"
+              ],
+              "correct": "is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2246"
+        },
+        {
+          "index": 5,
+          "template": "A: {0} it Saturday today? B: No, It {1} Sunday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are",
+                "Is"
+              ],
+              "correct": "Is",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'s",
+                "'re"
+              ],
+              "correct": "'s",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2247"
+        },
+        {
+          "index": 6,
+          "template": "A: {0} your friends from the UK? B: No, {1} from the US.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are",
+                "Is"
+              ],
+              "correct": "Are",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "he is",
+                "they are"
+              ],
+              "correct": "they are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2248"
+        },
+        {
+          "index": 7,
+          "template": "A: Hello, Maria. How {0} you? B: {1} fine, thanks.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are",
+                "am"
+              ],
+              "correct": "are",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "I'm",
+                "I are"
+              ],
+              "correct": "I'm",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2249"
+        },
+        {
+          "index": 8,
+          "template": "A: How old {0} Peter? B: I think {1} 30 years old.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are",
+                "is"
+              ],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "he is",
+                "it is"
+              ],
+              "correct": "he is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2250"
+        },
+        {
+          "index": 9,
+          "template": "A: {0} David and Molly here? B: Yes, {1} next to the door.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are",
+                "Is"
+              ],
+              "correct": "Are",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "they're",
+                "we're"
+              ],
+              "correct": "they're",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2251"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple forms of ‘to be’: am/is/are",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She is fantastic ⇒ {0} fantastic.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "She's",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3584"
+        },
+        {
+          "index": 1,
+          "template": "We are in Spain ⇒ {0} in Spain.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We're",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3585"
+        },
+        {
+          "index": 2,
+          "template": "You are not my friend ⇒ You {0} my friend.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "aren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3586"
+        },
+        {
+          "index": 3,
+          "template": "Sheila is from Brighton. ⇒ {0} from Brighton.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3587"
+        },
+        {
+          "index": 4,
+          "template": "The chairs are not expensive. ⇒ The chairs {0} expensive.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "aren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3588"
+        },
+        {
+          "index": 5,
+          "template": "I am not British ⇒ {0} British.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I'm not",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3589"
+        },
+        {
+          "index": 6,
+          "template": "Clara is a good student. ⇒ {0} a good student.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3590"
+        },
+        {
+          "index": 7,
+          "template": "You are great. ⇒ {0} great.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "You're",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3591"
+        },
+        {
+          "index": 8,
+          "template": "They are my friends. ⇒ {0} my friends.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They're",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3592"
+        },
+        {
+          "index": 9,
+          "template": "He is not angry. ⇒ He {0} angry.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3593"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple forms of ‘to be’: am/is/are",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She is a teacher. ⇒ {0} a teacher. ⇒ {1} a teacher?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "She's",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "She is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3595"
+        },
+        {
+          "index": 1,
+          "template": "They're in Berlin. ⇒ {0} in Berlin. ⇒ {1} in Berlin?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They're",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3596"
+        },
+        {
+          "index": 2,
+          "template": "It's a nice day. ⇒ {0} a nice day. ⇒ {1} a nice day?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It's",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3597"
+        },
+        {
+          "index": 3,
+          "template": "I am very excited. ⇒ {0} very excited. ⇒ {1} very excited?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I'm",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I am",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3598"
+        },
+        {
+          "index": 4,
+          "template": "We are students. ⇒ {0} students. ⇒ {1} students?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We're",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3599"
+        },
+        {
+          "index": 5,
+          "template": "You are right. ⇒ {0} right. ⇒ {1} right?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "You're",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "You are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3600"
+        },
+        {
+          "index": 6,
+          "template": "It's 6 o'clock. ⇒ {0} 6 o'clock. ⇒ {1} 6 o'clock?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It's",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3601"
+        },
+        {
+          "index": 7,
+          "template": "The table is blue. ⇒ {0} blue. ⇒ {1} blue?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It's",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3602"
+        },
+        {
+          "index": 8,
+          "template": "He is the new manager. ⇒ {0} the new manager. ⇒ {1} the new manager?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "He's",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "He is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3603"
+        },
+        {
+          "index": 9,
+          "template": "They are sorry. ⇒ {0} sorry. ⇒ {1} sorry?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They're",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3604"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple forms of ‘to be’: am/is/are",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "SOFIE: Hello. 1 {0} you from here? DINO: No, we 2 {1}. And you? 3 {2} you from here? SOFIE: No, I 4 {3} from France. My name 5 {4} SOFIE. DINO: Nice to meet you. I 6 {5} DINO. And this 7 {6} Francesca. SOFIE: Where 8 {7} you from? DINO: We 9 {8} from Italy. SOFIE: 10 {9} you from Rome? DINO: No, we 11 {10}. We 12 {11} from the north of Italy. I 13 {12} from Torino, and Francesca 14 {13} from Milano. SOFIE: 15 {14} you here on holiday? DINO: No, we 16 {15}. It 17 {16} a study trip. This 18 {17} a beautiful place. SOFIE: Yes, it 19 {18}. 20 {19} the trip nice? DINO: Very nice",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "aren't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Where are",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "aren't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "aren't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2252"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": [
+    "resolve_batch_failed: Model returned non-JSON: {\"answers\":[{\"id\":\"e1_free#0\",\"correct\":\"She's\"},{\"id\":\"e1_free#1\",\"correct\":\"We're\"},{\"id\":\"e1_free#2\",\"correct\":\"aren't\"},{\"id\":\"e1_free#3\",\"correct\":\"She's\"},{\"id\":\"e1_free#4\",\"correct\":\"aren't\"},{"
+  ]
+}

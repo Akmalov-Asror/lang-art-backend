@@ -1,0 +1,665 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "unless-even-if-provided-as-long-conditionals",
+  "order_index": 13,
+  "title": "Unless, even if, provided, as long as, etc.: Other expressions in conditionals",
+  "source_url": "https://test-english.com/grammar-points/b2/unless-even-if-provided-as-long-conditionals/",
+  "scraped_at": "2026-05-23T07:26:35.981Z",
+  "explanation": {
+    "markdown": "## Other expressions in conditionals – Grammar chart\n\n![Grammar chart explaining alternatives to \"if\" in conditionals, including \"unless,\" \"in case,\" \"whether or not,\" \"even if,\" \"as long as,\" \"provided,\" \"providing that,\" \"on condition that,\" \"only if,\" \"suppose,\" and \"supposing.\" Examples illustrate the usage of each alternative expression in sentences.](/uploads/grammar/b2/unless-even-if-provided-as-long-conditionals/img-1.webp)\n\n#### Unless (= if not)\n\nWe can use **unless** in conditional sentences to mean ‘if … (not)’.\n\n-   *I won’t go on holiday **unless** I save some money.*\n-   *\\= I won’t go on holiday **if** I **don’t** save some money.*\n\n#### In case\n\nWe use **in case** to talk about things that we do to be prepared for something that might happen or might be needed in the future.\n\n-   *I’ll take my umbrella **in case** it rains.* (=because it might rain)\n\n#### As long as / provided (that) / providing (that) / on condition (that) / only if\n\nWe can use the expressions **as long as, provided/providing (that), on condition (that),** or **only if** instead of **if** when we want to emphasise the condition that needs to be present so that something can happen or be done.\n\n-   *I’ll tell you what really happened **as long as** you keep the secret.*\n-   *I’ll lend you the money **provided (that)** you pay me back next month.*\n-   *They will speak to the press **on condition (that)** they remain anonymous sources.*\n-   *We will invest the money, but **only if** you can prove that it’s a safe investment.* \n\n#### Whether or not\n\nWe use **whether or not** when there are two alternatives, and we want to say that something will happen or will be true in any of those two alternatives. Compare:\n\n-   *I’ll help him **if** he needs me.* (=I will help him only if he needs me.)\n-   *I’ll help him **whether or not** he needs me.* (I will help him if he needs me, and I will help him if he doesn’t need me, too.)\n\n#### Even if\n\nWe also use **even if** with a similar meaning to ‘whether or not’. It is used to emphasise that something will still be true or will happen if another thing happens.\n\n-   ***Even if** you apologise, he’ll never forgive you.* (=Whether or not you apologise, he’ll never forgive you.)\n\n#### Suppose/supposing\n\nWe normally use **suppose** or **supposing** at the beginning of a sentence to make someone imagine a situation. It means ‘what would happen if’, or simply ‘if’ (imagining a situation).\n\n-   ***Supposing** I got a job, I wouldn’t be able to travel with you next summer.*\n-   ***Suppose** she doesn’t believe you; what would you do then?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Alternatives-to-if.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/b2/unless-even-if-provided-as-long-conditionals/img-1.webp",
+        "alt": "Grammar chart explaining alternatives to \"if\" in conditionals, including \"unless,\" \"in case,\" \"whether or not,\" \"even if,\" \"as long as,\" \"provided,\" \"providing that,\" \"on condition that,\" \"only if,\" \"suppose,\" and \"supposing.\" Examples illustrate the usage of each alternative expression in sentences."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Unless, even if, provided, as long as, etc.: Other expressions in conditionals",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Don't call the police {0} it's strictly necessary.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "even if",
+                "unless",
+                "whether or not"
+              ],
+              "correct": "unless",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5366"
+        },
+        {
+          "index": 1,
+          "template": "The exam was too difficult. I wouldn't have passed {0} I had studied harder.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "as long as",
+                "even if",
+                "only if"
+              ],
+              "correct": "even if",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5372"
+        },
+        {
+          "index": 2,
+          "template": "{0} you could spend 15$ every hour. How much could you spend in a year?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Provided",
+                "Suppose",
+                "Only if"
+              ],
+              "correct": "Suppose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5374"
+        },
+        {
+          "index": 3,
+          "template": "I'll talk to the press {0} they don't reveal my identity.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on condition that",
+                "even if",
+                "whether or not"
+              ],
+              "correct": "on condition that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5379"
+        },
+        {
+          "index": 4,
+          "template": "You should stop drinking {0} you have an addiction problem. Alcohol is just not healthy.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "provided that",
+                "supposing",
+                "whether or not"
+              ],
+              "correct": "provided that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5380"
+        },
+        {
+          "index": 5,
+          "template": "We should take a jacket {0} it's cold when we arrive.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in case",
+                "even if",
+                "provided"
+              ],
+              "correct": "in case",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5382"
+        },
+        {
+          "index": 6,
+          "template": "I don't mind how you spend the money {0} you stick to the budget.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in case",
+                "as long as",
+                "unless"
+              ],
+              "correct": "as long as",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5383"
+        },
+        {
+          "index": 7,
+          "template": "Bees sting {0} they feel threatened.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "whether or not",
+                "in case",
+                "only if"
+              ],
+              "correct": "only if",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5384"
+        },
+        {
+          "index": 8,
+          "template": "{0} you say sorry a thousand times, you can't change what you've done.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Only if",
+                "Even if",
+                "Unless"
+              ],
+              "correct": "Even if",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5381"
+        },
+        {
+          "index": 9,
+          "template": "You're free to do whatever you want {0} you respect the rules.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "unless",
+                "provided",
+                "even if"
+              ],
+              "correct": "unless",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5385"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Unless, even if, provided, as long as, etc.: Other expressions in conditionals",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I'll lend you the money _____ that you pay me back by Friday.",
+          "options": [
+            "in case",
+            "even if",
+            "on condition",
+            "unless"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "You can use my computer _____ you promise to be careful. Choose TWO correct options",
+          "options": [
+            "provided",
+            "unless",
+            "as long as",
+            "in case"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "You cannot use my computer _____ you promise to be careful.",
+          "options": [
+            "provided",
+            "unless",
+            "as long as",
+            "only if"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_____ you found a wallet with money in it. What would you do?",
+          "options": [
+            "As long as",
+            "Unless",
+            "Even if",
+            "Suppose"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "We're going for a trek tomorrow ____ it doesn't rain. Choose TWO correct options",
+          "options": [
+            "unless",
+            "providing",
+            "even if",
+            "as long as"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "We're going for a trek tomorrow ____ it rains.",
+          "options": [
+            "unless",
+            "providing",
+            "in case",
+            "as long as"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Only members can go in. Choose TWO options with the same meaning",
+          "options": [
+            "Unless you are a member, you can't go in.",
+            "You can go in even if you are a member.",
+            "You can go in wether or not you are a member.",
+            "You can go in only if you are a member."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Take my card _____ you need to contact me.",
+          "options": [
+            "on condition that",
+            "in case",
+            "as long as",
+            "even if"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "You can download the software ______ you accept the Terms and Conditions. Choose TWO correct options",
+          "options": [
+            "even if",
+            "whether or not",
+            "only if",
+            "on condition that"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "You can offer as much as you want, I'll never work for you. (Choose the option with similar meaning).",
+          "options": [
+            "Even if you offer a lot of money",
+            "Provided you offer a lot of money",
+            "Unless you offer a lot of money",
+            "As long as you offer a lot of money"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Unless, even if, provided, as long as, etc.: Other expressions in conditionals",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You should vote {0} if you don't know who to vote for.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "even if",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1035"
+        },
+        {
+          "index": 1,
+          "template": "You can go on {0} you come back before 10.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "provided",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1036"
+        },
+        {
+          "index": 2,
+          "template": "I'll enter the competition {0} if you do it with me.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "as long as",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1037"
+        },
+        {
+          "index": 3,
+          "template": "It's my money, so I'm going to buy a new car {0} or not you agree with me.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "whether or not",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1038"
+        },
+        {
+          "index": 4,
+          "template": "{0} I told you the truth, would you ever tell anyone?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "If",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1039"
+        },
+        {
+          "index": 5,
+          "template": "It doesn't matter how slowly you go as {0} as you do not stop.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "long",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1040"
+        },
+        {
+          "index": 6,
+          "template": "You can print as many copies as you want {0} that they are intended for personal use",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "provided",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1041"
+        },
+        {
+          "index": 7,
+          "template": "I'll tell you {0} condition you don't tell anyone.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1042"
+        },
+        {
+          "index": 8,
+          "template": "The concert will be cancelled {0} we sell more tickets.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "unless",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1043"
+        },
+        {
+          "index": 9,
+          "template": "I'll take some snacks in {0} we get hungry along the way.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in case",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1044"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Unless, even if, provided, as long as, etc.: Other expressions in conditionals",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Don't call the police {0} it's strictly necessary.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "even if",
+                "unless",
+                "whether or not"
+              ],
+              "correct": "unless",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5366"
+        },
+        {
+          "index": 1,
+          "template": "The exam was too difficult. I wouldn't have passed {0} I had studied harder.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "as long as",
+                "even if",
+                "only if"
+              ],
+              "correct": "even if",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5372"
+        },
+        {
+          "index": 2,
+          "template": "{0} you could spend 15$ every hour. How much could you spend in a year?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Provided",
+                "Suppose",
+                "Only if"
+              ],
+              "correct": "Suppose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5374"
+        },
+        {
+          "index": 3,
+          "template": "I'll talk to the press {0} they don't reveal my identity.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on condition that",
+                "even if",
+                "whether or not"
+              ],
+              "correct": "on condition that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5379"
+        },
+        {
+          "index": 4,
+          "template": "You should stop drinking {0} you have an addiction problem. Alcohol is just not healthy.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "provided that",
+                "supposing",
+                "whether or not"
+              ],
+              "correct": "provided that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5380"
+        },
+        {
+          "index": 5,
+          "template": "We should take a jacket {0} it's cold when we arrive.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in case",
+                "even if",
+                "provided"
+              ],
+              "correct": "in case",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5382"
+        },
+        {
+          "index": 6,
+          "template": "I don't mind how you spend the money {0} you stick to the budget.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in case",
+                "as long as",
+                "unless"
+              ],
+              "correct": "as long as",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5383"
+        },
+        {
+          "index": 7,
+          "template": "Bees sting {0} they feel threatened.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "whether or not",
+                "in case",
+                "only if"
+              ],
+              "correct": "only if",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5384"
+        },
+        {
+          "index": 8,
+          "template": "{0} you say sorry a thousand times, you can't change what you've done.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Only if",
+                "Even if",
+                "Unless"
+              ],
+              "correct": "Even if",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5381"
+        },
+        {
+          "index": 9,
+          "template": "You're free to do whatever you want {0} you respect the rules.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "unless",
+                "provided",
+                "even if"
+              ],
+              "correct": "provided",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5385"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

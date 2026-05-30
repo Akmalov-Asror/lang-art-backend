@@ -1,0 +1,679 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "defining-relative-clauses-who-which-that-where",
+  "order_index": 9,
+  "title": "Defining relative clauses: Who, which, that, where",
+  "source_url": "https://test-english.com/grammar-points/a2/defining-relative-clauses-who-which-that-where/",
+  "scraped_at": "2026-05-23T07:15:53.679Z",
+  "explanation": {
+    "markdown": "## Defining relative clauses\n\nWe use defining relative clauses to specify which person, thing or place we are talking about.  \n  \n![Defining relative clauses](/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-1.png)\n\n#### Who, which, where\n\nWe use **who** for people.\n\n-   *He met the police officer **who** saved his life.*\n\nWe use **which** for things and animals.\n\n-   *He put on the suit **which** he wore for special occasions.*\n\nWe use **where** for places.\n\n-   *This is the hotel **where** we spent our honeymoon.*\n\n#### That\n\nWe can use **that** instead of **who** or **which**. But we often use **who** for people and **which**/**that** for things.\n\n-   *He’s the neighbour **who/******that** helped us to move out.*\n-   *Change the cable **which/******that** connects the computer to the printer.*\n\n#### Be careful with these common mistakes!\n\nWe cannot use **what** or an expression like **that he/she/etc**. instead of **that,** **who, etc.**.\n\n-   *That’s the student **what*** *I told you about*. ![](/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-2.png)\n-   *That’s the student **that/******who** I told you about*. ![](/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-3.png)\n-   *That’s the man **he*** *tried to steal my wallet.* ![](/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-4.png)\n-   *That’s the man **that/******who** tried to steal my wallet.* ![](/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-5.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/defining.relative.clauses_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-1.png",
+        "alt": "Defining relative clauses"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/defining-relative-clauses-who-which-that-where/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Defining relative clauses: Who, which, that, where",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I have a friend {0} speaks four languages.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "who",
+                "which",
+                "that he"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2969"
+        },
+        {
+          "index": 1,
+          "template": "The Internet is a place {0} you can get cheap technology products.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "which",
+                "where",
+                "that"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2970"
+        },
+        {
+          "index": 2,
+          "template": "E-mails {0} advertise things are called \"spam\".",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "who",
+                "which",
+                "where"
+              ],
+              "correct": "which",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2971"
+        },
+        {
+          "index": 3,
+          "template": "A \"technophobe\" is someone {0} is scared of technology.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "which",
+                "where"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2972"
+        },
+        {
+          "index": 4,
+          "template": "We should only buy products {0} can be recycled.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "where",
+                "who",
+                "that"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2973"
+        },
+        {
+          "index": 5,
+          "template": "That's the shop {0} I bought those shoes.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "where",
+                "that",
+                "which"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2974"
+        },
+        {
+          "index": 6,
+          "template": "I can't find the CD {0} I borrowed from you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "what",
+                "who",
+                "that"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2975"
+        },
+        {
+          "index": 7,
+          "template": "Do you remember the park {0} we met?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "which",
+                "where"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2976"
+        },
+        {
+          "index": 8,
+          "template": "There were three people at the party {0} knew me.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that they",
+                "who",
+                "which"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2977"
+        },
+        {
+          "index": 9,
+          "template": "I want to see the film {0} everybody's talking about.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "which",
+                "who",
+                "that it"
+              ],
+              "correct": "that it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2978"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Defining relative clauses: Who, which, that, where",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What's the name of the man ____ lives next door?",
+          "options": [
+            "that he",
+            "where",
+            "who"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "This is the computer ____ I bought from my friend.",
+          "options": [
+            "which",
+            "what",
+            "who"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We can eat at the restaurant _____ Joanne works.",
+          "options": [
+            "where",
+            "which",
+            "who"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Who is the man _____ is dancing with your sister?",
+          "options": [
+            "that he",
+            "which",
+            "that"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "That's the house _____ I lived when I was a child.",
+          "options": [
+            "that",
+            "where",
+            "which"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The two men _____ robbed the bank were wearing masks.",
+          "options": [
+            "that they",
+            "which",
+            "who"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Working is the only thing _____ makes him happy.",
+          "options": [
+            "which",
+            "who",
+            "what"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The police are looking for the place _____ he is hiding.",
+          "options": [
+            "that",
+            "which",
+            "where"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "A dressing room is a room _____ players change their clothes before and after the match.",
+          "options": [
+            "where",
+            "that",
+            "which"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "A hairdryer is an electrical device _____ people use to dry their hair.",
+          "options": [
+            "who",
+            "which",
+            "where"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Defining relative clauses: Who, which, that, where",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "That's the neighbour. He helped me when I moved in. ⇒ That's the neighbour {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "who helped me when I moved in.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2989"
+        },
+        {
+          "index": 1,
+          "template": "What's the name of the film? You watched this film yesterday. ⇒ What's the name of the film {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "you watched yesterday.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2990"
+        },
+        {
+          "index": 2,
+          "template": "He drives a car. The car is very expensive. ⇒ The car {0} is very expensive.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that drives a car.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2991"
+        },
+        {
+          "index": 3,
+          "template": "Sue wasn't at the bar. She always goes to that bar. ⇒ Sue wasn't at the bar {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she always goes to.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2992"
+        },
+        {
+          "index": 4,
+          "template": "A car was stolen. The car was a Mercedes. ⇒ The car {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that was stolen.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2993"
+        },
+        {
+          "index": 5,
+          "template": "The octopus is the only animal. It has three hearts. The octopus {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that has three hearts.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2994"
+        },
+        {
+          "index": 6,
+          "template": "That's the shop. I bought my TV in that shop. ⇒ That's the shop {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "where I bought my TV.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2995"
+        },
+        {
+          "index": 7,
+          "template": "The man finished the marathon first. He trains three hours a day. ⇒ The man {0} trains three hours a day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "who finished the marathon first.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2996"
+        },
+        {
+          "index": 8,
+          "template": "This is the school. I studied in this school. ⇒ This is the school {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "where I studied.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2997"
+        },
+        {
+          "index": 9,
+          "template": "That's the remote. It is broken. That's the remote {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that is broken.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2998"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Defining relative clauses: Who, which, that, where",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I have a friend {0} speaks four languages.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "who",
+                "which",
+                "that he"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2969"
+        },
+        {
+          "index": 1,
+          "template": "The Internet is a place {0} you can get cheap technology products.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "which",
+                "where",
+                "that"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2970"
+        },
+        {
+          "index": 2,
+          "template": "E-mails {0} advertise things are called \"spam\".",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "who",
+                "which",
+                "where"
+              ],
+              "correct": "which",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2971"
+        },
+        {
+          "index": 3,
+          "template": "A \"technophobe\" is someone {0} is scared of technology.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "which",
+                "where"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2972"
+        },
+        {
+          "index": 4,
+          "template": "We should only buy products {0} can be recycled.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "where",
+                "who",
+                "that"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2973"
+        },
+        {
+          "index": 5,
+          "template": "That's the shop {0} I bought those shoes.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "where",
+                "that",
+                "which"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2974"
+        },
+        {
+          "index": 6,
+          "template": "I can't find the CD {0} I borrowed from you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "what",
+                "who",
+                "that"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2975"
+        },
+        {
+          "index": 7,
+          "template": "Do you remember the park {0} we met?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "which",
+                "where"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2976"
+        },
+        {
+          "index": 8,
+          "template": "There were three people at the party {0} knew me.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that they",
+                "who",
+                "which"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2977"
+        },
+        {
+          "index": 9,
+          "template": "I want to see the film {0} everybody's talking about.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "which",
+                "who",
+                "that it"
+              ],
+              "correct": "which",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2978"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

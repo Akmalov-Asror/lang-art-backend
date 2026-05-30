@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "infinitives-and-gerunds",
+  "order_index": 17,
+  "title": "Infinitives and gerunds: Verb patterns",
+  "source_url": "https://test-english.com/grammar-points/a2/infinitives-and-gerunds/",
+  "scraped_at": "2026-05-23T07:16:59.464Z",
+  "explanation": {
+    "markdown": "## Infinitives and gerunds: Verb patterns\n\n![Infinitive vs Gerund grammar chart for A2 pre-intermediate level, detailing verb patterns with examples for using -ING verbs and TO-infinitive forms.](/uploads/grammar/a2/infinitives-and-gerunds/img-1.png)\n\n## Use gerund\n\n➟ When the verb is the **subject** of a sentence.\n\n-   ***Reading** on tablets and phones isn’t very good for your eyes.*\n\n➟ **After** a **preposition**.\n\n-   *I’m tired **of waiting**. Let’s go home.*\n\n➟ After **some verbs**.\n\n-   *I don’t **mind waiting**.*\n-   *She **recommended visiting** this museum.*\n\n#### Common verbs followed by a gerund\n\nSome common verbs that are followed by a gerund are **avoid, enjoy, finish, hate, keep, like, love, don’t mind, prefer, recommend, spend time, stop, suggest, etc.**\n\n#### Negative gerund\n\nThe negative form of the gerund is **not +** **\\-ing**.\n\n-   *He enjoys **not having** to wake up early at weekends.* \n\n## Use infinitive without **to**\n\n➟ After the [auxiliary verb](https://test-english.com/grammar-points/a2/auxiliary-verbs-do-be-and-have/) **do**, **does**, **did** in negative sentences and questions.\n\n-   *He **didn’t say** anything.* \n-   ***Does** Tim **work** with you?*\n-   *I **don’t believe** you.* \n\n➟ After modal verbs (**will, can, must, should, might, may,** **etc**.)\n\n-   *You **should come** with us.*\n-   *I **can’t play** the guitar.*\n\n## Use **to** + infinitive\n\n➟ After [**adjectives**](https://test-english.com/grammar-points/a1/adjectives/).\n\n-   *It’s **important to arrive** early at the station.*\n\n➟ To express a reason or [**purpose**](https://test-english.com/grammar-points/a2/purpose-to-for/) (why).\n\n-   *I went to Madrid **to visit** some family.*\n-   *I need time **to study** for the exam.*\n\n➟ After [**question words**](https://test-english.com/grammar-points/a1/questions/).\n\n-   *I don’t know **what to eat**.*\n-   *I want to learn **how to play** the guitar.*\n\n➟ After **some verbs**.\n\n-   *Don’t **forget to call** me.*\n-   *She **seems to be** distracted.*\n\n#### Common verbs followed by a **to** \\-infinitive\n\nSome common verbs that are followed by a **to**–**infinitive** are **ask (someone), decide, forget, help, hope, learn, need, offer, plan, promise, remember, seem, try, want, would like, would love, would hate, would prefer, etc**.\n\n#### The negative form of **to**\\-infinitive\n\nThe negative form of **to** + infinitive is **not to** + infinitive.\n\n-   *She decided **not to enter** the competition.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Infinitives-grunds_Verb-patterns_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/infinitives-and-gerunds/img-1.png",
+        "alt": "Infinitive vs Gerund grammar chart for A2 pre-intermediate level, detailing verb patterns with examples for using -ING verbs and TO-infinitive forms."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Infinitives and gerunds: Verb patterns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She offered {0} me.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to help",
+                "help",
+                "helping"
+              ],
+              "correct": "to help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3234"
+        },
+        {
+          "index": 1,
+          "template": "We've decided {0} soon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "getting married",
+                "to get married",
+                "get married"
+              ],
+              "correct": "to get married",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3235"
+        },
+        {
+          "index": 2,
+          "template": "I stopped {0} football when I got married.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "playing",
+                "play",
+                "to play"
+              ],
+              "correct": "playing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3236"
+        },
+        {
+          "index": 3,
+          "template": "We should {0} very early in the morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "arrive",
+                "to arrive",
+                "arriving"
+              ],
+              "correct": "to arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3237"
+        },
+        {
+          "index": 4,
+          "template": "I'm not very good at {0} sports.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to play",
+                "play",
+                "playing"
+              ],
+              "correct": "playing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3238"
+        },
+        {
+          "index": 5,
+          "template": "You promised {0} the children to the cinema.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "take",
+                "to take",
+                "taking"
+              ],
+              "correct": "to take",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3239"
+        },
+        {
+          "index": 6,
+          "template": "Have you finished {0} the house?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to paint",
+                "painting",
+                "paint"
+              ],
+              "correct": "painting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3240"
+        },
+        {
+          "index": 7,
+          "template": "You should avoid {0} to strangers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "talking",
+                "to talk",
+                "talk"
+              ],
+              "correct": "talking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3241"
+        },
+        {
+          "index": 8,
+          "template": "{0} around the world has always been my dream.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "To travel",
+                "Travelling",
+                "Travel"
+              ],
+              "correct": "Travelling",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3242"
+        },
+        {
+          "index": 9,
+          "template": "I couldn't {0} you because I didn't have my phone.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to phone",
+                "phoning",
+                "phone"
+              ],
+              "correct": "to phone",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3243"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Infinitives and gerunds: Verb patterns",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I would like _____ my grandmother next year.",
+          "options": [
+            "visit",
+            "to visit",
+            "visiting"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I might _____ late today. I have a lot of work.",
+          "options": [
+            "be",
+            "to be",
+            "being"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We are planning _____ to Switzerland next year.",
+          "options": [
+            "go",
+            "to go",
+            "going"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Keep quiet, I need _____ on my homework.",
+          "options": [
+            "concentrate",
+            "to concentrate",
+            "concentrating"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "My brother is trying _____ smoking.",
+          "options": [
+            "quit",
+            "to quit",
+            "quitting"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Tennis is okay, but I prefer _____ padel.",
+          "options": [
+            "play",
+            "to play",
+            "playing"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I enjoy _____ stories to my children.",
+          "options": [
+            "read",
+            "to read",
+            "reading"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "You must never _____ him the truth.",
+          "options": [
+            "tell",
+            "to tell",
+            "telling"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I hope _____ a job soon.",
+          "options": [
+            "find",
+            "to find",
+            "finding"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "What do you want _____ tonight?",
+          "options": [
+            "do",
+            "to do",
+            "doing"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Infinitives and gerunds: Verb patterns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "The weather was nice, so I suggested {0} for a walk.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "going",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3254"
+        },
+        {
+          "index": 1,
+          "template": "I'd prefer {0} in a restaurant today.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to eat",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3255"
+        },
+        {
+          "index": 2,
+          "template": "When it stopped {0} we went for a picnic.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "raining",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3256"
+        },
+        {
+          "index": 3,
+          "template": "{0} a police officer in this city can be very dangerous.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Being",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3257"
+        },
+        {
+          "index": 4,
+          "template": "I don’t mind {0} long hours because I love my job.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3258"
+        },
+        {
+          "index": 5,
+          "template": "We are planning {0} to Australia this summer. We have already saved the money for the trip.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to travel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3259"
+        },
+        {
+          "index": 6,
+          "template": "I forgot {0} the door when I left home.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to lock",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3260"
+        },
+        {
+          "index": 7,
+          "template": "I’m thinking of {0} for a new job.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "applying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3261"
+        },
+        {
+          "index": 8,
+          "template": "I went to the greengrocer’s {0} some food.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3262"
+        },
+        {
+          "index": 9,
+          "template": "Could you show me how {0} this exercise?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to complete",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3263"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Infinitives and gerunds: Verb patterns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She offered {0} me.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to help",
+                "help",
+                "helping"
+              ],
+              "correct": "to help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3234"
+        },
+        {
+          "index": 1,
+          "template": "We've decided {0} soon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "getting married",
+                "to get married",
+                "get married"
+              ],
+              "correct": "to get married",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3235"
+        },
+        {
+          "index": 2,
+          "template": "I stopped {0} football when I got married.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "playing",
+                "play",
+                "to play"
+              ],
+              "correct": "playing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3236"
+        },
+        {
+          "index": 3,
+          "template": "We should {0} very early in the morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "arrive",
+                "to arrive",
+                "arriving"
+              ],
+              "correct": "arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3237"
+        },
+        {
+          "index": 4,
+          "template": "I'm not very good at {0} sports.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to play",
+                "play",
+                "playing"
+              ],
+              "correct": "playing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3238"
+        },
+        {
+          "index": 5,
+          "template": "You promised {0} the children to the cinema.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "take",
+                "to take",
+                "taking"
+              ],
+              "correct": "to take",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3239"
+        },
+        {
+          "index": 6,
+          "template": "Have you finished {0} the house?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to paint",
+                "painting",
+                "paint"
+              ],
+              "correct": "painting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3240"
+        },
+        {
+          "index": 7,
+          "template": "You should avoid {0} to strangers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "talking",
+                "to talk",
+                "talk"
+              ],
+              "correct": "talking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3241"
+        },
+        {
+          "index": 8,
+          "template": "{0} around the world has always been my dream.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "To travel",
+                "Travelling",
+                "Travel"
+              ],
+              "correct": "Travelling",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3242"
+        },
+        {
+          "index": 9,
+          "template": "I couldn't {0} you because I didn't have my phone.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to phone",
+                "phoning",
+                "phone"
+              ],
+              "correct": "phone",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3243"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

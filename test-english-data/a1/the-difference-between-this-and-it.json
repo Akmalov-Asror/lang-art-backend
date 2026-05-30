@@ -1,0 +1,562 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "the-difference-between-this-and-it",
+  "order_index": 34,
+  "title": "The difference between ‘this’ and ‘it’",
+  "source_url": "https://test-english.com/grammar-points/a1/the-difference-between-this-and-it/",
+  "scraped_at": "2026-05-23T07:03:53.956Z",
+  "explanation": {
+    "markdown": "## The difference between **this** and **it**\n\n![Infographic comparing the usage of 'this' versus 'it' in English grammar, with examples and explanations, provided by test-english.com.](/uploads/grammar/a1/the-difference-between-this-and-it/img-1.png)\n\n### When do we use **this**?\n\nYou can use [**this**](https://test-english.com/grammar-points/a1/this-that-these-those/) to talk about something near you. It is like pointing your finger at something in front of you.\n\n-   ***This** cat is cute.* (The cat is right there with you.)\n-   ***This** is my house.* (The house in front of you.)\n-   *I think **this** jacket is perfect for you.* \n\nYou can also use **this** to introduce a person to another one or to introduce yourself on a phone call.\n\n-   ***This** is my brother John.* \n-   *Hello, **this** is Linda.* (On the phone)\n\nThe plural form of **this** is **these**.\n\n-   ***These** are my brothers, John and Edward.*\n\n### When do we use **it**?\n\n#### To talk about something again\n\nWe use **it** to talk about something that we mentioned, or that is known. **It** is a [pronoun](https://test-english.com/grammar-points/a1/object-pronouns/), like **he** or **she**, but we use **he** or **she** to talk about people, and we use **it** to talk about objects or animals.\n\n-   *This cat is cute. **It** is sleeping.* \n-   *This is my house. I bought **it** last year.* \n\nApart from objects or animals, we can also use **it** to refer to a situation or idea mentioned before.\n\n-   *There was a storm, and they cancelled the concert. **It** was a disaster.* (**It** refers to the storm and the cancelling of the concert)\n\n#### Times, dates, weather, distance\n\n[**It**](https://test-english.com/grammar-points/a1/there-it/) is used to talk about times, dates, [weather](https://test-english.com/vocabulary/a2/the-weather-a2-english-vocabulary/), and distances.\n\n-   ***It**‘s very late.* \n-   *“What day is **it**?” “**It**‘s Tuesday.”* \n-   ***It** was sunny yesterday.*\n-   ***It**‘s not very far from here.*\n\n#### **It’s** + adjective + **to**\\-infinitive\n\n-   ***It**‘s nice to see you again.* \n-   ***It**‘s easy to get lost in this part of the city.* \n\n#### **It’s** + adjective + **that**…\n\n-   ***It**‘s important that you learn this.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/This-vs-it_Difference_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/the-difference-between-this-and-it/img-1.png",
+        "alt": "Infographic comparing the usage of 'this' versus 'it' in English grammar, with examples and explanations, provided by test-english.com."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "The difference between this and it",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} isn't nice that you never call.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9692"
+        },
+        {
+          "index": 1,
+          "template": "Have you seen their new house? {0} has a big garden and a swimming pool.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9693"
+        },
+        {
+          "index": 2,
+          "template": "Can you help me with {0} problem?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "this",
+                "it"
+              ],
+              "correct": "this",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9701"
+        },
+        {
+          "index": 3,
+          "template": "{0} is raining outside.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "This"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9694"
+        },
+        {
+          "index": 4,
+          "template": "{0} is my dog’s birthday today.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9695"
+        },
+        {
+          "index": 5,
+          "template": "{0} is late, we should go home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9696"
+        },
+        {
+          "index": 6,
+          "template": "I don’t understand {0} word.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "this",
+                "it"
+              ],
+              "correct": "this",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9700"
+        },
+        {
+          "index": 7,
+          "template": "{0} is my favorite book.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "This",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9699"
+        },
+        {
+          "index": 8,
+          "template": "{0} is a long way to the store.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9697"
+        },
+        {
+          "index": 9,
+          "template": "{0} is my new bicycle. Do you like it?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "This",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9698"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "The difference between this and it",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I’m cold because _____ is windy.",
+          "options": [
+            "this",
+            "it"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ is ten miles from my house to the nearest train station.",
+          "options": [
+            "This",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "_____ is the teacher who helps me with math.",
+          "options": [
+            "This",
+            "It"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_____ is my friend Ana; she's from Spain.",
+          "options": [
+            "This",
+            "It"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____ was a surprise to see my cousin at the party.",
+          "options": [
+            "This",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_____ is time for dinner.",
+          "options": [
+            "This",
+            "It"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Hello, _____ is Michael speaking. May I talk to Sarah, please?",
+          "options": [
+            "this",
+            "it"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ is the best ice cream in town.",
+          "options": [
+            "This",
+            "It"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "This is my new guitar. My wife got _____ for my last birthday.",
+          "options": [
+            "this",
+            "it"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_____ cat is so friendly!",
+          "options": [
+            "This",
+            "It"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "The difference between this and it",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "ALEX: Hey, do you see 1 {0} bike here? SAM: Yeah, 2 {1} looks really cool. Is 3 {2} new? ALEX: Yes! I bought 4 {3} yesterday. I also bought 5 {4} helmet. SAM: Nice. 6 {5} is important to be safe. ALEX: Of course. And look, I downloaded 7 {6} app on my phone. SAM: What is 8 {7} used for? ALEX: 9 {8} shows you different routes that you can take and also the time other people took to finish the routes. For example, 10 {9} is the route I want to do today.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "this",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "it",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "safety",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "it",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "it",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9712"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "The difference between this and it",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} isn't nice that you never call.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9692"
+        },
+        {
+          "index": 1,
+          "template": "Have you seen their new house? {0} has a big garden and a swimming pool.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9693"
+        },
+        {
+          "index": 2,
+          "template": "Can you help me with {0} problem?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "this",
+                "it"
+              ],
+              "correct": "this",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9701"
+        },
+        {
+          "index": 3,
+          "template": "{0} is raining outside.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "This"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9694"
+        },
+        {
+          "index": 4,
+          "template": "{0} is my dog’s birthday today.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9695"
+        },
+        {
+          "index": 5,
+          "template": "{0} is late, we should go home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9696"
+        },
+        {
+          "index": 6,
+          "template": "I don’t understand {0} word.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "this",
+                "it"
+              ],
+              "correct": "this",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9700"
+        },
+        {
+          "index": 7,
+          "template": "{0} is my favorite book.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "This",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9699"
+        },
+        {
+          "index": 8,
+          "template": "{0} is a long way to the store.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9697"
+        },
+        {
+          "index": 9,
+          "template": "{0} is my new bicycle. Do you like it?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "It"
+              ],
+              "correct": "This",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "9698"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

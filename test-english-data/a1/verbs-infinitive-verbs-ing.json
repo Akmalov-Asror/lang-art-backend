@@ -1,0 +1,679 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "verbs-infinitive-verbs-ing",
+  "order_index": 19,
+  "title": "Verbs + to + infinitive and verbs + -ing",
+  "source_url": "https://test-english.com/grammar-points/a1/verbs-infinitive-verbs-ing/",
+  "scraped_at": "2026-05-23T07:03:05.504Z",
+  "explanation": {
+    "markdown": "## Verbs + **\\-ing**\n\nSome verbs in English are followed by another verb in the **\\-ing** form. The most common of these verbs are [verbs of liking](https://test-english.com/vocabulary/a2/hobbies-and-free-time-a2-english-vocabulary/) and disliking: **love, like, enjoy, don’t mind, don’t like, hate**. If we use another verb after these verbs, it often takes the **\\-ing** form.\n\n-   *I **love going** to the gym.* \n-   *I **like reading**.* \n-   *I **enjoy travelling**.* \n-   *I **don’t mind cooking**.* \n-   *I **don’t like doing** homework.* \n-   *I **hate getting** up early.* \n\nThe second verb is in the **\\-ing** form in the past, too.\n\n-   *When I was a child, I **hated going** to school. ![](/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-1.png)* \n-   *When I was a child, I **hated went** to school. ![](/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-2.png)* \n\n#### **\\-ing** spelling\n\nYou can check the spelling of the **\\-ing** form of the verbs in the table below.\n\n![Educational chart displaying spelling rules for adding '-ing' to verbs, with examples for each rule.](/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-3.png)\n\n## Verbs + **to**\\-infinitive\n\nMany verbs in English are followed by **to**\\-infinitive. Some of these verbs are **forget, hope, learn, need, offer, plan, remember, start, want** and **would like**.\n\n-   *I **forgot to turn off** the light.* \n-   *I **hope to see** you soon.* \n-   *I**‘m learning to drive**.* \n-   *We **need to arrive** early.* \n-   *She **offered to help** us.* \n-   *We **are planning to go** to France.* \n-   ***Remember to lock** the door.* \n-   *I **want to go** home.* \n-   *I **would like to buy** a new computer.* \n\nThe second verb takes the **to**\\-infinitive form in the past too.\n\n-   *I **wanted to go** home. ![](/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-4.png)* \n-   *I **wanted to went** home. ![](/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-5.png)* \n\n#### Would like\n\nThe verb [**would like**](https://test-english.com/grammar-points/a1/would-like/) (or **‘d like**) is different from **like**. We use **would like + to** \\+ infinitive, and we normally use **like** + **\\-ing** verb to talk about general preference.\n\n-   *I**‘d like to study** English.* \n-   *I **like studying** English.* \n\nThe meaning is also different.\n\n-   *I**‘d like to study** English.* (=I want to do it.)\n-   *I **like studying** English.* (=I enjoy it.)\n\nWe use the question **would you like…** when we offer or suggest something.\n\n-   ***Would you like** a cup of coffee?*\n-   ***Would you like** to dance with me?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-1.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/ing-spelling.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-3.png",
+        "alt": "Educational chart displaying spelling rules for adding '-ing' to verbs, with examples for each rule."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/verbs-infinitive-verbs-ing/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Verbs + to + infinitive and verbs + -ing",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Pam loves {0} letters.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "receive",
+                "receivings",
+                "receiving"
+              ],
+              "correct": "receiving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4742"
+        },
+        {
+          "index": 1,
+          "template": "She's planning {0} on a trip to Paris.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to going",
+                "going",
+                "to go"
+              ],
+              "correct": "to go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4743"
+        },
+        {
+          "index": 2,
+          "template": "Would you like {0} a picnic?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to have",
+                "have",
+                "having"
+              ],
+              "correct": "to have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4744"
+        },
+        {
+          "index": 3,
+          "template": "My son never wants {0} to bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "goes",
+                "going",
+                "to go"
+              ],
+              "correct": "to go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4745"
+        },
+        {
+          "index": 4,
+          "template": "I don't mind {0} the dishes.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "washing",
+                "wash",
+                "to wash"
+              ],
+              "correct": "washing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4746"
+        },
+        {
+          "index": 5,
+          "template": "Sorry, I forgot {0} you this afternoon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to call",
+                "calling",
+                "call"
+              ],
+              "correct": "to call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4747"
+        },
+        {
+          "index": 6,
+          "template": "Do you like {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "driving",
+                "drive",
+                "to driving"
+              ],
+              "correct": "driving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4748"
+        },
+        {
+          "index": 7,
+          "template": "Please, remember {0} me the information that I need.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to send",
+                "send",
+                "sending"
+              ],
+              "correct": "to send",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4749"
+        },
+        {
+          "index": 8,
+          "template": "I'd like {0} you some questions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ask",
+                "to ask",
+                "asking"
+              ],
+              "correct": "to ask",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4750"
+        },
+        {
+          "index": 9,
+          "template": "I learned {0} the guitar when I was 6.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "played",
+                "playing",
+                "to play"
+              ],
+              "correct": "to play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4751"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Verbs + to + infinitive and verbs + -ing",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "When I was a child, I hated ______ to school.",
+          "options": [
+            "went",
+            "going",
+            "go"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I hope _____ a good lawyer.",
+          "options": [
+            "find",
+            "to find",
+            "finding"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "He's very unfit; he needs _____ more exercise.",
+          "options": [
+            "to do",
+            "does",
+            "doing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "A: 'Would you like _____?' B: 'No, thanks. I don't like _____.'",
+          "options": [
+            "dancing / dancing",
+            "dancing / to dance",
+            "to dance / dancing"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I don't like _____ early, but I need ______ it.",
+          "options": [
+            "getting up / to do",
+            "to get up / doing",
+            "getting up / doing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I don't mind _____, but we need the car today because it's late.",
+          "options": [
+            "walk",
+            "to walk",
+            "walking"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "When did you learn _____?",
+          "options": [
+            "swam",
+            "to swim",
+            "swimming"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "My car was at the mechanic and she offered _____ me home.",
+          "options": [
+            "to drive",
+            "driving",
+            "drove"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "My dog loves _____ with other dogs.",
+          "options": [
+            "play",
+            "playing",
+            "plays"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "He plans _____ in Boston next year.",
+          "options": [
+            "to stay",
+            "staying",
+            "stays"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Verbs + to + infinitive and verbs + -ing",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Please, turn on the TV. I want {0} the football match.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to watch",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4762"
+        },
+        {
+          "index": 1,
+          "template": "I don't mind {0} my English homework.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4763"
+        },
+        {
+          "index": 2,
+          "template": "Did you remember {0} the plants?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to water",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4764"
+        },
+        {
+          "index": 3,
+          "template": "I don't like {0} in an office.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4765"
+        },
+        {
+          "index": 4,
+          "template": "I hope {0} you soon.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4766"
+        },
+        {
+          "index": 5,
+          "template": "The food is delicious. Where did you learn {0} this dish?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to make",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4767"
+        },
+        {
+          "index": 6,
+          "template": "I need {0} very early tomorrow morning. I start work at 7 a.m.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to wake up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4768"
+        },
+        {
+          "index": 7,
+          "template": "I think I forgot {0} the windows.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to close",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4769"
+        },
+        {
+          "index": 8,
+          "template": "Do you like {0} football?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "playing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4770"
+        },
+        {
+          "index": 9,
+          "template": "We'd like {0} football this afternoon.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4771"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Verbs + to + infinitive and verbs + -ing",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Pam loves {0} letters.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "receive",
+                "receivings",
+                "receiving"
+              ],
+              "correct": "receiving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4742"
+        },
+        {
+          "index": 1,
+          "template": "She's planning {0} on a trip to Paris.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to going",
+                "going",
+                "to go"
+              ],
+              "correct": "to go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4743"
+        },
+        {
+          "index": 2,
+          "template": "Would you like {0} a picnic?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to have",
+                "have",
+                "having"
+              ],
+              "correct": "to have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4744"
+        },
+        {
+          "index": 3,
+          "template": "My son never wants {0} to bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "goes",
+                "going",
+                "to go"
+              ],
+              "correct": "to go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4745"
+        },
+        {
+          "index": 4,
+          "template": "I don't mind {0} the dishes.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "washing",
+                "wash",
+                "to wash"
+              ],
+              "correct": "washing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4746"
+        },
+        {
+          "index": 5,
+          "template": "Sorry, I forgot {0} you this afternoon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to call",
+                "calling",
+                "call"
+              ],
+              "correct": "to call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4747"
+        },
+        {
+          "index": 6,
+          "template": "Do you like {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "driving",
+                "drive",
+                "to driving"
+              ],
+              "correct": "driving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4748"
+        },
+        {
+          "index": 7,
+          "template": "Please, remember {0} me the information that I need.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to send",
+                "send",
+                "sending"
+              ],
+              "correct": "to send",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4749"
+        },
+        {
+          "index": 8,
+          "template": "I'd like {0} you some questions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ask",
+                "to ask",
+                "asking"
+              ],
+              "correct": "to ask",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4750"
+        },
+        {
+          "index": 9,
+          "template": "I learned {0} the guitar when I was 6.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "played",
+                "playing",
+                "to play"
+              ],
+              "correct": "to play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4751"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

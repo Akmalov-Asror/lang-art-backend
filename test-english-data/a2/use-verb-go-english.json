@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "use-verb-go-english",
+  "order_index": 18,
+  "title": "How to use the verb ‘go’ in English",
+  "source_url": "https://test-english.com/grammar-points/a2/use-verb-go-english/",
+  "scraped_at": "2026-05-23T07:17:04.329Z",
+  "explanation": {
+    "markdown": "## How to use verb **go** in English: Grammar chart\n\nIn the table below, you can see the different ways to use the verb **go** in English.  \n  \n![Educational chart showcasing various structures with the verb 'go' in English, including 'GO + direction/place', 'GO + -ing verb', 'GO TO + noun (place)', 'GO TO THE + noun (common place)', 'GO FOR A + noun (activity)', and 'GO ON A + noun (trip or similar)' with examples for each usage.](/uploads/grammar/a2/use-verb-go-english/img-1.png)\n\n## Go + -ing\n\nWe use **go + -ing** verb for many sports, and also some other activities like **shopping, dancing, clubbing,** **etc.** \n\n-   *I want to **go shopping** this afternoon.*\n-   *We **went kayaking** on Lake Michigan.*\n\n## Go to\n\n#### Work/bed\n\nWe don’t use **the** in the expressions **go to work** and **go to bed**.\n\n-   *What time do you **go to work**?*\n-   *I’m tired. I**‘m going to bed**.* \n\n#### School/university\n\nWe say **go to school** or **go to university** without **the** to mean that go to those places as students.\n\n-   *They couldn’t **go to school** for a few days because of the snow.*\n-   *Almost 40% of young people **go to university**.* \n\n#### Prison\n\nWe say **go to prison** when someone is taken there as a prisoner.\n\n-   *He could **go to prison** if the judge finds him guilty.* \n\n## Go to a/the\n\nWe use **go to a/the** \\+ nouns describing places or events. We use **go to + the** before nouns of places that we typically go in the city.\n\n-   *I need to **go to the dentist**.* \n-   *I**‘m going to the bank**.* \n\nYou can know when we use **a** or **the** by checking [the use of articles in English](https://test-english.com/grammar-points/a1/a-an-the-no-article/).\n\n## Go for a\n\nWe use **go for a** before nouns describing acitivities, such as **a swim, a run, a walk, a ride, a drink, etc**.\n\n-   *The weather is great today. I’m going to **go for a swim**.*\n-   *I have a new bike. Would you like to **go for a ride** with me?*\n\n## Go on a\n\nWe use **go on a** before nouns related to holidays, trips or similar, such as **holiday, trip, journey, excursion, tour, cruise, etc.**\n\n-   *He **went on a cruise** with his family.*\n-   *Let’s **go on an excursion** to explore the area.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/How-to-use-the-verb-go-1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/use-verb-go-english/img-1.png",
+        "alt": "Educational chart showcasing various structures with the verb 'go' in English, including 'GO + direction/place', 'GO + -ing verb', 'GO TO + noun (place)', 'GO TO THE + noun (common place)', 'GO FOR A + noun (activity)', and 'GO ON A + noun (trip or similar)' with examples for each usage."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "How to use the verb go in English",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I want to go {0} in the park.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to a walk",
+                "walk",
+                "for a walk"
+              ],
+              "correct": "for a walk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4772"
+        },
+        {
+          "index": 1,
+          "template": "I never go {0} on Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to shop",
+                "for shopping",
+                "shopping"
+              ],
+              "correct": "shopping",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4773"
+        },
+        {
+          "index": 2,
+          "template": "Do you want to go {0} excursion?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to an",
+                "for",
+                "on an"
+              ],
+              "correct": "on an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4774"
+        },
+        {
+          "index": 3,
+          "template": "At 7, I always go {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on a swim",
+                "for a swim",
+                "for swimming"
+              ],
+              "correct": "for a swim",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4775"
+        },
+        {
+          "index": 4,
+          "template": "Don't go {0} today. It's very windy.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to ski",
+                "on a ski",
+                "skiing"
+              ],
+              "correct": "skiing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4776"
+        },
+        {
+          "index": 5,
+          "template": "Every Monday evening we go {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for a drink",
+                "on a drink",
+                "to a drink"
+              ],
+              "correct": "for a drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4777"
+        },
+        {
+          "index": 6,
+          "template": "Next summer, we want to go {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on a cruise",
+                "to cruising",
+                "to cruise"
+              ],
+              "correct": "on a cruise",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4778"
+        },
+        {
+          "index": 7,
+          "template": "What time do you {0} home on Mondays?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go to the",
+                "go",
+                "go to"
+              ],
+              "correct": "go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4779"
+        },
+        {
+          "index": 8,
+          "template": "I go {0} three times a week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to the gym",
+                "for the gym",
+                "to gym"
+              ],
+              "correct": "to the gym",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4780"
+        },
+        {
+          "index": 9,
+          "template": "We shouldn't go {0} work when we are not feeling well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to the",
+                "to",
+                "for"
+              ],
+              "correct": "to the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4781"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "How to use the verb go in English",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "They don't go _____. They work.",
+          "options": [
+            "to the school",
+            "for the school",
+            "to school"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Do you want to go _____ with me in the park?",
+          "options": [
+            "for run",
+            "to run",
+            "running"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "They often go _____ at weekends.",
+          "options": [
+            "for fish",
+            "to a fish",
+            "fishing"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Let's go _____. The fridge is empty.",
+          "options": [
+            "to the supermarket",
+            "to supermarket",
+            "for the supermarket"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I'd like to go _____ to Egypt.",
+          "options": [
+            "for trip",
+            "on a trip",
+            "to a trip"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I need to go _____ .",
+          "options": [
+            "to the post office.",
+            "on the post office.",
+            "for the post office."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "What time do you usually go _____?",
+          "options": [
+            "for the bed",
+            "to the bed",
+            "to bed"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "In summer, I love to go _____ in the sea.",
+          "options": [
+            "to swim",
+            "swimming",
+            "for the swim"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "After their wedding, they went _____ around Europe for their honeymoon",
+          "options": [
+            "on a tour",
+            "to a tour",
+            "for the tour"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'll show you the best places to go _____ in London.",
+          "options": [
+            "to club",
+            "on a club",
+            "clubbing"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "How to use the verb go in English",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We would like to go {0} in Tanzania next summer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4783"
+        },
+        {
+          "index": 1,
+          "template": "I'm not going {0} today. It's Saturday.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4782"
+        },
+        {
+          "index": 2,
+          "template": "The weather is perfect today. Why don't we go {0} along the beach?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for a walk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4784"
+        },
+        {
+          "index": 3,
+          "template": "I need to go {0}. I think I'm ill.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to the doctor",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4787"
+        },
+        {
+          "index": 4,
+          "template": "Every morning, I go {0} for 30 minutes. I love doing exercise.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "jogging",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4785"
+        },
+        {
+          "index": 5,
+          "template": "Would you like to go {0} after work? There's a new pub around the corner.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for a drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4786"
+        },
+        {
+          "index": 6,
+          "template": "Last year, I went {0} about climate change and pollution in Berlin.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to a seminar",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4788"
+        },
+        {
+          "index": 7,
+          "template": "After trying to rob a bank, he went {0} for 5 years.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to prison",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4789"
+        },
+        {
+          "index": 8,
+          "template": "They are saving to go {0} around Europe.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "traveling",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4790"
+        },
+        {
+          "index": 9,
+          "template": "My friends and I love cycling. We always go {0} on Sunday morning.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "cycling",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4791"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "How to use the verb go in English",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I want to go {0} in the park.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to a walk",
+                "walk",
+                "for a walk"
+              ],
+              "correct": "for a walk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4772"
+        },
+        {
+          "index": 1,
+          "template": "I never go {0} on Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to shop",
+                "for shopping",
+                "shopping"
+              ],
+              "correct": "shopping",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4773"
+        },
+        {
+          "index": 2,
+          "template": "Do you want to go {0} excursion?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to an",
+                "for",
+                "on an"
+              ],
+              "correct": "on an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4774"
+        },
+        {
+          "index": 3,
+          "template": "At 7, I always go {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on a swim",
+                "for a swim",
+                "for swimming"
+              ],
+              "correct": "for a swim",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4775"
+        },
+        {
+          "index": 4,
+          "template": "Don't go {0} today. It's very windy.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to ski",
+                "on a ski",
+                "skiing"
+              ],
+              "correct": "skiing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4776"
+        },
+        {
+          "index": 5,
+          "template": "Every Monday evening we go {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for a drink",
+                "on a drink",
+                "to a drink"
+              ],
+              "correct": "for a drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4777"
+        },
+        {
+          "index": 6,
+          "template": "Next summer, we want to go {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on a cruise",
+                "to cruising",
+                "to cruise"
+              ],
+              "correct": "on a cruise",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4778"
+        },
+        {
+          "index": 7,
+          "template": "What time do you {0} home on Mondays?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go to the",
+                "go",
+                "go to"
+              ],
+              "correct": "go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4779"
+        },
+        {
+          "index": 8,
+          "template": "I go {0} three times a week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to the gym",
+                "for the gym",
+                "to gym"
+              ],
+              "correct": "to the gym",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4780"
+        },
+        {
+          "index": 9,
+          "template": "We shouldn't go {0} work when we are not feeling well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to the",
+                "to",
+                "for"
+              ],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4781"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,592 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "usually-used-to-be-used-to-get-used-to",
+  "order_index": 14,
+  "title": "Usually, used to, be used to, get used to",
+  "source_url": "https://test-english.com/grammar-points/b1/usually-used-to-be-used-to-get-used-to/",
+  "scraped_at": "2026-05-23T07:21:54.455Z",
+  "explanation": {
+    "markdown": "## **Used to**: Grammar Chart\n\n![used to, be used to, get used to](/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-1.png)\n\n## **Used to** + infinitive\n\n#### Repeated actions in the past\n\nWe can use **used to + infinitive** to talk about past habits or **things** that **we did repeatedly** in the past.\n\n-   *When I was a child, I **used to go** skiing every winter.* \n-   *I **didn’t use to smoke** before I got this job.* \n\n#### Situations or states that are no longer true\n\nWe can use **used to + infinitive** to talk about situations or states ([stative verbs](https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/)) which were true in the past but are no longer true.\n\n-   *As a child, I **used to be** blond.* \n-   *I **used to live** with my mum when I was a child.*\n\n#### **Used to, didn’t use to, did you use to**\n\nThe negative form of **used to +** infinitive is **didn’t use to…,** and we make questions with **did you use to …**\n\n-   *I **didn’t use to do** sport as a teenager.* \n-   ***Did you use to study** in the library when you were in uni?*\n\n#### I usually do\n\n**Used to** only has a past form. If we want to talk about present habits or **things** that **we do repeatedly** in the present, we should use **usually, normally, often** with present simple.\n\n-   *We **use to go** to the cinema on Friday evenings. ![](/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-2.png)* \n-   *We **usually go** to the cinema on Friday evenings. ![](/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-3.png)* \n\n## **Be used to**\n\nIf you are **used to something** or **to doing something**, you are accustomed to it. Maybe it’s something that is new, strange or difficult, but you have done it for some time, and now you don’t find it new, strange or difficult any more. **Be used to** is a state, so it is never used in continuous forms. It’s normally used with simple verb tenses.\n\n-   *When I started working, it was hard to get up at 6 a.m., but now I’**m used to** it.* \n-   *I’ve been living in England for a short time, and I’**m** still **not** **used to driving** on the left.* \n\n## **Get used to**\n\nIf  you **get used to something** or **to doing something**, you become accustomed to something. Get used to something is the process of becoming used to something.\n\n-   *I’ve just started my new job and I’**m** still **getting used to getting** up so early.* \n-   *It might be difficult at first, but you’**ll get used to driving** on the left.* \n\n## **Used to** + infinitive, **be/get used to + -ing**\n\nThe past verb **used to** is always followed by an [infinitive](https://test-english.com/grammar-points/b1/gerund-or-infinitive-do-to-do-doing/). The word **to** is part of the infinitive.\n\n-   *I **used to play** basketball when I was in school.* \n\nAfter **be used to**, or **get used to**, we use a noun or a –**ing** verb. The word **to** is a preposition, not part of an infinitive. That is why when a verb follows, it must take the –**ing** form.\n\n-   *I’**m not used to this cold** and rainy weather.* \n-   *I’m sure you**‘ll get used to work** with John. ![](/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-4.png)* \n-   *I’m sure you**‘ll get used to working** with John. ![](/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-5.png)*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/used-to-be-get-used-to.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-1.png",
+        "alt": "used to, be used to, get used to"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b1/usually-used-to-be-used-to-get-used-to/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Usually, used to, be used to, get used to",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} work in a bank, but now I'm working as a designer.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was used to",
+                "got used to",
+                "used to"
+              ],
+              "correct": "used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1775"
+        },
+        {
+          "index": 1,
+          "template": "We {0} go to the cinema very often.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "usedn't to",
+                "didn't used to",
+                "didn't use to"
+              ],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1776"
+        },
+        {
+          "index": 2,
+          "template": "We {0} eat out every Saturday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "usually",
+                "get used to",
+                "use to"
+              ],
+              "correct": "usually",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1777"
+        },
+        {
+          "index": 3,
+          "template": "I {0} getting up early. I've been doing it for 30 years.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "get used to",
+                "'m used to",
+                "used to"
+              ],
+              "correct": "'m used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1778"
+        },
+        {
+          "index": 4,
+          "template": "I've been in France for a week and I {0} driving on the right.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "used to",
+                "'m getting used to",
+                "usually"
+              ],
+              "correct": "'m getting used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1779"
+        },
+        {
+          "index": 5,
+          "template": "I'm not used to {0} dinner at 6. In my country we eat later.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have",
+                "to have",
+                "having"
+              ],
+              "correct": "having",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1780"
+        },
+        {
+          "index": 6,
+          "template": "Do you {0} go to the pub after work?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "usually",
+                "use to",
+                "used to"
+              ],
+              "correct": "used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1781"
+        },
+        {
+          "index": 7,
+          "template": "My father {0} tell us stories when we were in bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "use to",
+                "was used to",
+                "used to"
+              ],
+              "correct": "used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1782"
+        },
+        {
+          "index": 8,
+          "template": "I {0} blond when I was a child.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "got used to being",
+                "was used to being",
+                "used to be"
+              ],
+              "correct": "used to be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1783"
+        },
+        {
+          "index": 9,
+          "template": "You'll have to get used {0} without salt.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cook",
+                "to cooking",
+                "to cook"
+              ],
+              "correct": "to cooking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1784"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Usually, used to, be used to, get used to",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "When we were children we used ______skiing every winter.",
+          "options": [
+            "to go",
+            "go",
+            "to going"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Tommy and I are very different, but we are used ______ together.",
+          "options": [
+            "to living",
+            "to live",
+            "living"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "There ______ a library at the end of the street, but now there is a gym.",
+          "options": [
+            "got used to being",
+            "used to be",
+            "was used to being"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I'm not feeling well. I'm not used ______ until so late.",
+          "options": [
+            "to go out",
+            "going out",
+            "to going out"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "______ to like ketchup when you were a child?",
+          "options": [
+            "Did you use",
+            "Did you used",
+            "Used you"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "We ______ to travel too much before we had our daughter.",
+          "options": [
+            "didn't use",
+            "usedn't to",
+            "didn't used"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "______ book your holidays in advance?",
+          "options": [
+            "Do you use to",
+            "Do you usually",
+            "Are you used to"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Before I bought my car, I ______ walk everywhere.",
+          "options": [
+            "used to",
+            "got used to",
+            "was used to"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I'm still ______ to driving such a big car. I think it will take me some time.",
+          "options": [
+            "used",
+            "getting used",
+            "being used"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "We ______ order pizza online.",
+          "options": [
+            "don't usually",
+            "don't use to",
+            "aren't used to"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Usually, used to, be used to, get used to",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A few years ago, we used to 1 {0} in a very small flat in a very poor area. We were used to 2 {1} with very little. We 3 {2} to have good furniture or a good TV, and of course, we didn't use 4 {3} what it was to have an internet connection. In our neighbourhood, the streets used 5 {4} dark and dirty, and 6 {5} used to be a lot of robberies.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "live",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "living",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "used",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "know",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to be",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1795"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Usually, used to, be used to, get used to",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} work in a bank, but now I'm working as a designer.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was used to",
+                "got used to",
+                "used to"
+              ],
+              "correct": "used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1775"
+        },
+        {
+          "index": 1,
+          "template": "We {0} go to the cinema very often.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "usedn't to",
+                "didn't used to",
+                "didn't use to"
+              ],
+              "correct": "didn't use to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1776"
+        },
+        {
+          "index": 2,
+          "template": "We {0} eat out every Saturday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "usually",
+                "get used to",
+                "use to"
+              ],
+              "correct": "usually",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1777"
+        },
+        {
+          "index": 3,
+          "template": "I {0} getting up early. I've been doing it for 30 years.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "get used to",
+                "'m used to",
+                "used to"
+              ],
+              "correct": "'m used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1778"
+        },
+        {
+          "index": 4,
+          "template": "I've been in France for a week and I {0} driving on the right.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "used to",
+                "'m getting used to",
+                "usually"
+              ],
+              "correct": "'m getting used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1779"
+        },
+        {
+          "index": 5,
+          "template": "I'm not used to {0} dinner at 6. In my country we eat later.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have",
+                "to have",
+                "having"
+              ],
+              "correct": "having",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1780"
+        },
+        {
+          "index": 6,
+          "template": "Do you {0} go to the pub after work?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "usually",
+                "use to",
+                "used to"
+              ],
+              "correct": "usually",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1781"
+        },
+        {
+          "index": 7,
+          "template": "My father {0} tell us stories when we were in bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "use to",
+                "was used to",
+                "used to"
+              ],
+              "correct": "used to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1782"
+        },
+        {
+          "index": 8,
+          "template": "I {0} blond when I was a child.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "got used to being",
+                "was used to being",
+                "used to be"
+              ],
+              "correct": "used to be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1783"
+        },
+        {
+          "index": 9,
+          "template": "You'll have to get used {0} without salt.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cook",
+                "to cooking",
+                "to cook"
+              ],
+              "correct": "to cooking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1784"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

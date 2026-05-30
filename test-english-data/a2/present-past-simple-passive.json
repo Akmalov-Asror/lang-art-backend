@@ -1,0 +1,419 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "present-past-simple-passive",
+  "order_index": 24,
+  "title": "Present and past simple passive: ‘be’ + past participle",
+  "source_url": "https://test-english.com/grammar-points/a2/present-past-simple-passive/",
+  "scraped_at": "2026-05-23T07:17:58.530Z",
+  "explanation": {
+    "markdown": "## Present and past simple passive: Grammar chart\n\n![Present and past simple passive: be + past participle](/uploads/grammar/a2/present-past-simple-passive/img-1.png)\n\n## Active sentences vs passive sentences\n\nWhen **A does B**, we have two possible ways of talking about it: **active** or **passive.** In active sentences, **A is the subject** (before the verb). In passive sentences, **B is the subject**. Check the following examples:\n\n#### Present simple\n\n‣ *Somebody cleans the classroom every day.* (Active)\n\n‣ *The classroom is cleaned every day.* (Passive)\n\n#### Past simple\n\n‣ *Somebody cleaned the classroom yesterday. (Active)*\n\n‣ *The classroom was cleaned yesterday.* (Passive)\n\nAs you can see, the object of an active sentence is the subject of a passive sentence. In an active sentence, the subject is the ‘doer’ of the action, and the object is the ‘receiver’ of the action. In a passive sentence, the subject is the receiver of the action, NOT the doer. Compare:\n\n-   ***Somebody** broke the window.*\n-   ***The window** was broken (by someone).*\n\nIn the first sentence, ‘somebody’ is the doer of the breaking, and in the second sentence, ‘the window’ is the receiver of the breaking.\n\n## When do we use the passive?\n\nThe passive is more formal than the active, and it is more common in written language. We often use the passive when we don’t know, when it is obvious, or when we don’t want to say who or what is responsible for the action.\n\n-   *A bank **was robbed** yesterday. (*We don’t know who robbed the bank.)\n-   *The robber **was arrested** last night.* (It’s obvious that the police arrested the robber.)\n-   *I **was told** that you insulted my brother.* (I don’t want to say who told me.)\n-   *Jurassic Park **was filmed** by Spielberg in 1993.* (I’m talking about Jurassic Park and not about Spielberg.)\n\n## Passive voice + **by**\n\nWe can use **by** to say who or what is responsible for the action.\n\n-   *The painting was bought **by a very rich American**.*\n-   *Penicillin was invented **by Alexander Fleming**.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-past-simple_passive.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/present-past-simple-passive/img-1.png",
+        "alt": "Present and past simple passive: be + past participle"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present and past simple passive: ‘be’ + past participle",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "The earliest credible evidence of coffee-drinking 1 {0} in the middle of the 15th century in Yemen. It was here in Arabia that roasted coffee seeds 2 {1} for the first time. Coffee 3 {2} then in a very similar way to how we 4 {3} it in the present day. Coffee 5 {4} by Sufi circles to stay awake for their religious rituals.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is appeared",
+                "appears"
+              ],
+              "correct": "appears",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were boiled",
+                "boiled"
+              ],
+              "correct": "were boiled",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "prepared",
+                "was prepared"
+              ],
+              "correct": "was prepared",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "are prepared",
+                "prepare"
+              ],
+              "correct": "prepare",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was used",
+                "used"
+              ],
+              "correct": "was used",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3396"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Present and past simple passive: ‘be’ + past participle",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Mayan _____ in many regions in Guatemala and southern Mexico.",
+          "options": [
+            "speaks",
+            "is spoke",
+            "is spoken"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "The match _____ by 4.1 million people.",
+          "options": [
+            "was watched",
+            "was watch",
+            "watched"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Manchego cheese _____ in La Mancha, Spain.",
+          "options": [
+            "produced",
+            "is produced",
+            "produces"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The authorities _____ them about the incident.",
+          "options": [
+            "informed",
+            "were informed",
+            "were inform"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Who _____ this novel?",
+          "options": [
+            "was written",
+            "wrote",
+            "did write"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A lot of celebrities _____ to the party.",
+          "options": [
+            "invited",
+            "were invited",
+            "were invite"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "It's important that residents _____ the water for three minutes before drinking it.",
+          "options": [
+            "are boiled",
+            "were boiled",
+            "boil"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "A rare species of insect _____ in the Amazon Rain Forest last year.",
+          "options": [
+            "was discovered",
+            "discovered",
+            "was discover"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "More than 1,500 passengers died when the Titanic _____.",
+          "options": [
+            "was sunk",
+            "sank",
+            "was sink"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Alcohol _____ to minors or to people who are intoxicated.",
+          "options": [
+            "doesn't sell",
+            "isn't sold",
+            "sells"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present and past simple passive: ‘be’ + past participle",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Somebody found him in the South of Spain ⇒ He {0} in the South of Spain.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was found",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3407"
+        },
+        {
+          "index": 1,
+          "template": "Did anyone lock the door last night? ⇒ {0} last night?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Was anyone locked",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3409"
+        },
+        {
+          "index": 2,
+          "template": "They paint the house every five years. ⇒ {0} every five years.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is the house painted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3410"
+        },
+        {
+          "index": 3,
+          "template": "They made the robot with three sensors. ⇒ {0} with three sensors.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Was the robot made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3411"
+        },
+        {
+          "index": 4,
+          "template": "Someone found my keys in the street. ⇒ {0} in the street.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Were my keys found",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3408"
+        },
+        {
+          "index": 5,
+          "template": "Someone injured two police officers during the incident. ⇒ {0} during the incident.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Were two police officers injured",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3412"
+        },
+        {
+          "index": 6,
+          "template": "They postponed the match because of the rain. ⇒ {0} because of the rain.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Was the match postponed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3413"
+        },
+        {
+          "index": 7,
+          "template": "They teach students to show respect. ⇒ {0} to show respect.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are students taught",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3414"
+        },
+        {
+          "index": 8,
+          "template": "The major operators sell the mobile phones. ⇒ {0} by the major operators.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are the mobile phones sold",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3415"
+        },
+        {
+          "index": 9,
+          "template": "They learn something new every day. ⇒ {0} every day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is something new learned",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3416"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present and past simple passive: ‘be’ + past participle",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "The earliest credible evidence of coffee-drinking 1 {0} in the middle of the 15th century in Yemen. It was here in Arabia that roasted coffee seeds 2 {1} for the first time. Coffee 3 {2} then in a very similar way to how we 4 {3} it in the present day. Coffee 5 {4} by Sufi circles to stay awake for their religious rituals.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is appeared",
+                "appears"
+              ],
+              "correct": "appears",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were boiled",
+                "boiled"
+              ],
+              "correct": "were boiled",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "prepared",
+                "was prepared"
+              ],
+              "correct": "was prepared",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "are prepared",
+                "prepare"
+              ],
+              "correct": "prepare",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was used",
+                "used"
+              ],
+              "correct": "was used",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3396"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

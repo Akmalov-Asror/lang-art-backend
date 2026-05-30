@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "clauses-contrast-purpose-reason",
+  "order_index": 31,
+  "title": "Clauses of contrast, purpose and reason",
+  "source_url": "https://test-english.com/grammar-points/b1/clauses-contrast-purpose-reason/",
+  "scraped_at": "2026-05-23T07:23:54.412Z",
+  "explanation": {
+    "markdown": "## Clauses of contrast, purpose and reason\n\n![Clauses of contrast, purpose and reason](/uploads/grammar/b1/clauses-contrast-purpose-reason/img-1.png)\n\n## Clauses of contrast\n\n#### **Although, even though**\n\nWe can use **although**/**even though** at the beginning or in the middle of a sentence followed by a clause (subject + verb). We NEVER use a comma after **although** or **even though**.\n\n-   ***Although****/Even though** we had a bad game, we won.* \n-   *We won, **although****/even though** we had a bad game.*\n\n#### **However**\n\nWe use **however** to connect two different sentences. We normally use **however** after a full stop (.) or a semi-colon (;). **However** should ALWAYS be followed by a comma.\n\n-   *We didn’t like the hotel. **However,** we had a fantastic time.* \n-   *We went to the beach; **however,** the weather wasn’t perfect.* \n\n#### **Despite/in spite of**\n\n**Despite** and **in spite of** are normally followed by a noun or a –**ing** verb. They can go at the beginning or in the middle of the sentence.\n\n-   ***Despite****/In spite of** the rain, we went to the concert.*\n-   *They arrived **despite****/in spite of** leaving very early.* \n\nWe can use a clause (subject + verb) after **despite**/**in spite of** \\+ **the fact that**.\n\n-   *We went out **despite****/in spite of** **the fact that** it was raining.* \n\n## Clauses of purpose\n\n#### **To** + infinitive\n\nThe most common way to express purpose in English is [**to** + infinitive](https://test-english.com/grammar-points/a2/purpose-to-for/).\n\n-   *The student worked hard **to pass** the test.* \n\n#### **In order to/so as to** + infinitive\n\n**In order to** or **so as to** + infinitive are more common in formal English, mainly in writing. The negative forms are **in order not to** and **so as not to** + infinitive.\n\n-   *We were asked to stay **in order to** **finish** the project.* \n-   *He left home early **in order not to** **be** late.*\n-   *Use a plastic hammer **so as to avoid** damage.* \n-   *They walked quietly **so as not to wake up** the children.* \n\n#### **So that** + clause\n\nWe can also use **so that** + subject + verb to express purpose. We normally use a **modal verb** with this connector. (**could**, **can**, **would**, etc.)\n\n-   *We left early **so that we could** park near the centre.* \n-   *He made some flashcards **so that it would** be easier for his mum to remember the instructions.* \n\n#### **For** + noun\n\nWe can also use **for** + noun to express purpose.\n\n-   *We went to the bar **for a drink**.*\n-   *Would you like to go to the park **for a run**?*\n\n## Clauses of reason\n\nWhen we want to explain the reason why something happened or why someone did something, we use a clause of reason introduced by a conjunction (**as**, **since**, **because**) or a noun phrase introduced by **because of** or **due to**.\n\n#### **Because**\n\nWe use **because** before a clause (subject + verb). It can be used at the beginning or at the end of a sentence (at the end is more common). A comma is used when the clause of reason is at the beginning of the sentence.\n\n-   *We didn’t go **because** it was raining heavily.* \n-   ***Because** the event was cancelled, they lost their deposits.* \n\n#### **As/since**\n\nWe use **as** and **since** in a very similar way to **because**. They are followed by subject + verb and can be used at the beginning or at the end of a sentence. However, **as** and **since** are more formal expressions and are more common in written than spoken English.\n\n-   *The government urged people to stay indoors **since******/as** more rain is forecast for the entire weekend.*\n-   ***As******/Since** the roads were blocked, the victims had to be rescued by helicopter.* \n\n#### **Because of**\n\nWe use **because of** before a noun.\n\n-   *The concert was postponed **because of** the heavy rain.* \n\n#### **Due to**\n\n**Due to** means ‘because of’ although it is more formal. We also use **due to** before a noun.\n\n-   *The event was cancelled* ***due to*** *a lack of interest.* \n-   *I couldn’t enjoy the meal* ***due to*** *their constant arguing.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Clauses_contrast_purpose_reason-1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/clauses-contrast-purpose-reason/img-1.png",
+        "alt": "Clauses of contrast, purpose and reason"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Clauses of contrast, purpose and reason",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} she was under a lot of pressure, she never complained.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "Despite",
+                "However"
+              ],
+              "correct": "Although",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2285"
+        },
+        {
+          "index": 1,
+          "template": "He was very talented. {0}, he was very lazy and lacked ambition.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "In spite of",
+                "Although",
+                "However"
+              ],
+              "correct": "However",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2286"
+        },
+        {
+          "index": 2,
+          "template": "They won the match {0} not having their star player.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "however",
+                "although",
+                "in spite of"
+              ],
+              "correct": "in spite of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2287"
+        },
+        {
+          "index": 3,
+          "template": "We arrived earlier {0} we could sit in the first row.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so that",
+                "for",
+                "so as to"
+              ],
+              "correct": "so that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2288"
+        },
+        {
+          "index": 4,
+          "template": "She is very good. {0}, she is not the best.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "Despite",
+                "However"
+              ],
+              "correct": "However",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2289"
+        },
+        {
+          "index": 5,
+          "template": "{0} his age, he did a very good job.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "Despite",
+                "However"
+              ],
+              "correct": "Despite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2291"
+        },
+        {
+          "index": 6,
+          "template": "{0} she is very good, she is not the best.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "However",
+                "In spite of"
+              ],
+              "correct": "Although",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2290"
+        },
+        {
+          "index": 7,
+          "template": "We will continue working hard {0} to reach a solution.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in order",
+                "so",
+                "for"
+              ],
+              "correct": "in order",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2292"
+        },
+        {
+          "index": 8,
+          "template": "Sometimes workers eat in the garden {0} fight the stress of their jobs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so as to",
+                "so that",
+                "for"
+              ],
+              "correct": "so as to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2293"
+        },
+        {
+          "index": 9,
+          "template": "He had to deactivate his Facebook account {0} the constant threats.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "because of",
+                "because",
+                "since"
+              ],
+              "correct": "because of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2294"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Clauses of contrast, purpose and reason",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "We could attend the conference ______ the fact that we didn’t have invitations.",
+          "options": [
+            "although",
+            "in spite of",
+            "however"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Tomas can be very annoying sometimes. ______ , he is very loyal to his friends.",
+          "options": [
+            "However",
+            "Although",
+            "In spite of"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I didn't say anything ______ upset him.",
+          "options": [
+            "so as not to",
+            "for not to",
+            "to not"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "______ I was tired, I decided to stay home. Choose TWO correct options",
+          "options": [
+            "As",
+            "Due to",
+            "Since"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He survived ______ being shot three times in the chest.",
+          "options": [
+            "although",
+            "however",
+            "despite"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "We went to the beach ______ it was rather cold.",
+          "options": [
+            "however",
+            "despite",
+            "although"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The flight had to be cancelled ______ the storm. Choose TWO correct options",
+          "options": [
+            "due to",
+            "since",
+            "because of"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "He made it to the final ______ his knee injury.",
+          "options": [
+            "despite",
+            "in spite",
+            "although"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "They went out ______ a romantic evening.",
+          "options": [
+            "so as to",
+            "for",
+            "in order to"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "______ he is old, he is quite strong.",
+          "options": [
+            "Although",
+            "However",
+            "Despite"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Clauses of contrast, purpose and reason",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Please include your details {0} that we can contact you in the future.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "so that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2310"
+        },
+        {
+          "index": 1,
+          "template": "{0} being deaf, he's an extraordinary musician.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Despite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2311"
+        },
+        {
+          "index": 2,
+          "template": "The school was closed {0} to the floods.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "due",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2312"
+        },
+        {
+          "index": 3,
+          "template": "You seem a nice guy. {0}, you are not my type.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "However",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2313"
+        },
+        {
+          "index": 4,
+          "template": "He didn't say anything so {0} not to draw too much attention.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "as",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2314"
+        },
+        {
+          "index": 5,
+          "template": "His wife remains loyal in {0} of his well-known infidelities.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "spite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2315"
+        },
+        {
+          "index": 6,
+          "template": "{0} he earns a lot of money, he never spends it on unnecessary things.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Although",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2316"
+        },
+        {
+          "index": 7,
+          "template": "He married her {0} of her money.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2317"
+        },
+        {
+          "index": 8,
+          "template": "She worked very hard {0} win the Olympic gold medal.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2318"
+        },
+        {
+          "index": 9,
+          "template": "She worked very hard {0} that Olympic gold medal.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2319"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Clauses of contrast, purpose and reason",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} she was under a lot of pressure, she never complained.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "Despite",
+                "However"
+              ],
+              "correct": "Although",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2285"
+        },
+        {
+          "index": 1,
+          "template": "He was very talented. {0}, he was very lazy and lacked ambition.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "In spite of",
+                "Although",
+                "However"
+              ],
+              "correct": "However",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2286"
+        },
+        {
+          "index": 2,
+          "template": "They won the match {0} not having their star player.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "however",
+                "although",
+                "in spite of"
+              ],
+              "correct": "in spite of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2287"
+        },
+        {
+          "index": 3,
+          "template": "We arrived earlier {0} we could sit in the first row.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so that",
+                "for",
+                "so as to"
+              ],
+              "correct": "so that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2288"
+        },
+        {
+          "index": 4,
+          "template": "She is very good. {0}, she is not the best.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "Despite",
+                "However"
+              ],
+              "correct": "However",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2289"
+        },
+        {
+          "index": 5,
+          "template": "{0} his age, he did a very good job.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "Despite",
+                "However"
+              ],
+              "correct": "Despite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2291"
+        },
+        {
+          "index": 6,
+          "template": "{0} she is very good, she is not the best.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "However",
+                "In spite of"
+              ],
+              "correct": "Although",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2290"
+        },
+        {
+          "index": 7,
+          "template": "We will continue working hard {0} to reach a solution.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in order",
+                "so",
+                "for"
+              ],
+              "correct": "in order",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2292"
+        },
+        {
+          "index": 8,
+          "template": "Sometimes workers eat in the garden {0} fight the stress of their jobs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so as to",
+                "so that",
+                "for"
+              ],
+              "correct": "so as to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2293"
+        },
+        {
+          "index": 9,
+          "template": "He had to deactivate his Facebook account {0} the constant threats.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "because of",
+                "because",
+                "since"
+              ],
+              "correct": "because of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2294"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,703 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "generic-pronouns",
+  "order_index": 2,
+  "title": "Generic or common-gender pronouns",
+  "source_url": "https://test-english.com/grammar-points/b2/generic-pronouns/",
+  "scraped_at": "2026-05-23T07:25:21.487Z",
+  "explanation": {
+    "markdown": "## Generic pronouns: Common-gender pronouns\n\n![Grammar chart explaining the use of generic pronouns for B2 pre-advanced level, including 'you,' 'we,' 'one,' and 'they,' with examples and guidelines on consistency and usage.](/uploads/grammar/b2/generic-pronouns/img-1.webp)\n\n### One, you, we\n\n#### Meaning\n\nWe can use **one***,* **you** or **we** to talk about people in general, including the speaker and hearer, and not one person in particular.\n\n-   ***One** can never know what to expect from politicians.* (Or also: *You/We can never know*.)\n-   *In these situations, **you** must never lose **your** temper.* \n-   ***We** are human and will always make mistakes.* \n\n#### Register\n\n**One** is more formal than **we** or **you** and is rarely used in spoken English. However, the possessive determiner **one’s** is a little more common.\n\n-   *Education always changes **one’s** life for the better.* (Or also ***your/our** life*.)\n-   *Poverty eats up **one’s** dignity.*\n\n#### Subject, object, etc.\n\n**One**, **you**, **we** can be used as a subject or object, and they are often used in their reflexive form (**oneself, yourself, ourselves**)*.*\n\n-   *Sometimes, the government treats **you/us** as if **you/we** were a child.* \n-   *There is the tendency just to lie down and let life treat **one** as it deems fit.*\n-   *Success and failure always teach **you/us** something about **yourself/ourselves**.* \n-   *Helping others helps **oneself**.*\n\n#### Consistency\n\nWe can normally choose one pronoun or the other for generic reference, but what is important is that we keep consistency throughout the text.\n\n-   ***You** never know what the future will bring **you**. ![](/uploads/grammar/b2/generic-pronouns/img-2.png)* \n-   ***We** never know what the future will bring **us**. ![](/uploads/grammar/b2/generic-pronouns/img-3.png)* \n-   ***You** never know what the future will bring **us**. ![](/uploads/grammar/b2/generic-pronouns/img-4.png)* \n\n### They\n\n#### A group of people\n\nIn English, we often use **they** to refer to people in general or a more specific group of people that does not include the speaker or hearer, such as people in a country, city, or place, or authorities, police, etc.\n\n-   ***They** don’t like strangers in this village.*\n-   ***They** are going to raise our taxes this year.*\n-    ***They** are going to open a new pub opposite my house.* \n\n#### Singular reference (= he or she)\n\nIn informal English, we use **they,** **them** or **their** to refer to one generic person who could be male or female. Many grammarians consider this use incorrect, but it is very common, even in written language.\n\n-   *A good journalist should never reveal where **they** get **their** information.* \n-   *Before the class, every student said **their** name aloud.* \n\nThe use of **they**, **them,** **their** for generic singular reference is often preceded by an indefinite singular pronoun.\n\n-   ***Someone** has left **their** suitcase in the taxi.* \n-   ***Everyone** accepted, didn’t **they**?*\n-   ***Nobody** wanted to give us **their** phone number.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Generic-pronouns_We-you-one-they_B2-grammar-chart.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/b2/generic-pronouns/img-1.webp",
+        "alt": "Grammar chart explaining the use of generic pronouns for B2 pre-advanced level, including 'you,' 'we,' 'one,' and 'they,' with examples and guidelines on consistency and usage."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b2/generic-pronouns/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b2/generic-pronouns/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b2/generic-pronouns/img-4.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Generic or common-gender pronouns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} like beer a lot in England.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "You",
+                "They",
+                "One"
+              ],
+              "correct": "They",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "739"
+        },
+        {
+          "index": 1,
+          "template": "Reading can help to expand {0} imagination.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "your",
+                "their",
+                "one"
+              ],
+              "correct": "your",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "740"
+        },
+        {
+          "index": 2,
+          "template": "{0} can never be sure whether our perceptions are correct.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "They",
+                "We",
+                "You"
+              ],
+              "correct": "We",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "741"
+        },
+        {
+          "index": 3,
+          "template": "It is very difficult to put {0} in somebody else's shoes.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "myself",
+                "oneself",
+                "himself"
+              ],
+              "correct": "oneself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "742"
+        },
+        {
+          "index": 4,
+          "template": "Every person should be held responsible for {0} own actions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "our",
+                "his",
+                "their"
+              ],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "743"
+        },
+        {
+          "index": 5,
+          "template": "If someone calls, tell {0} I'll be back in an hour.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "us",
+                "them",
+                "him"
+              ],
+              "correct": "him",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "744"
+        },
+        {
+          "index": 6,
+          "template": "In a place like this, {0} never know where danger could come from.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "he or she",
+                "they",
+                "you"
+              ],
+              "correct": "you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "745"
+        },
+        {
+          "index": 7,
+          "template": "One must think of {0} in certain situations.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "oneself",
+                "ourselves",
+                "himself"
+              ],
+              "correct": "oneself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "746"
+        },
+        {
+          "index": 8,
+          "template": "I don't believe anyone when {0} tell me how good {1} are at something.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "he",
+                "anyone",
+                "they"
+              ],
+              "correct": "they",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "he",
+                "they",
+                "anyone"
+              ],
+              "correct": "they",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "747"
+        },
+        {
+          "index": 9,
+          "template": "{0} have opened a new restaurant in the town centre.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "One",
+                "You",
+                "They"
+              ],
+              "correct": "They",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "748"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Generic or common-gender pronouns",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_______ never know who _______ enemies are. Choose TWO correct answers",
+          "options": [
+            "They / their",
+            "You / your",
+            "We / our",
+            "One / one's"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Improving _______ relationship with others should be a priority in life. Choose TWO correct answers",
+          "options": [
+            "our",
+            "their",
+            "his",
+            "one's"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "_______ say that five-a-day keeps the doctor away.",
+          "options": [
+            "They",
+            "We",
+            "One",
+            "I"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Someone left _______ wallet on one of the tables.",
+          "options": [
+            "their",
+            "its",
+            "one's",
+            "your"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_______ serve very good food in this restaurant.",
+          "options": [
+            "He or she",
+            "One",
+            "You",
+            "They"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Picking _______ nose with dirty fingers or fingernails may increase risks of infection. Choose TWO correct answers",
+          "options": [
+            "his",
+            "one's",
+            "your",
+            "their"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "At first sight _______ may think that there has to be an easy solution to the problem. Choose TWO correct answers",
+          "options": [
+            "one",
+            "they",
+            "we",
+            "he"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Whoever said that should think twice before _______ speak again.",
+          "options": [
+            "one",
+            "you",
+            "we",
+            "they"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "_______ should never judge a person by external appearances. Choose TWO correct answers",
+          "options": [
+            "He",
+            "One",
+            "They",
+            "You"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Someone crashed _______ car into our restaurant last night.",
+          "options": [
+            "our",
+            "their",
+            "your",
+            "one's"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Generic or common-gender pronouns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It's much more difficult to judge {0} than to judge others.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "759"
+        },
+        {
+          "index": 1,
+          "template": "Life is not measured by the number of breaths we take, but by the moments that take {0} breath away.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "our",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "760"
+        },
+        {
+          "index": 2,
+          "template": "Any person can change the way {0} understand the world.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "they",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "761"
+        },
+        {
+          "index": 3,
+          "template": "You should learn how to love {0} before you can love others.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "762"
+        },
+        {
+          "index": 4,
+          "template": "It is not wise to be too sure of {0} own wisdom. Life is a long lesson in humility.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "one's",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "763"
+        },
+        {
+          "index": 5,
+          "template": "{0} are all human, and therefore prone to make mistakes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "764"
+        },
+        {
+          "index": 6,
+          "template": "Sometimes life takes {0} to where we never wish to be.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "765"
+        },
+        {
+          "index": 7,
+          "template": "Sometimes {0} need to get lost in order to find yourself again.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "766"
+        },
+        {
+          "index": 8,
+          "template": "{0} should become the master of one's mind rather than let one's mind master them.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "One",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "767"
+        },
+        {
+          "index": 9,
+          "template": "A good journalist should never reveal {0} sources.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "768"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Generic or common-gender pronouns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} like beer a lot in England.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "You",
+                "They",
+                "One"
+              ],
+              "correct": "They",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "739"
+        },
+        {
+          "index": 1,
+          "template": "Reading can help to expand {0} imagination.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "your",
+                "their",
+                "one"
+              ],
+              "correct": "your",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "740"
+        },
+        {
+          "index": 2,
+          "template": "{0} can never be sure whether our perceptions are correct.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "They",
+                "We",
+                "You"
+              ],
+              "correct": "We",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "741"
+        },
+        {
+          "index": 3,
+          "template": "It is very difficult to put {0} in somebody else's shoes.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "myself",
+                "oneself",
+                "himself"
+              ],
+              "correct": "oneself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "742"
+        },
+        {
+          "index": 4,
+          "template": "Every person should be held responsible for {0} own actions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "our",
+                "his",
+                "their"
+              ],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "743"
+        },
+        {
+          "index": 5,
+          "template": "If someone calls, tell {0} I'll be back in an hour.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "us",
+                "them",
+                "him"
+              ],
+              "correct": "them",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "744"
+        },
+        {
+          "index": 6,
+          "template": "In a place like this, {0} never know where danger could come from.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "he or she",
+                "they",
+                "you"
+              ],
+              "correct": "you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "745"
+        },
+        {
+          "index": 7,
+          "template": "One must think of {0} in certain situations.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "oneself",
+                "ourselves",
+                "himself"
+              ],
+              "correct": "oneself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "746"
+        },
+        {
+          "index": 8,
+          "template": "I don't believe anyone when {0} tell me how good {1} are at something.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "he",
+                "anyone",
+                "they"
+              ],
+              "correct": "they",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "he",
+                "they",
+                "anyone"
+              ],
+              "correct": "they",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "747"
+        },
+        {
+          "index": 9,
+          "template": "{0} have opened a new restaurant in the town centre.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "One",
+                "You",
+                "They"
+              ],
+              "correct": "They",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "748"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

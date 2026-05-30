@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "so-such-such-a-so-much-so-many",
+  "order_index": 28,
+  "title": "So, such, such a, so much, so many",
+  "source_url": "https://test-english.com/grammar-points/b1/so-such-such-a-so-much-so-many/",
+  "scraped_at": "2026-05-23T07:23:30.952Z",
+  "explanation": {
+    "markdown": "## **So, such, such a, so much, so many**: Grammar chart\n\n![So, such, so much, so many](/uploads/grammar/b1/so-such-such-a-so-much-so-many/img-1.png)\n\n## **So, such**\n\n#### **So** + adjective/adverb + **(that…)**\n\nWe use **so** + [adjective or adverb](https://test-english.com/grammar-points/a1/adverbs-manner/)\n\n-   *Why don’t you try to understand? You are **so stubborn**!*\n-   *He gets on my nerves. You drive **so slowly**.*\n\nWe often use **so** \\+ adjective or adverb + (**that**…)\n\n-   *He is **so good (that)** he gets bored when he plays against me.*\n-   *John drives **so slowly (that)** other drivers get impatient around him.* \n\n#### **Such a** + (adjective) + noun + **(that…)**\n\nWe use **such a** + (adjective) + countable singular noun\n\n-   *I love her. She is **such a brilliant actress**.*\n-   *It was **such a party**! We had a lot of fun.* \n\nWe often use **such a** + (adjective) + countable singular noun + (**that…**)\n\n-   *It had been **such a terrible day (that)** I just wanted to go to bed.* \n-   *He is **such a liar (that)** nobody trusts him anymore.* \n\n#### **Such** + (adjective) + noun + **(that…)**\n\nWe use **such** \\+ (adjective) + [uncountable noun](https://test-english.com/grammar-points/a1/a-some-any-countable-uncountable/) or plural noun\n\n-   *The trip was a disaster. We had **such terrible weather**!*\n-   *Everybody loves being with Tom. He tells **such funny stories**!*\n\nWe often use **such** \\+ (adjective) + uncountable noun or plural noun + (**that…**)\n\n-   *We had **such terrible weather (that)** we decided to go back home.* \n-   *She said **such nice things (that)** we were all moved.* \n\n## **So/such**: Use\n\nWe can use **so** and **such** to make the meaning of an adjective, adverb or noun stronger –meaning ‘very’ or ‘really’.\n\n-   *Why did you do it? You are **so stupid**!*\n-   *He was **such a terrible father** that now his kids don’t want to be around him.* \n\nWe can also use **so** and **such** to mean ‘like this’:\n\n-   *Sorry I didn’t call. I didn’t know it was **so important** for you*. (=important like this).\n-   *I don’t understand how you could make **such a terrible mistake**.* (= a mistake like this)\n\n## **So much/so many** + noun\n\n#### **So much** + uncountable noun + **(that…)**\n\nWe use **so much** + uncountable noun\n\n-   *Did you see her house? I didn’t know she had **so much money**.* \n-   *I wish you wouldn’t spend **so much time** on the phone.*\n\nWe often use **so much** + uncountable noun + (**that…**)\n\n-   *She always cooks **so much food that** we have to throw half of it away.* \n-   *There is **so much furniture that** it’s difficult to walk around the house.* \n\n#### **So many** + plural noun + **(that…)**\n\nWe use **so many** + plural noun\n\n-   *He couldn’t even walk among **so many fans**.*  \n-   *You don’t need to repeat everything **so many times**.* \n\nWe often use **so many** + plural noun + (**that…**)\n\n-   *There were **so many people** at the concert **(that)** we didn’t really enjoy it.* \n-   *She had **so many problems** **(that)** she just didn’t know what to do.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/so-such-so_much_so_many_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/so-such-such-a-so-much-so-many/img-1.png",
+        "alt": "So, such, so much, so many"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "So, such, such a, so much, so many",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It was {0} expensive that we couldn't afford it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "such",
+                "so much"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2147"
+        },
+        {
+          "index": 1,
+          "template": "The party was incredible. They have {0} nice house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "such a",
+                "such"
+              ],
+              "correct": "such a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2149"
+        },
+        {
+          "index": 2,
+          "template": "We didn't get out. It was {0} cold!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "such",
+                "so much"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2148"
+        },
+        {
+          "index": 3,
+          "template": "There was {0} bad weather that we had to stay home all day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "such a",
+                "so",
+                "such"
+              ],
+              "correct": "such",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2150"
+        },
+        {
+          "index": 4,
+          "template": "I have {0} watches that I can't decide which one to wear.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "so much",
+                "so many"
+              ],
+              "correct": "so many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2151"
+        },
+        {
+          "index": 5,
+          "template": "We couldn't believe what had just happened. It was {0} bad luck.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "such a",
+                "such",
+                "so"
+              ],
+              "correct": "such",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2152"
+        },
+        {
+          "index": 6,
+          "template": "He put {0} salt that we couldn't eat it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "such",
+                "so many",
+                "so much"
+              ],
+              "correct": "so much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2153"
+        },
+        {
+          "index": 7,
+          "template": "When we arrived, John was there. It was {0} surprise.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "such",
+                "such a",
+                "so"
+              ],
+              "correct": "such a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2154"
+        },
+        {
+          "index": 8,
+          "template": "She is very glamorous. She always wears {0} nice dresses.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so much",
+                "such",
+                "so"
+              ],
+              "correct": "such",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2155"
+        },
+        {
+          "index": 9,
+          "template": "We couldn't react. Everything happened {0} quickly.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so much",
+                "so",
+                "such"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2156"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "So, such, such a, so much, so many",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "We stayed on the top floor suite. There was ______ lovely view from the terrace.",
+          "options": [
+            "such",
+            "such a",
+            "so"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "It was ______ late ______ we decided to leave.",
+          "options": [
+            "so / that",
+            "such / than",
+            "so much / that"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We had ______ fun we stayed for an extra night. Choose TWO correct options",
+          "options": [
+            "so many",
+            "such",
+            "so much"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The music was ______ we called the police.",
+          "options": [
+            "so loud",
+            "such loud that",
+            "so much loud that"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "John! I'm ______ happy to see you!",
+          "options": [
+            "such",
+            "so much",
+            "so"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "If you drive ______, we'll never get there.",
+          "options": [
+            "so much slowly",
+            "so slowly",
+            "such a slowly"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "In California we don't usually have so ______.",
+          "options": [
+            "good weather",
+            "rain",
+            "much rain"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "In California we don't normally have such ______.",
+          "options": [
+            "horrible weather",
+            "much weather",
+            "a horrible weather"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I love Angela. She is ______. Choose TWO correct options",
+          "options": [
+            "so nice",
+            "so nice person",
+            "such a nice person"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "You should be proud to have ______ clever daughters.",
+          "options": [
+            "so",
+            "such a",
+            "such"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "So, such, such a, so much, so many",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You speak English {0} fluently! It's incredible.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2167"
+        },
+        {
+          "index": 1,
+          "template": "I've never seen {0} amazing views before.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "such",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2168"
+        },
+        {
+          "index": 2,
+          "template": "Why did you buy {0} expensive car? You don't even like driving.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "such an",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2169"
+        },
+        {
+          "index": 3,
+          "template": "I'd be happier if I didn't have {0} problems. I really have a lot of problems.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "so many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2170"
+        },
+        {
+          "index": 4,
+          "template": "You are {0} idiot! You should treat people better.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "such a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2171"
+        },
+        {
+          "index": 5,
+          "template": "He has {0} money that he could buy any house in the city.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "so much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2172"
+        },
+        {
+          "index": 6,
+          "template": "Why did she say {0} terrible things?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "such",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2173"
+        },
+        {
+          "index": 7,
+          "template": "She entered the room {0} quietly that we didn't hear her.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2174"
+        },
+        {
+          "index": 8,
+          "template": "You are {0} liar! You never tell the truth.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "such a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2175"
+        },
+        {
+          "index": 9,
+          "template": "We really liked the music at the concert. It was {0} great music!",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2176"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "So, such, such a, so much, so many",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It was {0} expensive that we couldn't afford it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "such",
+                "so much"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2147"
+        },
+        {
+          "index": 1,
+          "template": "The party was incredible. They have {0} nice house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "such a",
+                "such"
+              ],
+              "correct": "such a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2149"
+        },
+        {
+          "index": 2,
+          "template": "We didn't get out. It was {0} cold!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "such",
+                "so much"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2148"
+        },
+        {
+          "index": 3,
+          "template": "There was {0} bad weather that we had to stay home all day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "such a",
+                "so",
+                "such"
+              ],
+              "correct": "such",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2150"
+        },
+        {
+          "index": 4,
+          "template": "I have {0} watches that I can't decide which one to wear.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "so much",
+                "so many"
+              ],
+              "correct": "so many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2151"
+        },
+        {
+          "index": 5,
+          "template": "We couldn't believe what had just happened. It was {0} bad luck.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "such a",
+                "such",
+                "so"
+              ],
+              "correct": "such a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2152"
+        },
+        {
+          "index": 6,
+          "template": "He put {0} salt that we couldn't eat it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "such",
+                "so many",
+                "so much"
+              ],
+              "correct": "so much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2153"
+        },
+        {
+          "index": 7,
+          "template": "When we arrived, John was there. It was {0} surprise.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "such",
+                "such a",
+                "so"
+              ],
+              "correct": "such a",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2154"
+        },
+        {
+          "index": 8,
+          "template": "She is very glamorous. She always wears {0} nice dresses.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so much",
+                "such",
+                "so"
+              ],
+              "correct": "such",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2155"
+        },
+        {
+          "index": 9,
+          "template": "We couldn't react. Everything happened {0} quickly.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so much",
+                "so",
+                "such"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2156"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

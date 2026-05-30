@@ -1,0 +1,645 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "on-time-vs-in-time-at-the-end-vs-in-the-end",
+  "order_index": 38,
+  "title": "On time vs In time, At the end vs In the end",
+  "source_url": "https://test-english.com/grammar-points/a2/on-time-vs-in-time-at-the-end-vs-in-the-end/",
+  "scraped_at": "2026-05-23T07:19:45.400Z",
+  "explanation": {
+    "markdown": "## On time vs In time, At the end vs In the end\n\n![On time vs In time, At the end vs In the end](/uploads/grammar/a2/on-time-vs-in-time-at-the-end-vs-in-the-end/img-1.png)\n\n### On time vs In time\n\n**On time** means ‘punctually’ or ‘according to schedule’. When something happens **on time**, it means that it happens at the time that is expected. For example, if a train, a bus, or a person is expected to arrive at 8 am and they arrive **on time**, it means that they arrive at 8 am. **On time** often refers to a scheduled event, such as the arrival of a flight, the start of a film, or the punctual arrival of a person.\n\n-   *I hope the flight arrives **on time**.*\n-   *The meeting started **on time**.*\n\n**In time** does not refer to punctuality. It means ‘soon enough’, or ‘not too late’. When you are **in time**, it means you are not too late, and it often means that you are early enough to spare time and do something else. It’s common to use **in time** with **for** \\+ noun or **to +** infinitive\n\n-   *I hope the card arrives **in time for** his birthday.*\n-   *We arrived at the theatre **in time to** get good seats.*\n\nWe often say **just in time** to talk about something that happens at the last moment, just before it’s too late.\n\n-   *The pizza arrived **just in time** for our movie night.*\n-   *She arrived at the airport **just in time** to catch her flight.*\n\n### At the end vs In the end\n\n**At the end** is used to refer to the end, or final part, of something physical or of a time. We normally say **at the end of** + noun: the day, the street, the year, the book, etc.\n\n-   ***At the end of** the play, the crowd applauded.*\n-   *There is a gift shop **at the end of** the road.*\n-   *The term finishes **at the end of** May.*\n\n**In the end** means ‘finally’ or ‘eventually’. It indicates how a situation ended or was resolved, and it is the opposite of **at first**. When **in the end** is used at the beginning or in the middle of a sentence, it is followed by a comma.\n\n-   ***In the end,** we decided to go for the cheaper option.*\n-   *We did our best, and **in the end**, we succeeded.*\n-   ***In the end**, the results were disappointing.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/On-time-vs-In-time_At-the-end-vs-In-the-end.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/on-time-vs-in-time-at-the-end-vs-in-the-end/img-1.png",
+        "alt": "On time vs In time, At the end vs In the end"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "On time vs In time, At the end vs In the end",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Although I was going to walk, I ended up taking a taxi {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at the end",
+                "in the end"
+              ],
+              "correct": "in the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7486"
+        },
+        {
+          "index": 1,
+          "template": "Max is a punctual person. He always arrives {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in time",
+                "on time"
+              ],
+              "correct": "on time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7487"
+        },
+        {
+          "index": 2,
+          "template": "Staff must sign out {0} of their shift.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in the end",
+                "at the end"
+              ],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7488"
+        },
+        {
+          "index": 3,
+          "template": "Rob rarely makes it home {0} for dinner.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on time",
+                "in time"
+              ],
+              "correct": "on time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7489"
+        },
+        {
+          "index": 4,
+          "template": "His birthday is {0} of September.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at the end",
+                "in the end"
+              ],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7490"
+        },
+        {
+          "index": 5,
+          "template": "Things worked out well {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in the end",
+                "at the end"
+              ],
+              "correct": "in the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7491"
+        },
+        {
+          "index": 6,
+          "template": "The transport system here is very efficient. Buses always arrive {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in time",
+                "on time"
+              ],
+              "correct": "on time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7492"
+        },
+        {
+          "index": 7,
+          "template": "I hope I make it there {0} to say goodbye to him.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in time",
+                "on time"
+              ],
+              "correct": "in time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7493"
+        },
+        {
+          "index": 8,
+          "template": "The bell always rings {0} of the lesson.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at the end",
+                "in the end"
+              ],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7494"
+        },
+        {
+          "index": 9,
+          "template": "We got there just {0} to see the film.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on time",
+                "in time"
+              ],
+              "correct": "in time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7495"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "On time vs In time, At the end vs In the end",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I got home just _____ to see the kids before they went to bed.",
+          "options": [
+            "on time",
+            "in time",
+            "at the end",
+            "in the end"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ of the school day, we always put our chairs on our desk and wipe the board.",
+          "options": [
+            "On time",
+            "In time",
+            "At the end",
+            "In the end"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Our plane didn't take off _____, so we missed our connecting flight.",
+          "options": [
+            "on time",
+            "in time",
+            "at the end",
+            "in the end"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_____, I ended up buying the more expensive phone because it had a bigger screen.",
+          "options": [
+            "On time",
+            "In time",
+            "At the end",
+            "In the end"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I arrived at the meeting _____ to give my presentation.",
+          "options": [
+            "on time",
+            "in time",
+            "at the end",
+            "in the end"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Students who fail to arrive _____ will not be allowed into class.",
+          "options": [
+            "on time",
+            "in time",
+            "at the end",
+            "in the end"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Your classroom is _____ of the corridor, next to the gym.",
+          "options": [
+            "on time",
+            "in time",
+            "at the end",
+            "in the end"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____, they decided to hire the first candidate because he'd had the most experience.",
+          "options": [
+            "On time",
+            "In time",
+            "At the end",
+            "In the end"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Although I missed the first bit of the party, I got there _____ for the cake.",
+          "options": [
+            "on time",
+            "in time",
+            "at the end",
+            "in the end"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "We always get paid _____ of the month.",
+          "options": [
+            "on time",
+            "in time",
+            "at the end",
+            "in the end"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "On time vs In time, At the end vs In the end",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Luckily I got to the station just {0} to catch my train.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7506"
+        },
+        {
+          "index": 1,
+          "template": "I am always tired {0} of the week.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7507"
+        },
+        {
+          "index": 2,
+          "template": "It's a reliable airline and their flights usually arrive {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "on time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7508"
+        },
+        {
+          "index": 3,
+          "template": "Tom's hard work paid off {0}, and he succeeded in passing all his exams.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7509"
+        },
+        {
+          "index": 4,
+          "template": "We always have a party {0} of the school year.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7510"
+        },
+        {
+          "index": 5,
+          "template": "Although the flight landed {0}, we spent ages waiting to get off the plane.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "on time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7511"
+        },
+        {
+          "index": 6,
+          "template": "We were standing {0} of a very long queue.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7512"
+        },
+        {
+          "index": 7,
+          "template": "The pie will be ready {0} for dinner.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7513"
+        },
+        {
+          "index": 8,
+          "template": "Although I had intended to go with Tom, I ended up going alone {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7514"
+        },
+        {
+          "index": 9,
+          "template": "The house {0} of the road is for sale. I'm sure it will sell quickly.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7515"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "On time vs In time, At the end vs In the end",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Although I was going to walk, I ended up taking a taxi {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at the end",
+                "in the end"
+              ],
+              "correct": "in the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7486"
+        },
+        {
+          "index": 1,
+          "template": "Max is a punctual person. He always arrives {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in time",
+                "on time"
+              ],
+              "correct": "on time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7487"
+        },
+        {
+          "index": 2,
+          "template": "Staff must sign out {0} of their shift.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in the end",
+                "at the end"
+              ],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7488"
+        },
+        {
+          "index": 3,
+          "template": "Rob rarely makes it home {0} for dinner.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on time",
+                "in time"
+              ],
+              "correct": "on time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7489"
+        },
+        {
+          "index": 4,
+          "template": "His birthday is {0} of September.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at the end",
+                "in the end"
+              ],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7490"
+        },
+        {
+          "index": 5,
+          "template": "Things worked out well {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in the end",
+                "at the end"
+              ],
+              "correct": "in the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7491"
+        },
+        {
+          "index": 6,
+          "template": "The transport system here is very efficient. Buses always arrive {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in time",
+                "on time"
+              ],
+              "correct": "on time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7492"
+        },
+        {
+          "index": 7,
+          "template": "I hope I make it there {0} to say goodbye to him.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in time",
+                "on time"
+              ],
+              "correct": "in time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7493"
+        },
+        {
+          "index": 8,
+          "template": "The bell always rings {0} of the lesson.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at the end",
+                "in the end"
+              ],
+              "correct": "at the end",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7494"
+        },
+        {
+          "index": 9,
+          "template": "We got there just {0} to see the film.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on time",
+                "in time"
+              ],
+              "correct": "in time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7495"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,319 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "there-is-there-are",
+  "order_index": 23,
+  "title": "There is, there are / there was, there were",
+  "source_url": "https://test-english.com/grammar-points/a1/there-is-there-are/",
+  "scraped_at": "2026-05-23T07:03:18.451Z",
+  "explanation": {
+    "markdown": "## There is, there are: Use\n\nWe use **there is, there are** to say that something exists.\n\n-   ***There is** a lot of noise.* \n\n#### Where something is\n\nWe often use **there is, there are** to say where something is.\n\n-   ***There is** a good restaurant at the end of the street.* \n-   ***There are** some keys in that box.* \n\n#### When something happens\n\nWe can also use  **there is, there are** to say when something happens.\n\n-   ***There is** a concert tonight.*\n-   ***There are** a lot of storms in summer.*\n\n#### A, some, any\n\nWe often use  **there is, there are** + [**a, some, any**](https://test-english.com/grammar-points/a1/a-some-any-countable-uncountable).  \n  \n![Educational grammar chart explaining the use of 'There is' and 'There are' with 'a', 'some', and 'any' for countable singular, countable plural, and uncountable nouns.](/uploads/grammar/a1/there-is-there-are/img-1.png)\n\n#### **There is** + singular / **there are** + plural\n\nWe use **there is** + **singular** noun, and **there are** + **plural** noun.\n\n-   ***There is** a new teacher in the school.* \n-   ***There are** some problems that we need to solve.*\n\nWe use **there is** + a **list** of things if the first noun after **there is** is singular.\n\n-   *In the room, **there is** a bed, a wardrobe and two chairs.* \n\n## There is, there are, there was, there were: Form\n\n![Grammar chart detailing the form of 'There is', 'There are', 'There was', and 'There were' in positive, negative, question, and short answer forms.](/uploads/grammar/a1/there-is-there-are/img-2.png)\n\n#### Present and past\n\nThe past form of **there is, there are** is **there was, there were**.\n\n-   ***There is** a car in the street.* ⇒  ***There was** a car in the street.*\n-   ***There are** some cars in the street.* ⇒  ***There were** some cars in the street.*\n\n#### Short forms\n\nThe short form of **there is** is **there’s**, but we don’t use a short form of **there are**. **There’s** is not used in short answers.\n\n-   ***There’s** a new secretary in the office.*\n-   ***There are** two bathrooms in this house.*  \n\nThere are no short forms for **there was/there were**.  \n  \nIn negative sentences, we often use the short forms **there isn’t/there aren’t** and **there wasn’t/weren’t**.\n\n-   ***There isn’t** any bread left. We need to buy more.*\n-   ***There aren’t** any cookies in the jar.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/There-is-there-are_a-some-any.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/there-is-there-are/img-1.png",
+        "alt": "Educational grammar chart explaining the use of 'There is' and 'There are' with 'a', 'some', and 'any' for countable singular, countable plural, and uncountable nouns."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/there-is_there-are_form.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/there-is-there-are/img-2.png",
+        "alt": "Grammar chart detailing the form of 'There is', 'There are', 'There was', and 'There were' in positive, negative, question, and short answer forms."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "There is, there are / there was, there were",
+      "sentences": [],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "There is, there are / there was, there were",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "In my street, _____ a bakery, a supermarket and two restaurants.",
+          "options": [
+            "there's",
+            "there are",
+            "are there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "'Is there a new printer in the office?' 'Yes, ____.'",
+          "options": [
+            "there's",
+            "there are",
+            "there is"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "When I opened the door, _____ a police officer standing in front of me.",
+          "options": [
+            "there were",
+            "there was",
+            "there is"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "You can go now. _____ any danger.",
+          "options": [
+            "There isn't",
+            "There is",
+            "There aren't"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____ any people in the restaurant last night?",
+          "options": [
+            "Was there",
+            "Were there",
+            "Are there"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_____ some money on the table.",
+          "options": [
+            "There's",
+            "There isn't",
+            "There are"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "_____ many students in class yesterday.",
+          "options": [
+            "There aren't",
+            "There wasn't",
+            "There weren't"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "'Are there many restaurants in your neighbourhood?' 'Yes, _____.'",
+          "options": [
+            "there is",
+            "there're",
+            "there are"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "_____ milk and cookies in the kitchen.",
+          "options": [
+            "There are",
+            "There is",
+            "There aren't"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_____ a question in the exam that I couldn't answer.",
+          "options": [
+            "There is",
+            "There was",
+            "There were"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "There is, there are / there was, there were",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "When I was young, {0} a very good player in my team.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "there was",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4153"
+        },
+        {
+          "index": 1,
+          "template": "{0} any good films on TV today.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4154"
+        },
+        {
+          "index": 2,
+          "template": "Everything was perfect. {0} any problems.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There weren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4155"
+        },
+        {
+          "index": 3,
+          "template": "{0} many people at the cinema last night?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Were there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4160"
+        },
+        {
+          "index": 4,
+          "template": "Do you want to eat out? {0} a new restaurant in the center.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There's",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4156"
+        },
+        {
+          "index": 5,
+          "template": "Why {0} two boxes on the sofa? Can you take them away, please?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4159"
+        },
+        {
+          "index": 6,
+          "template": "Ten years ago, {0} more shops; now many people buy online.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "there were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4157"
+        },
+        {
+          "index": 7,
+          "template": "I'm very hungry. {0} any food left?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4158"
+        },
+        {
+          "index": 8,
+          "template": "Why {0} a Civil War in the USA in 1861?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4161"
+        },
+        {
+          "index": 9,
+          "template": "We need to go shopping; {0} any food in the fridge.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "there isn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4162"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "There is, there are / there was, there were",
+      "sentences": [],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

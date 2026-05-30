@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "for-since-from-difference",
+  "order_index": 35,
+  "title": "For, since, from: What’s the difference?",
+  "source_url": "https://test-english.com/grammar-points/b1/for-since-from-difference/",
+  "scraped_at": "2026-05-23T07:24:16.279Z",
+  "explanation": {
+    "markdown": "## **For, since, from**: Grammar chart\n\n![for, since, from – what's the difference?](/uploads/grammar/b1/for-since-from-difference/img-1.png)\n\n## **For** vs **Since**\n\nWe can use **for** and **since** with the [present perfect](https://test-english.com/grammar-points/b1/present-perfect-simple-present-perfect-continuous/) or [past perfect](https://test-english.com/grammar-points/a2/past-perfect/) simple or continuous.  \n  \nWe use **for** + a period of time, e.g. **for** two weeks, **for** ten years, **for** ten days, **for** a few hours, etc.\n\n-   *We’**ve been** here **for** a few hours.* \n-   *He**’s been studying for** a long time.* \n-   *When I met them, they **had been** married **for** ten years.* \n\nWe can also use **for** with the [past simple](https://test-english.com/grammar-points/a2/past-simple-form-use/) when an action or event started in the past and also finished in the past after some time. Compare:\n\n-   *I have lived in London **for** 20 years.* (=I am living in London now. The action has not finished.)\n-   *I lived in London **for** 20 years.* (=I am not living in London now. The action started and finished in the past.)\n\nWe use **since** + a starting point (the moment that marks the beginning of a period of time), e.g. **since** I was born, **since** 10 o’clock, **since** last Wednesday, etc.\n\n-   *We’**ve been** here **since** 4 o’clock.* \n-   *He**’s been studying since** he got up.* \n-   *They **had been** married **since** 2010.* \n\n## **Since** vs **from**\n\nWe use **since** and **from** \\+ starting point. They are used to mark the beginning of something: an action, a state or an event.\n\nWe normally use **since** with the present or past perfect to talk about the duration of an action, event or state. **Since** indicates the starting point of this action, event or state.\n\n-   *I have known John **since** I was a child.* \n-   *He’s been working for us **since** he finished school.* \n-   *I was exhausted; I had been at work **since** six a.m.*\n\nWe use **from** in other cases.\n\n-   *Masks will be compulsory **from** tomorrow.* \n-   *I’m usually here **from** six o’clock.* \n\nWhen we use **from** to indicate the starting point of something, we can also use **to** or [**until/till**](https://test-english.com/grammar-points/shorts/until-vs-by-grammar-shorts/) to mark its endpoint.\n\n-   *I work **from** 8 a.m. **to** 6 p.m.* (or ***until/till** 6 p.m.*)\n-   *The city reported 400 new COVID-19 cases **from** Friday **to** Sunday.* (or ***until/till** Sunday*)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/For-since-from-Difference.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/for-since-from-difference/img-1.png",
+        "alt": "for, since, from – what's the difference?"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "For, since, from: What’s the difference?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I haven't seen her {0} the accident.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "since",
+                "from"
+              ],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6048"
+        },
+        {
+          "index": 1,
+          "template": "The new service will start {0} tomorrow morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "since",
+                "for",
+                "from"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6051"
+        },
+        {
+          "index": 2,
+          "template": "We've been waiting {0} two hours.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "since",
+                "from"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6052"
+        },
+        {
+          "index": 3,
+          "template": "He did yoga with her {0} the start of their relationship.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "for",
+                "since"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6053"
+        },
+        {
+          "index": 4,
+          "template": "We've been friends {0} school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "since",
+                "from",
+                "for"
+              ],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6054"
+        },
+        {
+          "index": 5,
+          "template": "You can buy all sorts of foods {0} very early in the morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "since",
+                "for"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6055"
+        },
+        {
+          "index": 6,
+          "template": "He was in prison {0} ten years.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "for",
+                "since"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6057"
+        },
+        {
+          "index": 7,
+          "template": "The center is open {0} 7 a.m. to 9 p.m. every week day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "since",
+                "for",
+                "from"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6056"
+        },
+        {
+          "index": 8,
+          "template": "I've known the truth {0} a long time.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "from",
+                "since"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6058"
+        },
+        {
+          "index": 9,
+          "template": "I hadn't had so much fun {0} I was in high school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "since",
+                "for"
+              ],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6059"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "For, since, from: What’s the difference?",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He had improved a lot _____ the start of the season.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Everything will be cheaper _____ 9 o'clock tomorrow.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I've had this watch _____ 25 years.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We travelled to Italy _____ 20 to 25 July.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I haven't seen her _____ the last meeting.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I had to sit _____ a few minutes to rest my legs.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "We haven't talked to them _____ they got married.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The concert started at 8 but the doors were open _____ 6:30.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "We've been walking _____ six hours.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "We've been working very hard _____ the beginning of January.",
+          "options": [
+            "from",
+            "since",
+            "for"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "For, since, from: What’s the difference?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I've been looking for a job {0} I left school.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6069"
+        },
+        {
+          "index": 1,
+          "template": "We were awake {0} 2 a.m. because of the noise.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "until",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6062"
+        },
+        {
+          "index": 2,
+          "template": "I have known Mark {0} a long time.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6050"
+        },
+        {
+          "index": 3,
+          "template": "They've been arguing {0} almost an hour.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6065"
+        },
+        {
+          "index": 4,
+          "template": "Passengers will be able to travel directly to London {0} the end of October.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "by",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6070"
+        },
+        {
+          "index": 5,
+          "template": "He hasn't eaten anything {0} 24 hours.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6066"
+        },
+        {
+          "index": 6,
+          "template": "His car was old. He'd had it {0} 1975.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6067"
+        },
+        {
+          "index": 7,
+          "template": "We have been together {0} over ten years.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6064"
+        },
+        {
+          "index": 8,
+          "template": "Everything has changed {0} we were in school.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6068"
+        },
+        {
+          "index": 9,
+          "template": "I work every day {0} early in the morning until late at night.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6063"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "For, since, from: What’s the difference?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I haven't seen her {0} the accident.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "since",
+                "from"
+              ],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6048"
+        },
+        {
+          "index": 1,
+          "template": "The new service will start {0} tomorrow morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "since",
+                "for",
+                "from"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6051"
+        },
+        {
+          "index": 2,
+          "template": "We've been waiting {0} two hours.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "since",
+                "from"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6052"
+        },
+        {
+          "index": 3,
+          "template": "He did yoga with her {0} the start of their relationship.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "for",
+                "since"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6053"
+        },
+        {
+          "index": 4,
+          "template": "We've been friends {0} school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "since",
+                "from",
+                "for"
+              ],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6054"
+        },
+        {
+          "index": 5,
+          "template": "You can buy all sorts of foods {0} very early in the morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "since",
+                "for"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6055"
+        },
+        {
+          "index": 6,
+          "template": "He was in prison {0} ten years.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "for",
+                "since"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6057"
+        },
+        {
+          "index": 7,
+          "template": "The center is open {0} 7 a.m. to 9 p.m. every week day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "since",
+                "for",
+                "from"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6056"
+        },
+        {
+          "index": 8,
+          "template": "I've known the truth {0} a long time.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "from",
+                "since"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6058"
+        },
+        {
+          "index": 9,
+          "template": "I hadn't had so much fun {0} I was in high school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "since",
+                "for"
+              ],
+              "correct": "since",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6059"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

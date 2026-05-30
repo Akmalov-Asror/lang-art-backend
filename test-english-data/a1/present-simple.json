@@ -1,0 +1,567 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "present-simple",
+  "order_index": 5,
+  "title": "Present simple: I do, I don’t, Do I?",
+  "source_url": "https://test-english.com/grammar-points/a1/present-simple/",
+  "scraped_at": "2026-05-23T07:02:20.250Z",
+  "explanation": {
+    "markdown": "## Present simple form\n\nIn present simple verbs, we need to use the verb **do/does** in questions and **don’t/doesn’t** in negatives.  \n  \n![Grammar infographic showing the structure of the Present Simple tense in English, including positive forms, negative forms, questions, and short answers for A1 elementary learners.](/uploads/grammar/a1/present-simple/img-1.png)\n\n#### Spelling of **he/she/it**\n\nThe form is the same for all the other persons except **he/she/it**. The spelling for **he/she/it** is different.  \n  \n![Grammar chart demonstrating Present Simple tense spelling rules for third-person singular subjects (he, she, it) with examples of verb conjugations and common mistakes.](/uploads/grammar/a1/present-simple/img-2.png)\n\n## Present simple use\n\n#### Habits or actions that happen regularly\n\nWe use present simple for habits or actions that we repeat regularly:\n\n-   *I **wash** my hair every day.*\n-   *I never **go** to the library.*\n-   *I **go** to the library on Saturdays.*\n\n#### Permanent situations or things that are always or often true\n\n-   *I **don’t drink** coffee.*\n-   *She**’s** very tall.*\n-   *I **have** two brothers.*\n-   *Water **boils** at 100 degrees.*\n-   *I **like** soup.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-simple-form_a1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/present-simple/img-1.png",
+        "alt": "Grammar infographic showing the structure of the Present Simple tense in English, including positive forms, negative forms, questions, and short answers for A1 elementary learners."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-simple-spelling-he-she-it.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/present-simple/img-2.png",
+        "alt": "Grammar chart demonstrating Present Simple tense spelling rules for third-person singular subjects (he, she, it) with examples of verb conjugations and common mistakes."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple: I do, I don’t, Do I?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} tea.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "don't drink",
+                "not drink",
+                "drink not"
+              ],
+              "correct": "don't drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3728"
+        },
+        {
+          "index": 1,
+          "template": "She {0} two brothers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have",
+                "has",
+                "haves"
+              ],
+              "correct": "has",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3729"
+        },
+        {
+          "index": 2,
+          "template": "Tom {0} work until 10 today.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "doesn't start",
+                "do not start",
+                "doesn't starts"
+              ],
+              "correct": "doesn't start",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3730"
+        },
+        {
+          "index": 3,
+          "template": "{0} an instrument?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Do you play",
+                "You play",
+                "You do play"
+              ],
+              "correct": "Do you play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3731"
+        },
+        {
+          "index": 4,
+          "template": "The museum {0} at 10 o'clock.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "open",
+                "opens",
+                "does open"
+              ],
+              "correct": "opens",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3732"
+        },
+        {
+          "index": 5,
+          "template": "Peter and Megan often {0} to the cinema.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "goes",
+                "do go",
+                "go"
+              ],
+              "correct": "go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3733"
+        },
+        {
+          "index": 6,
+          "template": "John {0} very late.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "doesn't gets up",
+                "doesn't get up",
+                "do not get up"
+              ],
+              "correct": "doesn't get up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3734"
+        },
+        {
+          "index": 7,
+          "template": "What time {0} home in the morning?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do they leave",
+                "they leave",
+                "they do leave"
+              ],
+              "correct": "do they leave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3735"
+        },
+        {
+          "index": 8,
+          "template": "What language {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "does he study",
+                "does he studies",
+                "do he studies"
+              ],
+              "correct": "does he study",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3736"
+        },
+        {
+          "index": 9,
+          "template": "My son never {0} cartoons.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "watchs",
+                "watch",
+                "watches"
+              ],
+              "correct": "watches",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3737"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple: I do, I don’t, Do I?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He is a student. ⇒ He {0} a student.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3738"
+        },
+        {
+          "index": 1,
+          "template": "Peter works in an office. ⇒ Peter {0} in an office.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "doesn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3739"
+        },
+        {
+          "index": 2,
+          "template": "My parents live in Arizona. ⇒ My parents {0} in Arizona.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3740"
+        },
+        {
+          "index": 3,
+          "template": "Suzan likes cats. ⇒ Suzan {0} cats.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "doesn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3741"
+        },
+        {
+          "index": 4,
+          "template": "He has brothers and sisters. ⇒ He {0} any brothers or sisters.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "doesn't have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3742"
+        },
+        {
+          "index": 5,
+          "template": "She speaks three languages. ⇒ She {0} three languages.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "doesn't speak",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3743"
+        },
+        {
+          "index": 6,
+          "template": "John and I want to be musicians. ⇒ John and I {0} to be musicians.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "want",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3744"
+        },
+        {
+          "index": 7,
+          "template": "They play tennis. ⇒ They {0} tennis.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3745"
+        },
+        {
+          "index": 8,
+          "template": "She gets home late. ⇒ She {0} home late.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "doesn't get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3746"
+        },
+        {
+          "index": 9,
+          "template": "Anna and Paul live in the center. ⇒ Anna and Paul {0} in the center.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "live",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3747"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple: I do, I don’t, Do I?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Laura / play / tennis ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Does Laura play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3748"
+        },
+        {
+          "index": 1,
+          "template": "you / speak / English ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Do you speak",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3749"
+        },
+        {
+          "index": 2,
+          "template": "you / want / some coffee ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Do you want",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3750"
+        },
+        {
+          "index": 3,
+          "template": "Where / he / live ⇒ Where {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does he live",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3751"
+        },
+        {
+          "index": 4,
+          "template": "How often / they / go to the cinema ⇒ How often {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do they go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3752"
+        },
+        {
+          "index": 5,
+          "template": "What time / Suzan / start work ⇒ What time {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does Suzan start",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3753"
+        },
+        {
+          "index": 6,
+          "template": "Where / she / work ⇒ Where {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does she work",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3754"
+        },
+        {
+          "index": 7,
+          "template": "you / listen to music ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Do you listen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3755"
+        },
+        {
+          "index": 8,
+          "template": "he / watch / series ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does he watch",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3756"
+        },
+        {
+          "index": 9,
+          "template": "How often / they / travel ⇒ How often {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do they travel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3757"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple: I do, I don’t, Do I?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Sara is my daughter. She has (have) two daughters; they are my granddaughters. Sara 1 {0} (not have) much free time because she 2 {1} (work) in a shop. In the week, she 3 {2} (get up) very early and she 4 {3} (go) to bed quite late every day. She 5 {4} (love) Sundays because she 6 {5} (not work) and she 7 {6} (spend) the day with her family. On Sundays, they 8 {7} (not get up) very late because they always 9 {8} (go out). My granddaughters 10 {9} (be) always sad on Sunday evenings because it's the end of the weekend.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "doesn't have",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "works",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "gets up",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "goes",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "loves",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "doesn't work",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "spends",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't get up",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "go out",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3758"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,734 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "past-continuous-past-simple",
+  "order_index": 4,
+  "title": "Past continuous and past simple",
+  "source_url": "https://test-english.com/grammar-points/a2/past-continuous-past-simple/",
+  "scraped_at": "2026-05-23T07:15:22.174Z",
+  "explanation": {
+    "markdown": "## The past continuous: Form\n\n![Grammar chart showing the Past Continuous form in positive, negative, question structures, and -ING spelling rules.](/uploads/grammar/a2/past-continuous-past-simple/img-1.png)\n\n## The past continuous: Use\n\n#### Actions in progress\n\nWe use the past continuous to talk about **actions** that were **in progress** (not finished) at a specific moment **in the past**.\n\n-   *‘What **were** you **doing** at 9?’ ‘I **was studying**.’*\n-   *When I saw them yesterday, they **were arguing**.*\n\nThe specific moment in the past can be described by a **time expression** (at 9 a.m., at midday, at lunchtime, all morning, all day, etc.):\n\n-   *They were swimming **at 7 in the morning**.*\n-   ***At midday**, they were still working.*\n\nOr by a **simple past sentence**:\n\n-   *They were swimming **when I saw them**.*\n-   ***When she arrived**, they were still working.*\n\n#### Describing a scene\n\nWe often use the past continuous at the beginning of a story to describe the situation.\n\n-   *It **was getting** dark, and I **was walking** fast. Suddenly …*\n\n## Past simple vs Past continuous\n\nWe use the [past simple](https://test-english.com/grammar-points/a2/past-simple-form-use/) for **completed actions in the past**, and we use the past continuous for **actions in progress** (not finished) in the past.\n\n-   *We **ate out** yesterday.* (the action is finished)\n-   *We **were eating** at 9.* (the action was not finished)\n\nThe past continuous describes a longer action or situation, and the past simple describes a shorter action or event.\n\n-   *When I **met** Susan, she **was having** a drink at a terrace with a friend.* \n-   *We **didn’t go out** because it **was raining**.* \n\nThe short action in past simple often interrupts the longer action in past continuous.\n\n-   *He **was playing** football when he **broke** his arm.* \n-   *When I **went** to bed, it **was raining**.* \n\nWe use the past simple for completed actions that happened one after the other. Compare:\n\n-   *When he **arrived**, she **was having** a shower.* (The action of having a shower started **before** he arrived)\n-   *When he **arrived**, she **had** a shower.* (The action of having a shower started **after** he arrived)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Past-continuous-form.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/past-continuous-past-simple/img-1.png",
+        "alt": "Grammar chart showing the Past Continuous form in positive, negative, question structures, and -ING spelling rules."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Past continuous and past simple",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} while I {1} down the stairs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was falling down",
+                "fell down"
+              ],
+              "correct": "was falling down",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "went",
+                "was going"
+              ],
+              "correct": "was going",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2837"
+        },
+        {
+          "index": 1,
+          "template": "He {0} very fast when he {1} the accident.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was driving",
+                "drove"
+              ],
+              "correct": "was driving",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was having",
+                "had"
+              ],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2838"
+        },
+        {
+          "index": 2,
+          "template": "It {0} when we {1} home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "snowed",
+                "was snowing"
+              ],
+              "correct": "was snowing",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were leaving",
+                "left"
+              ],
+              "correct": "left",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2839"
+        },
+        {
+          "index": 3,
+          "template": "I {0} your call because I {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wasn't answering",
+                "didn't answer"
+              ],
+              "correct": "didn't answer",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "worked",
+                "was working"
+              ],
+              "correct": "was working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2840"
+        },
+        {
+          "index": 4,
+          "template": "This morning I {0} and I {1} breakfast for everybody.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "got up",
+                "was getting up"
+              ],
+              "correct": "got up",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was making",
+                "made"
+              ],
+              "correct": "made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2841"
+        },
+        {
+          "index": 5,
+          "template": "When I {0} her, she {1} a really nice purple dress.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was seeing",
+                "saw"
+              ],
+              "correct": "saw",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was wearing",
+                "wore"
+              ],
+              "correct": "was wearing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2842"
+        },
+        {
+          "index": 6,
+          "template": "Last Saturday we {0} late and we {1} the train.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "got up",
+                "were getting up"
+              ],
+              "correct": "got up",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were missing",
+                "missed"
+              ],
+              "correct": "missed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2843"
+        },
+        {
+          "index": 7,
+          "template": "I {0} hello because you {1} very fast.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't say",
+                "wasn't saying"
+              ],
+              "correct": "didn't say",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "walked",
+                "were walking"
+              ],
+              "correct": "were walking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2844"
+        },
+        {
+          "index": 8,
+          "template": "I {0} happily when a loud noise {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "slept",
+                "was sleeping"
+              ],
+              "correct": "was sleeping",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "woke me up",
+                "was waking me up"
+              ],
+              "correct": "woke me up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2845"
+        },
+        {
+          "index": 9,
+          "template": "{0} attention when you {1} your car?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Were you paying",
+                "Did you pay"
+              ],
+              "correct": "Were you paying",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were crashing",
+                "crashed"
+              ],
+              "correct": "were crashing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2846"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Past continuous and past simple",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "After the conference, I _____ that a man _____ the walls of the building.",
+          "options": [
+            "was seeing / was painting",
+            "saw / was painting",
+            "was seeing / painted"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "He was so angry that he _____ and _____.",
+          "options": [
+            "was getting up / left",
+            "got up / was leaving",
+            "got up / left"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I _____ the vase while I _____ the bookshelf.",
+          "options": [
+            "broke / was cleaning",
+            "broke / cleaned",
+            "was breaking / was cleaning"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "As soon as we walked into the room, we _____ a noise. Someone ______ my computer.",
+          "options": [
+            "heard / used",
+            "were hearing / used",
+            "heard / was using"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "The bus in which the football team ______ had an accident, but nobody ______.",
+          "options": [
+            "were travelling / died",
+            "travelled / died",
+            "were travelling / were dying"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I _____ the party, but Sonia _____ to leave.",
+          "options": [
+            "was enjoying / was wanting",
+            "enjoyed / was wanting",
+            "was enjoying / wanted"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The police _____ him while he ______ to escape.",
+          "options": [
+            "caught / tried",
+            "caught / was trying",
+            "were catching / was trying"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "We _____ what to do, so we just called the police and ______.",
+          "options": [
+            "didn't know / waited",
+            "weren't knowing / waited",
+            "didn't know / were waiting"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "When I last _____ her she ______ high-heeled shoes.",
+          "options": [
+            "saw / wore",
+            "was seeing / was wearing",
+            "saw / was wearing"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The sun _______, so we _____ our clothes and got into the water.",
+          "options": [
+            "was shining / took off",
+            "shone / took off",
+            "shone / were taking off"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past continuous and past simple",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "When I 1 {0} (arrive) at the station, Raimond 2 {1} (wait) for me. He 3 {2} (wear) a nice black suit and he 4 {3} (hold) a red rose in his right hand. When I 5 {4} (get off) the train, he 6 {5} (run) up to me and 7 {6} (kiss) me passionately.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "arrived",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was waiting",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was wearing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was holding",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "got off",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ran",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "kissed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2847"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past continuous and past simple",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} while I {1} down the stairs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was falling down",
+                "fell down"
+              ],
+              "correct": "fell down",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "went",
+                "was going"
+              ],
+              "correct": "was going",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2837"
+        },
+        {
+          "index": 1,
+          "template": "He {0} very fast when he {1} the accident.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was driving",
+                "drove"
+              ],
+              "correct": "was driving",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was having",
+                "had"
+              ],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2838"
+        },
+        {
+          "index": 2,
+          "template": "It {0} when we {1} home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "snowed",
+                "was snowing"
+              ],
+              "correct": "was snowing",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were leaving",
+                "left"
+              ],
+              "correct": "left",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2839"
+        },
+        {
+          "index": 3,
+          "template": "I {0} your call because I {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wasn't answering",
+                "didn't answer"
+              ],
+              "correct": "didn't answer",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "worked",
+                "was working"
+              ],
+              "correct": "was working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2840"
+        },
+        {
+          "index": 4,
+          "template": "This morning I {0} and I {1} breakfast for everybody.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "got up",
+                "was getting up"
+              ],
+              "correct": "got up",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was making",
+                "made"
+              ],
+              "correct": "made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2841"
+        },
+        {
+          "index": 5,
+          "template": "When I {0} her, she {1} a really nice purple dress.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was seeing",
+                "saw"
+              ],
+              "correct": "saw",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was wearing",
+                "wore"
+              ],
+              "correct": "was wearing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2842"
+        },
+        {
+          "index": 6,
+          "template": "Last Saturday we {0} late and we {1} the train.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "got up",
+                "were getting up"
+              ],
+              "correct": "got up",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were missing",
+                "missed"
+              ],
+              "correct": "missed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2843"
+        },
+        {
+          "index": 7,
+          "template": "I {0} hello because you {1} very fast.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't say",
+                "wasn't saying"
+              ],
+              "correct": "didn't say",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "walked",
+                "were walking"
+              ],
+              "correct": "were walking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2844"
+        },
+        {
+          "index": 8,
+          "template": "I {0} happily when a loud noise {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "slept",
+                "was sleeping"
+              ],
+              "correct": "was sleeping",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "woke me up",
+                "was waking me up"
+              ],
+              "correct": "woke me up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2845"
+        },
+        {
+          "index": 9,
+          "template": "{0} attention when you {1} your car?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Were you paying",
+                "Did you pay"
+              ],
+              "correct": "Were you paying",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were crashing",
+                "crashed"
+              ],
+              "correct": "were crashing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2846"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

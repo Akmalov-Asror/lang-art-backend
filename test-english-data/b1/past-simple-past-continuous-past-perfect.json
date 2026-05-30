@@ -1,0 +1,350 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "past-simple-past-continuous-past-perfect",
+  "order_index": 12,
+  "title": "Past simple, past continuous, past perfect",
+  "source_url": "https://test-english.com/grammar-points/b1/past-simple-past-continuous-past-perfect/",
+  "scraped_at": "2026-05-23T07:21:41.359Z",
+  "explanation": {
+    "markdown": "## Past simple, past continuous, past perfect: Grammar chart\n\n![Narrative tenses – past simple, past continuous, past perfect](/uploads/grammar/b1/past-simple-past-continuous-past-perfect/img-1.png)\n\n## Past simple\n\nWe use the [past simple](https://test-english.com/grammar-points/a2/past-simple-form-use/) to talk about **completed actions in the past**.\n\n-   *We **ate out** yesterday.* (the action is finished)\n\nIn a story, we use the past simple to talk about **past events in chronological order**, i.e. the main events of a story.\n\n-   *When she **opened** the door, she **pretended** that we weren’t there and she **went** to her room.* \n-   *He **called** me and **told** me to go, but when I **arrived**, he wasn’t there.* \n\nWe also use the past simple to talk about **past habits** or **past states**.\n\n-   *We often **went** to the bar for a drink before dinner.*\n-   *He really **liked** sport and **was** very fit.*\n\n## Past continuous\n\nWe use the [past continuous](https://test-english.com/grammar-points/a2/past-continuous-past-simple/) to **set the scene** in a story.\n\n-   *Last night, I **was walking** home and **listening** to my iPod when …*\n-   *The sun **was shining**, and lots of tourists **were lying** on the beach. Suddenly …*\n\nWe use the past continuous for **actions in progress** in the past or longer actions interrupted by shorter actions in the past simple.\n\n-   *After dinner, I went into the living room and saw that she **was crying**.* \n-   *When she opened the door, we **were talking** about her.* \n\n## Past perfect\n\nWe use the [past perfect](https://test-english.com/grammar-points/a2/past-perfect/) simple to talk about an earlier past: events which happened before the main event.\n\n#### Earlier single events\n\nWe use the past perfect simple to talk about earlier events and experiences or single actions completed earlier in the past.\n\n-   *When she opened the door, he **had** already **left**.*  \n-   *I realised that I **had been** there before.* \n-   *When I met her, I **had** never **been** in a serious relationship.* \n-   *He noticed I **had cleaned** the car. It was smooth and shiny.* \n\nWe use the past perfect simple to say **how much or how many** we had done of something earlier in the past.\n\n-   *We **had driven** 500 miles, and we needed some rest.* \n-   *How many hours **had** he **slept** when you woke him up?*\n\n#### Duration from earlier in the past (stative verbs)\n\nWe use the past perfect simple with [stative verbs](https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/) to talk about states or situations that had started earlier in the past. We often use **how long**, [**for** or **since**](https://test-english.com/grammar-points/b1/for-since-from-difference/), **always**, **etc**.\n\n-   *The day Anne died, they **had been** married for 48 years.* \n-   *The day I left, I **had been** in England for exactly four years.* \n-   *She told me she **had** always **hated** her sister.* \n\nIn the picture below, you can see an example of a narrative with the past tenses explained.  \n  \n![narrative tenses - example, sample](/uploads/grammar/b1/past-simple-past-continuous-past-perfect/img-2.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/narrative-tenses-b1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/past-simple-past-continuous-past-perfect/img-1.png",
+        "alt": "Narrative tenses – past simple, past continuous, past perfect"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/narrative-tenses-b1-example.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/past-simple-past-continuous-past-perfect/img-2.png",
+        "alt": "narrative tenses - example, sample"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple, past continuous, past perfect",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It was Sunday afternoon. I 1 {0} a cookery program on TV when I 2 {1} how hungry I was. But of course I was hungry; I 3 {2} anything since lunch, and I 4 {3} a race in the morning. “Biscuits!” I 5 {4}. My mother 6 {5} me a jar of delicious home-made biscuits.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had watched",
+                "watched",
+                "was watching"
+              ],
+              "correct": "was watching",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "realised",
+                "was realising",
+                "had realised"
+              ],
+              "correct": "realised",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was eating",
+                "hadn’t eaten",
+                "ate"
+              ],
+              "correct": "hadn’t eaten",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was running",
+                "had run",
+                "ran"
+              ],
+              "correct": "had run",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "had thought",
+                "was thinking",
+                "thought"
+              ],
+              "correct": "thought",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "had given",
+                "was giving",
+                "gave"
+              ],
+              "correct": "gave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1771"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Past simple, past continuous, past perfect",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I was very late. When I arrived, the conference _____.",
+          "options": [
+            "was already starting",
+            "started",
+            "had already started"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "When he heard the police knocking on the door, he ____ under the bed.",
+          "options": [
+            "hid",
+            "had hiden",
+            "was hiding"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "The police arrested him because he _____ a gun.",
+          "options": [
+            "carried",
+            "was carrying",
+            "had carried"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "When they arrived at the police station, he said that he _____ anything wrong.",
+          "options": [
+            "didn't do",
+            "wasn't doing",
+            "hadn't done"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "When he said that he loved me, I knew that he _____.",
+          "options": [
+            "lied",
+            "was lying",
+            "had lied"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I looked at him and I knew he _____ in a fight, because he had a black eye.",
+          "options": [
+            "was",
+            "was being",
+            "had been"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "He pulled out a gun and everybody _____ away.",
+          "options": [
+            "ran",
+            "was running",
+            "had run"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "When I was a child, we _____ anywhere at weekends; it was boring.",
+          "options": [
+            "never went",
+            "were never going",
+            "had never gone"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "When he retired he _____ in the company for more than 50 years.",
+          "options": [
+            "was",
+            "was being",
+            "had been"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I _____ to the road and we crashed.",
+          "options": [
+            "didn't pay attention",
+            "wasn't paying attention",
+            "hadn't paid attention"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple, past continuous, past perfect",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "This story is based on true events that 1 {0} (happen) many, many years ago in Scotland. One day, Mr Clark 2 {1} (walk) home with a smile on his face. He 3 {2} (carry) something very valuable in his hand: tickets for a long, long journey.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "happened",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "walked",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was carrying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1774"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple, past continuous, past perfect",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It was Sunday afternoon. I 1 {0} a cookery program on TV when I 2 {1} how hungry I was. But of course I was hungry; I 3 {2} anything since lunch, and I 4 {3} a race in the morning. “Biscuits!” I 5 {4}. My mother 6 {5} me a jar of delicious home-made biscuits.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had watched",
+                "watched",
+                "was watching"
+              ],
+              "correct": "was watching",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "realised",
+                "was realising",
+                "had realised"
+              ],
+              "correct": "realised",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was eating",
+                "hadn’t eaten",
+                "ate"
+              ],
+              "correct": "hadn’t eaten",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "was running",
+                "had run",
+                "ran"
+              ],
+              "correct": "had run",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "had thought",
+                "was thinking",
+                "thought"
+              ],
+              "correct": "thought",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "had given",
+                "was giving",
+                "gave"
+              ],
+              "correct": "gave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1771"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

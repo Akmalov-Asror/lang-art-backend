@@ -1,0 +1,702 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "next-to-under-between-in-front-behind-etc",
+  "order_index": 25,
+  "title": "Next to, under, between, in front of, behind, over, etc.",
+  "source_url": "https://test-english.com/grammar-points/a1/next-to-under-between-in-front-behind-etc/",
+  "scraped_at": "2026-05-23T07:03:24.896Z",
+  "explanation": {
+    "markdown": "## Next to, under, between, in front of, behind, over, etc.\n\n![Grammar chart with illustrations of an alien and dragons demonstrating the use of prepositions of place such as next to, between, opposite, in front of, behind, above, over, and under.](/uploads/grammar/a1/next-to-under-between-in-front-behind-etc/img-1.png)\n\n#### Next to / beside\n\n-   *We had a picnic **next to/beside** the river.*\n-   *Come and sit **next to/beside** me.*\n\n#### Between\n\n-   *I live in a small town **between** Liverpool and Manchester.*\n-   *She is sleeping **between** her mum and dad.* \n\n#### In front of\n\n-   *John sits **in front of** me in class.*\n-   *You are always **in front of** the mirror.*\n\n#### Behind\n\n-   *She is hiding **behind** the curtains.* \n-   *We hang our coats **behind** the door.* \n\n#### Opposite\n\n-   *I live **opposite** the supermarket* (=on the other side of the road)\n-   *I am sitting **opposite** him* (=facing him)\n\n#### Under\n\n-   *The cat is hiding **under** the bed.*\n-   *Why are your shoes **under** the table?*\n-   *I’m wearing a white shirt **under** the jersey.*\n\n#### Above / over\n\n[**Above** and **over**](https://test-english.com/grammar-points/shorts/above-vs-over-grammar-shorts/) mean ‘at or to a higher position’. **Over** is more common.\n\n-   *She lives in an apartment **above/over** the grocery store.* \n-   *There is a shelf **above/over** the sink.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/prepositions_of_place.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/next-to-under-between-in-front-behind-etc/img-1.png",
+        "alt": "Grammar chart with illustrations of an alien and dragons demonstrating the use of prepositions of place such as next to, between, opposite, in front of, behind, above, over, and under."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Next to, under, between, in front of, behind, over, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "There is a cat {0} the table.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "next to",
+                "under",
+                "above",
+                "between",
+                "behind"
+              ],
+              "correct": "under",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5030"
+        },
+        {
+          "index": 1,
+          "template": "The woman is sleeping {0} the books.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "above",
+                "under",
+                "next to",
+                "behind",
+                "in front of"
+              ],
+              "correct": "under",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5031"
+        },
+        {
+          "index": 2,
+          "template": "There are some clouds {0} the building.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "opposite",
+                "behind",
+                "beside",
+                "under",
+                "above"
+              ],
+              "correct": "behind",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5032"
+        },
+        {
+          "index": 3,
+          "template": "Janet is sitting {0} Tom.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in front of",
+                "between",
+                "next to",
+                "opposite",
+                "behind"
+              ],
+              "correct": "between",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5033"
+        },
+        {
+          "index": 4,
+          "template": "There is a cat {0} the dogs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "above",
+                "beside",
+                "between",
+                "in front of",
+                "under"
+              ],
+              "correct": "between",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5034"
+        },
+        {
+          "index": 5,
+          "template": "Janet is sitting {0} Tom.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "next to",
+                "between",
+                "behind",
+                "opposite",
+                "in front of"
+              ],
+              "correct": "next to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5035"
+        },
+        {
+          "index": 6,
+          "template": "Janet is sitting {0} a blond woman.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in front of",
+                "beside",
+                "behind",
+                "above",
+                "opposite"
+              ],
+              "correct": "beside",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5036"
+        },
+        {
+          "index": 7,
+          "template": "Linda is sitting {0} Jack and Harry.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "opposite",
+                "behind",
+                "between",
+                "next to",
+                "above"
+              ],
+              "correct": "between",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5037"
+        },
+        {
+          "index": 8,
+          "template": "The ball is {0} the net.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "over",
+                "under",
+                "in front of",
+                "beside",
+                "behind"
+              ],
+              "correct": "under",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5038"
+        },
+        {
+          "index": 9,
+          "template": "The dog is standing {0} the cat.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "next to",
+                "behind",
+                "between",
+                "opposite",
+                "in front of"
+              ],
+              "correct": "behind",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5039"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Next to, under, between, in front of, behind, over, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The ball is _____ the dog.",
+          "options": [
+            "in front of",
+            "beside",
+            "between",
+            "opposite",
+            "under"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "The ball is _____ the dog.",
+          "options": [
+            "in front of",
+            "beside",
+            "above",
+            "behind",
+            "opposite"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "The dog is _____ the cat.",
+          "options": [
+            "in front of",
+            "next to",
+            "above",
+            "behind",
+            "opposite"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The dog is _____ the ball.",
+          "options": [
+            "in front of",
+            "beside",
+            "between",
+            "under",
+            "behind"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "The ball is _____ the dog.",
+          "options": [
+            "in front of",
+            "opposite",
+            "between",
+            "next to",
+            "behind"
+          ],
+          "correct_answer_index": 4,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The ball is _____ the dog.",
+          "options": [
+            "beside",
+            "over",
+            "under",
+            "behind",
+            "opposite"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The dog is _____ the ball.",
+          "options": [
+            "behind",
+            "next to",
+            "under",
+            "over",
+            "between"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The bear is _____ the blanket.",
+          "options": [
+            "under",
+            "above",
+            "behind",
+            "beside",
+            "between"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The ball is _____ the dog.",
+          "options": [
+            "in front of",
+            "next to",
+            "under",
+            "over",
+            "behind"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The dog is _____ the balls.",
+          "options": [
+            "behind",
+            "between",
+            "under",
+            "next to",
+            "opposite"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Next to, under, between, in front of, behind, over, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Diego is standing {0} Laura (2).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in front of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5050"
+        },
+        {
+          "index": 1,
+          "template": "Laura is standing {0} the table (6).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "behind",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5051"
+        },
+        {
+          "index": 2,
+          "template": "The pans are hanging {0} the table (6).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "over",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5052"
+        },
+        {
+          "index": 3,
+          "template": "David is standing {0} Martha (5).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "between",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5053"
+        },
+        {
+          "index": 4,
+          "template": "Martha is standing {0} David (4).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "behind",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5054"
+        },
+        {
+          "index": 5,
+          "template": "The table is {0} the pans (3).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "between",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5055"
+        },
+        {
+          "index": 6,
+          "template": "The painting is {0} Martha (5).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "behind",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5056"
+        },
+        {
+          "index": 7,
+          "template": "The red chilies are hanging {0} the cooker.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "over",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5057"
+        },
+        {
+          "index": 8,
+          "template": "You can see Martin {0} Diego (1) and Laura (2).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "between",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5058"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Next to, under, between, in front of, behind, over, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "There is a cat {0} the table.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "next to",
+                "under",
+                "above",
+                "between",
+                "behind"
+              ],
+              "correct": "under",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5030"
+        },
+        {
+          "index": 1,
+          "template": "The woman is sleeping {0} the books.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "above",
+                "under",
+                "next to",
+                "behind",
+                "in front of"
+              ],
+              "correct": "under",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5031"
+        },
+        {
+          "index": 2,
+          "template": "There are some clouds {0} the building.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "opposite",
+                "behind",
+                "beside",
+                "under",
+                "above"
+              ],
+              "correct": "behind",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5032"
+        },
+        {
+          "index": 3,
+          "template": "Janet is sitting {0} Tom.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in front of",
+                "between",
+                "next to",
+                "opposite",
+                "behind"
+              ],
+              "correct": "next to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5033"
+        },
+        {
+          "index": 4,
+          "template": "There is a cat {0} the dogs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "above",
+                "beside",
+                "between",
+                "in front of",
+                "under"
+              ],
+              "correct": "between",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5034"
+        },
+        {
+          "index": 5,
+          "template": "Janet is sitting {0} Tom.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "next to",
+                "between",
+                "behind",
+                "opposite",
+                "in front of"
+              ],
+              "correct": "next to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5035"
+        },
+        {
+          "index": 6,
+          "template": "Janet is sitting {0} a blond woman.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in front of",
+                "beside",
+                "behind",
+                "above",
+                "opposite"
+              ],
+              "correct": "beside",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5036"
+        },
+        {
+          "index": 7,
+          "template": "Linda is sitting {0} Jack and Harry.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "opposite",
+                "behind",
+                "between",
+                "next to",
+                "above"
+              ],
+              "correct": "between",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5037"
+        },
+        {
+          "index": 8,
+          "template": "The ball is {0} the net.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "over",
+                "under",
+                "in front of",
+                "beside",
+                "behind"
+              ],
+              "correct": "under",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5038"
+        },
+        {
+          "index": 9,
+          "template": "The dog is standing {0} the cat.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "next to",
+                "behind",
+                "between",
+                "opposite",
+                "in front of"
+              ],
+              "correct": "behind",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5039"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

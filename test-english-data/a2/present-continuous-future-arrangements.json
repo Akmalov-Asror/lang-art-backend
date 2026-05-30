@@ -1,0 +1,494 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "present-continuous-future-arrangements",
+  "order_index": 8,
+  "title": "Present continuous for future arrangements",
+  "source_url": "https://test-english.com/grammar-points/a2/present-continuous-future-arrangements/",
+  "scraped_at": "2026-05-23T07:15:48.910Z",
+  "explanation": {
+    "markdown": "## Present continuous for future arrangements\n\nWe often use the [present continuous](https://test-english.com/grammar-points/a1/present-continuous/) to talk about the future, especially about future plans when we have **decided on a time and a place** with other people. We normally use a [future time expression](https://test-english.com/vocabulary/a1/time-words-a1-english-vocabulary/), e.g. **tomorrow**, **next week, at 7,** **etc**.\n\n-   *I’**m meeting** Sally at 7.* (=I have talked to her, and we have arranged to meet.)\n-   *I’**m flying** to New York tomorrow morning.* (=I have the ticket.)\n-   *We’**re getting married** next July.* (=We have decided it, and we have probably already made reservations for the restaurant, etc.)\n\nThe present continuous for future arrangements is very common with verbs of travelling and when we are meeting people.\n\n-   *I’**m leaving** very early tomorrow. I’**m taking** the 7.30 train.* \n-   *I’**m playing** golf with Jack next Saturday. Would you like to come?*\n-   *I’**m seeing** the dentist after class.* \n\n## Present continuous vs **Be going to**\n\n![Comparative grammar chart illustrating the use of Present Continuous vs BE GOING TO for future plans, with examples and explanations.](/uploads/grammar/a2/present-continuous-future-arrangements/img-1.webp)\n\nWe can normally use the present continuous or [**be going to**](https://test-english.com/grammar-points/a1/be-going-to-plans-predictions/) to talk about future plans.\n\n-   *I’**m leaving** very early tomorrow.*\n-   *I’**m going to leave** very early tomorrow.*\n\nBut we prefer using the present continuous when we have made **arrangements** (i.e. decided on a place and time with somebody else). When use **be going to**, we put the emphasis on our **intention** to do something.\n\n-   *I’**m going to study** for the exams tomorrow.* (=It’s my intention)\n-   *I’**m leaving** at 8 tomorrow.* (=It’s an arrangement)\n-   *‘Your car is dirty.’ ‘I know. I’**m going to wash** it tomorrow.’* (=It’s my intention, but I haven’t arranged to do it)\n\n## **Will** for decisions\n\nUse [**will**](https://test-english.com/grammar-points/a1/will-and-shall/) for decisions that you take at the moment of speaking (instant decisions).\n\n-   *‘Oh, we don’t have sugar.’ ‘Don’t worry, I’**ll buy** some.’*\n\n## **Be going to** or **will** for predictions\n\nWe use [**be going to** or **will**](https://test-english.com/grammar-points/a2/will-vs-be-going-to/) (NOT the present continuous) to make predictions about the future.\n\n-   *I think he’**ll win** the election.*\n-   *The doctor said I’**m going to have** a girl.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Future_Present-continuous_Going-to_Grammar-chart.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/a2/present-continuous-future-arrangements/img-1.webp",
+        "alt": "Comparative grammar chart illustrating the use of Present Continuous vs BE GOING TO for future plans, with examples and explanations."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present continuous for future arrangements",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Dialogue 1 DAUGHTER: Dad, could you take me to the city centre this afternoon? FATHER: Of course. I 1 {0} you there after lunch if you want. I also need to go downtown because I 2 {1} a client at 3. Where do you need to go? DAUGHTER: To the library. I 3 {2} a couple of books that I need for university. FATHER: No problem. I 4 {3} you there on my way to the office.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "’m driving",
+                "’ll drive",
+                "am going to drive"
+              ],
+              "correct": "’ll drive",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "’ll meet",
+                "’m meeting",
+                "’m going to meet"
+              ],
+              "correct": "’m meeting",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "’m borrowing",
+                "’m going to borrow",
+                "’ll borrow"
+              ],
+              "correct": "’m borrowing",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "‘ll leave",
+                "’m going to leave",
+                "’m leaving"
+              ],
+              "correct": "’m leaving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2957"
+        },
+        {
+          "index": 1,
+          "template": "Dialogue 2 ROY: What time 5 {0} tomorrow? VALERIA: Very early. I 6 {1} the 6.50 train. ROY: Do you have the ticket? VALERIA: Not yet, because I 7 {2} it online when I arrive home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will you leave",
+                "are you going to leave",
+                "are you leaving"
+              ],
+              "correct": "are you going to leave",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m taking",
+                "'m going to take",
+                "will take"
+              ],
+              "correct": "'m going to take",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m buying",
+                "'ll buy",
+                "'m going to buy"
+              ],
+              "correct": "'m going to buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4501"
+        },
+        {
+          "index": 2,
+          "template": "Dialogue 3 RUTH: I 8 {0} for a drink with Jessica this evening. Would you like to come? SANDRA: No, 9 I {1} the book I am reading. I need to finish it before tomorrow. RUTH: Why do you need to finish it for tomorrow? SANDRA: Because I 10 {2} my friends from the reading club tomorrow afternoon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m going to go",
+                "'m going",
+                "will go"
+              ],
+              "correct": "'m going to go",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m going to finish",
+                "will finish",
+                "'m finishing"
+              ],
+              "correct": "'m finishing",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m going to meet",
+                "will meet",
+                "'m meeting"
+              ],
+              "correct": "'m going to meet",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4502"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Present continuous for future arrangements",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I _____ tennis with my friends next Friday.",
+          "options": [
+            "will play",
+            "'m playing",
+            "'m going to play"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Can you pass me the remote? I _____ some TV.",
+          "options": [
+            "will watch",
+            "am going to watch",
+            "am watching"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "What _____ with the lottery money?",
+          "options": [
+            "will do",
+            "are you doing",
+            "are you going to do"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We _____ married in June.",
+          "options": [
+            "will get",
+            "are going to get",
+            "are getting"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "A: 'Did you remember to make the reservation?' B: 'Oh no, I forgot. I _____ the hotel right now.'",
+          "options": [
+            "'ll call",
+            "'m calling",
+            "'m going to call"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: 'Why did you buy a guitar if you can't play?' B. 'No, but I _____.'",
+          "options": [
+            "will learn",
+            "'m learning",
+            "'m going to learn"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "A: 'I can't see without my glasses.' B: 'Don't worry. I _____ the letter for you.'",
+          "options": [
+            "'ll read",
+            "'m reading",
+            "'m going to read"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Laura ______ next Tuesday. I can't wait to see her.",
+          "options": [
+            "will come back",
+            "is coming back",
+            "is going to come back"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I have stopped eating sugar. I _____ sugar again.",
+          "options": [
+            "don't eat",
+            "'m not eating",
+            "am not going to eat"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "We _____ some friends after work.",
+          "options": [
+            "will meet",
+            "are meeting",
+            "are going to meet"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present continuous for future arrangements",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Dialogue 1 BEN: What 1 {0} (do) after class? GEORGE: Well, I 2 {1} (walk) home and when I arrive home 3 I {2} (do) my homework and cook dinner. And you? BEN: I 4 {3} (play) tennis with Monica and Jane at 7:30, but we need another player. Why don't you come? GEORGE: With Monica and Jane? OK, I 5 {4} (come). We can play doubles. BEN: OK, no problem. But be prepared to lose; I 6 {5} (play) my best tennis. Dialogue 2 TOM: 7 {6} (eat) that last hotdog? LISA: No, why? Do you want it? TOM: Yes, please. LISA: But you 8 {7} (have) dinner with your father in an hour. TOM: Yes, but we 9 {8} (eat) in that new fancy restaurant, and they serve very little food. LISA: OK, I 10 {9} (heat) the hotdog in the microwave for you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am doing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am doing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am doing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am doing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am doing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am doing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am doing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are you eating",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are having",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are eating",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2968"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present continuous for future arrangements",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Dialogue 1 DAUGHTER: Dad, could you take me to the city centre this afternoon? FATHER: Of course. I 1 {0} you there after lunch if you want. I also need to go downtown because I 2 {1} a client at 3. Where do you need to go? DAUGHTER: To the library. I 3 {2} a couple of books that I need for university. FATHER: No problem. I 4 {3} you there on my way to the office.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "’m driving",
+                "’ll drive",
+                "am going to drive"
+              ],
+              "correct": "’ll drive",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "’ll meet",
+                "’m meeting",
+                "’m going to meet"
+              ],
+              "correct": "’m meeting",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "’m borrowing",
+                "’m going to borrow",
+                "’ll borrow"
+              ],
+              "correct": "’m borrowing",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "‘ll leave",
+                "’m going to leave",
+                "’m leaving"
+              ],
+              "correct": "’m leaving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2957"
+        },
+        {
+          "index": 1,
+          "template": "Dialogue 2 ROY: What time 5 {0} tomorrow? VALERIA: Very early. I 6 {1} the 6.50 train. ROY: Do you have the ticket? VALERIA: Not yet, because I 7 {2} it online when I arrive home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will you leave",
+                "are you going to leave",
+                "are you leaving"
+              ],
+              "correct": "are you going to leave",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m taking",
+                "'m going to take",
+                "will take"
+              ],
+              "correct": "'m going to take",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m buying",
+                "'ll buy",
+                "'m going to buy"
+              ],
+              "correct": "'m going to buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4501"
+        },
+        {
+          "index": 2,
+          "template": "Dialogue 3 RUTH: I 8 {0} for a drink with Jessica this evening. Would you like to come? SANDRA: No, 9 I {1} the book I am reading. I need to finish it before tomorrow. RUTH: Why do you need to finish it for tomorrow? SANDRA: Because I 10 {2} my friends from the reading club tomorrow afternoon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m going to go",
+                "'m going",
+                "will go"
+              ],
+              "correct": null,
+              "resolved": false
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m going to finish",
+                "will finish",
+                "'m finishing"
+              ],
+              "correct": "'m finishing",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m going to meet",
+                "will meet",
+                "'m meeting"
+              ],
+              "correct": "'m going to meet",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4502"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

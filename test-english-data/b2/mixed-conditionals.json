@@ -1,0 +1,665 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "mixed-conditionals",
+  "order_index": 15,
+  "title": "Mixed conditionals: If I were you, I wouldn’t have done it",
+  "source_url": "https://test-english.com/grammar-points/b2/mixed-conditionals/",
+  "scraped_at": "2026-05-23T07:26:50.462Z",
+  "explanation": {
+    "markdown": "## Mixed conditionals\n\nMixed conditionals are a combination of two types of conditional patterns, usually the [second and third conditionals](https://test-english.com/grammar-points/b1-b2/second-third-conditionals/). We can have a third conditional in the **if**\\-clause and a second conditional in the main clause, or a second conditional in the **if**\\-clause and a third conditional in the main clause.\n\n#### Grammar chart\n\n![Mixed conditionals diagram](/uploads/grammar/b2/mixed-conditionals/img-1.png)\n\n#### Second and third conditionals\n\nIn a second conditional, we use past in the **if** clause and **would/might/could + infinitive** in the main clause. It is used to talk about hypothetical situations happening in the **present or future**.\n\n-   *If I **were** rich, I**‘d buy** that house.* \n\nIn a third conditional, we use past perfect in the **if** clause and **would/might/could + have + past participle** in the main clause. It is used to talk about hypothetical situations happening in the **past**.\n\n-   *If you **had studied** more, you **would have passed** the exam.* \n\nA mixed conditional is a combination of second and third conditionals.\n\n#### Mixed third/second conditional\n\nWe use this combination to talk about a hypothetical condition happening in the past (third conditional) with a present result (second conditional). We use past perfect in the **if** clause and **would/could/might + infinitive** in the main clause.\n\n-   *If I **had been elected**, I **would be** the president now.* \n-   *If I **had won** the lottery, I **would be** rich.*\n-   *I **might have** a better job now if I **hadn’t dropped** out of school.*\n\n#### Mixed second/third conditional\n\nWe use this combination to talk about a hypothetical condition happening in the present (second conditional) with a past result (third conditional). We use past in the **if** clause and **would/could/might + have + past participle** in the main clause.\n\n-   *If I **were** a man, they **would have given** me the job.*  \n-   *If I **didn’t have** so much work, I **would have gone** to the party last night.*\n-   *I **would have understood** them if I **spoke** German.*\n\n🔍 **Note** that in this type of combination, the present condition also existed in the past when the result in the main clause took place. Let’s take a look, for example, at the first sentence:\n\n-   *If I **were** a man, they **would have given** me the job.* \n\nIf I were a man now would mean that I would also have been a man in the past, when I was not given the job. As I’m not a man now (which implies that I wasn’t a man when I applied for the job either), I didn’t get the job.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/mixed-conditionals-grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/mixed-conditionals/img-1.png",
+        "alt": "Mixed conditionals diagram"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Mixed conditionals: If I were you, I wouldn’t have done it",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If I hadn't fought for our relationship, we {0} together now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "weren't",
+                "wouldn't be",
+                "wouldn't have been"
+              ],
+              "correct": "wouldn't be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5388"
+        },
+        {
+          "index": 1,
+          "template": "I would be happier if I {0} 'yes' when she asked me to marry her.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had said",
+                "said",
+                "would say"
+              ],
+              "correct": "had said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5391"
+        },
+        {
+          "index": 2,
+          "template": "If you weren't such a jerk, they {0} you to yesterday's party.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would invite",
+                "had invited",
+                "would have invited"
+              ],
+              "correct": "would have invited",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5392"
+        },
+        {
+          "index": 3,
+          "template": "If you {0} a map, as I told you, we wouldn't be lost now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had taken",
+                "would have taken",
+                "took"
+              ],
+              "correct": "had taken",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5389"
+        },
+        {
+          "index": 4,
+          "template": "If I didn't love you, I {0} you last year.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't marry you",
+                "wouldn't have married",
+                "hadn't married"
+              ],
+              "correct": "wouldn't have married",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5390"
+        },
+        {
+          "index": 5,
+          "template": "If I had more time, I {0} you last night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have called",
+                "would call",
+                "called"
+              ],
+              "correct": "would have called",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5393"
+        },
+        {
+          "index": 6,
+          "template": "If you {0} that job, you would be miserable now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d accepted",
+                "would accept",
+                "would have accepted"
+              ],
+              "correct": "'d accepted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5397"
+        },
+        {
+          "index": 7,
+          "template": "I'm afraid of flying. If I {0} afraid of flying, we'd have travelled by plane.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hadn't been",
+                "weren't",
+                "wouldn't have been"
+              ],
+              "correct": "weren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5396"
+        },
+        {
+          "index": 8,
+          "template": "If you {0} dad's car without permission last night, you might be in trouble.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have taken",
+                "took",
+                "'d taken"
+              ],
+              "correct": "'d taken",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5398"
+        },
+        {
+          "index": 9,
+          "template": "You wouldn't have this job if I {0} you for the interview.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't prepare",
+                "hadn't prepared",
+                "wouldn't have prepared"
+              ],
+              "correct": "hadn't prepared",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5399"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Mixed conditionals: If I were you, I wouldn’t have done it",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He says he's your friend, but he didn't help you. If he were your friend, he _____ you.",
+          "options": [
+            "had helped",
+            "would have helped",
+            "would help",
+            "helped"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I feel fine because I took the medicine. If I _____ the medicine, I would still be in pain.",
+          "options": [
+            "wouldn't take",
+            "wouldn't have taken",
+            "didn't take",
+            "hadn't taken"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I'm not patient, and I didn't wait for them. If I were more patient, I _____ for them.",
+          "options": [
+            "would wait",
+            "would have waited",
+            "waited",
+            "had waited"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I didn't know that you were there because I'm not a psychic. I _____ that you were there if I were a psychic.",
+          "options": [
+            "would have known",
+            "had known",
+            "would know",
+            "knew"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I am where I am today because you helped me. I _____ where I am today if you hadn't helped me.",
+          "options": [
+            "wouldn't have been",
+            "hadn't been",
+            "weren't",
+            "wouldn't be"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I should be your coach. If I _____ your coach, you would have won many more trophies.",
+          "options": [
+            "were",
+            "had been",
+            "would be",
+            "would have been"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "If I were ill, I _____ to work yesterday.",
+          "options": [
+            "wouldn't have gone",
+            "wouldn't go",
+            "hadn't gone",
+            "didn't go"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "If he hadn't been wearing a helmet, he _____ dead now.",
+          "options": [
+            "might be",
+            "might have been",
+            "were",
+            "had been"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I didn't understand his letter because I don't speak Russian. If I _____ Russian, I would have understood his letter.",
+          "options": [
+            "would speak",
+            "would have spoken",
+            "spoke",
+            "had spoken"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm tired because I went to bed late. If I hadn't gone to bed so late, I _____ tired now.",
+          "options": [
+            "wouldn't have been",
+            "wouldn't be",
+            "weren't",
+            "hadn't been"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Mixed conditionals: If I were you, I wouldn’t have done it",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If you {0} (not eat) so much, you wouldn't be feeling sick now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't eat",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5406"
+        },
+        {
+          "index": 1,
+          "template": "If we had money, we {0} (move) to a bigger house years ago.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have moved",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5407"
+        },
+        {
+          "index": 2,
+          "template": "If I were you, I {0} (act) differently. Your behaviour was unacceptable.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have acted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5408"
+        },
+        {
+          "index": 3,
+          "template": "We are second now. We {0} (be) top of the league if we hadn't lost our last match.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5409"
+        },
+        {
+          "index": 4,
+          "template": "If he weren't so lazy, he {0} (finish) the assignment when it was due.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have finished",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5410"
+        },
+        {
+          "index": 5,
+          "template": "I would be equally proud of you if you {0} (not achieve) so many things in your life.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "hadn't achieved",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5413"
+        },
+        {
+          "index": 6,
+          "template": "If I didn't work so hard, I {0} (not get) the job I have.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wouldn't get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5411"
+        },
+        {
+          "index": 7,
+          "template": "If he had done anything wrong, we {0} (know) it by now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have known",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5412"
+        },
+        {
+          "index": 8,
+          "template": "He'd still be here if you {0} (not scare) him away.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "hadn't scared",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5414"
+        },
+        {
+          "index": 9,
+          "template": "I would have a better job if I {0} (go) to university.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had gone",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5415"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Mixed conditionals: If I were you, I wouldn’t have done it",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If I hadn't fought for our relationship, we {0} together now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "weren't",
+                "wouldn't be",
+                "wouldn't have been"
+              ],
+              "correct": "wouldn't be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5388"
+        },
+        {
+          "index": 1,
+          "template": "I would be happier if I {0} 'yes' when she asked me to marry her.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had said",
+                "said",
+                "would say"
+              ],
+              "correct": "had said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5391"
+        },
+        {
+          "index": 2,
+          "template": "If you weren't such a jerk, they {0} you to yesterday's party.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would invite",
+                "had invited",
+                "would have invited"
+              ],
+              "correct": "would have invited",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5392"
+        },
+        {
+          "index": 3,
+          "template": "If you {0} a map, as I told you, we wouldn't be lost now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had taken",
+                "would have taken",
+                "took"
+              ],
+              "correct": "had taken",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5389"
+        },
+        {
+          "index": 4,
+          "template": "If I didn't love you, I {0} you last year.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't marry you",
+                "wouldn't have married",
+                "hadn't married"
+              ],
+              "correct": "wouldn't have married",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5390"
+        },
+        {
+          "index": 5,
+          "template": "If I had more time, I {0} you last night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have called",
+                "would call",
+                "called"
+              ],
+              "correct": "would have called",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5393"
+        },
+        {
+          "index": 6,
+          "template": "If you {0} that job, you would be miserable now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d accepted",
+                "would accept",
+                "would have accepted"
+              ],
+              "correct": "'d accepted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5397"
+        },
+        {
+          "index": 7,
+          "template": "I'm afraid of flying. If I {0} afraid of flying, we'd have travelled by plane.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hadn't been",
+                "weren't",
+                "wouldn't have been"
+              ],
+              "correct": "hadn't been",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5396"
+        },
+        {
+          "index": 8,
+          "template": "If you {0} dad's car without permission last night, you might be in trouble.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have taken",
+                "took",
+                "'d taken"
+              ],
+              "correct": "'d taken",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5398"
+        },
+        {
+          "index": 9,
+          "template": "You wouldn't have this job if I {0} you for the interview.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't prepare",
+                "hadn't prepared",
+                "wouldn't have prepared"
+              ],
+              "correct": "hadn't prepared",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5399"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

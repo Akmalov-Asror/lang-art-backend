@@ -1,0 +1,411 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "present-perfect-or-past-simple",
+  "order_index": 11,
+  "title": "Present perfect or past simple?",
+  "source_url": "https://test-english.com/grammar-points/a2/present-perfect-or-past-simple/",
+  "scraped_at": "2026-05-23T07:16:10.639Z",
+  "explanation": {
+    "markdown": "## Present perfect or past simple?\n\n![Side-by-side comparison chart contrasting the use of Present Perfect and Past Simple tenses, with explanations and examples for each, suitable for A2 pre-intermediate English grammar learners.](/uploads/grammar/a2/present-perfect-or-past-simple/img-1.webp)\n\n## Past events or experiences\n\n#### Present perfect: it’s not important when something happened\n\nWe use the [present perfect](https://test-english.com/grammar-points/a2/present-perfect/) to talk about recent events or about people’s experiences when the time when these events happened is not important and we don’t mention it.\n\n-   *I’**ve been** to Malaysia.* (**When** is not important. The important thing is that I have this experience now.)\n-   *She’**s won** three gold medals.*\n-   *I’**ve broken** my arm.* \n\n#### Past simple: We say or ask when something happened\n\nWe use [past simple](https://test-english.com/grammar-points/a2/past-simple-form-use/) to talk about completed actions in the past. We often say or ask when these actions happened.\n\n-   *We **have been** to Malaysia **last year**. ![](/uploads/grammar/a2/present-perfect-or-past-simple/img-2.png)* \n-   *We **went** to Malaysia **last year**.  ![](/uploads/grammar/a2/present-perfect-or-past-simple/img-3.png)*  \n-   **She **won** three gold medals **at the last Olympic Games**.** \n-   ***When** **did** you **break** your arm?*\n\n#### In conversation\n\nWe often start a conversation about recent events or people’s experiences using the present perfect, but if we continue talking or asking about the details of that event, we use the past simple.\n\n-   John: *I’**ve been** to the cinema.*\n-   Patrick: *What **did** you **see**?*\n-   John: *I **saw** a very good film by…*\n\n-   Sarah: *Oh, you’**ve broken** your arm!*\n-   Rachel: *Yes, I **have**.* \n-   Sarah: *How **did** it **happen**?*\n-   Rachel: *It **happened** yesterday while I was riding my bike.* \n\n-   *I do judo, and I’**ve won** some competitions. In fact, I’**ve won** two medals. I **got** the first one in Singapore in 2002. The second one **was** different. It **was** in Tokyo, and I **was** older.*\n\n## Duration with **how long**, **for** and **since**\n\nWe use the present perfect with **how long**, [**for**, and **since**](https://test-english.com/grammar-points/b1/for-since-from-difference/) to talk about actions or situations that started in the past and still continue or are still true **now**.  \n  \nWe use the past simple with **how long** and **for** to talk about actions or situations that started and finished in the past. Compare:\n\n-   *He**‘s lived** in New York for ten years*. (=He lives in New York now)\n-   *He **lived** in New York for ten years*. (=He does NOT live in New York now)\n\n-   *How long **have** you **worked** in the bank?* (=You work in the bank now)\n-   *How long **did** you **work** in the bank?* (=You do NOT work in the bank now)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Past-simple-vs-Present-perfect_Grammar-chart.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/a2/present-perfect-or-past-simple/img-1.webp",
+        "alt": "Side-by-side comparison chart contrasting the use of Present Perfect and Past Simple tenses, with explanations and examples for each, suitable for A2 pre-intermediate English grammar learners."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/present-perfect-or-past-simple/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/present-perfect-or-past-simple/img-3.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present perfect or past simple?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A: I 1 {0} Peter last night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "saw",
+                "have seen"
+              ],
+              "correct": "saw",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3069"
+        },
+        {
+          "index": 1,
+          "template": "A: 3 {0} this film before?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Did you see",
+                "Have you seen"
+              ],
+              "correct": "Have you seen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3070"
+        },
+        {
+          "index": 2,
+          "template": "A: What 5 {0} last weekend?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have you done",
+                "did you do"
+              ],
+              "correct": "did you do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3071"
+        },
+        {
+          "index": 3,
+          "template": "A: So, Tom is your best friend. 7 {0} Tom when you were in school?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Did you meet",
+                "Have you met"
+              ],
+              "correct": "Did you meet",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3072"
+        },
+        {
+          "index": 4,
+          "template": "A: 9 {0} a marathon?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Have you ever run",
+                "Did you ever run"
+              ],
+              "correct": "Have you ever run",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3073"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Present perfect or past simple?",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_____ John yet?",
+          "options": [
+            "Have you called",
+            "Did you call",
+            "Do you call"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Emily's not here. She _____ to the shops.",
+          "options": [
+            "'s gone",
+            "'s been",
+            "'s went"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: Where's Tom? B: He _____ .",
+          "options": [
+            "went just out",
+            "'s just gone out",
+            "did just go out"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "He _____ in London for three years and now he lives in Dublin.",
+          "options": [
+            "'s lived",
+            "lives",
+            "lived"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____ the door when you left?",
+          "options": [
+            "Did you lock",
+            "Did you locked",
+            "Have you locked"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: 'Where's Tom?' B: 'He _____ ten minutes ago.'",
+          "options": [
+            "'s gone out",
+            "'s been out",
+            "went out"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "A: '_____ breakfast yet?' B: Yes, I _____ breakfast at 7:30.'",
+          "options": [
+            "Have you had / had",
+            "Have you had / 've had",
+            "Did you have / 've had"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "A: '_____ their homework yet?' B: 'Yes, they _____ it when they arrived from school.'",
+          "options": [
+            "Have the kids done / did",
+            "Did the kids do / did",
+            "Did the kids do / 've done"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I _____ with Jake last Tuesday and he says you _____ him for months.",
+          "options": [
+            "'ve talked / haven't visited",
+            "talked / haven't visited",
+            "'ve talked / didn't visit"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "A: 'We _____ yesterday, and you?' B: 'We _____ here since last week.'",
+          "options": [
+            "arrived / 've been",
+            "have arrived / were",
+            "'ve arrived / ''ve been"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present perfect or past simple?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "PETER: 1 {0} (you/ever/be) to England? LAURA: I 2 {1} (never/be) to England, but I’d like to go someday. And you? 3 {2} (you/ever/travel) to England? PETER: Yes. I 4 {3} (be) there four times. In fact, I 5 {4} (travel) to many English speaking countries. LAURA: 6 {5} (you/be) to Australia, too? PETER: Yes, of course. LAURA: When 7 {6} (you/go) there? PETER: Last year, during my Christmas holiday. LAURA: 8 {7} (you/like) it? PETER: Yes, it 9 {8} (be) fantastic! We 10 {9} (spend) 12 incredible days there.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Have you ever been",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "have never been",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Have you ever traveled",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I've been",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I've traveled",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Have you been",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did you go",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did you like",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It was",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We spent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3067"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present perfect or past simple?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Dialogue 1 MARK: 1 {0} (you/ever/hear) the group The Darkness? BIANCA: No, I 2 {1}. What kind of music do they play? MARK: Rock music. I 3 {2} (see) them in concert last night. BIANCA: 4 {3} (be) it a good concert? MARK: Yes, I really 5 {4} (like) it. Dialogue 2 ANDY: 6 {5} (you/ever/lose) your car keys? BART: Yes, I 7 {6}. ANDY: Where 8 {7} (it/happen)? BART: In Portugal. I 9 {8} (be) there on holiday. ANDY: What 10 {9} (you/do)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Have you ever heard",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I haven't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did it be",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I saw",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I liked",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Have you ever lost",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I have",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did it happen",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I was",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "What did you do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3068"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

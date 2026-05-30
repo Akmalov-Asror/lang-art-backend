@@ -1,0 +1,691 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "reported-speech-indirect-speech",
+  "order_index": 22,
+  "title": "Indirect speech / Reported speech",
+  "source_url": "https://test-english.com/grammar-points/b1/reported-speech-indirect-speech/",
+  "scraped_at": "2026-05-23T07:22:47.418Z",
+  "explanation": {
+    "markdown": "## What is indirect speech or reported speech?\n\nWhen we tell people what another person said or thought, we often use **reported speech** or indirect speech. To do that, we need to change verb tenses (present, past, etc.) and [pronouns](https://test-english.com/grammar-points/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/) (**I, you, my, your, etc**.) if the time and speaker are different. For example, **present tenses** become **past**, **I** becomes **he** or **she**, and **my** becomes **his** or **her**, etc.\n\n-   Sally: *‘**I** **don’t have** time.’* ⇒ *Sally said that **she didn’t have** time.* \n-   Peter: *‘**I am tired** .’* ⇒ *He said that **he was** tired.* \n\n## Omission of **that**\n\nWe often leave out **that** after reporting verbs like **say, think**, **etc.** \n\n-   *She **said she** was late.* (=*She said that she was late.*)\n-   *I **thought I** would get the job.*  \n\n## **Say** or **tell**?\n\nThe most common verbs we use in reported speech are [**say** and **tell**](https://test-english.com/grammar-points/shorts/say-vs-tell-grammar-shorts/). We must pay attention here. We say **tell** **somebody** **something** and **say something (to somebody)**.\n\n-   *They **said me** (that) they would help me. ![](/uploads/grammar/b1/reported-speech-indirect-speech/img-1.png)* \n-   *They **told me** (that) they would help me.* ![](/uploads/grammar/b1/reported-speech-indirect-speech/img-2.png)\n-   *He **told** (that) he didn’t have a car. ![](/uploads/grammar/b1/reported-speech-indirect-speech/img-3.png)* \n-   *He **said** (that) he didn’t have a car.* ![](/uploads/grammar/b1/reported-speech-indirect-speech/img-4.png)\n\n## Tense changes in indirect speech\n\n![Grammar chart illustrating the transformation of verb forms from direct to reported speech, including changes from present to past tense, and modal verbs to their past form equivalents.](/uploads/grammar/b1/reported-speech-indirect-speech/img-5.png)\n\nWhen a person said something **in the past**, and **now** we tell somebody what that person said, the time is different, and for this reason, the verb tenses change. Look at a summary of these changes.\n\n## Changes in expressions\n\n![Grammar chart displaying changes in expressions of time when shifting from direct to reported speech, with side-by-side examples for terms like 'now', 'today', and 'tomorrow'.](/uploads/grammar/b1/reported-speech-indirect-speech/img-6.png)\n\nThere are adverbs or expressions of time and place that change when we report what someone says. Here you have a list.\n\n## Questions and imperatives in indirect speech\n\n![Grammar chart for B1 level illustrating how to report questions and imperatives, showing the transformation of direct questions into indirect speech and how to report commands and requests.](/uploads/grammar/b1/reported-speech-indirect-speech/img-7.png)\n\nWe use the normal order of words in **reported questions**: subject + verb. We don’t use an [auxiliary verb](https://test-english.com/grammar-points/a2/auxiliary-verbs-do-be-and-have/) like **do** or **did**.  \n  \nWhen we report an order or instruction, we use the form **ask** or **tell someone to do something**.\n\n## Pronoun changes in indirect speech\n\nIn reported or indirect speech, we must also pay attention to the use of pronouns. When a person tells us something, he or she uses the first person (**I, me, my, we, us, our**) to talk about himself or herself and the second person (**you, your**) to talk about us, the person listening. But when we tell someone else what that person said, we are going to use the third person (**he, she, his, her, etc.**) to talk about the speaker and the first person (**I, me, my**) to talk about ourselves, the listener.\n\n-   *‘**I** will help **you**.’* ⇒ ***He** said that he **would** help me.* \n-   *‘That’s **my** pen.’* ⇒ *She said that it was **her** pen.* \n-   *‘**I** need **your** help.’* ⇒ *She said that **she** needed **my** help.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/reported-speech-indirect-speech/img-1.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/reported-speech-indirect-speech/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/reported-speech-indirect-speech/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/reported-speech-indirect-speech/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Reported-speech_Verbs_Grammar-chart.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b1/reported-speech-indirect-speech/img-5.png",
+        "alt": "Grammar chart illustrating the transformation of verb forms from direct to reported speech, including changes from present to past tense, and modal verbs to their past form equivalents."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Reported-speech_Expressions_Grammar-chart.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/b1/reported-speech-indirect-speech/img-6.png",
+        "alt": "Grammar chart displaying changes in expressions of time when shifting from direct to reported speech, with side-by-side examples for terms like 'now', 'today', and 'tomorrow'."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Reported-speech_Imperative_Questions_Grammar-chart.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/b1/reported-speech-indirect-speech/img-7.png",
+        "alt": "Grammar chart for B1 level illustrating how to report questions and imperatives, showing the transformation of direct questions into indirect speech and how to report commands and requests."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Indirect speech / Reported speech",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "'I work in a bank.' ⇒ He said that he {0} in a bank.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had worked",
+                "has worked",
+                "worked"
+              ],
+              "correct": "worked",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1990"
+        },
+        {
+          "index": 1,
+          "template": "'I am working today.' ⇒ She told us she {0} that day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is working",
+                "was working",
+                "worked"
+              ],
+              "correct": "was working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1991"
+        },
+        {
+          "index": 2,
+          "template": "'I've been ill for a couple of weeks.' ⇒ He told me he {0} for a couple of weeks.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is ill",
+                "had been ill",
+                "was ill"
+              ],
+              "correct": "had been ill",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1992"
+        },
+        {
+          "index": 3,
+          "template": "'I was at the doctor's all morning.' ⇒ She told me that she {0} at the doctor's all morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would be",
+                "had been",
+                "has been"
+              ],
+              "correct": "had been",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1993"
+        },
+        {
+          "index": 4,
+          "template": "'I'll lend you the money.' ⇒ He told me he {0} me the money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "lent",
+                "was lending",
+                "would lend"
+              ],
+              "correct": "would lend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1994"
+        },
+        {
+          "index": 5,
+          "template": "'I can't do it without your help.' ⇒ She said she {0} it without my help.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hadn't done",
+                "didn't do",
+                "couldn't do"
+              ],
+              "correct": "couldn't do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1995"
+        },
+        {
+          "index": 6,
+          "template": "'The meeting may start early.' ⇒ He told us that the meeting {0} early.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would start",
+                "might start",
+                "can start"
+              ],
+              "correct": "might start",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1996"
+        },
+        {
+          "index": 7,
+          "template": "'I must leave early today.' ⇒ He said that he {0} early that day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "left",
+                "must leave",
+                "had to leave"
+              ],
+              "correct": "had to leave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1997"
+        },
+        {
+          "index": 8,
+          "template": "'You should talk to Jim.' ⇒ She said that I {0} to Jim.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "should talk",
+                "would talk",
+                "talked"
+              ],
+              "correct": "should talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1998"
+        },
+        {
+          "index": 9,
+          "template": "'Get out!' ⇒ She told me {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I get out",
+                "I got out",
+                "to get out"
+              ],
+              "correct": "to get out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1999"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Indirect speech / Reported speech",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "'I need to see Sarah this weekend.' ⇒ George said that ______.",
+          "options": [
+            "he needed to see Sarah this weekend",
+            "he was needing to see Sarah that weekend",
+            "he needed to see Sarah that weekend"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "'I'm reading now.' ⇒ Sally told me ______.",
+          "options": [
+            "that she was reading at that moment",
+            "that she read now",
+            "that she was reading now"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "'I haven't seen Barbara since last year.' ⇒ Brendan told me ______.",
+          "options": [
+            "he didn't see Barbara since last year",
+            "he hadn't seen Barbara since the year before",
+            "he hadn't seen Barbara since last year"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "'Have you signed the contract?' ⇒ Suzan ______ .",
+          "options": [
+            "told me if I had signed the contract",
+            "asked me whether I had signed the contract",
+            "said if I signed the contract"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "'Where did you eat?' ⇒ Sam asked me ______.",
+          "options": [
+            "where I had eaten",
+            "where had I eaten",
+            "where did I eat"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "'Where are you going tomorrow?' ⇒ Sandra asked me ______.",
+          "options": [
+            "where was I going tomorrow",
+            "where was I going the next day",
+            "where I was going the following day"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "'May I smoke in this room?' ⇒ Micky asked me ______.",
+          "options": [
+            "if he may smoke in this room",
+            "if he might smoke in that room",
+            "whether he smoked in that room"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "'I'm living in Australia.' Sarah told me ______. Choose TWO correct options",
+          "options": [
+            "she is living in Australia",
+            "she had lived in Australia",
+            "she was living in Australia"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "'Please, sit here.' ⇒ She ______.",
+          "options": [
+            "asked me to sit there",
+            "said to sit there",
+            "told me to sit here"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "'Can you give me a hand with the boxes?' ⇒ Peter asked me ______ with the boxes.",
+          "options": [
+            "if I could give me a hand",
+            "whether I could give him a hand",
+            "if could I give him a hand"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Indirect speech / Reported speech",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "'Where is the post office?' ⇒ He asked me {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "where the post office was",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2013"
+        },
+        {
+          "index": 1,
+          "template": "'Are you going to the beach today?' ⇒ She asked me {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "if I was going to the beach that day",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2014"
+        },
+        {
+          "index": 2,
+          "template": "'Let me go! ⇒ He told them {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to let him go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2015"
+        },
+        {
+          "index": 3,
+          "template": "'Where were you last night?' ⇒ He asked me {0} night.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the previous",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2016"
+        },
+        {
+          "index": 4,
+          "template": "'I may not be ready next week.' ⇒ Tomas said that he {0} week.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not be ready the following",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2019"
+        },
+        {
+          "index": 5,
+          "template": "'I think Jack will do something stupid' ⇒ Suzan said (that) {0} something stupid.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Jack would do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2017"
+        },
+        {
+          "index": 6,
+          "template": "'You must tell Ted that I will be there.' ⇒ Sara said that I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had to tell Ted that I would be there",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2020"
+        },
+        {
+          "index": 7,
+          "template": "'Have you been here all this time?' ⇒ She asked him if {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "he had been there all that time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2018"
+        },
+        {
+          "index": 8,
+          "template": "'Stop or I will tell dad.' ⇒ He told his sister {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to stop or he would tell dad",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2021"
+        },
+        {
+          "index": 9,
+          "template": "'I'm going to stay with Sally tomorrow.' ⇒ She told me she {0} day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was going to stay with Sally the next",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2022"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Indirect speech / Reported speech",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "'I work in a bank.' ⇒ He said that he {0} in a bank.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had worked",
+                "has worked",
+                "worked"
+              ],
+              "correct": "worked",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1990"
+        },
+        {
+          "index": 1,
+          "template": "'I am working today.' ⇒ She told us she {0} that day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is working",
+                "was working",
+                "worked"
+              ],
+              "correct": "was working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1991"
+        },
+        {
+          "index": 2,
+          "template": "'I've been ill for a couple of weeks.' ⇒ He told me he {0} for a couple of weeks.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is ill",
+                "had been ill",
+                "was ill"
+              ],
+              "correct": "had been ill",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1992"
+        },
+        {
+          "index": 3,
+          "template": "'I was at the doctor's all morning.' ⇒ She told me that she {0} at the doctor's all morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would be",
+                "had been",
+                "has been"
+              ],
+              "correct": "had been",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1993"
+        },
+        {
+          "index": 4,
+          "template": "'I'll lend you the money.' ⇒ He told me he {0} me the money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "lent",
+                "was lending",
+                "would lend"
+              ],
+              "correct": "would lend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1994"
+        },
+        {
+          "index": 5,
+          "template": "'I can't do it without your help.' ⇒ She said she {0} it without my help.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hadn't done",
+                "didn't do",
+                "couldn't do"
+              ],
+              "correct": "couldn't do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1995"
+        },
+        {
+          "index": 6,
+          "template": "'The meeting may start early.' ⇒ He told us that the meeting {0} early.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would start",
+                "might start",
+                "can start"
+              ],
+              "correct": "might start",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1996"
+        },
+        {
+          "index": 7,
+          "template": "'I must leave early today.' ⇒ He said that he {0} early that day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "left",
+                "must leave",
+                "had to leave"
+              ],
+              "correct": "had to leave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1997"
+        },
+        {
+          "index": 8,
+          "template": "'You should talk to Jim.' ⇒ She said that I {0} to Jim.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "should talk",
+                "would talk",
+                "talked"
+              ],
+              "correct": "should talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1998"
+        },
+        {
+          "index": 9,
+          "template": "'Get out!' ⇒ She told me {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I get out",
+                "I got out",
+                "to get out"
+              ],
+              "correct": "to get out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1999"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

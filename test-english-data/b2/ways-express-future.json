@@ -1,0 +1,534 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "ways-express-future",
+  "order_index": 20,
+  "title": "Other ways to express future: Be about to, be due to, etc.",
+  "source_url": "https://test-english.com/grammar-points/b2/ways-express-future/",
+  "scraped_at": "2026-05-23T07:27:34.984Z",
+  "explanation": {
+    "markdown": "## Other ways to express future: Grammar chart\n\n![A grammar chart titled \"Other Ways to Express Future\" explains six expressions to indicate future events in English, such as \"Be About To + infinitive\", \"Be Due To + infinitive\", \"Be To + infinitive,\" etc. with examples and explanations.](/uploads/grammar/b2/ways-express-future/img-1.png)\n\n## Be about to, be on the brink/verge/point of\n\n#### Be about to\n\nWe often use **be about to** \\+ infinitive to say that something will happen in the very near future.\n\n-   *Some apps **are about to disappear** from the market.*\n-   *Scientists say they **are about to find** a vaccine.*\n\n#### Be on the brink/verge/point of\n\nWe can also use **be on the brink of, be on the verge of**, or **be on the point of** to say that something will happen very soon.\n\n-   *Our country’s economy is **on the brink of collapse**.* \n-   *This historical museum is **on the brink of losing** half its masterpieces.*\n-   *They are **on the verge of becoming** the team to win the most finals in history.*\n-   *The two historical enemies **are on the point of reaching** an agreement.* \n\n## Be due to\n\nWe use **be due to** + infinitive to talk about future events that are planned or expected to happen.\n\n-   *Greece **is due to repay** around £6 billion to its creditors next semester.*\n-   *The secretary **is due to arrive** in Montreal tomorrow morning.* \n\n## Be to\n\nWe can use **be to** \\+ infinitive in different situations.\n\n#### Official arrangements\n\n**Be to** \\+ infinitive is often used in news reports to talk about official arrangements and events that are planned or expected to happen. The meaning is usually something like ‘it is expected’.\n\n-   *Prince William **is to visit** Paris for the first time since his mother died.* (=It is expected that Prince William will…)\n-   *Nine care homes for the elderly **are to close** by the end of March.*\n\n#### Formal instructions and orders\n\nWe can also use **be to** \\+ infinitive to talk about **official instructions** and **orders**. When used in the negative form, it expresses **prohibition**.\n\n-   *All employees **are to attend** a health and safety orientation at the end of the week.* \n-   *You **are not to leave** this room until I say so.* \n\n#### **If** clauses\n\nWe often use **be to** \\+ infinitive in an **if**\\-clause. In these cases, we say what should be done (main clause) to achieve the desired result (**if**\\-clause).\n\n-   *We need to be open to everybody’s opinion if we **are to avoid** repeating the mistakes of the past.* \n-   *If he **is to succeed**, he will need to learn to represent the interests of all Americans.* \n\n## Be bound to, be likely to (probability)\n\n#### Be bound to\n\nWe use **be bound to** \\+ infinitive to say that something is certain or very likely to happen.\n\n-   *They **are bound to like** him. He is such a sweet guy.* \n-   *His new film **is bound to win** the hearts of every romantic out there.* \n\n#### Be likely to\n\nWe use [**be likely to**](https://test-english.com/grammar-points/b1-b2/likely-unlikely-bound-definitely-probably/) + infinitive to say that something will probably happen. We can also use **It + be likely that** \\+ clause.\n\n-   *The government **is likely to pass** new regulations very soon.* \n-   ***It’s likely that** the company will have to pay for the damages.* \n\nWe use **be unlikely** \\+ infinitive to say that something will probably not happen. We can also use **It + be unlikely that** \\+ clause.\n\n-   *He **is unlikely to win** this match.* \n-   *It’**s unlikely that** the weather will change over the next few days.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Future_Other-expressions.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/ways-express-future/img-1.png",
+        "alt": "A grammar chart titled \"Other Ways to Express Future\" explains six expressions to indicate future events in English, such as \"Be About To + infinitive\", \"Be Due To + infinitive\", \"Be To + infinitive,\" etc. with examples and explanations."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Other ways to express future: Be about to, be due to, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You {0} to leave your room until you tidy it up.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are not due",
+                "are not about",
+                "are not"
+              ],
+              "correct": "are not",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1163"
+        },
+        {
+          "index": 1,
+          "template": "When I found her, she was shaking and {0} crying",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "about to",
+                "on the verge of",
+                "due to"
+              ],
+              "correct": "on the verge of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1164"
+        },
+        {
+          "index": 2,
+          "template": "According to commentators, she is {0} because she is much faster than her rivals.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "bound to win",
+                "on the verge of winning",
+                "due to win"
+              ],
+              "correct": "bound to win",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1165"
+        },
+        {
+          "index": 3,
+          "template": "The US delegation {0} to arrive on Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is due",
+                "is about",
+                "is bound"
+              ],
+              "correct": "is due",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1166"
+        },
+        {
+          "index": 4,
+          "template": "When he called, he was {0} committing suicide.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on the point of",
+                "about to",
+                "due to"
+              ],
+              "correct": "about to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1167"
+        },
+        {
+          "index": 5,
+          "template": "The Turkish president {0} Russia on September 10th.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is about to visit",
+                "is bound to visit",
+                "is to visit"
+              ],
+              "correct": "is to visit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1168"
+        },
+        {
+          "index": 6,
+          "template": "The tennis player {0} to carry his country's flag at Friday's opening ceremony in Rio.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is due",
+                "is on the verge",
+                "is bound"
+              ],
+              "correct": "is due",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1169"
+        },
+        {
+          "index": 7,
+          "template": "The Korean Marines were {0} to open fire when American officers stopped them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "about",
+                "due",
+                "on the point"
+              ],
+              "correct": "about",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1170"
+        },
+        {
+          "index": 8,
+          "template": "Students {0} to behave in a manner that shows respect.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are due",
+                "are about",
+                "are"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1171"
+        },
+        {
+          "index": 9,
+          "template": "Both candidates {0} begin the campaign next Thursday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are bound to",
+                "are on the verge of",
+                "are due to"
+              ],
+              "correct": "are due to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1172"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Other ways to express future: Be about to, be due to, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The government ______ to pass the new law by the end of the year.",
+          "options": [
+            "is about",
+            "is on the verge",
+            "is",
+            "is on the point"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "The new canal ______ to be finished by December next year.",
+          "options": [
+            "is due",
+            "is on the brink",
+            "is about",
+            "is on the verge"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Researchers say they are ______ discovering a new form of life.",
+          "options": [
+            "about",
+            "on the verge of",
+            "on the point of",
+            "on the point of / on the verge of"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "She is ______ to give birth to their second child in a few weeks.",
+          "options": [
+            "sure",
+            "on the verge",
+            "about",
+            "due"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "The National Institute of Health ______ to begin the first human trials for an experimental vaccine in the coming months.",
+          "options": [
+            "is on the verge",
+            "is due",
+            "is about",
+            "is on the point"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The prime minister ______ contact the French president to begin negotiations.",
+          "options": [
+            "is on the verge",
+            "is on the brink",
+            "is due",
+            "is to"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Borneo's orangutans are ______ extinct.",
+          "options": [
+            "on the verge of becoming",
+            "about to become",
+            "due to become",
+            "on the verge of becoming / about to become"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The next generation of the device ______ to be unveiled until October 4th.",
+          "options": [
+            "isn't due",
+            "isn't unlikely",
+            "isn't about",
+            "isn't on the verge"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Experts say the terrorist attack ______ to affect tourism in the short term.",
+          "options": [
+            "is on the point",
+            "is due",
+            "is bound",
+            "is about"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The government ______ its decision at a press conference on Friday.",
+          "options": [
+            "is about to announce",
+            "is unlikely to announce",
+            "is on the verge of announcing",
+            "is due to announce"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Other ways to express future: Be about to, be due to, etc.",
+      "sentences": [],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Other ways to express future: Be about to, be due to, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You {0} to leave your room until you tidy it up.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are not due",
+                "are not about",
+                "are not"
+              ],
+              "correct": "are not",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1163"
+        },
+        {
+          "index": 1,
+          "template": "When I found her, she was shaking and {0} crying",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "about to",
+                "on the verge of",
+                "due to"
+              ],
+              "correct": "on the verge of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1164"
+        },
+        {
+          "index": 2,
+          "template": "According to commentators, she is {0} because she is much faster than her rivals.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "bound to win",
+                "on the verge of winning",
+                "due to win"
+              ],
+              "correct": "bound to win",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1165"
+        },
+        {
+          "index": 3,
+          "template": "The US delegation {0} to arrive on Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is due",
+                "is about",
+                "is bound"
+              ],
+              "correct": "is due",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1166"
+        },
+        {
+          "index": 4,
+          "template": "When he called, he was {0} committing suicide.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on the point of",
+                "about to",
+                "due to"
+              ],
+              "correct": "about to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1167"
+        },
+        {
+          "index": 5,
+          "template": "The Turkish president {0} Russia on September 10th.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is about to visit",
+                "is bound to visit",
+                "is to visit"
+              ],
+              "correct": "is to visit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1168"
+        },
+        {
+          "index": 6,
+          "template": "The tennis player {0} to carry his country's flag at Friday's opening ceremony in Rio.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is due",
+                "is on the verge",
+                "is bound"
+              ],
+              "correct": "is due",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1169"
+        },
+        {
+          "index": 7,
+          "template": "The Korean Marines were {0} to open fire when American officers stopped them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "about",
+                "due",
+                "on the point"
+              ],
+              "correct": "about",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1170"
+        },
+        {
+          "index": 8,
+          "template": "Students {0} to behave in a manner that shows respect.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are due",
+                "are about",
+                "are"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1171"
+        },
+        {
+          "index": 9,
+          "template": "Both candidates {0} begin the campaign next Thursday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are bound to",
+                "are on the verge of",
+                "are due to"
+              ],
+              "correct": "are due to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1172"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

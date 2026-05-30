@@ -1,0 +1,612 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "however-although-time-connectors",
+  "order_index": 6,
+  "title": "However, although, because, so, and time connectors",
+  "source_url": "https://test-english.com/grammar-points/a2/however-although-time-connectors/",
+  "scraped_at": "2026-05-23T07:15:35.068Z",
+  "explanation": {
+    "markdown": "## However, although, because, so\n\n![Grammar chart explaining the use of conjunctions 'however,' 'although,' 'because,' and 'so' for contrast and result, with sentence examples.](/uploads/grammar/a2/however-although-time-connectors/img-1.png)\n\n## Clauses of contrast\n\n#### However\n\n**However** means ‘but’.\n\n**However** is normally used at the **beginning of a sentence**, **before** a comma **(,)** and **after** a full stop **(.)** or a semicolon **(;)**.\n\n-   *We didn’t like the hotel**.** **However,** we had a good time.*\n-   *I would like to have a dog**; however,** my husband is allergic to dogs.* \n\n#### Although\n\n**Although** means ‘despite the fact that’ or ‘but’.\n\n**Although** can be used at the **beginning** or in the **middle** of a sentence. We do **NOT** use a **comma** after although; we use **although + subject + verb**.\n\n-   ***Although** he had a bad leg, he still won the game.*\n-   *I passed the exam, **although** I hadn’t studied.*\n\n## Clauses of reason\n\n#### Because\n\nWe use **because + subject + verb**.\n\n-   *We had to cancel the concert **because** it was raining.*\n-   *I didn’t call you **because** I didn’t want to worry you.*\n\n#### Because of\n\nWe use **because of + noun**.\n\n-   *We had to cancel the concert **because of** the rain.*\n-   *Many shops had to close **because of** the economic situation.* \n\n## Clauses of result\n\n#### So\n\n**So** is the most common connector to express **result**. It is normally used in the **middle** of a sentence after **(,)**.\n\n-   *We worked hard all morning, **so** I am very tired now.* \n-   *The TV is very expensive, **so** I don’t think I’ll buy it.* \n\n## Time connectors\n\n![Grammar chart detailing time connectors 'before', 'after', 'while', 'as soon as', 'when', and 'once' with examples and usage rules.](/uploads/grammar/a2/however-although-time-connectors/img-2.webp)\n\n#### Before\n\nWe can use **before + noun** / **\\-ing verb**, or we can use **before + subject + verb**.\n\n-   ***Before** I have breakfast, I read a few pages.* \n-   ***Before** having breakfast, I read a few pages.* \n-   ***Before** breakfast, I read a few pages.* \n\n#### After\n\nWe can use **after + noun** / **\\-ing verb**, or we can use **after + subject + verb**.\n\n-   *I smoke a cigarette **after** dinner/ having dinner/ I have dinner.*\n\nWhen we are talking about **consecutive actions**, we use **then** of **after that**, but NOT **after**.\n\n-   *I got up and had a shower. **After**, I made breakfast. ![](/uploads/grammar/a2/however-although-time-connectors/img-3.png)* \n-   *I got up and had a shower. **Then/After that**, I made breakfast.* ![](/uploads/grammar/a2/however-although-time-connectors/img-4.png)\n\n#### While\n\nWe use **while** **\\+ subject + verb** to talk about actions happening at the same time, simultaneously.\n\n-   *I read the newspaper **while** I was waiting.*\n\n#### As soon as, when, once\n\n**As soon as**, **when**, and **once** have a similar meaning. As soon as means ‘immediately when’.\n\n-   ***As soon as/when/once** I get home, I’ll finish my homework.*\n\n## Common mistakes\n\nWe use the present simple and NOT **will** to express [future](https://test-english.com/grammar-points/a2/first-conditional-future-time-clauses/) after **before, after, as soon as, when,** and **once**.\n\n-   ***When** I **will get** home, I’ll call you. ![](/uploads/grammar/a2/however-although-time-connectors/img-5.png)* \n-   ***When** I **get** home, I’ll call you.* ![](/uploads/grammar/a2/however-although-time-connectors/img-6.png)\n\nWe use a **comma** after the **first part of the sentence** when we start with **before, after, while, as soon as, etc**. But we do **not** use a **comma** if we use **before, after, while, as soon as, etc** in the **second part of the sentence**.\n\n-   ***Before** I go to bed**,** I brush my teeth.* \n-   *I brush my teeth **before** I go to bed.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/However-although-because-so_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/however-although-time-connectors/img-1.png",
+        "alt": "Grammar chart explaining the use of conjunctions 'however,' 'although,' 'because,' and 'so' for contrast and result, with sentence examples."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Time-connectors_Grammar-chart.webp",
+        "local_filename": "img-2.webp",
+        "public_path": "/uploads/grammar/a2/however-although-time-connectors/img-2.webp",
+        "alt": "Grammar chart detailing time connectors 'before', 'after', 'while', 'as soon as', 'when', and 'once' with examples and usage rules."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/however-although-time-connectors/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/however-although-time-connectors/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/however-although-time-connectors/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a2/however-although-time-connectors/img-6.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "However, although, because, so, and time connectors",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We couldn't find a taxi, {0} we walked home",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "although",
+                "but",
+                "because"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2848"
+        },
+        {
+          "index": 1,
+          "template": "{0} it was very cold, she wasn't wearing a coat.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "Because",
+                "So",
+                "But"
+              ],
+              "correct": "Although",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2849"
+        },
+        {
+          "index": 2,
+          "template": "I woke up {0} there was a noise.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "because",
+                "but",
+                "so",
+                "although"
+              ],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2850"
+        },
+        {
+          "index": 3,
+          "template": "I called him {0} his mobile was turned off.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "but",
+                "because"
+              ],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2851"
+        },
+        {
+          "index": 4,
+          "template": "{0} she's very nice, she doesn't have many friends.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "So",
+                "Because",
+                "But",
+                "Although"
+              ],
+              "correct": "But",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2852"
+        },
+        {
+          "index": 5,
+          "template": "There was nothing on TV, {0} I went to bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "because",
+                "although",
+                "but",
+                "so"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2853"
+        },
+        {
+          "index": 6,
+          "template": "All the cafés were full {0} it was a public holiday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "although",
+                "but",
+                "because"
+              ],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2854"
+        },
+        {
+          "index": 7,
+          "template": "She studied quite hard {0} she failed the exam.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "because",
+                "so",
+                "but"
+              ],
+              "correct": "but",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2855"
+        },
+        {
+          "index": 8,
+          "template": "She was crying {0} her team lost the match",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "but",
+                "although",
+                "because",
+                "so"
+              ],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2856"
+        },
+        {
+          "index": 9,
+          "template": "They wanted to win {0} it was impossible",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "but",
+                "because"
+              ],
+              "correct": "but",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2857"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "However, although, because, so, and time connectors",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "We need to buy a new car. _____, we can't afford it right now.",
+          "options": [
+            "Although",
+            "So",
+            "However"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "______ he is very rich and famous, he lives a very normal life.",
+          "options": [
+            "Although",
+            "However",
+            "Because"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "They had to cancel the concert _____ the bad weather.",
+          "options": [
+            "so",
+            "because of",
+            "however"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We'll go out ______ it stops raining.",
+          "options": [
+            "although",
+            "while",
+            "as soon as"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He didn't have his car, _____ he had to take a taxi.",
+          "options": [
+            "because",
+            "so",
+            "however"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_____ he was almost deaf, he was a fantastic musician.",
+          "options": [
+            "Although",
+            "However",
+            "Because"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "He was expelled from school _____ his bad behaviour.",
+          "options": [
+            "although",
+            "however",
+            "because of"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ she has a bit more experience, she'll become a fantastic teacher.",
+          "options": [
+            "Once",
+            "Before",
+            "While"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The first thing I do when I get up is have breakfast. ______, I have a shower and go to work.",
+          "options": [
+            "After",
+            "Before",
+            "After that"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I usually read the newspaper ______ I'm having breakfast.",
+          "options": [
+            "while",
+            "after",
+            "as soon as"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "However, although, because, so, and time connectors",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "1 {0} I arrived home, I put on my pyjamas and I lay down on the sofa. I was exhausted and I wasn’t very hungry, 2 {1} I decided not to have anything for dinner. I just got a glass of milk from the fridge. 3 {2}, I lay on the sofa and I turned on the TV 4 {3} I wanted to watch a film. 5 {4}, there was nothing interesting on TV. I decided to go to bed, 6 {5} I wasn’t very sleepy.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "When",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "so",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Then",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "because",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "However",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "but",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2868"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "However, although, because, so, and time connectors",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We couldn't find a taxi, {0} we walked home",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "although",
+                "but",
+                "because"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2848"
+        },
+        {
+          "index": 1,
+          "template": "{0} it was very cold, she wasn't wearing a coat.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Although",
+                "Because",
+                "So",
+                "But"
+              ],
+              "correct": "Although",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2849"
+        },
+        {
+          "index": 2,
+          "template": "I woke up {0} there was a noise.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "because",
+                "but",
+                "so",
+                "although"
+              ],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2850"
+        },
+        {
+          "index": 3,
+          "template": "I called him {0} his mobile was turned off.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "but",
+                "because"
+              ],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2851"
+        },
+        {
+          "index": 4,
+          "template": "{0} she's very nice, she doesn't have many friends.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "So",
+                "Because",
+                "But",
+                "Although"
+              ],
+              "correct": "Although",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2852"
+        },
+        {
+          "index": 5,
+          "template": "There was nothing on TV, {0} I went to bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "because",
+                "although",
+                "but",
+                "so"
+              ],
+              "correct": "so",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2853"
+        },
+        {
+          "index": 6,
+          "template": "All the cafés were full {0} it was a public holiday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "although",
+                "but",
+                "because"
+              ],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2854"
+        },
+        {
+          "index": 7,
+          "template": "She studied quite hard {0} she failed the exam.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "because",
+                "so",
+                "but"
+              ],
+              "correct": "but",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2855"
+        },
+        {
+          "index": 8,
+          "template": "She was crying {0} her team lost the match",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "but",
+                "although",
+                "because",
+                "so"
+              ],
+              "correct": "because",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2856"
+        },
+        {
+          "index": 9,
+          "template": "They wanted to win {0} it was impossible",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "so",
+                "but",
+                "because"
+              ],
+              "correct": "but",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2857"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

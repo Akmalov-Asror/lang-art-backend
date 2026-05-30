@@ -1,0 +1,562 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "past-simple-form-use",
+  "order_index": 3,
+  "title": "Past simple: Form and use",
+  "source_url": "https://test-english.com/grammar-points/a2/past-simple-form-use/",
+  "scraped_at": "2026-05-23T07:15:16.503Z",
+  "explanation": {
+    "markdown": "## Past simple: Form\n\n![Educational chart outlining the Past Simple form in positive, negative, and question structures, with short answer examples and common mistakes.](/uploads/grammar/a2/past-simple-form-use/img-1.jpg)\n\n#### Spelling of regular verbs\n\n![Grammar chart explaining the spelling rules for forming the past simple of regular verbs with '-ed', including examples and variations based on verb endings.](/uploads/grammar/a2/past-simple-form-use/img-2.png)\n\n## Past simple: Use\n\n#### Completed actions in the past\n\nWe use the [past simple](https://test-english.com/grammar-points/a1/past-simple-regular-irregular/) to talk about actions or events that happened in the past. We know, or we say, when the events happened.\n\n-   *I **saw** Jim yesterday.* \n-   *We **didn’t go out** last Saturday. We **stayed** at home.*\n-   *She **moved** to Chester three years ago.*\n\n#### Past habits\n\nWe use the past simple to talk about past habits (things that we did more or less often).\n\n-   *She **washed** her hair every day.*\n-   *She **worked** as a nurse.*\n-   *I often **played** in the park when we were children.* \n\n#### Situations that were true in the past\n\nWe also use the past simple to talk about things that were true in the past.\n\n-   *My grandfather **had** two brothers.*\n-   *He **lived** with my grandparents as a child.* \n\n#### Events in chronological order\n\nWe use the past simple to describe the main events of a story in chronological order.\n\n-   *When I **arrived** home, I **took off** my shoes and then I **relaxed** on the sofa*.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/past-simple_form_A2-new.jpg",
+        "local_filename": "img-1.jpg",
+        "public_path": "/uploads/grammar/a2/past-simple-form-use/img-1.jpg",
+        "alt": "Educational chart outlining the Past Simple form in positive, negative, and question structures, with short answer examples and common mistakes."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/past-regular-ed-spelling.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/past-simple-form-use/img-2.png",
+        "alt": "Grammar chart explaining the spelling rules for forming the past simple of regular verbs with '-ed', including examples and variations based on verb endings."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Form and use",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We {0} to Vancouver on holiday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "went",
+                "goed",
+                "did go"
+              ],
+              "correct": "went",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2803"
+        },
+        {
+          "index": 1,
+          "template": "{0} by plane?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Went you",
+                "Did you went",
+                "Did you go"
+              ],
+              "correct": "Did you go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2804"
+        },
+        {
+          "index": 2,
+          "template": "Jack {0} with us.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't came",
+                "didn't come",
+                "wasn't come"
+              ],
+              "correct": "didn't come",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2805"
+        },
+        {
+          "index": 3,
+          "template": "The car suddenly {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "stopped",
+                "stoped",
+                "did stop"
+              ],
+              "correct": "stopped",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2806"
+        },
+        {
+          "index": 4,
+          "template": "When she arrived he {0} at home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't was",
+                "wasn't",
+                "weren't"
+              ],
+              "correct": "wasn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2807"
+        },
+        {
+          "index": 5,
+          "template": "The police {0} the robber.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "catched",
+                "was catch",
+                "caught"
+              ],
+              "correct": "caught",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2808"
+        },
+        {
+          "index": 6,
+          "template": "I {0} a black shirt for the gala.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "choosed",
+                "did choose",
+                "chose"
+              ],
+              "correct": "chose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2809"
+        },
+        {
+          "index": 7,
+          "template": "The meeting {0} well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't went",
+                "went not",
+                "didn't go"
+              ],
+              "correct": "didn't go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2810"
+        },
+        {
+          "index": 8,
+          "template": "Manchester United {0} the final.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "losed",
+                "lost",
+                "did lose"
+              ],
+              "correct": "lost",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2811"
+        },
+        {
+          "index": 9,
+          "template": "How much {0} for the car?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you pay",
+                "payed you",
+                "did you payed"
+              ],
+              "correct": "did you pay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2812"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Past simple: Form and use",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He always _____ on the same chair.",
+          "options": [
+            "sat",
+            "sit",
+            "sitted"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Where _____ the keys?",
+          "options": [
+            "you found",
+            "did you found",
+            "did you find"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "He _____ the cable with a cutting knife.",
+          "options": [
+            "did cut",
+            "cut",
+            "cutted"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I _____ where to go.",
+          "options": [
+            "knew not",
+            "didn't knew",
+            "didn't know"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "They _____ very friendly to us.",
+          "options": [
+            "weren't",
+            "didn't be",
+            "wasn't"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "She _____ her son upstairs to bed.",
+          "options": [
+            "carryed",
+            "carried",
+            "was carry"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "We _____ to New York last summer.",
+          "options": [
+            "were fly",
+            "flow",
+            "flew"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ that noise?",
+          "options": [
+            "Did you hear",
+            "You heard",
+            "Did you heard"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I _____ that glass. It _____ Daisy.",
+          "options": [
+            "didn't break / was",
+            "didn't break / were",
+            "wasn't break / was"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "He _____ me some chocolates, but I ______ them.",
+          "options": [
+            "bringed / didn't accept",
+            "brought / didn't accept",
+            "brought / wasn't accept"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Form and use",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Two summers ago we 1 {0} (have) a holiday in Scotland. We 2 {1} (drive) there from London, but our car 3 {2} (break) down on the motorway and we 4 {3} (spend) the first night in Birmingham.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "drove",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "broke",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "spent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2823"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Form and use",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We {0} to Vancouver on holiday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "went",
+                "goed",
+                "did go"
+              ],
+              "correct": "went",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2803"
+        },
+        {
+          "index": 1,
+          "template": "{0} by plane?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Went you",
+                "Did you went",
+                "Did you go"
+              ],
+              "correct": "Did you go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2804"
+        },
+        {
+          "index": 2,
+          "template": "Jack {0} with us.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't came",
+                "didn't come",
+                "wasn't come"
+              ],
+              "correct": "didn't come",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2805"
+        },
+        {
+          "index": 3,
+          "template": "The car suddenly {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "stopped",
+                "stoped",
+                "did stop"
+              ],
+              "correct": "stopped",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2806"
+        },
+        {
+          "index": 4,
+          "template": "When she arrived he {0} at home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't was",
+                "wasn't",
+                "weren't"
+              ],
+              "correct": "wasn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2807"
+        },
+        {
+          "index": 5,
+          "template": "The police {0} the robber.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "catched",
+                "was catch",
+                "caught"
+              ],
+              "correct": "caught",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2808"
+        },
+        {
+          "index": 6,
+          "template": "I {0} a black shirt for the gala.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "choosed",
+                "did choose",
+                "chose"
+              ],
+              "correct": "chose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2809"
+        },
+        {
+          "index": 7,
+          "template": "The meeting {0} well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't went",
+                "went not",
+                "didn't go"
+              ],
+              "correct": "didn't go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2810"
+        },
+        {
+          "index": 8,
+          "template": "Manchester United {0} the final.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "losed",
+                "lost",
+                "did lose"
+              ],
+              "correct": "lost",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2811"
+        },
+        {
+          "index": 9,
+          "template": "How much {0} for the car?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you pay",
+                "payed you",
+                "did you payed"
+              ],
+              "correct": "did you pay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2812"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

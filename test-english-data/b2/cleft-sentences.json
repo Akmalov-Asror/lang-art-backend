@@ -1,0 +1,631 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "cleft-sentences",
+  "order_index": 24,
+  "title": "Cleft sentences: Adding emphasis",
+  "source_url": "https://test-english.com/grammar-points/b2/cleft-sentences/",
+  "scraped_at": "2026-05-23T07:27:58.700Z",
+  "explanation": {
+    "markdown": "## What are cleft sentences?\n\n**Cleft sentences** are complex sentences that are used to emphasise one particular part of a sentence. They are particularly useful in writing where we cannot use intonation for emphasis, but they are also frequently used in speech.\n\n## Types of cleft sentences\n\n![Grammar chart explaining the use of cleft sentences in English, specifically how to add emphasis by using structures like \"it is,\" \"the thing that,\" and \"what happens is.\"](/uploads/grammar/b2/cleft-sentences/img-1.webp)\n\n#### The reason why, the thing that, the person/people who, the place where, the day when…\n\nWe can focus on an element of the sentence by using these structures with a relative clause. We use the relative pronouns like we use them in any [relative clause](https://test-english.com/grammar-points/b2/relative-clauses/).\n\n#### **It** + **be** + phrase + relative clause\n\nInstead of **the person who, the thing that, etc.**, we can also use an introductory **it,** the verb **be** in any verb tense that we may need, and the element that we want to focus on.  \n  \nWe can use **who/which** or **that** after a noun phrase, e.g. *Sheila, the book*, etc.  But we should use **that** after adverbial phrases, e.g. *under the mattress, on Monday, etc.*   \n  \n❗ **Note** that we can also use **when** after noun phrases but not after adverbial phrases. Compare:\n\n-   *It’s **Monday** when I have to call.* \n-   *It’s **on Monday** that I have to call.*\n\n#### The thing/s that = What/All\n\nWe can also use **what** or **all** (more emphasis) instead of **the thing/s that** to focus on an element of the sentence.\n\n#### **What** + subject + **do/does/did/ + is/was + (to)** infinitive\n\nWe use this structure when we want to focus on the verb or verb phrase. In these structures, we can use an infinitive with or without **to**.\n\n#### What happens is (that) … / What happened was (that)\n\nWe use this structure when we want to focus on a whole sentence, and not only on an element in the sentence.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Cleft-sentences_B2-grammar-chart.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/b2/cleft-sentences/img-1.webp",
+        "alt": "Grammar chart explaining the use of cleft sentences in English, specifically how to add emphasis by using structures like \"it is,\" \"the thing that,\" and \"what happens is.\""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Cleft sentences: Adding emphasis",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} about the place is the weather.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "That I don't like",
+                "The reason I don't like",
+                "What I don't like"
+              ],
+              "correct": "What I don't like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1303"
+        },
+        {
+          "index": 1,
+          "template": "{0} who lent him the money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It was Mary",
+                "Mary",
+                "Mary it was"
+              ],
+              "correct": "It was Mary",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1304"
+        },
+        {
+          "index": 2,
+          "template": "What we did was {0} a letter to apologise.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "write",
+                "wrote",
+                "writing"
+              ],
+              "correct": "write",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1305"
+        },
+        {
+          "index": 3,
+          "template": "The reason why he left {0} the embarrassment.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was to avoid",
+                "was avoid",
+                "is avoiding"
+              ],
+              "correct": "was to avoid",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1306"
+        },
+        {
+          "index": 4,
+          "template": "{0} that I realised she was leaving me.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It was when I read the email",
+                "When I read the email",
+                "Not until I read the email"
+              ],
+              "correct": "It was when I read the email",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1307"
+        },
+        {
+          "index": 5,
+          "template": "{0} lent you the money, remember?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It's me who",
+                "It's I",
+                "It's me"
+              ],
+              "correct": "It's me who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1308"
+        },
+        {
+          "index": 6,
+          "template": "{0} fame and money, among other things.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "What I want it's",
+                "What I want is",
+                "What I want are"
+              ],
+              "correct": "What I want is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1309"
+        },
+        {
+          "index": 7,
+          "template": "{0} I told everything.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "John it was the person",
+                "It was John who",
+                "The person was John"
+              ],
+              "correct": "It was John who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1310"
+        },
+        {
+          "index": 8,
+          "template": "The place {0} the long beach outside the city.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "where I love is",
+                "I love it's",
+                "that I love is"
+              ],
+              "correct": "that I love is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1311"
+        },
+        {
+          "index": 9,
+          "template": "It's where they are hiding {0} we want to find out.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "where",
+                "what"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1312"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Cleft sentences: Adding emphasis",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "______ I would do is wait for instructions.",
+          "options": [
+            "That I said",
+            "What I said",
+            "It is what",
+            "What said"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "______ enjoyed most of the trip was the food.",
+          "options": [
+            "What I",
+            "All I",
+            "What",
+            "It's what I"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "______ everything started to fall apart.",
+          "options": [
+            "It was 2010 when",
+            "2010 it was",
+            "2010 was where",
+            "Was 2010 when"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "David is ______ came up with the original idea. Choose TWO correct options",
+          "options": [
+            "the person who",
+            "that",
+            "the person that",
+            "the person"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "______ was to protect their family.",
+          "options": [
+            "The reason why they did it",
+            "How they did it",
+            "Because they did it",
+            "It was why they did it"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Which sentence is INCORRECT?",
+          "options": [
+            "It was to pay the mortgage that he sold his new car.",
+            "The reason why he sold his new car was to pay the mortgage.",
+            "It’s sell his car that he did to pay the mortgage.",
+            "What he did was sell his car to pay the mortgage."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Which sentence is INCORRECT?",
+          "options": [
+            "What he sold to pay the mortgage was his car.",
+            "His car was to pay the mortgage he sold.",
+            "His car was what he sold to pay the mortgage.",
+            "It was his car that he sold to pay the mortgage."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Which sentence is INCORRECT?",
+          "options": [
+            "What we did was wait for help.",
+            "The only thing we did was wait for help.",
+            "It's that we did wait for help.",
+            "All we did was wait for help."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Which sentence is INCORRECT?",
+          "options": [
+            "It was Bill who helped us.",
+            "Bill was the person who helped us.",
+            "The person who helped us was Bill.",
+            "Bill was helped us."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Which sentence is INCORRECT?",
+          "options": [
+            "It's music from the 70's that we play.",
+            "What we play is music from the 70's.",
+            "Music from the 70's is we play.",
+            "All we play is music from the 70's."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Cleft sentences: Adding emphasis",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A: Didn't you arrive late yesterday? B: No, {0} was John who arrived so late.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1323"
+        },
+        {
+          "index": 1,
+          "template": "A: You don't understand me. B: No, {0} I don't understand is why you do this to yourself.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "what",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1324"
+        },
+        {
+          "index": 2,
+          "template": "A: Didn't you fly to Denver yesterday? B: No, it {0} on Monday {1} I flew to Denver.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1325"
+        },
+        {
+          "index": 3,
+          "template": "A: You hurt him! B: {0} I did was tell him the truth. I think he deserved it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "All",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1329"
+        },
+        {
+          "index": 4,
+          "template": "A: Didn't we meet at this bar? B: No, the {0} where we met for the first time was that karaoke bar in Brooklyn. Don't you remember?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "place",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1326"
+        },
+        {
+          "index": 5,
+          "template": "A: I saw you at the station yesterday. B: No, the person {0} you saw yesterday at the station was my twin brother.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1327"
+        },
+        {
+          "index": 6,
+          "template": "A: You did it for the money. B: No, the {0} why I did it was to save the company.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "reason",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1328"
+        },
+        {
+          "index": 7,
+          "template": "A: What happened then? B: The only {0} I remember is something hitting the back of my head.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "thing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1330"
+        },
+        {
+          "index": 8,
+          "template": "A: Did you call the police? B: No, what I {0} was hide in the bedroom.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "did",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1331"
+        },
+        {
+          "index": 9,
+          "template": "A: You did this to me! B: No, I didn't. It was Sean {0} did this to you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1332"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Cleft sentences: Adding emphasis",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I need one hour to fix the computer. All {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "of it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1333"
+        },
+        {
+          "index": 1,
+          "template": "Tim spread the rumour. {0} the rumour was Tim.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It was",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1334"
+        },
+        {
+          "index": 2,
+          "template": "We are not questioning your hard work. It isn't {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the case",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1335"
+        },
+        {
+          "index": 3,
+          "template": "I used to live in that house over there. The place {0} is that house over there.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1336"
+        },
+        {
+          "index": 4,
+          "template": "We checked all the windows. {0} check all the windows.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We did",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1337"
+        },
+        {
+          "index": 5,
+          "template": "We sold everything except the couch. The only {0} was the couch.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "thing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1338"
+        },
+        {
+          "index": 6,
+          "template": "We arrived in Madrid in the evening. It was {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in the evening",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1339"
+        },
+        {
+          "index": 7,
+          "template": "You need to sign here. All {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "of it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1340"
+        },
+        {
+          "index": 8,
+          "template": "I would never ask Peter out. The last {0} is Peter.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "person",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1341"
+        },
+        {
+          "index": 9,
+          "template": "My cousin told us what had happened. It was {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "thing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1342"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,596 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "have-got",
+  "order_index": 21,
+  "title": "Have got",
+  "source_url": "https://test-english.com/grammar-points/a1/have-got/",
+  "scraped_at": "2026-05-23T07:03:12.000Z",
+  "explanation": {
+    "markdown": "## Have got: Form\n\n![Colorful grammar chart displaying the form of 'Have got' in positive, negative, question, and short answer structures for different pronouns.](/uploads/grammar/a1/have-got/img-1.png)\n\n#### Have got (British English) = have (American English)\n\nThe verb **have got** is a common form used in the UK, mainly when people are speaking. In the US, people use the verb **have**.\n\n-   *I**‘ve got** a car. = I have a car.*\n-   *I **haven’t got** a car. = I don’t have a car.*\n-   ***Have** you **got** a car? = Do you have a car?*\n\n#### Be careful with this common mistake!\n\nThe verb **have got** only has a present form (NOT past).\n\n-   *I **had got** a car. ![](/uploads/grammar/a1/have-got/img-2.png)* \n-   *I **had** a car. ![](/uploads/grammar/a1/have-got/img-3.png)* \n-   *I **hadn’t** **got** a car. ![](/uploads/grammar/a1/have-got/img-4.png)* \n-   *I **didn’t have** a car. ![](/uploads/grammar/a1/have-got/img-5.png)* \n-   ***Had** you **got** car? ![](/uploads/grammar/a1/have-got/img-6.png)* \n-   ***Did** you **have** car?* \n\n## Have got: Use\n\n#### Possession, family\n\n-   *She**‘s got** a nice apartment.*\n-   ***Have** you **got** a computer?*\n-   *I **haven’t got** any brothers or sisters.*\n\n#### Illnesses\n\n-   *I**‘ve got** a headache.*\n-   *She**‘s got** a cold.*\n\n#### Physical descriptions\n\n-   *He**‘s got** brown hair and a long nose.*\n-   *They**‘ve got** blue eyes.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/have-got_form.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/have-got/img-1.png",
+        "alt": "Colorful grammar chart displaying the form of 'Have got' in positive, negative, question, and short answer structures for different pronouns."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/have-got/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/have-got/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/have-got/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/have-got/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/have-got/img-6.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_____ a pen?",
+          "options": [
+            "Do you have got",
+            "Have you got",
+            "You have got"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "They _____ any children.",
+          "options": [
+            "don't have got",
+            "don't got",
+            "haven't got"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: 'Have you got a car?' B: 'Yes, I _____.'",
+          "options": [
+            "have",
+            "do",
+            "'ve got"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "When we were kids, we _____ many toys.",
+          "options": [
+            "hadn't got",
+            "didn't have",
+            "hadn't"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He ____ a very nice family.",
+          "options": [
+            "'s got",
+            "have got",
+            "'ve got"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "There is a door here. _____ the key?",
+          "options": [
+            "Have you got",
+            "Do you got",
+            "Do you have got"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "They _____ two cats and two dogs.",
+          "options": [
+            "has got",
+            "'ve",
+            "'ve got"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ a question?",
+          "options": [
+            "Have you",
+            "Do you have got",
+            "Do you have"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I _____ the answer to your question.",
+          "options": [
+            "haven't",
+            "don't have got",
+            "haven't got"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I _____ a lot of money at the moment.",
+          "options": [
+            "don't have got",
+            "don't have",
+            "haven't"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "EXAMPLE: They have a yacht ⇒ They ‘ve got a yacht.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I have a new computer. ⇒ I {0} a new computer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'ve got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5129"
+        },
+        {
+          "index": 1,
+          "template": "Do you have a new profile photo? ⇒ {0} a new profile photo?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Do you have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5130"
+        },
+        {
+          "index": 2,
+          "template": "She has blonde hair and blue eyes. ⇒ She {0} blonde hair and blue eyes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "has",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5131"
+        },
+        {
+          "index": 3,
+          "template": "I don't have a Twitter account. ⇒ I {0} a Twitter account.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5132"
+        },
+        {
+          "index": 4,
+          "template": "She doesn't have any money. ⇒ She {0} any money.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5133"
+        },
+        {
+          "index": 5,
+          "template": "A: Do you have a laptop? B: Yes, I do. ⇒ A: Have you got a laptop? B: Yes, I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5134"
+        },
+        {
+          "index": 6,
+          "template": "They have a lot of Youtube fans. ⇒ They {0} a lot of Youtube fans.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'ve got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5135"
+        },
+        {
+          "index": 7,
+          "template": "He doesn't have any interest in science. ⇒ He {0} any interest in science.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5136"
+        },
+        {
+          "index": 8,
+          "template": "Does she have a sister? ⇒ {0} a sister?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Does she have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5137"
+        },
+        {
+          "index": 9,
+          "template": "I have a terrible headache. ⇒ I {0} a terrible headache.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'ve got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5138"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "EXAMPLE: They haven’t got a house ⇒ They didn’t have a house.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He's got a girlfriend. ⇒ He {0} a girlfriend.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "has",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5139"
+        },
+        {
+          "index": 1,
+          "template": "They haven't got any problems. ⇒ They {0} any problems.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5140"
+        },
+        {
+          "index": 2,
+          "template": "Have you got a pen? ⇒ {0} a pen?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Have you got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5141"
+        },
+        {
+          "index": 3,
+          "template": "She hasn't got a sister. ⇒ She {0} a sister.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "hasn't got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5142"
+        },
+        {
+          "index": 4,
+          "template": "He's got an exam. ⇒ He {0} an exam.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "hasn't got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5143"
+        },
+        {
+          "index": 5,
+          "template": "Has she got a cold? ⇒ {0} a cold?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Has she got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5144"
+        },
+        {
+          "index": 6,
+          "template": "Have you got a headache? ⇒ {0} a headache?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Have you got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5145"
+        },
+        {
+          "index": 7,
+          "template": "I haven't got time. ⇒ I {0} time.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5146"
+        },
+        {
+          "index": 8,
+          "template": "She's got a nice smile. ⇒ She {0} a nice smile.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "has",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5147"
+        },
+        {
+          "index": 9,
+          "template": "He hasn't got much experience. ⇒ He {0} much experience.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "has",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5148"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_____ a pen?",
+          "options": [
+            "Do you have got",
+            "Have you got",
+            "You have got"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "They _____ any children.",
+          "options": [
+            "don't have got",
+            "don't got",
+            "haven't got"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: 'Have you got a car?' B: 'Yes, I _____.'",
+          "options": [
+            "have",
+            "do",
+            "'ve got"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "When we were kids, we _____ many toys.",
+          "options": [
+            "hadn't got",
+            "didn't have",
+            "hadn't"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He ____ a very nice family.",
+          "options": [
+            "'s got",
+            "have got",
+            "'ve got"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "There is a door here. _____ the key?",
+          "options": [
+            "Have you got",
+            "Do you got",
+            "Do you have got"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "They _____ two cats and two dogs.",
+          "options": [
+            "has got",
+            "'ve",
+            "'ve got"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ a question?",
+          "options": [
+            "Have you",
+            "Do you have got",
+            "Do you have"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I _____ the answer to your question.",
+          "options": [
+            "haven't",
+            "don't have got",
+            "haven't got"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I _____ a lot of money at the moment.",
+          "options": [
+            "don't have got",
+            "don't have",
+            "haven't"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

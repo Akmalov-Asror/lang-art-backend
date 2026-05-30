@@ -1,0 +1,627 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "much-many-little-few-some-any",
+  "order_index": 15,
+  "title": "Much, many, little, few, some, any: Quantifiers",
+  "source_url": "https://test-english.com/grammar-points/a2/much-many-little-few-some-any/",
+  "scraped_at": "2026-05-23T07:16:41.484Z",
+  "explanation": {
+    "markdown": "## Much, many, little, few, some, any: Grammar chart\n\n![Informative grammar chart explaining the use of quantifiers 'much, many, little, few, some, any' with distinctions between countable and uncountable nouns, and usage examples for A2 English level.](/uploads/grammar/a2/much-many-little-few-some-any/img-1.png)\n\n## Many/much\n\n#### **Many** for countable, **much** for uncountable in (?) (-)\n\nWe use **many** before **plural** (countable) nouns and **much** before **uncountable** nouns. We use them in **negative** sentences and **questions**. We don’t normally use them in affirmative sentences.\n\n-   *There isn’t **much coffee** in the jar.*\n-   *Were there **many people** in the party?*\n\n#### Too much/too many\n\n🔍 **Note** that we don’t normally use **much**/**many** in affirmative sentences, but we can use **too much** and **too many** in affirmative sentences.\n\n-   *There’s **too much salt** in the soup.*\n-   *You eat **too many biscuits**.*\n\n#### How much/how many\n\nWe use **how many** and **how much** to ask about quantity.\n\n-   ***How many concerts** have you ever been to?*\n-   ***How much coffee** have you had today?*\n\n## A lot of/lots of\n\n#### Before both countable and uncountable\n\nWe use **a lot of** or **lots of** (more informal) before both **plural** (countable) and **uncountable** nouns. We normally use them in positive sentences.\n\n-   *She spends **a lot of time** watching TV.*\n-   *We had **lots of good** moments together.*\n\n#### **Of** before noun but NOT at the end of sentence\n\nWe must always use **a lot of** or **lots of** including **of** before a noun. However, we can use the expressions **a lot** or **lots** (without **of**) at the end of a sentence.\n\n-   *‘How many beers did you have?’ ‘I don’t know; I had **lots/a lot**.’*\n-   *I like her **a lot**.*\n\n## (A) few/(a) little/a bit of\n\n#### **Few** for countable; **little** for uncountable\n\nWe use **(a) few** before **plural** (countable) nouns and **(a) little** or **a bit of** (more informal) before **uncountable** nouns.\n\n-   *I have to do **a few things** this afternoon.*\n-   *He always gets good results with very **little effort**.*\n-   *Can you put **a bit of sugar** in the tea?*\n\n#### **Few** or **a few**? **little** or **a little**?\n\n**A few** means ‘some but not many; enough’, and **a little** means ‘some but not much; enough’.  \n  \n[**Few/little**](https://test-english.com/grammar-points/shorts/little-vs-a-little-few-vs-a-few-grammar-shorts/) mean ‘almost none; not enough’.  \n  \nNormally, the difference between **a few/little** (WITH **a**) and **few/little** (WITHOUT **a**) is that **a few/little** is positive in meaning, and **few/little** is negative. Compare:\n\n-   *There’s **little milk** in the fridge; we have to buy more.* (Not enough; we need more)\n-   *‘Shall I buy some beers?’ ‘No, it’s OK, there are **a few** in the fridge.’* (=Enough; we don’t need more)\n-   *‘Do you speak English?’ ‘**No**, I speak very **little English**.’* (=Negative)\n-   *‘Do you speak English?’ ‘**Yes**, I speak **a little English**.*’ (=Positive)\n\n## Some/any\n\n#### **Some** in (+); **any** in (?) (-)\n\nWe use **some** in **affirmative** sentences and **any** in **negative** sentences and **questions**.\n\n-   *Is there **any sugar** in the cupboard?*\n-   *Have you got **any new friends**?*\n-   *I have **some questions** to ask you.*\n\n#### With both countable (plural) and uncountable\n\nBoth [**some** and **any**](https://test-english.com/grammar-points/a1/a-some-any-countable-uncountable/) can be used before **countable and uncountable** nouns. But if we use them before a countable noun, the noun must be in the **plural** form.\n\n-   ***Is** there **any student** in the classroom? ![](/uploads/grammar/a2/much-many-little-few-some-any/img-2.png)* \n-   ***Are** there **any students** in the classroom?* ![](/uploads/grammar/a2/much-many-little-few-some-any/img-3.png)\n\n#### **Some** for offers and requests\n\nWe use **some** (NOT **any**) in interrogative sentences when we are offering or requesting (=asking for) something.\n\n-   *Would you like **some** help?*\n-   *Can I have **some** tea, please?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/quantifiers_a2.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/much-many-little-few-some-any/img-1.png",
+        "alt": "Informative grammar chart explaining the use of quantifiers 'much, many, little, few, some, any' with distinctions between countable and uncountable nouns, and usage examples for A2 English level."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/much-many-little-few-some-any/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/much-many-little-few-some-any/img-3.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Much, many, little, few, some, any: Quantifiers",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "We haven't got _____ petrol. We need to stop and get some.",
+          "options": [
+            "much",
+            "many",
+            "little"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "We had ________ rain last autumn.",
+          "options": [
+            "a lot of",
+            "much",
+            "many"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "There was ________ food in the fridge. It was nearly empty.",
+          "options": [
+            "little",
+            "a little",
+            "few"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "You travel a lot. Have you been to _____ countries?",
+          "options": [
+            "much",
+            "many",
+            "few"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "It costs _____ money to give your children a good education.",
+          "options": [
+            "much",
+            "many",
+            "a lot of"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "There was ________ space for all the people who came.",
+          "options": [
+            "very little",
+            "very few",
+            "many"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "\"Have you got any coins for the vending machine?\" \"Yes, I have ________.\"",
+          "options": [
+            "a little",
+            "a few",
+            "few"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "There's _____ of sun cream in the bottle.",
+          "options": [
+            "a bit",
+            "a little",
+            "a few"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "We need to go to the greengrocer's. There are _____ potatoes left.",
+          "options": [
+            "few",
+            "a few",
+            "a little"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "There was _____ traffic so we arrived very early.",
+          "options": [
+            "a little",
+            "a few",
+            "little"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Much, many, little, few, some, any: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We spent too {0} money on our last holiday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a lot of",
+                "many",
+                "much"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3184"
+        },
+        {
+          "index": 1,
+          "template": "Don't worry, we have {0} time.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a lot of",
+                "many",
+                "much"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3185"
+        },
+        {
+          "index": 2,
+          "template": "Did {0} people come to your party?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "many",
+                "much",
+                "some"
+              ],
+              "correct": "many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3186"
+        },
+        {
+          "index": 3,
+          "template": "I don't usually drink {0} beer.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "few",
+                "many",
+                "much"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3187"
+        },
+        {
+          "index": 4,
+          "template": "It didn't take {0} effort to repaint the house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "few",
+                "many",
+                "much"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3188"
+        },
+        {
+          "index": 5,
+          "template": "I only speak {0} English.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a lot of",
+                "a few",
+                "a little"
+              ],
+              "correct": "a little",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3189"
+        },
+        {
+          "index": 6,
+          "template": "There were only {0} people at the party.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "many",
+                "a little",
+                "a few"
+              ],
+              "correct": "a few",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3190"
+        },
+        {
+          "index": 7,
+          "template": "I need {0} of sugar for the cake.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a little",
+                "much",
+                "a bit"
+              ],
+              "correct": "a bit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3191"
+        },
+        {
+          "index": 8,
+          "template": "I hope it will rain. There isn't {0} water in the reservoir.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "much",
+                "many",
+                "some"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3192"
+        },
+        {
+          "index": 9,
+          "template": "How {0} soap do you need?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "few",
+                "much",
+                "many"
+              ],
+              "correct": "much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3193"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Much, many, little, few, some, any: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "There were {0} people in the streets.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3204"
+        },
+        {
+          "index": 1,
+          "template": "Are there {0} new students this year?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3208"
+        },
+        {
+          "index": 2,
+          "template": "There isn't {0} cheese left in the fridge.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3205"
+        },
+        {
+          "index": 3,
+          "template": "{0} backpackers travel to the east coast every summer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3206"
+        },
+        {
+          "index": 4,
+          "template": "We went to that hotel because we didn't have {0} options.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3209"
+        },
+        {
+          "index": 5,
+          "template": "{0} milk do you want in your coffee?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "What",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3207"
+        },
+        {
+          "index": 6,
+          "template": "Not {0} people know his secret.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "few",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3210"
+        },
+        {
+          "index": 7,
+          "template": "Was there {0} turbulence during the flight?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Was there any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3211"
+        },
+        {
+          "index": 8,
+          "template": "There are {0} things that I haven't told you yet.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a few",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3212"
+        },
+        {
+          "index": 9,
+          "template": "{0} visitors does this museum have every day?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "How many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3213"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Much, many, little, few, some, any: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "'Were there any people at the conference?' 'Yes, {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "there were some",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3214"
+        },
+        {
+          "index": 1,
+          "template": "There were {0} people on the beach because it was raining.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "few",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3215"
+        },
+        {
+          "index": 2,
+          "template": "We have very {0} money, so we can't afford to buy a new car.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "little",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3217"
+        },
+        {
+          "index": 3,
+          "template": "I've got {0} cranberries. Let's make a cake.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "some",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3216"
+        },
+        {
+          "index": 4,
+          "template": "There is {0} coffee left. Would you like one?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "some",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3218"
+        },
+        {
+          "index": 5,
+          "template": "We've bought {0} new cushions for the sofa.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "some",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3219"
+        },
+        {
+          "index": 6,
+          "template": "I've got {0} money saved; I think I'll buy a new bike.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "some",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3220"
+        },
+        {
+          "index": 7,
+          "template": "There are {0} things that I haven't told you. I always tell you everything.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "a few",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3223"
+        },
+        {
+          "index": 8,
+          "template": "I speak {0} English, so when I'm in England I don't have problems.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "some",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3221"
+        },
+        {
+          "index": 9,
+          "template": "There's very {0} snow in the street. We don't need the snow boots.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "little",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3222"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

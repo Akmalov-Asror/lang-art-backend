@@ -1,0 +1,546 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "there-and-it",
+  "order_index": 4,
+  "title": "‘There’ and ‘it’: Preparatory subjects",
+  "source_url": "https://test-english.com/grammar-points/b2/there-and-it/",
+  "scraped_at": "2026-05-23T07:25:36.996Z",
+  "explanation": {
+    "markdown": "## **There** and **it**: Preparatory subjects\n\n![A comparison chart titled \"There vs It\" by test-english.com explaining the different specific uses of \"There\" and \"It\" in English grammar with examples.](/uploads/grammar/b2/there-and-it/img-1.png)\n\n### **There** + **be** + noun\n\n#### Use and meaning\n\nWe use **there** as some kind of preparatory subject to say that something exists somewhere. We put the real subject after the verb **be**.\n\n-   ***There are** lots of people in the waiting room.*  \n-   ***There used to be** a fancy restaurant on this street.* \n\n#### Different tenses\n\nWe can use **there** + **be** with **be** in any verb tense, in active or passive voice, and with or without modal verbs.\n\n-   ***There will be** a storm on Saturday.* \n-   ***There has been** some tension between the participants.* \n-   ***There must be** something wrong here.*\n-   ***There’s going to be** a conflict between the two parties.* \n\n#### Different structures\n\nWe can also use the structures **there seem(s) to be, there tend(s) to be**, or we can use **there + be** before expressions of probability such as **sure, likely, bound, etc.**\n\n-   ***There seem to be** no consequences for his actions.*\n-   *Unfortunately, **there seems to be** no possible solution to the problem.*\n-   *In nature, **there tends to be** an evolutionary arms race between predator and prey*\n-   ***There is sure to be** a full house and a great vibe at the festival, so buy your tickets today.* \n-   ***There are likely to be** some side effects, but the new drug looks promising.* \n\nWe can also use **there + used to**.\n\n-   ***There used to be*** a library at the end of this street.\n\n❗ **Note** that the negative form is **there didn’t use to be**.\n\n-   ***There didn’t use to be*** any bars in our neighbourhood.\n\n#### There is no use (in), there is no point (in), there is no need\n\nWe often use the expressions **there is no use/point (in) + -ing** and **there is no need + to-infinitive**.\n\n-   ***There is no point in** **hating** those who hate you.* \n-   ***There is no use in** **trying** to make him understand. He doesn’t want to understand.* \n-   *Yes, we made a mistake, but **there is no need to panic**; we’ll find out how to fix this.* \n-   ***There is no need for you to worry**. Everything’s OK.*\n\n### **It** as a preparatory subject\n\n#### Time, weather, temperature, distance\n\n-   ***It’s** 5 o’clock.*\n-   ***It’s** Saturday tomorrow.* \n-   ***It’s** snowing.*\n-   ***It’s** very hot today; it’s 35 degrees.* \n-   ***It’s** only 2 miles from the hotel.* \n\n#### Something already mentioned\n\nWe use **it** to refer to something that we have already mentioned.\n\n-   *‘What is that?’ ‘**It** seems like an old piece of metal.’* (it= that)\n-   *I read a good book last week. **It** was my second book this month.* (it= the book)\n\n#### **It + be** + adjective + **to** + infinitive\n\nWe use **it** + **be/seem** as a preparatory subject before an adjective + **to**\\-infinitive. The infinitive clause is the real subject of the sentence, but we put it at the end because it’s long.\n\n-   ***It seems impossible to get** out of here unharmed.* \n-   ***It’s been quite hard to go** through all the difficulties we have encountered.* \n-   ***It’s nice to hear** from you again.* \n\n🔍 **Note** that we also often use **it + be** + noun + **to**\\-infinitive.\n\n-   ***It would be a pleasure to have*** you at my house.\n\n#### **It + be** + adjective + **that-**clause\n\nWe also use **it** as a preparatory subject when the real subject of the sentence is a **that**\\-clause.\n\n-   ***It’s unlikely that** they will ever agree.* \n-   ***It’s surprising that** the paramedics could save that woman’s life.*\n-   ***It’s just wonderful that** we can all be here today.* \n\n🔍 **Note** that we also often use **it + be** + noun + **that**\\-clause.\n\n-   ***It’s a shame that*** you can’t come.\n\n#### **It takes … to** \\+ infinitive\n\nWe use this structure to talk about the time we need to do something.\n\n-   ***It takes** me 20 minutes **to** **get** to work every day.* \n-   *How long did **it take** you **to write** your essay?*\n\n#### Cleft sentences\n\nWe can use **it** at the beginning of [cleft sentences](https://test-english.com/grammar-points/b2/cleft-sentences) to emphasise one element of the sentence.\n\n-   ***It was** Peter **who** took your car.* \n-   ***It’s** my laptop **that** doesn’t work.* \n-   ***It was** in the evening **that** they arrived.* \n\n### **There** and **it**\n\n#### It’s no use/there’s no use\n\nWith the word **use** we can use either **there** or **it** as preparatory subjects.\n\n-   ***It’s no use** **arguing** with your brother. It’s not really his fault.* \n-   ***There’s no use** (**in**) **arguing** with your brother. It’s not really his fault.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/There-vs-It_B2-grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/there-and-it/img-1.png",
+        "alt": "A comparison chart titled \"There vs It\" by test-english.com explaining the different specific uses of \"There\" and \"It\" in English grammar with examples."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "‘There’ and ‘it’: Preparatory subjects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} 's been an hour since I ordered my pizza.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "769"
+        },
+        {
+          "index": 1,
+          "template": "{0} 's been a lot of improvement in the quality of our products.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "770"
+        },
+        {
+          "index": 2,
+          "template": "{0} 's been hard for him to find a job.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "771"
+        },
+        {
+          "index": 3,
+          "template": "{0} will be a pleasure to have you as a guest here.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "there",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "772"
+        },
+        {
+          "index": 4,
+          "template": "{0} 's very cold today; {1} 's been snowing all night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "there",
+                "it"
+              ],
+              "correct": "it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "773"
+        },
+        {
+          "index": 5,
+          "template": "{0} 's a police officer at the door; {1} seems that we've been making too much noise.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It",
+                "There"
+              ],
+              "correct": "It",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "it",
+                "there"
+              ],
+              "correct": "it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "774"
+        },
+        {
+          "index": 6,
+          "template": "{0} must have been amazing to be the first person to discover this cave.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "775"
+        },
+        {
+          "index": 7,
+          "template": "The fire spread very quickly. {0} must have been something flammable in the house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "it"
+              ],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "776"
+        },
+        {
+          "index": 8,
+          "template": "Why do you get up so early? {0} 's a holiday today.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "777"
+        },
+        {
+          "index": 9,
+          "template": "{0} shouldn't take you too long to finish the report.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "There",
+                "It"
+              ],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "778"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "‘There’ and ‘it’: Preparatory subjects",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_______ 's very cozy in our boat and _______ 's plenty of room for my wife and me.",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_______ 's been a long journey. Is _______ anywhere we can have some rest?",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "_______ 's nothing on TV tonight; _______ 's a pity that we don't have Netflix.",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_______ would have been much better to stay; _______ won't be any restaurants open today because _______ 's a holiday.",
+          "options": [
+            "It / there / it",
+            "It / it / there",
+            "There / there / it",
+            "There / it / there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_______ used to be an amusement park where we lived; _______ was very exciting to go there with the children.",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_______ 's too late; _______ won't be any seats left when we arrive.",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "_______ 's somebody at the door. Open it, _______ must be Carl.",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_______ takes two hours to get there; _______ would be better if we left now.",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "_______ seems to be a problem; _______ looks like someone has erased all the information.",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_______ used to be very cold at night but _______ didn't matter, because we had a fire place.",
+          "options": [
+            "It / it",
+            "It / there",
+            "There / it",
+            "There / there"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "‘There’ and ‘it’: Preparatory subjects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "1 {0} has always been very hard for foreigners to get used to the British weather, because 2 {1} 's always raining and 3 {2} 's not much to do outdoors. Winters can get very long, and 4 {3} 's likely that one won't get to see the sun for long periods of time, whichever the season. 5 {4} can be very hard for people to live here permanently, especially for the outdoorsy type of person, so 6 {5} 's a good reason for migrants to think it twice before they decide to make the move.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "789"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "‘There’ and ‘it’: Preparatory subjects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} be fun to stay with you next weekend.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "790"
+        },
+        {
+          "index": 1,
+          "template": "{0} to be a mistake in the answer. This can't be right.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "793"
+        },
+        {
+          "index": 2,
+          "template": "We decided to go home because {0} getting cold.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "792"
+        },
+        {
+          "index": 3,
+          "template": "{0} impossible to play the match, so we cancelled it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "791"
+        },
+        {
+          "index": 4,
+          "template": "{0} to be a pub in my street, but they closed it down last year.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "795"
+        },
+        {
+          "index": 5,
+          "template": "{0} me who wrote the letter.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "794"
+        },
+        {
+          "index": 6,
+          "template": "{0} have been very difficult to run 20 miles in the desert. You should be proud.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "796"
+        },
+        {
+          "index": 7,
+          "template": "{0} been a lot of speculation over who the next minister will be.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "797"
+        },
+        {
+          "index": 8,
+          "template": "{0} been a long time since I wrote you, but I've been very busy.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "It",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "798"
+        },
+        {
+          "index": 9,
+          "template": "{0} not much we can do now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "There's",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "799"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,595 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "might-might-not",
+  "order_index": 26,
+  "title": "Might, might not: Possibility",
+  "source_url": "https://test-english.com/grammar-points/a2/might-might-not/",
+  "scraped_at": "2026-05-23T07:18:14.617Z",
+  "explanation": {
+    "markdown": "## When do we use **might** and **might not**?\n\n![Grammar chart for A2 pre-intermediate lesson illustrating the meanings of the modal verb 'Might, might not' with examples.](/uploads/grammar/a2/might-might-not/img-1.webp)\n\n#### **Might** **(not)**\\= Maybe it is (not) true\n\nWe use **might/might not** when we think something is (not) or will (not) be true, but we aren’t sure.\n\n-   *‘Suzan isn’t answering the phone.’ ‘She **might be** in the garden.’*\n-   *The sky is clearing up. It **might not rain** this afternoon.* \n-   *They **might win** the competition.* \n\n#### **I might** **(not)**\\= It is possible that I will (not)\n\nWe say that **someone might do something** to mean that ‘it is **possible that someone will do something**‘.\n\n-   *I **might go** for a run this afternoon.* (=It’s possible that I will go for a run.)\n-   *She **might come** to the conference.*\n\nWe say that **someone might not do something** to mean that ‘it is **possible that someone won’t do something**‘.\n\n-   *I **might not come** to the party.* (=It’s possible that I won’t come to the party.)\n-   *He **might not go** to work tomorrow.* \n\n## May, may not\n\n#### May= might\n\nWe can use [**may** and **may not**](https://test-english.com/grammar-points/a2/may-and-might-whats-the-difference/) instead of **might** and **might not**.\n\n-   *She **may be** late for class this morning.* \n-   *They **may not like** your decision.* \n\n#### May I…?\n\nWe don’t often use **might** or **may** in questions. However, we can use **may I** in questions to ask for permission.\n\n-   ***May I sit** here?* (=Can I sit here?)\n-   ***May I come** in?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Might-might-not_Grammar-chart.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/a2/might-might-not/img-1.webp",
+        "alt": "Grammar chart for A2 pre-intermediate lesson illustrating the meanings of the modal verb 'Might, might not' with examples."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Might, might not: Possibility",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It's possible that I will come tomorrow. ⇒ I {0} tomorrow.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3441"
+        },
+        {
+          "index": 1,
+          "template": "Perhaps she doesn't know the truth ⇒ She {0} the truth.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not know",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3442"
+        },
+        {
+          "index": 2,
+          "template": "Maybe we will have to cancel the wedding. ⇒ We {0} the wedding.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might have to cancel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3443"
+        },
+        {
+          "index": 3,
+          "template": "Perhaps they will call you for an interview. ⇒ They {0} you for an interview.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3444"
+        },
+        {
+          "index": 4,
+          "template": "Perhaps they won't say anything. ⇒ They {0} anything.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might say",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3445"
+        },
+        {
+          "index": 5,
+          "template": "Perhaps I will never see Karen again. ⇒ I {0} Karen again.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3446"
+        },
+        {
+          "index": 6,
+          "template": "It's possible that I will go to Italy next month. ⇒ I {0} to Italy next month.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3447"
+        },
+        {
+          "index": 7,
+          "template": "Perhaps she isn't at the office. ⇒ She {0} at the office.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3448"
+        },
+        {
+          "index": 8,
+          "template": "Maybe they won't like this solution. ⇒ They {0} this solution.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3449"
+        },
+        {
+          "index": 9,
+          "template": "It's possible that my sister will lend me the money. ⇒ My sister {0} the money.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might lend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3450"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Might, might not: Possibility",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Take some water with you.",
+          "options": [
+            "We might be late.",
+            "I might not go to the party tonight.",
+            "She might be stuck in traffic.",
+            "You might get dehydrated.",
+            "There is a new restaurant we want to try."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Don't wait for us.",
+          "options": [
+            "We might be late.",
+            "I might not go to the party tonight.",
+            "She might be stuck in traffic.",
+            "You might get dehydrated.",
+            "There is a new restaurant we want to try."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We might eat out today.",
+          "options": [
+            "We might be late.",
+            "I might not go to the party tonight.",
+            "She might be stuck in traffic.",
+            "You might get dehydrated.",
+            "There is a new restaurant we want to try."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Sally isn't at work yet.",
+          "options": [
+            "We might be late.",
+            "I might not go to the party tonight.",
+            "She might be stuck in traffic.",
+            "You might get dehydrated.",
+            "There is a new restaurant we want to try."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I'm really tired and I need to rest.",
+          "options": [
+            "We might be late.",
+            "I might not go to the party tonight.",
+            "She might be stuck in traffic.",
+            "You might get dehydrated.",
+            "There is a new restaurant we want to try."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "If you don't get up early,",
+          "options": [
+            "I may not watch it.",
+            "You might cut yourself.",
+            "They might be brothers.",
+            "He might not have his phone.",
+            "you might miss your plane."
+          ],
+          "correct_answer_index": 4,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "He looks like Jonah.",
+          "options": [
+            "I may not watch it.",
+            "You might cut yourself.",
+            "They might be brothers.",
+            "He might not have his phone.",
+            "you might miss your plane."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Be careful with those scissors.",
+          "options": [
+            "I may not watch it.",
+            "You might cut yourself.",
+            "They might be brothers.",
+            "He might not have his phone.",
+            "you might miss your plane."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "He isn't answering.",
+          "options": [
+            "I may not watch it.",
+            "You might cut yourself.",
+            "They might be brothers.",
+            "He might not have his phone.",
+            "you might miss your plane."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "They say the film is not very good.",
+          "options": [
+            "I may not watch it.",
+            "You might cut yourself.",
+            "They might be brothers.",
+            "He might not have his phone.",
+            "you might miss your plane."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Might, might not: Possibility",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "'Where are you going next summer?' 'We don't have any money, so we {0} anywhere.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3451"
+        },
+        {
+          "index": 1,
+          "template": "'Collin isn't at home.' 'He {0} in his office.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3452"
+        },
+        {
+          "index": 2,
+          "template": "He's trained very hard. I think he {0} the competition.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might win",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3453"
+        },
+        {
+          "index": 3,
+          "template": "'Why hasn't Nick called him?' 'He {0} his number.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3454"
+        },
+        {
+          "index": 4,
+          "template": "If you don't take a map, you {0} lost.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3455"
+        },
+        {
+          "index": 5,
+          "template": "I don't feel like going out. I think I {0} at home.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might stay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3457"
+        },
+        {
+          "index": 6,
+          "template": "She {0} what happened because she hit her head very hard.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not remember",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3456"
+        },
+        {
+          "index": 7,
+          "template": "Look at those clouds. It {0} this afternoon.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might rain",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3458"
+        },
+        {
+          "index": 8,
+          "template": "If it doesn't rain, I {0} tennis tomorrow.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3460"
+        },
+        {
+          "index": 9,
+          "template": "He said he {0} the money he won on a new car.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might spend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3461"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Might, might not: Possibility",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It's possible that I will come tomorrow. ⇒ I {0} tomorrow.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3441"
+        },
+        {
+          "index": 1,
+          "template": "Perhaps she doesn't know the truth ⇒ She {0} the truth.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not know",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3442"
+        },
+        {
+          "index": 2,
+          "template": "Maybe we will have to cancel the wedding. ⇒ We {0} the wedding.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might have to cancel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3443"
+        },
+        {
+          "index": 3,
+          "template": "Perhaps they will call you for an interview. ⇒ They {0} you for an interview.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3444"
+        },
+        {
+          "index": 4,
+          "template": "Perhaps they won't say anything. ⇒ They {0} anything.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not say",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3445"
+        },
+        {
+          "index": 5,
+          "template": "Perhaps I will never see Karen again. ⇒ I {0} Karen again.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3446"
+        },
+        {
+          "index": 6,
+          "template": "It's possible that I will go to Italy next month. ⇒ I {0} to Italy next month.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3447"
+        },
+        {
+          "index": 7,
+          "template": "Perhaps she isn't at the office. ⇒ She {0} at the office.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3448"
+        },
+        {
+          "index": 8,
+          "template": "Maybe they won't like this solution. ⇒ They {0} this solution.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might not like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3449"
+        },
+        {
+          "index": 9,
+          "template": "It's possible that my sister will lend me the money. ⇒ My sister {0} the money.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might lend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3450"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

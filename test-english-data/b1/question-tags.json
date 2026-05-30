@@ -1,0 +1,592 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "question-tags",
+  "order_index": 30,
+  "title": "Question tags: Aren’t you? don’t you?",
+  "source_url": "https://test-english.com/grammar-points/b1/question-tags/",
+  "scraped_at": "2026-05-23T07:23:49.555Z",
+  "explanation": {
+    "markdown": "## Question tags: Aren’t you? don’t you?\n\n![Informative grammar chart demonstrating how to form question tags in English, with examples for positive and negative statements across different verb tenses and modal verbs.](/uploads/grammar/b1/question-tags/img-1.png)\n\n### Meaning\n\nQuestion tags are used at the end of statements to turn the statements into questions. We usually use question tags to confirm something that we believe to be true or to invite the listener to agree or disagree with a statement.  \n  \nWhen we use question tags, the way our voice goes up or down at the end can change the meaning.\n\n**Voice goes up ⤴**  \n  \nThis means we’re not sure about what we’re saying, and we’re really asking for help to know if it’s true or not. For example, “You’re coming to the party, aren’t you?” said with your voice going up is like saying, “Please tell me if you are coming because I don’t know.”  \n  \n**Voice goes down ⤵**  \n  \nThis means we’re pretty sure about what we’re saying, and we just want the other person to agree with us. For example, “It’s hot today, isn’t it?” said with your voice going down is like saying, “I think it’s hot and I believe you think so too, right?”\n\n### Form\n\nUse the same [**auxiliary verb**](https://test-english.com/grammar-points/a2/auxiliary-verbs-do-be-and-have/) as in the main sentence. If there is no auxiliary verb, use **do** for present and **did** for past.  \n  \nUse a **comma** before the question tag and a [**subject pronoun**](https://test-english.com/grammar-points/a1/object-pronouns/) at the end (**I, you, he, she, it, we, you, they**).\n\n-   *You are his brother, **aren’t you**?*\n-   *He will be there, **won’t he**?*\n-   *You work here, **don’t you**?*\n-   *Sam used to live in Scotland, **didn’t he**?*\n\nIf the main sentence is **positive**, use a **negative** auxiliary.  \n  \nIf the main sentence is **negative**, use a **positive** auxiliary.\n\n-   *You like it, **don’t you**?*\n-   *You don’t like it, **do you**?*\n\n#### **Aren’t I?**\n\n❗ **Note** when we have an affirmative sentence with **I am**, the question tag is **aren’t I?**\n\n-   *I’m totally wrong, **aren’t I**?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Question-tags_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/question-tags/img-1.png",
+        "alt": "Informative grammar chart demonstrating how to form question tags in English, with examples for positive and negative statements across different verb tenses and modal verbs."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Question tags: Aren’t you? don’t you?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You are a student, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "don't you",
+                "aren't you",
+                "are you"
+              ],
+              "correct": "aren't you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2177"
+        },
+        {
+          "index": 1,
+          "template": "It isn't too cold today, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is it",
+                "isn't it",
+                "it is"
+              ],
+              "correct": "is it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2178"
+        },
+        {
+          "index": 2,
+          "template": "He was at the concert, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wasn't he",
+                "wasn't it",
+                "didn't he"
+              ],
+              "correct": "wasn't he",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2179"
+        },
+        {
+          "index": 3,
+          "template": "You like chocolate, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do you",
+                "don't it",
+                "don't you"
+              ],
+              "correct": "don't you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2180"
+        },
+        {
+          "index": 4,
+          "template": "She arrived too late, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wasn't she",
+                "didn't she",
+                "did she"
+              ],
+              "correct": "didn't she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2181"
+        },
+        {
+          "index": 5,
+          "template": "Tom couldn't find the place, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't he",
+                "could Tom",
+                "could he"
+              ],
+              "correct": "didn't he",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2182"
+        },
+        {
+          "index": 6,
+          "template": "Henry and Juliet have just arrived, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have they",
+                "haven't they",
+                "they have"
+              ],
+              "correct": "haven't they",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2183"
+        },
+        {
+          "index": 7,
+          "template": "Your little Angie can't walk yet, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't she",
+                "she can't",
+                "can she"
+              ],
+              "correct": "can she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2184"
+        },
+        {
+          "index": 8,
+          "template": "When you arrived, she had already left, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hadn't she",
+                "didn't she",
+                "she didn't"
+              ],
+              "correct": "hadn't she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2185"
+        },
+        {
+          "index": 9,
+          "template": "You would never tell him, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would he",
+                "would you",
+                "wouldn't you"
+              ],
+              "correct": "wouldn't you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2186"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Question tags: Aren’t you? don’t you?",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I'm not interrupting anything, ______?",
+          "options": [
+            "I am",
+            "aren't I",
+            "am I"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I am quite stupid, ______?",
+          "options": [
+            "aren't I",
+            "am I not",
+            "am I"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I should go now, ______?",
+          "options": [
+            "aren't I",
+            "shouldn't I",
+            "don't I"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Elisabeth has passed the test, ______?",
+          "options": [
+            "has she",
+            "hasn't she",
+            "hasn't Elisabeth"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "You won't do anything stupid, ______?",
+          "options": [
+            "will you",
+            "shall you",
+            "won't you"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "They had already been in Paris, ______?",
+          "options": [
+            "didn't they",
+            "had they",
+            "hadn't they"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Jimmy passed the exam, ______?",
+          "options": [
+            "doesn't he",
+            "didn't he",
+            "isn't it"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "You work nights, ______?",
+          "options": [
+            "are you",
+            "do you",
+            "don't you"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "David was trying to hide something from us, ______?",
+          "options": [
+            "wasn't he",
+            "weren't he",
+            "was he"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Peter can't keep a secret, ______?",
+          "options": [
+            "isn't he",
+            "does he",
+            "can he"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Question tags: Aren’t you? don’t you?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Dialogue 1 A: You haven't washed the dishes, 1 {0}? B: No, sorry. I didn't have time. And you are angry now, 2 {1}? A: Well, if you promise you will do something, you should do it, 3 {2}? B: Yes, yes, OK, mum! You want me to wash them now, 4 {3}? A: Of course I want you to wash them now, because you won't pay me to wash them for you, 5 {4}? Dialogue 2 A: You went to Denali National Park last month, 6 {5}? B: Yes, it was great! A: But you had been there before, 7 {6}? B: Yes, but when you really loved a place the first time you went, it's always nice to go back, 8 {7}? A: Of course. I'm sure the views are amazing. B: Yes, they're great. You have never been there, 9 {8}? A: No, it's a shame. I suppose I should go one day, 10 {9}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "have you",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are you",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't you",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "won't you",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "did you",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had you",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't it",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is it",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't it",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2197"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Question tags: Aren’t you? don’t you?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You are a student, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "don't you",
+                "aren't you",
+                "are you"
+              ],
+              "correct": "aren't you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2177"
+        },
+        {
+          "index": 1,
+          "template": "It isn't too cold today, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is it",
+                "isn't it",
+                "it is"
+              ],
+              "correct": "is it",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2178"
+        },
+        {
+          "index": 2,
+          "template": "He was at the concert, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wasn't he",
+                "wasn't it",
+                "didn't he"
+              ],
+              "correct": "wasn't he",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2179"
+        },
+        {
+          "index": 3,
+          "template": "You like chocolate, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do you",
+                "don't it",
+                "don't you"
+              ],
+              "correct": "don't you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2180"
+        },
+        {
+          "index": 4,
+          "template": "She arrived too late, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wasn't she",
+                "didn't she",
+                "did she"
+              ],
+              "correct": "didn't she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2181"
+        },
+        {
+          "index": 5,
+          "template": "Tom couldn't find the place, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't he",
+                "could Tom",
+                "could he"
+              ],
+              "correct": "didn't he",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2182"
+        },
+        {
+          "index": 6,
+          "template": "Henry and Juliet have just arrived, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have they",
+                "haven't they",
+                "they have"
+              ],
+              "correct": "haven't they",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2183"
+        },
+        {
+          "index": 7,
+          "template": "Your little Angie can't walk yet, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't she",
+                "she can't",
+                "can she"
+              ],
+              "correct": "can she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2184"
+        },
+        {
+          "index": 8,
+          "template": "When you arrived, she had already left, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hadn't she",
+                "didn't she",
+                "she didn't"
+              ],
+              "correct": "hadn't she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2185"
+        },
+        {
+          "index": 9,
+          "template": "You would never tell him, {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would he",
+                "would you",
+                "wouldn't you"
+              ],
+              "correct": "wouldn't you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2186"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

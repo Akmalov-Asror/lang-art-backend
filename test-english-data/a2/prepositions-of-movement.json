@@ -1,0 +1,681 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "prepositions-of-movement",
+  "order_index": 27,
+  "title": "Prepositions of movement: Along, across, over, etc.",
+  "source_url": "https://test-english.com/grammar-points/a2/prepositions-of-movement/",
+  "scraped_at": "2026-05-23T07:18:19.440Z",
+  "explanation": {
+    "markdown": "## Prepositions of movement\n\nWe use prepositions after verbs to describe the direction of **movement**. It’s common to use these prepositions after [verbs that describe movement](https://test-english.com/vocabulary/a1/movement-verbs-a1-english-vocabulary/) (**walk, run, come, go, drive, cycle, fly,** etc.), although it is also possible to use them after other types of verbs (*We talked over the fence, I looked into the room*, etc.) or after nouns (*the path to the beach, the road from Leeds, the way up the hill*, etc.)  \n  \n![Grammar chart showing prepositions of movement with examples, such as 'to,' 'from,' 'into,' 'out of,' 'on,' 'off,' 'up,' 'down,' 'along,' 'through,' 'across,' 'towards,' 'over,' 'under,' 'around,' and 'past.'](/uploads/grammar/a2/prepositions-of-movement/img-1.png)\n\n## Get on/off the bus or train, get into/out of the car\n\nWe say **get in** and **get out of** for a car, taxi, or van, but we say **get on** or **get off** for motorbikes and bicycles and for public means of transport, such as a bus, a train or a plane.\n\n-   *I have to **get off the bus** at the next stop.* \n-   *He stopped and **got out of** the car.*\n\n## Go to work by car= drive to work\n\nWhen we want to talk about how we go from place A to place B, we can do it in two different ways:\n\n➟ Using **by** \\+ [means of transport](https://test-english.com/vocabulary/b1/transport-b1-english-vocabulary/) (car, taxi, plane, bike, etc.) or using **on** + **foot**.\n\n-   *I go to school **on foot**.* \n-   *I go to work **by car**.*\n-   *I went to Zurich **by plane**.* \n-   *I went to the airport **by taxi**.* \n\n➟ Using a verb of movement (**walk, drive, fly, cycle, etc**.) or for public transport, using **take** + **means of transport**.\n\n-   *I **walk** to school*\n-   *I **drive** to work.* \n-   *I **flew** to Zurich.* \n-   *I **took a taxi/a bus/a train/etc.** to the airport.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/prepositions-of-movement.new_.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/prepositions-of-movement/img-1.png",
+        "alt": "Grammar chart showing prepositions of movement with examples, such as 'to,' 'from,' 'into,' 'out of,' 'on,' 'off,' 'up,' 'down,' 'along,' 'through,' 'across,' 'towards,' 'over,' 'under,' 'around,' and 'past.'"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Prepositions of movement: Along, across, over, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I flew from San Francisco {0} Zurich with Swiss International Air Lines.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "into",
+                "to",
+                "from"
+              ],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3462"
+        },
+        {
+          "index": 1,
+          "template": "Every morning I get {0} my bicycle and go to school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in",
+                "over",
+                "on"
+              ],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3463"
+        },
+        {
+          "index": 2,
+          "template": "The cat was on the table; then it jumped {0} the table.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "down",
+                "off",
+                "out of"
+              ],
+              "correct": "off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3465"
+        },
+        {
+          "index": 3,
+          "template": "We got {0} the car and ran {1} the building.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "off",
+                "down",
+                "out of"
+              ],
+              "correct": "out of",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "into",
+                "across"
+              ],
+              "correct": "into",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3464"
+        },
+        {
+          "index": 4,
+          "template": "He fell {0} his motorbike when he was riding very fast.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "down",
+                "below",
+                "off"
+              ],
+              "correct": "off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3466"
+        },
+        {
+          "index": 5,
+          "template": "The elevator didn't work and we had to walk {0} the stairs to the 15th floor.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "over",
+                "past",
+                "up"
+              ],
+              "correct": "up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3467"
+        },
+        {
+          "index": 6,
+          "template": "He escaped {0} a door in the back of the building.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "into",
+                "across",
+                "through"
+              ],
+              "correct": "through",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3468"
+        },
+        {
+          "index": 7,
+          "template": "We took a boat {0} the river.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "across",
+                "towards",
+                "through"
+              ],
+              "correct": "across",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3469"
+        },
+        {
+          "index": 8,
+          "template": "The robber broke his leg when he tried to jump {0} a wall.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "through",
+                "towards",
+                "over"
+              ],
+              "correct": "over",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3470"
+        },
+        {
+          "index": 9,
+          "template": "He took the phone and threw it {0} the water.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "under",
+                "into",
+                "on"
+              ],
+              "correct": "into",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3471"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Prepositions of movement: Along, across, over, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "When he walked _____ me, he pretended he didn't know me.",
+          "options": [
+            "along",
+            "through",
+            "past"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "When he came _____ the sauna, he was sweating a lot.",
+          "options": [
+            "out of",
+            "off",
+            "to"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Walk _____ the yellow line to reach the maternity unit.",
+          "options": [
+            "over",
+            "into",
+            "along"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Many people risk their lives to travel _____ the Mexico-United States border.",
+          "options": [
+            "over",
+            "past",
+            "across"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He threw the ball _____ the fence and it landed on the roof of a car.",
+          "options": [
+            "over",
+            "up",
+            "into"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Salmons swim _____ rivers to lay their eggs.",
+          "options": [
+            "across",
+            "up",
+            "over"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I'm coming _____ the hospital. The doctor has prescribed me some pills.",
+          "options": [
+            "to",
+            "off",
+            "from"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "He went _____ the room, walked _____ the big table and turned on the TV.",
+          "options": [
+            "on/across",
+            "out of/over",
+            "into/around"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The cat ran _____ the bed to find refuge.",
+          "options": [
+            "over",
+            "under",
+            "into"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "He saw a wasp flying _____ him and ran away.",
+          "options": [
+            "towards",
+            "into",
+            "off"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Prepositions of movement: Along, across, over, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He jumped from one side of the rock to the other side of the rock. ⇒ He jumped {0} the rock.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "over",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3482"
+        },
+        {
+          "index": 1,
+          "template": "They ran from one side of the street to the other side of the street. ⇒ They ran {0} the street.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "across",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3483"
+        },
+        {
+          "index": 2,
+          "template": "The car was going in the direction of the bridge. ⇒ The car was going {0} the bridge.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "towards",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3484"
+        },
+        {
+          "index": 3,
+          "template": "They ran in the trees, from one end to the other end. ⇒ They ran {0} the trees.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "through",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3488"
+        },
+        {
+          "index": 4,
+          "template": "He took a towel and went inside the bathroom. ⇒ He took a towel and went {0} the bathroom.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "into",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3485"
+        },
+        {
+          "index": 5,
+          "template": "We walked following the line of the main street. ⇒ We walked {0} the main street.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "along",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3486"
+        },
+        {
+          "index": 6,
+          "template": "We rode our bikes from a lower position to a higher position on the mountain. ⇒ We rode our bikes {0} the mountain.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3487"
+        },
+        {
+          "index": 7,
+          "template": "He was on the stage and then he went away from the stage. ⇒ He went {0} the stage.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3489"
+        },
+        {
+          "index": 8,
+          "template": "When she came from the interior of the office to the exterior of the office, she looked upset. ⇒ When she came {0} the office, she looked upset.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "out of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3490"
+        },
+        {
+          "index": 9,
+          "template": "The place where I'm going to start walking is the gym and my destination is work. ⇒ I'm going to walk {0} the gym {1} work.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3491"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Prepositions of movement: Along, across, over, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I flew from San Francisco {0} Zurich with Swiss International Air Lines.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "into",
+                "to",
+                "from"
+              ],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3462"
+        },
+        {
+          "index": 1,
+          "template": "Every morning I get {0} my bicycle and go to school.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in",
+                "over",
+                "on"
+              ],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3463"
+        },
+        {
+          "index": 2,
+          "template": "The cat was on the table; then it jumped {0} the table.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "down",
+                "off",
+                "out of"
+              ],
+              "correct": "off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3465"
+        },
+        {
+          "index": 3,
+          "template": "We got {0} the car and ran {1} the building.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "off",
+                "down",
+                "out of"
+              ],
+              "correct": "out of",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "into",
+                "across"
+              ],
+              "correct": "into",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3464"
+        },
+        {
+          "index": 4,
+          "template": "He fell {0} his motorbike when he was riding very fast.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "down",
+                "below",
+                "off"
+              ],
+              "correct": "off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3466"
+        },
+        {
+          "index": 5,
+          "template": "The elevator didn't work and we had to walk {0} the stairs to the 15th floor.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "over",
+                "past",
+                "up"
+              ],
+              "correct": "up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3467"
+        },
+        {
+          "index": 6,
+          "template": "He escaped {0} a door in the back of the building.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "into",
+                "across",
+                "through"
+              ],
+              "correct": "through",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3468"
+        },
+        {
+          "index": 7,
+          "template": "We took a boat {0} the river.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "across",
+                "towards",
+                "through"
+              ],
+              "correct": "across",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3469"
+        },
+        {
+          "index": 8,
+          "template": "The robber broke his leg when he tried to jump {0} a wall.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "through",
+                "towards",
+                "over"
+              ],
+              "correct": "over",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3470"
+        },
+        {
+          "index": 9,
+          "template": "He took the phone and threw it {0} the water.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "under",
+                "into",
+                "on"
+              ],
+              "correct": "into",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3471"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

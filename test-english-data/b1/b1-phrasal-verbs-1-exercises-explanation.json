@@ -1,0 +1,697 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "b1-phrasal-verbs-1-exercises-explanation",
+  "order_index": 37,
+  "title": "B1 Phrasal verbs 1: Exercises and explanation",
+  "source_url": "https://test-english.com/grammar-points/b1/b1-phrasal-verbs-1-exercises-explanation/",
+  "scraped_at": "2026-05-23T07:24:27.892Z",
+  "explanation": {
+    "markdown": "## B1 Phrasal verbs 1-30\n\nThis is the first of our three B1 grammar lessons, where you will learn the most common intermediate phrasal verbs. All the verbs in these three lessons come from the [vocabulary list](https://www.cambridgeenglish.org/images/506887-b1-preliminary-2020-vocabulary-list.pdf) used for the Cambridge Preliminary English Test (PET). In each of these three lessons, you will find 30 phrasal verbs, making up a total of 90 (out of the 94 that you can see in the Cambridge Preliminary vocabulary list).\n\n### B1 Phrasal verbs 1-10\n\n![B1 Phrasal verbs 1-10 ](/uploads/grammar/b1/b1-phrasal-verbs-1-exercises-explanation/img-1.png)\n\n-   BE OVER: If something **is over**, it has finished.\n-   BREAK DOWN: If a car or a machine **breaks down**, it stops working.\n-   BREAK IN: If someone **breaks in** or **breaks into** a building, they enter a building by force, usually in order to steal something\n-   BREAK UP: When a person **breaks up** with another person, or if two people **break up**, they end their romantic relationship or marriage.\n-   BRING UP: When a person **brings up** a child, they look after and influence this child until they are grown up\n-   CALL FOR: If you **call for** someone, you go to the place where they are so that you can both go somewhere.\n-   CARRY ON: If you **carry on** (doing something), you continue doing something.\n-   CARRY OUT: If you **carry out** a task, instruction, etc., you do it or act according to the plan in order to do it.\n-   CHECK OUT: When you **check out** of a hotel or guest house, you leave the place after paying and returning your room key\n-   COME ON: This expression is used to tell someone to hurry or to encourage someone to do something\n\n### B1 Phrasal verbs 11-20\n\n![B1 phrasal verbs 11-20](/uploads/grammar/b1/b1-phrasal-verbs-1-exercises-explanation/img-2.png)\n\n-   CROSS OUT: If you **cross out** words on a page, you draw a line through them, usually because they are wrong.\n-   CUT UP: If you **cut** something **up**, you cut it into several pieces.\n-   DEAL WITH: When you **deal with** something or someone that needs attention, you give your attention to them, and you often solve a problem or make a decision concerning them.\n-   DEPEND ON: If something **depends on** something else, it is determined, affected or decided by that thing.\n-   DEPEND ON: If a person **depends on** another person, the first person needs the support or help of the other person to exist or be OK.\n-   END UP: If you **end up** in a particular place or situation, it means that after a series of events, you unexpectedly find yourself in that place or situation.\n-   FILL IN: If you **fill in** a document or form, you write the necessary information in its spaces.\n-   FILL UP: If you **fill up** a container or your car tank, it becomes full.\n-   FIND OUT: If you **find** something **out**, you learn or discover something you didn’t know.\n-   GET ALONG: If you **get along** with someone, you have a friendly relationship. You can also say that two people **get along**.\n-   GET BACK: If you **get back** (to a place, situation or activity), you return to that place, situation or activity.\n\n### B1 Phrasal verbs 21-30\n\n![B1 phrasal verbs 21-30](/uploads/grammar/b1/b1-phrasal-verbs-1-exercises-explanation/img-3.png)\n\n-   GET DOWN: If you **get down**, you lower your body until you are sitting, kneeling, or lying on the ground. Also, if you **get** something **down**, you write something.\n-   GET IN: If you **get in**, you enter a place, especially when it’s difficult.\n-   GET OFF: When you **get off** (a bus, a train, etc.), you descend from that vehicle.\n-   GET ON: If you **get on** with something, you start doing it or continue doing it.\n-   GET ON: If you say how someone **is getting on** (with a job or in a situation), you are talking about how well they are doing.\n-   GET RID OF: If you **get rid of** something or someone, you get free from this thing or person so that you don’t have to deal with them anymore.\n-   GIVE BACK: If you **give** something **back** or **give** someone **back** something, you return it to the person who gave it to you.\n-   GIVE IN: If you **give in** a piece of work or something you have written, you give it or hand it to a person of authority, such as your boss, your teacher, etc.\n-   GIVE IN: If you **give in**, you surrender or abandon a fight, argument, etc.\n-   GIVE OUT: If you **give out** something, you give something to each person in a group.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs-1-10.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-1-exercises-explanation/img-1.png",
+        "alt": "B1 Phrasal verbs 1-10 "
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs-11-20_preliminary.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-1-exercises-explanation/img-2.png",
+        "alt": "B1 phrasal verbs 11-20"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs-21-30.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-1-exercises-explanation/img-3.png",
+        "alt": "B1 phrasal verbs 21-30"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 1)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If you make a mistake, keep calm and {0}. Don't panic.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "carry on",
+                "come on",
+                "bring up",
+                "call for"
+              ],
+              "correct": "carry on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6654"
+        },
+        {
+          "index": 1,
+          "template": "I'll {0} you after work. I have booked a table at 7.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "call for",
+                "come on",
+                "check out",
+                "be over"
+              ],
+              "correct": "call for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6682"
+        },
+        {
+          "index": 2,
+          "template": "I'm glad that the quarantine {0} now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "carries on",
+                "breaks down",
+                "checks out",
+                "is over"
+              ],
+              "correct": "is over",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6650"
+        },
+        {
+          "index": 3,
+          "template": "The thieves {0} and stole all the equipment.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "broke in",
+                "checked out",
+                "broke up",
+                "called for"
+              ],
+              "correct": "broke in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6657"
+        },
+        {
+          "index": 4,
+          "template": "Nobody knows why they {0}. They seemed in love and perfect for each other.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "broke up",
+                "broke down",
+                "brought up",
+                "checked out"
+              ],
+              "correct": "broke up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6681"
+        },
+        {
+          "index": 5,
+          "template": "The boat's engine {0} and they spent two agonizing weeks out at sea.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "broke down",
+                "broke up",
+                "carried on",
+                "checked out"
+              ],
+              "correct": "broke down",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6680"
+        },
+        {
+          "index": 6,
+          "template": "Many grandparents {0} their grandchildren because their parents can't take care of them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "break up",
+                "are over",
+                "bring up",
+                "come on"
+              ],
+              "correct": "bring up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6658"
+        },
+        {
+          "index": 7,
+          "template": "{0}, we're going to be late for the movies!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Carry out",
+                "Come on",
+                "Bring out",
+                "Check out"
+              ],
+              "correct": "Come on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6685"
+        },
+        {
+          "index": 8,
+          "template": "They are going to {0} a study in order to reduce air pollution.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "break down",
+                "check out",
+                "bring up",
+                "carry out"
+              ],
+              "correct": "carry out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6683"
+        },
+        {
+          "index": 9,
+          "template": "When he was {0} of the hotel, he realised he didn't have his credit card.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "carrying out",
+                "calling for",
+                "coming on",
+                "checking out"
+              ],
+              "correct": "checking out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6684"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "B1 Phrasal verbs (Part 1)",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "When he _____ from the war, he was never the same.",
+          "options": [
+            "depended on",
+            "ended up",
+            "got back",
+            "found out"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "In difficult times, you can always _____ him. He's always there for you.",
+          "options": [
+            "deal with",
+            "get along with",
+            "end up",
+            "depend on"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Sometimes we have to _____ very difficult customers.",
+          "options": [
+            "depend on",
+            "deal with",
+            "fill in",
+            "get back"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_____ the glass with squeezed orange juice and put it in the fridge.",
+          "options": [
+            "Fill up",
+            "Cut up",
+            "Fill in",
+            "Find out"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Can you _____ this application form and sign it, please?",
+          "options": [
+            "fill in",
+            "fill up",
+            "get along",
+            "depend on"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "She is a very rebellious teenager and doesn't _____ with her mother.",
+          "options": [
+            "get along",
+            "get back",
+            "deal with",
+            "depend on"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "We need to _____ who did this and why.",
+          "options": [
+            "fill up",
+            "cross out",
+            "get back",
+            "find out"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "This result is incorrect. _____ and write it again.",
+          "options": [
+            "Cut it up",
+            "Cross it out",
+            "Fill it in",
+            "Find it out"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I was going to the library but I found a friend and we _____ in a bar having a drink.",
+          "options": [
+            "ended up",
+            "got along",
+            "filled out",
+            "got back"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "She _____ the pizza into eight pieces.",
+          "options": [
+            "crossed out",
+            "got along",
+            "cut up",
+            "ended up"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 1)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "How are you getting {0} with your new job?\" \"I love it!\"",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6664"
+        },
+        {
+          "index": 1,
+          "template": "We cannot give {0} to the terrorists' threats.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6672"
+        },
+        {
+          "index": 2,
+          "template": "I didn't have a pen so I couldn't {0} the car's license plate.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "write",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6665"
+        },
+        {
+          "index": 3,
+          "template": "She got {0} the bus and walked home.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6666"
+        },
+        {
+          "index": 4,
+          "template": "Be quiet and {0} with your work.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "get on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6668"
+        },
+        {
+          "index": 5,
+          "template": "They {0} pamphlets with information on COVID19.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "handed out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6673"
+        },
+        {
+          "index": 6,
+          "template": "The door was broken and we couldn't {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "get out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6667"
+        },
+        {
+          "index": 7,
+          "template": "I need to {0} my old sofa. It's in my garage, but I need the space.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "get rid of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6669"
+        },
+        {
+          "index": 8,
+          "template": "\"Did you {0} your homework?\" \"No. I'll do it tomorrow.\"",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "finish",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6671"
+        },
+        {
+          "index": 9,
+          "template": "Give me that {0}. It's mine!",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "thing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6670"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 1)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If you make a mistake, keep calm and {0}. Don't panic.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "carry on",
+                "come on",
+                "bring up",
+                "call for"
+              ],
+              "correct": "carry on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6654"
+        },
+        {
+          "index": 1,
+          "template": "I'll {0} you after work. I have booked a table at 7.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "call for",
+                "come on",
+                "check out",
+                "be over"
+              ],
+              "correct": "call for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6682"
+        },
+        {
+          "index": 2,
+          "template": "I'm glad that the quarantine {0} now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "carries on",
+                "breaks down",
+                "checks out",
+                "is over"
+              ],
+              "correct": "is over",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6650"
+        },
+        {
+          "index": 3,
+          "template": "The thieves {0} and stole all the equipment.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "broke in",
+                "checked out",
+                "broke up",
+                "called for"
+              ],
+              "correct": "broke in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6657"
+        },
+        {
+          "index": 4,
+          "template": "Nobody knows why they {0}. They seemed in love and perfect for each other.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "broke up",
+                "broke down",
+                "brought up",
+                "checked out"
+              ],
+              "correct": "broke up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6681"
+        },
+        {
+          "index": 5,
+          "template": "The boat's engine {0} and they spent two agonizing weeks out at sea.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "broke down",
+                "broke up",
+                "carried on",
+                "checked out"
+              ],
+              "correct": "broke down",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6680"
+        },
+        {
+          "index": 6,
+          "template": "Many grandparents {0} their grandchildren because their parents can't take care of them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "break up",
+                "are over",
+                "bring up",
+                "come on"
+              ],
+              "correct": "bring up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6658"
+        },
+        {
+          "index": 7,
+          "template": "{0}, we're going to be late for the movies!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Carry out",
+                "Come on",
+                "Bring out",
+                "Check out"
+              ],
+              "correct": "Come on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6685"
+        },
+        {
+          "index": 8,
+          "template": "They are going to {0} a study in order to reduce air pollution.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "break down",
+                "check out",
+                "bring up",
+                "carry out"
+              ],
+              "correct": "carry out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6683"
+        },
+        {
+          "index": 9,
+          "template": "When he was {0} of the hotel, he realised he didn't have his credit card.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "carrying out",
+                "calling for",
+                "coming on",
+                "checking out"
+              ],
+              "correct": "checking out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6684"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

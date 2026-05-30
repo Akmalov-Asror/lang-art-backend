@@ -1,0 +1,697 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "second-conditional",
+  "order_index": 23,
+  "title": "Second conditional",
+  "source_url": "https://test-english.com/grammar-points/a2/second-conditional/",
+  "scraped_at": "2026-05-23T07:17:52.758Z",
+  "explanation": {
+    "markdown": "## Second conditional: Grammar chart\n\n![Second conditional grammar chart showing sentence structure for hypothetical situations with examples like \"If I won the lottery, I would buy a yacht.\"](/uploads/grammar/a2/second-conditional/img-1.png)\n\n### **If** clause and main clause\n\nWe use **if** + [past](https://test-english.com/grammar-points/a2/past-simple-form-use/) to talk about an imaginary present or future situation (although the verb is in the past, the meaning is present or future). And we use **would** + **infinitive** to talk about the result or consequence of that imaginary situation.\n\n-   *If we **had** a mansion in the country, we’**d go** there every weekend.* \n-   ***Would** you **travel** around the world if you **won** the lottery?*\n\n### Comma\n\nWhen the **if clause** comes first, we usually put a **comma** after it. We don’t use a comma when the **main clause** comes first and the ****if** clause** comes second.\n\n-   ***If*** *I won the lottery**,** I’d buy a mansion.*\n-   *I’d buy a mansion **if** I won the lottery.* \n\n### **Would**\n\n**Would/wouldn’t** is the same for all persons.\n\n-   *I/you/he/she/it/we/they **would/wouldn’t do** that if it was possible.* \n\nContracted forms are **wouldn’t**\\= **would not** and **‘d**\\= **would**\n\n-   *I**‘d** never tell anyone if you told me your secret.* \n-   *I **wouldn’t** tell anyone if you told me your secret.* \n\n### **Could**\n\nWe can often use [**could**](https://test-english.com/grammar-points/b1/can-could-be-able-to/) + **infinitive** instead of **would** + **infinitive** in the main clause.\n\n-   *If* *you spoke English, you **could get** a better job.*\n\n### **Was** or **were**?\n\nIn the second conditional, we can use **if I/****he/she/it were** (more formal) instead of **if I/****he/she/it was** (spoken English).\n\n-   ***If*** ***I** **were/was*** *fit, I would run a marathon.*\n-   *We wouldn’t have any problems **if** **he were/was** more reasonable.*\n\nBut we use **were** (NOT **was**) when we give advice with the expression **if I were you**.\n\n-   ***If I were you****, I would stay home and rest.*\n-   *I wouldn’t pay any attention to what he says **if I were you***.\n\n## First conditional vs Second conditional\n\n![First vs second conditionals - grammar chart](/uploads/grammar/a2/second-conditional/img-2.png)\n\nWe use the [**first conditional**](https://test-english.com/grammar-points/a2/first-conditional-future-time-clauses/) to talk about **possible** future situations and the **second conditional** to talk about **hypothetical** or **imaginary** future situations.\n\n-   *If I **don’t have** a meeting tomorrow morning, I’**ll have** lunch with you.* (It’s possible. Maybe I don’t have a meeting.)\n-   *If I **didn’t have** a meeting tomorrow morning, I’**d have** lunch with you.* (It’s hypothetical. I have a meeting tomorrow, so I won’t be able to have lunch with you.)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/second-conditional-A2-B1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/second-conditional/img-1.png",
+        "alt": "Second conditional grammar chart showing sentence structure for hypothetical situations with examples like \"If I won the lottery, I would buy a yacht.\""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/first-vs-second-conditional-A2-B1.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/second-conditional/img-2.png",
+        "alt": "First vs second conditionals - grammar chart"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If I {0} more money, I'd travel more.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have",
+                "had",
+                "would have"
+              ],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3366"
+        },
+        {
+          "index": 1,
+          "template": "What would you do if you {0} a lot of money in the street?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "find",
+                "found",
+                "'d find"
+              ],
+              "correct": "found",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3367"
+        },
+        {
+          "index": 2,
+          "template": "A lot of health problems could be prevented if people {0} better.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would eat",
+                "eat",
+                "ate"
+              ],
+              "correct": "ate",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3368"
+        },
+        {
+          "index": 3,
+          "template": "If I had her number, I {0} her; but I don't have it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "call",
+                "'d call",
+                "called"
+              ],
+              "correct": "'d call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3369"
+        },
+        {
+          "index": 4,
+          "template": "Our kids would be happier if we {0} in the country.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "live",
+                "'d live",
+                "lived"
+              ],
+              "correct": "lived",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3370"
+        },
+        {
+          "index": 5,
+          "template": "If you lend me the money, I {0} you back before the end of the month.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'ll pay",
+                "paid",
+                "'d pay"
+              ],
+              "correct": "'ll pay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3371"
+        },
+        {
+          "index": 6,
+          "template": "If it didn't rain, I {0} to work.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d always cycle",
+                "always cycled",
+                "'ll always cycle"
+              ],
+              "correct": "'d always cycle",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3372"
+        },
+        {
+          "index": 7,
+          "template": "I'd get a big tattoo on my back if my parents {0} me to do it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "allowed",
+                "allow",
+                "would allow"
+              ],
+              "correct": "allowed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3373"
+        },
+        {
+          "index": 8,
+          "template": "I wouldn't drink that milk if I {0} you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "were",
+                "was",
+                "'d be"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3374"
+        },
+        {
+          "index": 9,
+          "template": "You wouldn't have so many accidents if you {0} more carefully.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "drove",
+                "'d drive",
+                "drive"
+              ],
+              "correct": "drove",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3375"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "If there was a fire in this building, it _____ impossible to escape.",
+          "options": [
+            "'d be",
+            "'ll be",
+            "was"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I'd have a car if I _____ in the city.",
+          "options": [
+            "'d live",
+            "live",
+            "lived"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "If I _____ more free time, I'd go to the gym every day.",
+          "options": [
+            "'d have",
+            "had",
+            "have"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "If you were more responsible, maybe your parents _____ you to do more things.",
+          "options": [
+            "allowed",
+            "would allow",
+            "will allow"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "If you sold your wedding ring, you _____ a lot of money for it.",
+          "options": [
+            "could get",
+            "'ll get",
+            "got"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I _____ here if I wasn't interested in what you are offering.",
+          "options": [
+            "wasn't",
+            "wouldn't be",
+            "won't be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I don't know the answer. If I knew the answer, I _____ you.",
+          "options": [
+            "'d tell",
+            "'ll tell",
+            "told"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I'm sure if you _____ the manager, you'd take better decisions.",
+          "options": [
+            "were",
+            "'d be",
+            "are"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "You _____ rich if every person in this country gave you one dollar.",
+          "options": [
+            "were",
+            "'ll be",
+            "'d be"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "If there is any news, I _____ you immediately.",
+          "options": [
+            "'d inform",
+            "'ll inform",
+            "informed"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If John was here, he {0} (know) what to do.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would know",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3386"
+        },
+        {
+          "index": 1,
+          "template": "I wouldn't work here if I {0} (not enjoy) my job.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't enjoy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3387"
+        },
+        {
+          "index": 2,
+          "template": "It's too bad that you don't speak French. If you {0} (speak) French, you {1} (get) the job at the hotel.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would get",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3389"
+        },
+        {
+          "index": 3,
+          "template": "If he {0} (know) the truth, he {1} (kill) you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would kill",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would kill",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3388"
+        },
+        {
+          "index": 4,
+          "template": "Where would you travel if you {0} (be) rich?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3390"
+        },
+        {
+          "index": 5,
+          "template": "I'm sorry, I can't go out. I'd go out if I {0} (not have) this terrible headache.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3391"
+        },
+        {
+          "index": 6,
+          "template": "I {0} (not have) a cat if I {1} (not like) animals.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wouldn't have",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wouldn't have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3392"
+        },
+        {
+          "index": 7,
+          "template": "If I {0} (learn) Japanese, I {1} (try) to find a job in Japan.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would try",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would try",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3393"
+        },
+        {
+          "index": 8,
+          "template": "If he {0} (be) a nice person, he {1} (not treat) people so badly.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wouldn't treat",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wouldn't treat",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3394"
+        },
+        {
+          "index": 9,
+          "template": "I {0} (not go) to that hotel if I {1} (be) you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wouldn't go",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wouldn't go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3395"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If I {0} more money, I'd travel more.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have",
+                "had",
+                "would have"
+              ],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3366"
+        },
+        {
+          "index": 1,
+          "template": "What would you do if you {0} a lot of money in the street?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "find",
+                "found",
+                "'d find"
+              ],
+              "correct": "found",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3367"
+        },
+        {
+          "index": 2,
+          "template": "A lot of health problems could be prevented if people {0} better.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would eat",
+                "eat",
+                "ate"
+              ],
+              "correct": "ate",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3368"
+        },
+        {
+          "index": 3,
+          "template": "If I had her number, I {0} her; but I don't have it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "call",
+                "'d call",
+                "called"
+              ],
+              "correct": "'d call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3369"
+        },
+        {
+          "index": 4,
+          "template": "Our kids would be happier if we {0} in the country.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "live",
+                "'d live",
+                "lived"
+              ],
+              "correct": "lived",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3370"
+        },
+        {
+          "index": 5,
+          "template": "If you lend me the money, I {0} you back before the end of the month.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'ll pay",
+                "paid",
+                "'d pay"
+              ],
+              "correct": "'ll pay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3371"
+        },
+        {
+          "index": 6,
+          "template": "If it didn't rain, I {0} to work.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d always cycle",
+                "always cycled",
+                "'ll always cycle"
+              ],
+              "correct": "'d always cycle",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3372"
+        },
+        {
+          "index": 7,
+          "template": "I'd get a big tattoo on my back if my parents {0} me to do it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "allowed",
+                "allow",
+                "would allow"
+              ],
+              "correct": "allowed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3373"
+        },
+        {
+          "index": 8,
+          "template": "I wouldn't drink that milk if I {0} you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "were",
+                "was",
+                "'d be"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3374"
+        },
+        {
+          "index": 9,
+          "template": "You wouldn't have so many accidents if you {0} more carefully.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "drove",
+                "'d drive",
+                "drive"
+              ],
+              "correct": "drove",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3375"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

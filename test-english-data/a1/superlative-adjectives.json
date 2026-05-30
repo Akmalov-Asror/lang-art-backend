@@ -1,0 +1,587 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "superlative-adjectives",
+  "order_index": 28,
+  "title": "Superlative adjectives: The oldest, the most important, etc.",
+  "source_url": "https://test-english.com/grammar-points/a1/superlative-adjectives/",
+  "scraped_at": "2026-05-23T07:03:34.563Z",
+  "explanation": {
+    "markdown": "## Superlative adjectives\n\n![Color-coded grammar chart outlining the rules for forming comparative and superlative adjectives based on syllable count and irregular forms.](/uploads/grammar/a1/superlative-adjectives/img-1.png)\n\n#### Three or more things\n\nWe use the superlative form of an [adjective or adverb](https://test-english.com/grammar-points/a1/adverbs-manner/) to compare **three or more things**.\n\n-   *Both John and his brother play football, but John is **better**.* \n-   *John and his two brothers all play football, but John is **the best**.* \n\n#### **The best in**\n\nAfter the superlative we use **in** before names of places or before singular words referring to groups of people (**class, school, team, family, etc**.)\n\n-   *The Everest is the highest mountain **of the world**. ![](/uploads/grammar/a1/superlative-adjectives/img-2.png)* \n-   *The Everest is the highest mountain **in the world**. ![](/uploads/grammar/a1/superlative-adjectives/img-3.png)* \n-   *She is the best student **in the class**.*\n-   *He’s the tallest **in the family**.*\n\n#### **The / my / John’s**\n\nBefore the superlative we always use **the** or a possessive adjective (**my, your, his, etc**.) or noun + [possessive **‘s**](https://test-english.com/grammar-points/a1/whose-possessive-s/) (**Paul’s, Elisabeth’s, etc**.)\n\n-   *He is **the** best.*\n-   *This is **my** most expensive jacket.*\n-   *This is **Paul’s** best friend.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Comparative-superlative-adjectives_A2-new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/superlative-adjectives/img-1.png",
+        "alt": "Color-coded grammar chart outlining the rules for forming comparative and superlative adjectives based on syllable count and irregular forms."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/superlative-adjectives/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/superlative-adjectives/img-3.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Superlative adjectives: The oldest, the most important, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "young ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the youngest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4224"
+        },
+        {
+          "index": 1,
+          "template": "sad ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the saddest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4225"
+        },
+        {
+          "index": 2,
+          "template": "remote ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most remote",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4226"
+        },
+        {
+          "index": 3,
+          "template": "smelly ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the smelliest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4227"
+        },
+        {
+          "index": 4,
+          "template": "bad ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the worst",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4228"
+        },
+        {
+          "index": 5,
+          "template": "amazing ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most amazing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4229"
+        },
+        {
+          "index": 6,
+          "template": "pretty ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the prettiest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4230"
+        },
+        {
+          "index": 7,
+          "template": "flat ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the flattest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4231"
+        },
+        {
+          "index": 8,
+          "template": "short ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the shortest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4232"
+        },
+        {
+          "index": 9,
+          "template": "exciting ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most exciting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4233"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Superlative adjectives: The oldest, the most important, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which is _____ planet from the sun?",
+          "options": [
+            "the farest",
+            "the most far",
+            "the farthest"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ the world lives in Indonesia.",
+          "options": [
+            "The oldest man of",
+            "The oldest man in",
+            "The most old man of"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "David is very good at playing football, but Jason is _____.",
+          "options": [
+            "best",
+            "the best",
+            "better"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "It was _____ day of my life.",
+          "options": [
+            "the most happy",
+            "the most happiest",
+            "the happiest"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "What is _____ phone on the market?",
+          "options": [
+            "the thinnest",
+            "thinnest",
+            "the most thin"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Last summer was _____ season ever recorded.",
+          "options": [
+            "the dryest",
+            "the most dry",
+            "the driest"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I'm 10 years _____ than my wife.",
+          "options": [
+            "oldest",
+            "the oldest",
+            "older"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "He is _____ person in my life.",
+          "options": [
+            "the most important",
+            "the more important",
+            "the importantest"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Our graduates earn _____ salaries in every U.S. state.",
+          "options": [
+            "the higher",
+            "the highest",
+            "the most high"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "That was _____ moment of my life.",
+          "options": [
+            "the sadest",
+            "the saddest",
+            "the most sad"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Superlative adjectives: The oldest, the most important, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "July is {0} (dry) month in southern Spain. It hardly ever rains.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the driest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4223"
+        },
+        {
+          "index": 1,
+          "template": "One World Trade Center is {0} (tall) building in New York.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the tallest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4235"
+        },
+        {
+          "index": 2,
+          "template": "She is {0} (healthy) person I know.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the healthiest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4245"
+        },
+        {
+          "index": 3,
+          "template": "Egypt is one of {0} (ancient) civilizations.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the oldest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4246"
+        },
+        {
+          "index": 4,
+          "template": "He was {0} (fast) runner in 2017.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the fastest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4247"
+        },
+        {
+          "index": 5,
+          "template": "What month is {0} (hot) in Scotland?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the hottest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4248"
+        },
+        {
+          "index": 6,
+          "template": "She described her year in Singapore as {0} (amazing) experience of her life.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most amazing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4249"
+        },
+        {
+          "index": 7,
+          "template": "What is {0} (bad) neighbourhood in London?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the worst",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4250"
+        },
+        {
+          "index": 8,
+          "template": "It was {0} (slow) car on the circuit.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the slowest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4251"
+        },
+        {
+          "index": 9,
+          "template": "We sell {0} (red) and most perfect apples.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the reddest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4252"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Superlative adjectives: The oldest, the most important, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "young ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the youngest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4224"
+        },
+        {
+          "index": 1,
+          "template": "sad ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the saddest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4225"
+        },
+        {
+          "index": 2,
+          "template": "remote ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most remote",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4226"
+        },
+        {
+          "index": 3,
+          "template": "smelly ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the smelliest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4227"
+        },
+        {
+          "index": 4,
+          "template": "bad ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the worst",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4228"
+        },
+        {
+          "index": 5,
+          "template": "amazing ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most amazing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4229"
+        },
+        {
+          "index": 6,
+          "template": "pretty ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the prettiest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4230"
+        },
+        {
+          "index": 7,
+          "template": "flat ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the flattest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4231"
+        },
+        {
+          "index": 8,
+          "template": "short ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the shortest",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4232"
+        },
+        {
+          "index": 9,
+          "template": "exciting ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most exciting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4233"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

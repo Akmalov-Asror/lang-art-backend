@@ -1,0 +1,618 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "compound-adjectives-with-numbers-a-two-day-trip",
+  "order_index": 36,
+  "title": "Compound adjectives with numbers: ‘a two-day trip’",
+  "source_url": "https://test-english.com/grammar-points/b1/compound-adjectives-with-numbers-a-two-day-trip/",
+  "scraped_at": "2026-05-23T07:24:21.201Z",
+  "explanation": {
+    "markdown": "## Compound adjectives with numbers: Grammar chart\n\n![Compound adjectives with numbers](/uploads/grammar/b1/compound-adjectives-with-numbers-a-two-day-trip/img-1.png)\n\n### Adjectives\n\n[Adjectives](https://test-english.com/grammar-points/a1/adjectives/) are words used before a noun or after the verb [**be**](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/) or a [verb of the senses](https://test-english.com/grammar-points/b1-b2/verbs-of-the-senses/) (**feel, look, smell, sound,** **taste**) to describe something.\n\n-   *They have an **expensive** car.*\n-   *Your idea is **fantastic**.* \n-   *John looks **tired**.*\n\n### Compound adjectives\n\n[**Compound adjectives**](https://test-english.com/grammar-points/b2/compound-adjectives-in-english/) are made of two or more words: *a **well-dressed** man, a **part-time** job, a **first-class** train ticket, etc*.\n\nWe should join the different words in a compound adjective with a hyphen to show that they go together and are part of the same idea.\n\n### Number + noun\n\nWe can use number + noun as a compound adjective before another noun.  \n  \nThis construction is often used with nouns of measurement, such as **foot, metre, mile, pound, kilogram, second, minute, hour, pound, dollar, etc.**.  \n  \nThere are two things that you should remember about number-noun compound adjectives:  \n  \nUse a singular noun. Remember adjectives have no plural form in English:\n\n-   A **two-days** journey ![](/uploads/grammar/b1/compound-adjectives-with-numbers-a-two-day-trip/img-2.png)\n-   A **two-day** journey ![](/uploads/grammar/b1/compound-adjectives-with-numbers-a-two-day-trip/img-3.png)\n\nUse a hyphen to connect the number to the noun that follows it. This allows the reader to know that both words function as a unit that modifies the noun after it:\n\n-   **A **30-minute** show**\n-   **A **two-day** journey**\n-   **A **50-metre** pool**\n-   **An **eight-core** processor**\n-   **A **two-bedroom** apartment**\n\n🔍 **Note** that you can write **metre, litre** (UK spelling) or **meter, liter** (US spelling).  \n  \nSometimes, a compound adjective is made up of more than one word:\n\n-   **A **10-million-dollar** house**\n-   **A **seven-year-old** child**\n\n### Number + part of the body + **\\-ed**\n\nWhen we use a number + noun as a compound adjective, and the noun is a part of the body, then we have to add **\\-ed** after the part of the body.\n\n-   **A **three-legged** table**\n-   **A **seven-headed** dragon**\n-   **A **one-eyed** alien**\n-   **A **four-armed** robot**\n\n❗ **Note** that the consonant is doubled when the last syllable of the noun is stressed and is made of consonant + vowel + consonant: *le**gg**ed*.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Compound-adjectives-with-number.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/compound-adjectives-with-numbers-a-two-day-trip/img-1.png",
+        "alt": "Compound adjectives with numbers"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/compound-adjectives-with-numbers-a-two-day-trip/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/compound-adjectives-with-numbers-a-two-day-trip/img-3.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Compound adjectives with numbers: ‘a two-day trip’",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He wrote a _____ essay.",
+          "options": [
+            "70 pages",
+            "70-pages",
+            "70-page"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Everybody has time for a _____ walk to de-stress.",
+          "options": [
+            "30-minutes",
+            "30-minute",
+            "30 minutes"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "The students went on a _____ trip to Paris.",
+          "options": [
+            "three days",
+            "three-days",
+            "three-day"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I lost a _____ note in the canteen.",
+          "options": [
+            "20-euros",
+            "20 euro",
+            "20-euro"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He went for a _____ run.",
+          "options": [
+            "six-mile",
+            "six miles",
+            "six-miles"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The accident caused a _____ queue.",
+          "options": [
+            "10-mile",
+            "10-miles",
+            "10 miles"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "She bought a _____ bag of rice.",
+          "options": [
+            "two-pounds",
+            "two pounds",
+            "two-pound"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I saw a picture of a _____ snake.",
+          "options": [
+            "two-headed",
+            "two heads",
+            "two-head"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The Channel Tunnel is a _____ tunnel that connects England with France.",
+          "options": [
+            "50-kilometre",
+            "50-kilometres",
+            "50 kilometres"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The Eiffel Tower is a _____ iron tower.",
+          "options": [
+            "1083-feet",
+            "1083 foot",
+            "1083-foot"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Compound adjectives with numbers: ‘a two-day trip’",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A weekend of 3 days is a {0} weekend.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "three-day",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6744"
+        },
+        {
+          "index": 1,
+          "template": "A document that has nine pages is a {0} document.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "nine-page",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6745"
+        },
+        {
+          "index": 2,
+          "template": "A delay of one hour is a {0} delay.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "one-hour",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6746"
+        },
+        {
+          "index": 3,
+          "template": "A building that has eight floors is an {0} building.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "eight-floor",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6747"
+        },
+        {
+          "index": 4,
+          "template": "A container that measures 40 feet is a {0} container.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "40-foot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6748"
+        },
+        {
+          "index": 5,
+          "template": "A computer that costs 1,000 euros is a {0} computer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "1,000-euro",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6749"
+        },
+        {
+          "index": 6,
+          "template": "An engine that has six cylinders is a {0} engine.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "six-cylinder",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6750"
+        },
+        {
+          "index": 7,
+          "template": "A walk that takes 10 minutes is a {0} walk.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ten-minute",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6751"
+        },
+        {
+          "index": 8,
+          "template": "A dog that has three legs is a {0} dog.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "three-legged",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6752"
+        },
+        {
+          "index": 9,
+          "template": "A flight that takes five hours is a {0} flight.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "five-hour",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6753"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Compound adjectives with numbers: ‘a two-day trip’",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A {0} bag of potatoes costs $3.49.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "five-pounds",
+                "5 pounds",
+                "five-pound"
+              ],
+              "correct": "five-pound",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6754"
+        },
+        {
+          "index": 1,
+          "template": "The suspect is a {0} man who lives in the area.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "40 years",
+                "40-year-old",
+                "40-years-old"
+              ],
+              "correct": "40-year-old",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6755"
+        },
+        {
+          "index": 2,
+          "template": "Candidates require work experience and passing a {0} exam.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "four-part",
+                "four parts",
+                "four part"
+              ],
+              "correct": "four-part",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6756"
+        },
+        {
+          "index": 3,
+          "template": "They use a {0} generator to power all the tools.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "five-kilowatts",
+                "five-kilowatt",
+                "five kilowatts"
+              ],
+              "correct": "five-kilowatt",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6757"
+        },
+        {
+          "index": 4,
+          "template": "The company had to pay a {0} fine.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "million dollars",
+                "million-dollars",
+                "million-dollar"
+              ],
+              "correct": "million-dollar",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6758"
+        },
+        {
+          "index": 5,
+          "template": "They live in a {0} flat in the town centre.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "three-bedrooms",
+                "three-bedroom",
+                "three bedrooms"
+              ],
+              "correct": "three-bedroom",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6759"
+        },
+        {
+          "index": 6,
+          "template": "Sydney-London is a {0} journey.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "20-hours",
+                "20 hours",
+                "20-hour"
+              ],
+              "correct": "20-hour",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6760"
+        },
+        {
+          "index": 7,
+          "template": "We stayed in a {0} hotel.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "five stars",
+                "five-star",
+                "five-stars"
+              ],
+              "correct": "five-star",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6761"
+        },
+        {
+          "index": 8,
+          "template": "We deserve a {0} break.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ten-minute",
+                "ten minutes",
+                "ten-minutes"
+              ],
+              "correct": "ten-minute",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6762"
+        },
+        {
+          "index": 9,
+          "template": "She went on a {0} holiday with her family.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "four-week",
+                "four-weeks",
+                "four weeks"
+              ],
+              "correct": "four-week",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6763"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Compound adjectives with numbers: ‘a two-day trip’",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He wrote a _____ essay.",
+          "options": [
+            "70 pages",
+            "70-pages",
+            "70-page"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Everybody has time for a _____ walk to de-stress.",
+          "options": [
+            "30-minutes",
+            "30-minute",
+            "30 minutes"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "The students went on a _____ trip to Paris.",
+          "options": [
+            "three days",
+            "three-days",
+            "three-day"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I lost a _____ note in the canteen.",
+          "options": [
+            "20-euros",
+            "20 euro",
+            "20-euro"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He went for a _____ run.",
+          "options": [
+            "six-mile",
+            "six miles",
+            "six-miles"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The accident caused a _____ queue.",
+          "options": [
+            "10-mile",
+            "10-miles",
+            "10 miles"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "She bought a _____ bag of rice.",
+          "options": [
+            "two-pounds",
+            "two pounds",
+            "two-pound"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I saw a picture of a _____ snake.",
+          "options": [
+            "two-headed",
+            "two heads",
+            "two-head"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The Channel Tunnel is a _____ tunnel that connects England with France.",
+          "options": [
+            "50-kilometre",
+            "50-kilometres",
+            "50 kilometres"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The Eiffel Tower is a _____ iron tower.",
+          "options": [
+            "1083-feet",
+            "1083 foot",
+            "1083-foot"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

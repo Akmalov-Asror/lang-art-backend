@@ -1,0 +1,625 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "do-vs-make-difference",
+  "order_index": 34,
+  "title": "Do vs Make: What’s the difference?",
+  "source_url": "https://test-english.com/grammar-points/a2/do-vs-make-difference/",
+  "scraped_at": "2026-05-23T07:19:03.333Z",
+  "explanation": {
+    "markdown": "## Do vs Make: What’s the difference?\n\n**Do** and **make** are two English verbs which are often confused. There are, however, some important differences which can help us choose the right verb.  \n  \n![](/uploads/grammar/a2/do-vs-make-difference/img-1.png)\n\n### When to use **do**\n\nWe use **do** in collocations associated with **tasks**, **duties**, **obligations**, and **routine** or **repetitive** activities. **Do** usually refers to the **action** of performing these activities, while **make** generally refers to the **result**.  \n  \n**Do** is usually used in collocations referring to the following topics:  \n  \n➟ Study and [work](https://test-english.com/vocabulary/b1/work-b1-english-vocabulary/):\n\n-   do homework: *I’ll* ***do my homework*** *after dinner.*\n-   do work: *Joe* ***does a lot of work*** *in the evenings*.\n-   do business: *They are **doing business** in Japan.*\n-   do an assignment: *I **did my assignment** last weekend.*\n-   do a course: *I* ***am doing a photography course****.*\n\n➟ [Housework](https://test-english.com/vocabulary/a2/housework-a2-english-vocabulary/) and repetitive tasks:\n\n-   do the dishes: *I* ***do the dishes*** *every evening.*\n-   do the laundry: *Alice* ***does the laundry*** *when she gets home.*\n-   do the shopping: *I’ll* ***do the shopping*** *after work.*\n-   do the ironing: *Lee **is doing the ironing** right now.*\n-   do housework: *She* ***does the housework*** *at the weekends.*\n-   ❗ **But** make your bed: *I **make my bed** every morning.*\n\n➟ Good or bad actions:\n\n-   do well: *He* ***did well*** *in his exams.*\n-   do badly: *I* ***did badly*** *in the race.*\n-   do something, nothing, etc.: *They* ***did something*** *exciting last weekend.*\n-   do your best: *He* ***did his best*** *to pass the exam.*\n-   do too much: *Rita* ***does too much*** *for her children.*\n\n➟ Sports, [hobbies](https://test-english.com/vocabulary/a2/hobbies-and-free-time-a2-english-vocabulary/), and self-care:\n\n-   do exercise: *You should* ***do more exercise****.*\n-   do yoga: *Anna* ***does yoga*** *twice a week.*\n-   do karate, judo, etc. (martial arts): *Bill **does karate** in the evenings.*\n-   do your hair: *I have a shower, I **do my hair,** and I get dressed.*\n-   do your nails: *Lara **did my nails** last weekend.*\n\n### When to use **make**\n\nWe often use **make** when we talk about the creation or production of something. **Do** usually refers to the action, to the process of doing something, whereas **make** refers to the result of that action. For example, if you make dinner, the result is pasta.  \n  \n**Make** is usually used in collocations referring to the following topics:  \n  \n➟ [Food and drink](https://test-english.com/vocabulary/a1/food-and-meals-a1-english-vocabulary/) preparation:\n\n-   make lunch, dinner, etc.: *I**’ll make lunch** soon.*\n-   make a cake: *He **made a cake** to take to the party.*\n-   make coffee: *Tim **makes coffee** for his wife every morning.*\n-   make a sandwich: *I **made a sandwich** to take to work.*\n-   make a snack: *Sid was hungry, so he **made a snack**.*\n\n➟ Arrangements and decisions:\n\n-   make an appointment: *I **made an appointment** to see the doctor.*\n-   make plans: *We **are making plans** for the weekend.*\n-   make a list: *I **made a list** of the things I needed to buy.*\n-   make a choice: *Ian had to **make a difficult choice**.*\n-   make a decision: *It took me a long time to **make a decision**.*\n-   make a mistake: *I **made a mistake** in the exam.*\n\n➟ Speaking, sounds and [relationships](https://test-english.com/vocabulary/b1/relationships-b1-english-vocabulary/):\n\n-   make a promise: *Jess **made a promise** to her grandmother.*\n-   make a phone call: *I need to **make a phone call**.*\n-   make a joke: *He **made a joke** about his sister’s new hairstyle.*\n-   make a suggestion: *The teacher **made a good suggestion**.*\n-   make an excuse: *He **made an excuse** to his teacher.*\n-   make a noise: *The neighbours **were making a lot of noise**.*\n-   make friends: *She **made friends** quickly at her new school.*\n\n➟ [Money](https://test-english.com/vocabulary/b1/money-b1-english-vocabulary/):\n\n-   make a lot of money: *He **makes more money** than I do.*\n-   make $10: *Fred **makes $10 an hour** in his part-time job.*\n-   make a living: *She **makes a living** as a yoga teacher.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Do-vs-Make_Difference.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/do-vs-make-difference/img-1.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Do vs Make: What’s the difference?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He has a good job and {0} a lot of money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "does",
+                "makes"
+              ],
+              "correct": "makes",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7068"
+        },
+        {
+          "index": 1,
+          "template": "Alice {0} very well in her maths test.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did",
+                "made"
+              ],
+              "correct": "did",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7069"
+        },
+        {
+          "index": 2,
+          "template": "Do you want me to {0} you a coffee?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do",
+                "make"
+              ],
+              "correct": "make",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7070"
+        },
+        {
+          "index": 3,
+          "template": "Joe {0} his homework yet.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hasn’t done",
+                "hasn’t made"
+              ],
+              "correct": "hasn’t done",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7071"
+        },
+        {
+          "index": 4,
+          "template": "The children are {0} a lot of noise right now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "doing",
+                "making"
+              ],
+              "correct": "making",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7072"
+        },
+        {
+          "index": 5,
+          "template": "Have you {0} any plans for the weekend yet?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "made",
+                "done"
+              ],
+              "correct": "made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7073"
+        },
+        {
+          "index": 6,
+          "template": "Cara {0} the dishes every evening.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "does",
+                "makes"
+              ],
+              "correct": "does",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7074"
+        },
+        {
+          "index": 7,
+          "template": "If you want to get fit, you should {0} more exercise.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "make",
+                "do"
+              ],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7075"
+        },
+        {
+          "index": 8,
+          "template": "Luis always {0} dinner as soon as he gets home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "makes",
+                "does"
+              ],
+              "correct": "makes",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7076"
+        },
+        {
+          "index": 9,
+          "template": "John went into the kitchen to {0} a phone call.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "make",
+                "do"
+              ],
+              "correct": "make",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7077"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Do vs Make: What’s the difference?",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Ali _____ karate three times a week.",
+          "options": [
+            "makes",
+            "does"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I haven’t _____ dinner yet because I’m not very hungry.",
+          "options": [
+            "made",
+            "done"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Have you _____ your homework yet?",
+          "options": [
+            "made",
+            "done"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I always _____ a list before I go shopping.",
+          "options": [
+            "make",
+            "do"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Peter _____ very well in all his exams last month.",
+          "options": [
+            "made",
+            "did"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Nick is healthy because he _____ a lot of exercise.",
+          "options": [
+            "does",
+            "makes"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Paul _____ a lot of money when he worked in a bar last summer.",
+          "options": [
+            "did",
+            "made"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I don’t _____ any housework during the week.",
+          "options": [
+            "do",
+            "make"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The teacher told us to be quiet because we were _____ too much noise.",
+          "options": [
+            "making",
+            "doing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Are you going to _____ the shopping or shall I?",
+          "options": [
+            "make",
+            "do"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Do vs Make: What’s the difference?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "What {0} (you) for dinner last night?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "did you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7088"
+        },
+        {
+          "index": 1,
+          "template": "Pat usually {0} her homework in the kitchen.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7089"
+        },
+        {
+          "index": 2,
+          "template": "We {0} (not) any plans for the summer holidays yet.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7090"
+        },
+        {
+          "index": 3,
+          "template": "We {0} (not) anything exciting last weekend",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7091"
+        },
+        {
+          "index": 4,
+          "template": "I {0} yoga at the gym three times a week.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7092"
+        },
+        {
+          "index": 5,
+          "template": "Tim {0} a promise to his girlfriend last night.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7093"
+        },
+        {
+          "index": 6,
+          "template": "Sally {0} a lot of mistakes in her history exam yesterday.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7094"
+        },
+        {
+          "index": 7,
+          "template": "I {0} my hair every morning.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7095"
+        },
+        {
+          "index": 8,
+          "template": "I {0} the laundry right now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7096"
+        },
+        {
+          "index": 9,
+          "template": "Jess {0} a lot of friends while she was travelling.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7097"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Do vs Make: What’s the difference?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He has a good job and {0} a lot of money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "does",
+                "makes"
+              ],
+              "correct": "makes",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7068"
+        },
+        {
+          "index": 1,
+          "template": "Alice {0} very well in her maths test.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did",
+                "made"
+              ],
+              "correct": "did",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7069"
+        },
+        {
+          "index": 2,
+          "template": "Do you want me to {0} you a coffee?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do",
+                "make"
+              ],
+              "correct": "make",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7070"
+        },
+        {
+          "index": 3,
+          "template": "Joe {0} his homework yet.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "hasn’t done",
+                "hasn’t made"
+              ],
+              "correct": "hasn’t done",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7071"
+        },
+        {
+          "index": 4,
+          "template": "The children are {0} a lot of noise right now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "doing",
+                "making"
+              ],
+              "correct": "making",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7072"
+        },
+        {
+          "index": 5,
+          "template": "Have you {0} any plans for the weekend yet?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "made",
+                "done"
+              ],
+              "correct": "made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7073"
+        },
+        {
+          "index": 6,
+          "template": "Cara {0} the dishes every evening.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "does",
+                "makes"
+              ],
+              "correct": "does",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7074"
+        },
+        {
+          "index": 7,
+          "template": "If you want to get fit, you should {0} more exercise.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "make",
+                "do"
+              ],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7075"
+        },
+        {
+          "index": 8,
+          "template": "Luis always {0} dinner as soon as he gets home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "makes",
+                "does"
+              ],
+              "correct": "makes",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7076"
+        },
+        {
+          "index": 9,
+          "template": "John went into the kitchen to {0} a phone call.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "make",
+                "do"
+              ],
+              "correct": "make",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7077"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

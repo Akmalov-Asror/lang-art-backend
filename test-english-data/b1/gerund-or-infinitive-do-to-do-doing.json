@@ -1,0 +1,623 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "gerund-or-infinitive-do-to-do-doing",
+  "order_index": 23,
+  "title": "Gerund or infinitive: Do, to do, doing",
+  "source_url": "https://test-english.com/grammar-points/b1/gerund-or-infinitive-do-to-do-doing/",
+  "scraped_at": "2026-05-23T07:22:57.102Z",
+  "explanation": {
+    "markdown": "## When do we use gerund or infinitive?\n\nWhen we have to use a verb after another verb or a certain kind of word, we sometimes use an infinitive or a gerund. It often depends on the word that comes before. Here’s a list of the main situations in which we use infinitives or gerunds.  \n  \n![](/uploads/grammar/b1/gerund-or-infinitive-do-to-do-doing/img-1.png)\n\n## Verbs that take gerund or infinitive with a change of meaning\n\n#### Forget\n\n**Forget to do something**: Used to talk about things that we need to do, and we forget to do them.\n\n-   *I think we **forgot to lock** the door when we left.* \n-   *Don’t **forget to call** me when you finish.*\n\n**Forget doing something**: It’s normally used in negative sentences. Used to talk about memories –generally about past events that we will not forget.\n\n-   *I’ll never **forget walking** on that amazing beach for the first time.* \n\n#### Remember\n\n**Remember to do something**: Used to talk about things we need to do.\n\n-   *He didn’t **remember to turn off** the heating after class.* \n-   *Please **remember to close** the windows if you leave.*\n\n**Remember doing something**: Used to talk about memories. We remember things from the past.\n\n-   *I **remember eating** on this same chair the day I graduated.* \n-   *I **remember mentioning** the issue to Elisabeth last week.*\n\nHere’s a Grammar Short on [forget and remember](https://test-english.com/grammar-points/shorts/forget-remember-to-do-vs-doing-grammar-shorts/).\n\n#### Try\n\n**Try to do something**: When we try to do something, we make an effort to achieve something that we maybe will or will not accomplish.\n\n-   *Could you please **try to be** a bit less rude?*\n-   *I’ll **try to convince him**, but I’m not sure that’s going to change anything.* \n\n**Try** **doing something**: Used when we have an objective, and we try something as an experiment to see if it helps us achieve that objective. We try something in order to achieve an objective.\n\n-   *A: “I need to sleep, but I can’t.” B: “Why don’t you **try drinking** a glass of hot milk?”*\n-   *I can’t contact Jane. I’**ve tried calling** her home number and also on her mobile, but nothing.* \n\n#### Stop\n\n**Stop to do something**: Used when we stop doing an activity so as to start doing a different one.\n\n-   *We had been driving for hours, so we had **to stop to eat** something and go to the toilet.* (=We stopped driving in order to eat.)\n\n**Stop** **doing something**: It means to finish doing something that we are doing.\n\n-   *Could you **stop biting** your nails?* \n-   *I need to **stop smoking** once and forever.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Infinitive_or_Gerund.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/gerund-or-infinitive-do-to-do-doing/img-1.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Gerund or infinitive: Do, to do, doing",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Sometimes {0} nothing is more productive than doing something.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to do",
+                "doing",
+                "do"
+              ],
+              "correct": "doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2023"
+        },
+        {
+          "index": 1,
+          "template": "He's the best at {0} puzzles.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to solve",
+                "solve",
+                "solving"
+              ],
+              "correct": "solving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2024"
+        },
+        {
+          "index": 2,
+          "template": "He is too upset {0} right now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "talk",
+                "talking",
+                "to talk"
+              ],
+              "correct": "to talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2025"
+        },
+        {
+          "index": 3,
+          "template": "We used {0} by the fire on cold winter nights.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to sit",
+                "sitting",
+                "sit"
+              ],
+              "correct": "to sit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2026"
+        },
+        {
+          "index": 4,
+          "template": "We are looking forward to {0} you soon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "see",
+                "seen",
+                "seeing"
+              ],
+              "correct": "seeing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2027"
+        },
+        {
+          "index": 5,
+          "template": "They decided {0} to Los Angeles.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "moving",
+                "move",
+                "to move"
+              ],
+              "correct": "to move",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2028"
+        },
+        {
+          "index": 6,
+          "template": "He refused {0} the fine.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "pay",
+                "to pay",
+                "paying"
+              ],
+              "correct": "to pay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2029"
+        },
+        {
+          "index": 7,
+          "template": "We were very happy {0} her there.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "finding",
+                "to find",
+                "find"
+              ],
+              "correct": "to find",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2030"
+        },
+        {
+          "index": 8,
+          "template": "We hope {0} to finish before the end of the month.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be able",
+                "be able",
+                "being able"
+              ],
+              "correct": "to be able",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2031"
+        },
+        {
+          "index": 9,
+          "template": "She enjoys {0} time with her family.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "spending",
+                "spend",
+                "to spend"
+              ],
+              "correct": "spending",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2032"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Gerund or infinitive: Do, to do, doing",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He told me ______ for him.",
+          "options": [
+            "wait",
+            "to wait",
+            "waiting"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "You promised ______ to the concert.",
+          "options": [
+            "let me go",
+            "to let me go",
+            "to let me going"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I'd prefer ______ a cup of tea, thanks. I don't like coffee.",
+          "options": [
+            "have",
+            "to have",
+            "having"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We spent the whole morning ______ the house.",
+          "options": [
+            "clean",
+            "to clean",
+            "cleaning"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "We are not allowed ______ Japanese in class.",
+          "options": [
+            "speak",
+            "to speak",
+            "speaking"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "You must remind me ______ Suzan this afternoon.",
+          "options": [
+            "call",
+            "to call",
+            "calling"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I'm planning ______ here until Wednesday.",
+          "options": [
+            "stay",
+            "to stay",
+            "staying"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "He offered ______ me with my maths.",
+          "options": [
+            "help",
+            "to help",
+            "helping"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "They make us ______ this ridiculous uniform.",
+          "options": [
+            "wear",
+            "to wear",
+            "wearing"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "He seems ______ a good listener.",
+          "options": [
+            "be",
+            "to be",
+            "being"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Gerund or infinitive: Do, to do, doing",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It isn't so easy {0} (get) a good result.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2043"
+        },
+        {
+          "index": 1,
+          "template": "Would you mind {0} (turn) the TV down, please?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to turn",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2044"
+        },
+        {
+          "index": 2,
+          "template": "He managed {0} (escape) by breaking the window.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to escape",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2045"
+        },
+        {
+          "index": 3,
+          "template": "I remember {0} (cross) this door for the first time. I was so nervous!",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "crossing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2049"
+        },
+        {
+          "index": 4,
+          "template": "I must remember {0} (send) him a copy of the document.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to send",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2050"
+        },
+        {
+          "index": 5,
+          "template": "I tried {0} (stay) awake to see the final, but I was too tired.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to stay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2051"
+        },
+        {
+          "index": 6,
+          "template": "A: I would like my boss to like me. B: Why don't you try {0} (arrive) at work on time?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2052"
+        },
+        {
+          "index": 7,
+          "template": "What do you want me {0} (do) with the boxes?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2055"
+        },
+        {
+          "index": 8,
+          "template": "She is a workaholic, she can't stop {0} (work).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2056"
+        },
+        {
+          "index": 9,
+          "template": "I was running really fast but I had to stop {0} (tie) my shoe.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to tie",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2057"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Gerund or infinitive: Do, to do, doing",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She's going to be upset. I forgot {0} (call) her.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2053"
+        },
+        {
+          "index": 1,
+          "template": "I'll never forget {0} (kiss) my wife for the first time.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "kissing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2054"
+        },
+        {
+          "index": 2,
+          "template": "I'd love {0} (have) a chat with you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2058"
+        },
+        {
+          "index": 3,
+          "template": "I recommend {0} (read) carefully the instructions before {1} (do) anything.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to do",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2059"
+        },
+        {
+          "index": 4,
+          "template": "I think she is avoiding {0} (talk) to me.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "talking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2060"
+        },
+        {
+          "index": 5,
+          "template": "Do you feel like {0} (go) to the theater?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "going",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2061"
+        },
+        {
+          "index": 6,
+          "template": "When I finish {0} (prepare) the food, I'll set the table.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "preparing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2062"
+        },
+        {
+          "index": 7,
+          "template": "We can't afford {0} (go) on holiday this year.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2063"
+        },
+        {
+          "index": 8,
+          "template": "I suggest {0} (visit) the temple very early in the morning.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to visit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2064"
+        },
+        {
+          "index": 9,
+          "template": "Do you know how {0} (fix) the screen?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to fix",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2065"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": [
+    "resolve_batch_failed: Connection error."
+  ]
+}

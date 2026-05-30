@@ -1,0 +1,771 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "adjectives",
+  "order_index": 4,
+  "title": "Adjectives: Old, interesting, expensive, etc.",
+  "source_url": "https://test-english.com/grammar-points/a1/adjectives/",
+  "scraped_at": "2026-05-23T07:02:17.038Z",
+  "explanation": {
+    "markdown": "## Adjectives in English – grammar chart\n\n![Colorful educational chart explaining the use of adjectives in English grammar with examples in sentences, showing adjective-noun combinations, the use of adjectives with 'am/is/are', sensory verbs, and the rule against pluralizing adjectives.](/uploads/grammar/a1/adjectives/img-1.png)\n\n#### Adjective + noun\n\nWhen we use adjectives with a noun in English, the adjectives go **before the noun**.\n\n-   *It’s an **expensive guitar**. ![](/uploads/grammar/a1/adjectives/img-2.png)* \n-   *It’s a **guitar** **expensive**. ![](/uploads/grammar/a1/adjectives/img-3.png)* \n-   *She has a **new car**. ![](/uploads/grammar/a1/adjectives/img-4.png)* \n-   *She has a **car** **new**. ![](/uploads/grammar/a1/adjectives/img-5.png)* \n\n#### **Am/is/are** + adjective\n\nWe can also use adjectives without a noun after the verb **[be](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/)**.\n\n-   *This guitar **is expensive**.* \n-   *Her car **is new**.* \n\nIn questions, the adjective can go after **be** + subject.\n\n-   *Is your car **new**?* \n-   *Are your classmates **nice**?* \n\n#### **Feel/look/smell/sound/taste** + adjective\n\nWe can also use adjectives without a noun after the [verbs of the senses](https://test-english.com/grammar-points/b1-b2/verbs-of-the-senses/): **feel, look, smell, sound,** **taste**.\n\n-   *Your idea **sounds interesting**.* \n-   *I don’t like this soup. It **tastes horrible**.*\n-   *You **look tired**.* \n-   *These cookies **smell delicious**.* \n-   *I **feel depressed**.* \n\n#### No plural\n\nAdjectives in English have **no plural**. They are always singular.\n\n-   *These are my **favourite** shoes. ![](/uploads/grammar/a1/adjectives/img-6.png)* \n-   *These are my **favourites** shoes.* *![](/uploads/grammar/a1/adjectives/img-7.png)*\n-   *She has **blue** eyes. ![](/uploads/grammar/a1/adjectives/img-8.png)* \n-   *She has **blues** eyes. ![](/uploads/grammar/a1/adjectives/img-9.png)* \n\n#### **Very/quite**\n\nWe can use **very** and **quite** before the adjectives.\n\n-   *It’s **very** expensive.*\n-   *It’s **quite** expensive*.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/adjectives-english.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-1.png",
+        "alt": "Colorful educational chart explaining the use of adjectives in English grammar with examples in sentences, showing adjective-noun combinations, the use of adjectives with 'am/is/are', sensory verbs, and the rule against pluralizing adjectives."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a1/adjectives/img-9.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Adjectives: Old, interesting, expensive, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "With this makeup, your eyes {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "look different",
+                "look differents",
+                "different look"
+              ],
+              "correct": "look different",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3696"
+        },
+        {
+          "index": 1,
+          "template": "These are {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "documents important",
+                "important documents",
+                "documents importants"
+              ],
+              "correct": "important documents",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3697"
+        },
+        {
+          "index": 2,
+          "template": "{0} in their new house?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are they happy",
+                "Are happy they",
+                "Are they happies"
+              ],
+              "correct": "Are they happy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3698"
+        },
+        {
+          "index": 3,
+          "template": "He has {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a job interesting",
+                "an interesting job"
+              ],
+              "correct": "an interesting job",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3699"
+        },
+        {
+          "index": 4,
+          "template": "Sit down. You {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "look tired",
+                "smell tired",
+                "tired look"
+              ],
+              "correct": "look tired",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3700"
+        },
+        {
+          "index": 5,
+          "template": "Our holidays {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "fantastic are",
+                "are fantastics",
+                "are fantastic"
+              ],
+              "correct": "are fantastic",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3701"
+        },
+        {
+          "index": 6,
+          "template": "John has problems at home. {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are his marks good",
+                "Are goods his marks",
+                "Are good his marks"
+              ],
+              "correct": "Are his marks good",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3702"
+        },
+        {
+          "index": 7,
+          "template": "Their project {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "sounds interesting",
+                "tastes interesting",
+                "interesting looks"
+              ],
+              "correct": "sounds interesting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3703"
+        },
+        {
+          "index": 8,
+          "template": "These cookies {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are excellents",
+                "excellent are",
+                "are excellent"
+              ],
+              "correct": "are excellent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3704"
+        },
+        {
+          "index": 9,
+          "template": "Her eyes {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "blue are",
+                "are blues",
+                "are blue"
+              ],
+              "correct": "are blue",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3705"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Adjectives: Old, interesting, expensive, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Which is the correct order?",
+          "options": [
+            "Your great idea is.",
+            "Your idea is great.",
+            "Great your idea is.",
+            "Your idea great is."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Which is the correct order?",
+          "options": [
+            "She an exceptional student is.",
+            "She is a student exceptional.",
+            "She is an exceptional student.",
+            "She a student exceptional is."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Which is the correct order?",
+          "options": [
+            "Is this shirt Italian?",
+            "Is Italian this shirt?",
+            "This shirt Italian is?",
+            "This shirt is Italian?"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Which is the correct order?",
+          "options": [
+            "That restaurant very dirty is.",
+            "That is a restaurant very dirty.",
+            "Very dirty is that restaurant.",
+            "That restaurant is very dirty."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Which is the correct order?",
+          "options": [
+            "He a Korean car has.",
+            "He has a Korean car.",
+            "He has a car Korean.",
+            "A car Korean he has."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Which is the correct order?",
+          "options": [
+            "This is our restaurant favourite.",
+            "Our favourite restaurant is this.",
+            "Is this our restaurant favourite?",
+            "This is our favourite restaurant."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Which is the correct order?",
+          "options": [
+            "It's a building very modern.",
+            "It's a very modern building.",
+            "Very modern it's a building.",
+            "A building very modern is."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Which is the correct order?",
+          "options": [
+            "Are your friends German?",
+            "Are German your friends?",
+            "German are your friends?",
+            "Your friends are German?"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Which is the correct order?",
+          "options": [
+            "This language difficult is.",
+            "A language difficult this is.",
+            "This is a difficult language.",
+            "This is a language difficult."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Which is the correct order?",
+          "options": [
+            "This language is difficult.",
+            "This language difficult is.",
+            "Is difficult this language?",
+            "This language is difficult?"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Adjectives: Old, interesting, expensive, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "exam / easy ⇒ This exam {0}. It's {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is easy",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is easy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3717"
+        },
+        {
+          "index": 1,
+          "template": "watch / old ⇒ This watch {0}. It's {1}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is old",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is old",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3718"
+        },
+        {
+          "index": 2,
+          "template": "exotic / countries ⇒ These countries {0}. They're {1}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are exotic",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are exotic",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3719"
+        },
+        {
+          "index": 3,
+          "template": "view / amazing ⇒ The view {0}. It's {1}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is amazing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is amazing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3720"
+        },
+        {
+          "index": 4,
+          "template": "difficult / situation ⇒ The situation {0}. It's {1}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is difficult",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is difficult",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3721"
+        },
+        {
+          "index": 5,
+          "template": "cars / fast ⇒ These cars {0}. They are {1}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are fast",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are fast",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3722"
+        },
+        {
+          "index": 6,
+          "template": "dangerous / city ⇒ It's {0}. This city {1}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "dangerous",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "dangerous",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3723"
+        },
+        {
+          "index": 7,
+          "template": "expensive / clothes ⇒ These clothes {0}. They're {1}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are expensive",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are expensive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3724"
+        },
+        {
+          "index": 8,
+          "template": "man / strong ⇒ He's {0}. This man {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "strong",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "strong",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3725"
+        },
+        {
+          "index": 9,
+          "template": "box / empty ⇒ This box {0}. It's {1}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is empty",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is empty",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3726"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Adjectives: Old, interesting, expensive, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "With this makeup, your eyes {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "look different",
+                "look differents",
+                "different look"
+              ],
+              "correct": "look different",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3696"
+        },
+        {
+          "index": 1,
+          "template": "These are {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "documents important",
+                "important documents",
+                "documents importants"
+              ],
+              "correct": "important documents",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3697"
+        },
+        {
+          "index": 2,
+          "template": "{0} in their new house?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are they happy",
+                "Are happy they",
+                "Are they happies"
+              ],
+              "correct": "Are they happy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3698"
+        },
+        {
+          "index": 3,
+          "template": "He has {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "a job interesting",
+                "an interesting job"
+              ],
+              "correct": "an interesting job",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3699"
+        },
+        {
+          "index": 4,
+          "template": "Sit down. You {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "look tired",
+                "smell tired",
+                "tired look"
+              ],
+              "correct": "look tired",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3700"
+        },
+        {
+          "index": 5,
+          "template": "Our holidays {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "fantastic are",
+                "are fantastics",
+                "are fantastic"
+              ],
+              "correct": "are fantastic",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3701"
+        },
+        {
+          "index": 6,
+          "template": "John has problems at home. {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Are his marks good",
+                "Are goods his marks",
+                "Are good his marks"
+              ],
+              "correct": "Are his marks good",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3702"
+        },
+        {
+          "index": 7,
+          "template": "Their project {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "sounds interesting",
+                "tastes interesting",
+                "interesting looks"
+              ],
+              "correct": "sounds interesting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3703"
+        },
+        {
+          "index": 8,
+          "template": "These cookies {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are excellents",
+                "excellent are",
+                "are excellent"
+              ],
+              "correct": "are excellent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3704"
+        },
+        {
+          "index": 9,
+          "template": "Her eyes {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "blue are",
+                "are blues",
+                "are blue"
+              ],
+              "correct": "are blue",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3705"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

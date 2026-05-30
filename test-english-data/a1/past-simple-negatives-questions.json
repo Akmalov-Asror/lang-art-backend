@@ -1,0 +1,763 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "past-simple-negatives-questions",
+  "order_index": 18,
+  "title": "Past simple: Negatives and questions",
+  "source_url": "https://test-english.com/grammar-points/a1/past-simple-negatives-questions/",
+  "scraped_at": "2026-05-23T07:03:02.222Z",
+  "explanation": {
+    "markdown": "## Past simple negatives and questions\n\nWe use **did** and **didn’t** to make negatives, questions and short answers in past simple.  \n  \n![Grammar chart outlining the structure of the past simple tense in positive, negative, and question forms, with examples and common mistakes.](/uploads/grammar/a1/past-simple-negatives-questions/img-1.jpg)\n\n#### Word order in questions\n\nRemember that the [word order in questions](https://test-english.com/grammar-points/a1/questions/) is **QWASI**: (Question Word), Auxiliary (did), Subject, Infinitive.  \n  \n![Grammar chart demonstrating how to form questions in the past simple tense using 'was/were' with 'be' and 'did' with other verbs.](/uploads/grammar/a1/past-simple-negatives-questions/img-2.jpg)\n\n#### Infinitive without **to**\n\nWe use **did** or **didn’t** with the **bare infinitive** of the main verb (= infinitive without **to**).\n\n-   *I **didn’t** **work** yesterday.* ![](/uploads/grammar/a1/past-simple-negatives-questions/img-3.png)\n-   *I didn’t **didn’t worked** yesterday. ![](/uploads/grammar/a1/past-simple-negatives-questions/img-4.png)* \n-   ***Did** you **go** to the concert?* ![](/uploads/grammar/a1/past-simple-negatives-questions/img-5.png)\n-   ***Did** you **went** to the concert? ![](/uploads/grammar/a1/past-simple-negatives-questions/img-6.png)* \n\n#### Don’t use **did** in positive sentences\n\nWe use **did** or **didn’t** in negatives, questions and short answers, but **NOT in positive sentences**.\n\n-   *We **stayed** home yesterday.* ![](/uploads/grammar/a1/past-simple-negatives-questions/img-7.png)\n-   *We **did stay** home yesterday. ![](/uploads/grammar/a1/past-simple-negatives-questions/img-8.png)* \n-   *I **went** out last night.* ![](/uploads/grammar/a1/past-simple-negatives-questions/img-9.png)\n-   *I **did go** out last night. ![](/uploads/grammar/a1/past-simple-negatives-questions/img-10.png)* \n\n#### **Did** or **was/were**?\n\nWe use **did** and **didn’t** (NOT [**was/wasn’t** or **were/weren’t**](https://test-english.com/grammar-points/a1/was-were/)) as the auxiliary verb in negatives and questions in past simple.\n\n-   *We **didn’t eat** at 6.* ![](/uploads/grammar/a1/past-simple-negatives-questions/img-11.png)\n-   *We **weren’t eat** at 6. ![](/uploads/grammar/a1/past-simple-negatives-questions/img-12.png)* \n-   ***Did** you **do** your homework?* ![](/uploads/grammar/a1/past-simple-negatives-questions/img-13.png)\n-   ***Were** you **do** your homework? ![](/uploads/grammar/a1/past-simple-negatives-questions/img-14.png)* \n\nWe do **NOT** use **did** or **didn’t** in past simple negatives or questions when the **main verb** is **be**.\n\n-   *They **weren’t** happy.* ![](/uploads/grammar/a1/past-simple-negatives-questions/img-15.png)\n-   *They **didn’t be** happy. ![](/uploads/grammar/a1/past-simple-negatives-questions/img-16.png)* \n-   ***Was** he at home?* ![](/uploads/grammar/a1/past-simple-negatives-questions/img-17.png)\n-   ***Did** he **be** at home? ![](/uploads/grammar/a1/past-simple-negatives-questions/img-18.png)*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/past-simple_form_new.jpg",
+        "local_filename": "img-1.jpg",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-1.jpg",
+        "alt": "Grammar chart outlining the structure of the past simple tense in positive, negative, and question forms, with examples and common mistakes."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Past-simple-questions.jpg",
+        "local_filename": "img-2.jpg",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-2.jpg",
+        "alt": "Grammar chart demonstrating how to form questions in the past simple tense using 'was/were' with 'be' and 'did' with other verbs."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-9.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-10.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-10.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-11.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-11.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-12.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-12.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-13.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-13.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-14.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-14.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-15.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-15.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-16.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-16.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-17.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-17.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-18.png",
+        "public_path": "/uploads/grammar/a1/past-simple-negatives-questions/img-18.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Negatives and questions",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Where {0} on holiday last summer?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you went",
+                "went you",
+                "did you go"
+              ],
+              "correct": "did you go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4082"
+        },
+        {
+          "index": 1,
+          "template": "They {0} until 5 o'clock in the afternoon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't arrive",
+                "didn't arrived",
+                "weren't arrived"
+              ],
+              "correct": "didn't arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4083"
+        },
+        {
+          "index": 2,
+          "template": "They {0} sure of what to do.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't were",
+                "didn't be",
+                "weren't"
+              ],
+              "correct": "weren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4094"
+        },
+        {
+          "index": 3,
+          "template": "We {0} after midnight.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't arrived",
+                "arrived",
+                "did arrive"
+              ],
+              "correct": "did arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4095"
+        },
+        {
+          "index": 4,
+          "template": "{0} the present?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you liked",
+                "Did you like",
+                "Were you like"
+              ],
+              "correct": "Did you like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4096"
+        },
+        {
+          "index": 5,
+          "template": "Sara {0} the film because she was asleep.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't watch",
+                "didn't watched",
+                "weren't watch"
+              ],
+              "correct": "didn't watch",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4097"
+        },
+        {
+          "index": 6,
+          "template": "John and Felicity {0} married last year.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "got",
+                "did get",
+                "were get"
+              ],
+              "correct": "got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4098"
+        },
+        {
+          "index": 7,
+          "template": "She {0} ready for the test.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't be",
+                "wasn't",
+                "didn't was"
+              ],
+              "correct": "wasn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4099"
+        },
+        {
+          "index": 8,
+          "template": "I {0} the question. Can you repeat it?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't understood",
+                "wasn't understood",
+                "didn't understand"
+              ],
+              "correct": "didn't understand",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4100"
+        },
+        {
+          "index": 9,
+          "template": "{0} when he saw you?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Was he smile",
+                "Did he smiled",
+                "Did he smile"
+              ],
+              "correct": "Did he smile",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4101"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Past simple: Negatives and questions",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "We _____ a bus to Chicago last week.",
+          "options": [
+            "were took",
+            "did took",
+            "took"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ to the party last weekend?",
+          "options": [
+            "Did you go",
+            "Went you",
+            "Did you went"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Yesterday I ____ the train, but I ____ late for work.",
+          "options": [
+            "did miss / were not",
+            "missed / didn't be",
+            "missed / wasn't"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "They _____ a swimming pool in their backyard last summer.",
+          "options": [
+            "did put",
+            "putted",
+            "put"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Where _____ this afternoon?",
+          "options": [
+            "were he go",
+            "did he go",
+            "did he went"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "She _____ home early from the party yesterday.",
+          "options": [
+            "came",
+            "camed",
+            "didn't came"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "How much _____ for it?",
+          "options": [
+            "did you paid",
+            "did you pay",
+            "paid you"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "They _____ the play very much.",
+          "options": [
+            "weren't enjoy",
+            "didn't enjoyed",
+            "didn't enjoy"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "When _____ that crazy idea?",
+          "options": [
+            "did you got",
+            "did you get",
+            "got you"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Where _____ last night?",
+          "options": [
+            "were you",
+            "did you be",
+            "did you were"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Negatives and questions",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Emma: Where {0} (you/travel) this summer?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "did you travel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4102"
+        },
+        {
+          "index": 1,
+          "template": "Phil: We {0} (go) to Playa del Carmen, in Mexico.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "went",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4103"
+        },
+        {
+          "index": 2,
+          "template": "Emma: Where {0} (you/stay)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "did you stay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4104"
+        },
+        {
+          "index": 3,
+          "template": "Phil: We {0} (stay) in a nice beach resort.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "stayed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4105"
+        },
+        {
+          "index": 4,
+          "template": "Emma: {0} (your children/like) it?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did your children like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4106"
+        },
+        {
+          "index": 5,
+          "template": "Phil: Of course! They {0} (spend) all week on the beach.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "spent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4107"
+        },
+        {
+          "index": 6,
+          "template": "Emma: {0} (be/you) there for one week?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Were you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4108"
+        },
+        {
+          "index": 7,
+          "template": "Phil: Yes. We {0} (come) back last Sunday.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "came",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4109"
+        },
+        {
+          "index": 8,
+          "template": "Emma: {0} (your wife/enjoy) the trip too?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did your wife enjoy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4110"
+        },
+        {
+          "index": 9,
+          "template": "Phil: Yes, she {0}, although she {1} (not like) the food too much.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she did, although she didn't like",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she did, although she didn't like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4111"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Negatives and questions",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Where {0} on holiday last summer?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you went",
+                "went you",
+                "did you go"
+              ],
+              "correct": "did you go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4082"
+        },
+        {
+          "index": 1,
+          "template": "They {0} until 5 o'clock in the afternoon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't arrive",
+                "didn't arrived",
+                "weren't arrived"
+              ],
+              "correct": "didn't arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4083"
+        },
+        {
+          "index": 2,
+          "template": "They {0} sure of what to do.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't were",
+                "didn't be",
+                "weren't"
+              ],
+              "correct": "weren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4094"
+        },
+        {
+          "index": 3,
+          "template": "We {0} after midnight.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't arrived",
+                "arrived",
+                "did arrive"
+              ],
+              "correct": "arrived",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4095"
+        },
+        {
+          "index": 4,
+          "template": "{0} the present?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you liked",
+                "Did you like",
+                "Were you like"
+              ],
+              "correct": "Did you like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4096"
+        },
+        {
+          "index": 5,
+          "template": "Sara {0} the film because she was asleep.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't watch",
+                "didn't watched",
+                "weren't watch"
+              ],
+              "correct": "didn't watch",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4097"
+        },
+        {
+          "index": 6,
+          "template": "John and Felicity {0} married last year.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "got",
+                "did get",
+                "were get"
+              ],
+              "correct": "got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4098"
+        },
+        {
+          "index": 7,
+          "template": "She {0} ready for the test.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't be",
+                "wasn't",
+                "didn't was"
+              ],
+              "correct": "wasn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4099"
+        },
+        {
+          "index": 8,
+          "template": "I {0} the question. Can you repeat it?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't understood",
+                "wasn't understood",
+                "didn't understand"
+              ],
+              "correct": "didn't understand",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4100"
+        },
+        {
+          "index": 9,
+          "template": "{0} when he saw you?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Was he smile",
+                "Did he smiled",
+                "Did he smile"
+              ],
+              "correct": "Did he smile",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4101"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

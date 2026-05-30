@@ -1,0 +1,519 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "future-forms",
+  "order_index": 1,
+  "title": "Future forms: Will, be going to, present continuous",
+  "source_url": "https://test-english.com/grammar-points/b1/future-forms/",
+  "scraped_at": "2026-05-23T07:20:12.963Z",
+  "explanation": {
+    "markdown": "## Future forms: Grammar chart\n\n![Future forms – will, be going to, present continuous](/uploads/grammar/b1/future-forms/img-1.png)\n\n## Predictions\n\nWe use [**will**](https://test-english.com/grammar-points/a1/will-and-shall/) to talk about something we **think** that will happen:\n\n-   *I think he’**ll win** the election.*\n-   *He **will be** a good doctor.*\n\nWe use [**be going to**](https://test-english.com/grammar-points/a1/be-going-to-plans-predictions/) to talk about something that is very near to happen or that we **see** is going to happen (there is present evidence)\n\n-   *Don’t drive like a crazy man. We’**re going to have** an accident!*\n-   *The doctor said I’**m going to have** a girl.*\n\n## Decisions\n\nWe use **will** for decisions that we take at the moment of speaking (**instant decisions)**.\n\n-   ‘*Oh, we don’t have sugar.’ ‘Don’t worry, I’**ll buy** some.’*\n\nWe use **be going to** for decisions that we have already taken at the moment of speaking (**intentions or plans**).\n\n-   *‘Why are you undressing?’ ‘Because I’**m going** to go to the swimming pool.’*\n\n## Arrangements\n\nWe often use the [**present continuous**](https://test-english.com/grammar-points/a1/present-continuous/) to talk about future events that have already been planned or decided. When we use the **present continuous** for arrangements, we must always include **when** (*at* *7,* *this evening, next month*, etc.) in the sentence.\n\n-   *I’**m seeing** the dentist at 6.*\n-   *We **are getting** married next week.*\n-   *I’**m flying** to New York tomorrow morning.*\n\nWe can also use **be going to** for future arrangements.\n\n-   *I’**m going to** play tennis with Elisabeth today.* \n\n## Future time clauses (**when**, **as soon as**, **until**, **before**, **after**)\n\nUse the **present simple** to talk about the future in [future time clauses](https://test-english.com/grammar-points/a2/first-conditional-future-time-clauses/) with **when, as soon as, until, before** and **after**.\n\n-   *I’ll retire when I**‘ll be** 70. ![](/uploads/grammar/b1/future-forms/img-2.png)* \n-   *I’ll retire when I**‘m** 70. ![](/uploads/grammar/b1/future-forms/img-3.png)* \n-   *I won’t call you until I **will arrive**. ![](/uploads/grammar/b1/future-forms/img-4.png)* \n-   *I won’t call you until I **arrive***. *![](/uploads/grammar/b1/future-forms/img-5.png)*\n\n## Other uses of **will**\n\n#### Promises and refusals\n\n-   *I **will help** you whenever you need me.*   \n-   *I **won’t lend** him my car.* \n\n#### Future facts\n\n-   *The president **will visit** the Vatican next November.*\n\n#### Offers\n\nWe use **I will** in statements or **shall** **I** in questions.\n\n-   *I’**ll carry** that bag for you.*\n-   ***Shall*** *I **organise** the meeting?*\n\n#### Suggestions\n\nWe use **shall we…?**\n\n-   ***Shall*** *we **eat** out today?*\n\n#### Requests\n\nWhen we ask someone to do something for us.\n\n-   ***Will*** *you **open** the door, please?*\n\n## **May** or **might** as a future form\n\nWe use **may** or **might** for possible actions in the future (when ‘we are not sure’). Compare:\n\n-   *I’**ll be** late for dinner today.* (=I am sure.)\n-   *I **might** **be** late for dinner today.* (=It’s possible, but I am not sure.)\n-   *I’**m going** to Denmark next September*. (=Sure.)\n-   *I **might go** to Denmark next September.* (=Not sure.)\n\nWe use [**may** or **might**](https://test-english.com/grammar-points/a2/may-and-might-whats-the-difference/) for things that will possibly happen in the future, but we are not too sure. It’s like a prediction about something that we think perhaps will happen.\n\n-   *The economy **might suffer** a global recession next year.*\n-   *Temperatures **may go up** next week.*\n\nWe use **may** or **might not** for actions or things that will possibly not happen.\n\n-   *She looks very tired. She **might not come** with us.*\n-   *We **may not have** enough time to finish the report for tomorrow.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/future-forms_will_going-to-present-continuous_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/future-forms/img-1.png",
+        "alt": "Future forms – will, be going to, present continuous"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/future-forms/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/future-forms/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/future-forms/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b1/future-forms/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Future forms: Will, be going to, present continuous",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What time ______ work on Monday?",
+          "options": [
+            "do you finish",
+            "will you finish",
+            "are you going to finish"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "______ this weekend?",
+          "options": [
+            "Do you go out",
+            "Will you go out",
+            "Are you going out"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I'm sorry I made you so angry. I ______ it again",
+          "options": [
+            "won't do",
+            "'m not going to do",
+            "'m not doing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "It's really hot. ______ the window, please?",
+          "options": [
+            "Are you going to open",
+            "Will you open",
+            "Do you open"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I don't think I ______ come tomorrow.",
+          "options": [
+            "'m being able to",
+            "am able to",
+            "will be able to"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: Where are you going? B:I ______ something for dinner.",
+          "options": [
+            "'m going to buy",
+            "'ll buy",
+            "'m buying"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "You can insist all you want; I ______ you.",
+          "options": [
+            "'m not helping",
+            "don't help",
+            "won't help"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_______ doing that, please? I'm trying to concentrate.",
+          "options": [
+            "Are you going to stop",
+            "Will you stop",
+            "Do you stop"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "______ tonight? There's a new restaurant that looks promising.",
+          "options": [
+            "Shall we eat out",
+            "Will we eat out",
+            "Are we going to eat out"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm sure the baby ______ blue eyes, like her mother.",
+          "options": [
+            "is going to have",
+            "will have",
+            "is having"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Future forms: Will, be going to, present continuous",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Look! That car over there {0}!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will crash",
+                "is crashing",
+                "is going to crash"
+              ],
+              "correct": "is going to crash",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1525"
+        },
+        {
+          "index": 1,
+          "template": "{0} the music down, please?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Will you turn",
+                "Are you going to turn",
+                "Are you turning"
+              ],
+              "correct": "Will you turn",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1526"
+        },
+        {
+          "index": 2,
+          "template": "The film {0} at 5 p.m.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is going to start",
+                "is starting",
+                "starts"
+              ],
+              "correct": "starts",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1527"
+        },
+        {
+          "index": 3,
+          "template": "I'm sure you {0} the lottery one day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are winning",
+                "are going to win",
+                "will win"
+              ],
+              "correct": "will win",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1528"
+        },
+        {
+          "index": 4,
+          "template": "Don't you have any money on you? Don't worry, I {0} for the taxi.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m paying",
+                "'ll pay",
+                "'m going to pay"
+              ],
+              "correct": "'ll pay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1529"
+        },
+        {
+          "index": 5,
+          "template": "According to my diary, we {0} the buyers at 7p.m. tomorrow.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will meet",
+                "are meeting",
+                "meet"
+              ],
+              "correct": "are meeting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1530"
+        },
+        {
+          "index": 6,
+          "template": "It's cold. {0} the heating on?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Am I going to turn",
+                "Shall I turn",
+                "Do I turn"
+              ],
+              "correct": "Shall I turn",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1531"
+        },
+        {
+          "index": 7,
+          "template": "I can't see you tomorrow. I {0} football with my university friends.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will play",
+                "'m playing",
+                "play"
+              ],
+              "correct": "'m playing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1532"
+        },
+        {
+          "index": 8,
+          "template": "A: Maria phoned you. B: OK. I {0} her back.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will call",
+                "am calling",
+                "am going to call"
+              ],
+              "correct": "am going to call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1533"
+        },
+        {
+          "index": 9,
+          "template": "Thanks for the money. I {0} you back on Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will pay",
+                "'m paying",
+                "'m going to pay"
+              ],
+              "correct": "will pay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1534"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Future forms: Will, be going to, present continuous",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "MARIA: What 1 {0} (you/do) this evening? 2 {1} (we/go out)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are you doing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are we going out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1545"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Future forms: Will, be going to, present continuous",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What time ______ work on Monday?",
+          "options": [
+            "do you finish",
+            "will you finish",
+            "are you going to finish"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "______ this weekend?",
+          "options": [
+            "Do you go out",
+            "Will you go out",
+            "Are you going out"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I'm sorry I made you so angry. I ______ it again",
+          "options": [
+            "won't do",
+            "'m not going to do",
+            "'m not doing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "It's really hot. ______ the window, please?",
+          "options": [
+            "Are you going to open",
+            "Will you open",
+            "Do you open"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I don't think I ______ come tomorrow.",
+          "options": [
+            "'m being able to",
+            "am able to",
+            "will be able to"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: Where are you going? B:I ______ something for dinner.",
+          "options": [
+            "'m going to buy",
+            "'ll buy",
+            "'m buying"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "You can insist all you want; I ______ you.",
+          "options": [
+            "'m not helping",
+            "don't help",
+            "won't help"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_______ doing that, please? I'm trying to concentrate.",
+          "options": [
+            "Are you going to stop",
+            "Will you stop",
+            "Do you stop"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "______ tonight? There's a new restaurant that looks promising.",
+          "options": [
+            "Shall we eat out",
+            "Will we eat out",
+            "Are we going to eat out"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm sure the baby ______ blue eyes, like her mother.",
+          "options": [
+            "is going to have",
+            "will have",
+            "is having"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}
