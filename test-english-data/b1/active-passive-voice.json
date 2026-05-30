@@ -1,0 +1,521 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "active-passive-voice",
+  "order_index": 16,
+  "title": "Active and passive voice",
+  "source_url": "https://test-english.com/grammar-points/b1/active-passive-voice/",
+  "scraped_at": "2026-05-23T07:22:09.504Z",
+  "explanation": {
+    "markdown": "## Active and passive voice\n\n![B1 intermediate English grammar chart comparing active and passive voice structures with definitions for subject, object, doer, and receiver, and examples illustrating when to use the passive voice.](/uploads/grammar/b1/active-passive-voice/img-1.png)\n\n### Active sentences vs passive sentences\n\nWhen **A does B**, we have two possible ways of talking about it: **active** or **passive.** In active sentences, **A is the subject** (before the verb). In passive sentences, **B is the subject**. Check the following examples:\n\n*Somebody cleaned the classroom yesterday. (Active)*\n\n*The classroom was cleaned every day.* (Passive)\n\nAs you can see, the object of an active sentence is the subject of a passive sentence. You can learn how to form the passive in all the different verb tenses [here](https://test-english.com/grammar-points/b1/passive-verb-forms/).\n\n### When do we use the passive?\n\nThe passive is more formal than the active and is more common in written language. We often use the passive when we don’t know, when it is obvious, or when we don’t want to say who or what is responsible for the action.\n\n-   *A bank **was robbed** yesterday. (*We don’t know who robbed the bank.)\n-   *The robber **was arrested** last night.* (It’s obvious that the police arrested the robber.)\n-   *I **was told** that you insulted my brother.* (I don’t want to say who told me.)\n-   *Jurassic Park **was filmed** by Spielberg in 1993.* (I’m talking about Jurassic Park and not about Spielberg.)\n\nThe passive voice is very common in the **news** and in **formal writing**.\n\n-   *Arsenal **have been defeated** 3‐0, and they are now 4th* *in the table.*\n-   *The British embassy in Israel **has been destroyed** by an earthquake.* \n-   *The Catalan election **will be held** next September.*\n\n### Passive voice + **by**\n\nWe can use **by** to say who or what is responsible for the action.\n\n-   *The painting was bought **by a very rich American**.*\n-   *Penicillin was invented **by Alexander Fleming**.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Active-vs-passive-voice_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/active-passive-voice/img-1.png",
+        "alt": "B1 intermediate English grammar chart comparing active and passive voice structures with definitions for subject, object, doer, and receiver, and examples illustrating when to use the passive voice."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Active and passive voice",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Hundreds of people {0} in this factory and many of them {1} their jobs.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "employ",
+                "are employed"
+              ],
+              "correct": "are employed",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "will lose",
+                "will be lost"
+              ],
+              "correct": "will lose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1839"
+        },
+        {
+          "index": 1,
+          "template": "Three men {0} after the incident, and five others {1} to hospital.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "were arrested",
+                "arrested"
+              ],
+              "correct": "were arrested",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were taken",
+                "took"
+              ],
+              "correct": "were taken",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1840"
+        },
+        {
+          "index": 2,
+          "template": "About 71 percent of the Earth's surface {0} by water, and oceans {1} about 96% of all Earth's water.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is covered",
+                "covers"
+              ],
+              "correct": "is covered",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "hold",
+                "are held"
+              ],
+              "correct": "hold",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1841"
+        },
+        {
+          "index": 3,
+          "template": "The package {0} more than a week ago, but it {1} until yesterday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was sent",
+                "sent"
+              ],
+              "correct": "was sent",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "didn't arrive",
+                "wasn't arrived"
+              ],
+              "correct": "didn't arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1842"
+        },
+        {
+          "index": 4,
+          "template": "The building {0} by the fire, but everybody {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "has been destroyed",
+                "has destroyed"
+              ],
+              "correct": "has been destroyed",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "rescued",
+                "has been rescued"
+              ],
+              "correct": "has been rescued",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1843"
+        },
+        {
+          "index": 5,
+          "template": "My camera {0} and I {1} all the photographs from my last trip.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was stolen",
+                "stole"
+              ],
+              "correct": "was stolen",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "lost",
+                "was lost"
+              ],
+              "correct": "lost",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1844"
+        },
+        {
+          "index": 6,
+          "template": "You {0} for what you {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "should be arrested",
+                "should arrest"
+              ],
+              "correct": "should be arrested",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "were done",
+                "did"
+              ],
+              "correct": "did",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1845"
+        },
+        {
+          "index": 7,
+          "template": "I know red wine {0} cold, but we {1} it at room temperature.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "should be drunk",
+                "should drink"
+              ],
+              "correct": "should be drunk",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "drink",
+                "are drunk"
+              ],
+              "correct": "drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1846"
+        },
+        {
+          "index": 8,
+          "template": "I {0} to see you any more, so you {1} again.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "am not allowed",
+                "don't allow"
+              ],
+              "correct": "am not allowed",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "shouldn't be come",
+                "shouldn't come"
+              ],
+              "correct": "shouldn't come",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1847"
+        },
+        {
+          "index": 9,
+          "template": "Please, {0} away from the places where you {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "be stayed",
+                "stay"
+              ],
+              "correct": "stay",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "can be seen",
+                "can see"
+              ],
+              "correct": "can see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1848"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Active and passive voice",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The new musical ______ next week at 12th Street's Old Auditorium.",
+          "options": [
+            "is going to be performed",
+            "is going to perform",
+            "will perform"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "A lot of measures ______ to fix the economy.",
+          "options": [
+            "have been taken",
+            "are taking",
+            "have taken"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I ______ you exactly what to do when we arrive.",
+          "options": [
+            "will be shown",
+            "am shown",
+            "will show"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The police discovered a group of women who ______ in an illegal factory.",
+          "options": [
+            "have been exploited",
+            "were being exploited",
+            "were exploiting"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "When do you think they ______ us the copy of the contract?",
+          "options": [
+            "will send",
+            "will be sent",
+            "are they being sent"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Chicken thighs ______ for 40 to 50 minutes.",
+          "options": [
+            "should be baking",
+            "should be baked",
+            "should bake"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "After five months the children ______ to say many things in English.",
+          "options": [
+            "had learned",
+            "had been learned",
+            "had learning"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Five people ______ after a car ______ into a bus last night.",
+          "options": [
+            "were injured / crashed",
+            "injured / was crashed",
+            "injured / crashed"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Road safety ______ in every school of the country.",
+          "options": [
+            "should teach",
+            "should be teaching",
+            "should be taught"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "He has no initiative. He needs ______ what to do all the time.",
+          "options": [
+            "to tell",
+            "to be told",
+            "to been told"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Active and passive voice",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Authorities 1 {0} (just/announce) that Saint Pauls Bank 2 {1} (rob) yesterday. Two men 3 {2} (go) into the bank at 9.30 armed with automatic guns. The customers and workers 4 {3} (tell) to lie down on the floor and one of the bank clerks 5 {4} (ask) at gunpoint to give them all the money. Then the two robbers 6 {5} (leave) the building quickly.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "just announced",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was robbed",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "went",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were told",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was asked",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "left",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1849"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Active and passive voice",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Wine 1 {0} (produce) for thousands of years. The earliest known evidence of wine 2 {1} (come) from Georgia (Caucasus), where 8000-year-old wine jars 3 {2} (find) in 2008. Wine 4 {3} (reach) the Balkans by c. 4500 BC and 5 {4} (consume) in ancient Greece, Thrace and Rome. Throughout history, wine 6 {5} (consume) for its intoxicating effects, which are evident at normal serving sizes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "has been produced",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "came",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were found",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "reached",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was consumed",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "has been consumed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1860"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,524 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives",
+  "order_index": 22,
+  "title": "Subject and object pronouns, possessive pronouns and adjectives",
+  "source_url": "https://test-english.com/grammar-points/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/",
+  "scraped_at": "2026-05-23T07:17:47.992Z",
+  "explanation": {
+    "markdown": "## Personal pronouns and possessive adjectives: Grammar chart\n\n![](/uploads/grammar/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/img-1.png)\n\n## Subject pronouns\n\n#### Before the verb\n\nWe use **subject pronouns** as the subject of the verb (before the verb).\n\n-   ***I*** *like your dress.*\n-   ***You*** *are late.*\n-   ***He*** *is my friend.*\n-   ***It*** *is raining.*\n-   ***She*** *is on holiday.*\n-   ***We*** *live in England.*\n-   ***They*** *come from London.*\n\n## Object pronouns\n\n#### After the verb\n\nWe use **object pronouns** as the object of the verb (after the verb).\n\n-   *Can you help* ***me****, please?*\n-   *I can see* ***you****.*\n-   *She doesn’t like* ***him****.*\n-   *I saw* ***her*** *in town today.*\n-   *We saw* ***them*** *in town yesterday, but they didn’t see* ***us****.*\n\n#### After a preposition\n\nWe use **object pronouns** after prepositions.\n\n-   *She is waiting* ***for me****.*\n-   *I’ll get it* ***for you****.*\n-   *Give it* ***to him****.*\n-   *Why are you looking* ***at her****?*\n-   *Don’t take it* ***from us****.*\n-   *I’ll speak* ***to them****.* \n\n## Possessive adjectives\n\n#### Before a noun\n\nWe use **possessive adjectives** before a noun because they modify a noun.\n\n-   ***My*** *dog is big.*\n-   ***Her*** *cat is brown.*\n-   ***Their*** *sister works downtown.*\n\n## Possessive pronouns\n\n#### Without a noun\n\nA **possessive pronoun** is NOT followed by a noun.\n\n-   *The dog is* ***mine****.*\n-   *The brown cat is* ***hers****.*\n-   *The car is* ***ours****.*\n\n#### **Whose**\n\nWe use [**whose**](https://test-english.com/grammar-points/a1/whose-possessive-s/) to ask about possession.\n\n-   ***Whose*** *car is that?*\n-   ***Whose*** *is that car?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Subject-pronouns_Object-pronouns_Possessive-adjectives_Possessive-pronouns.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/img-1.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Subject and object pronouns, possessive pronouns and adjectives",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Look at this picture. These are my daughters. {0} names are Jane and Laura.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Their",
+                "Them",
+                "Theirs"
+              ],
+              "correct": "Their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3345"
+        },
+        {
+          "index": 1,
+          "template": "John was born in Bristol, but {0} father was born in Manchester.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "him",
+                "your",
+                "his"
+              ],
+              "correct": "his",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3346"
+        },
+        {
+          "index": 2,
+          "template": "I want to go to a Rihanna concert. I really like {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "she",
+                "hers",
+                "her"
+              ],
+              "correct": "her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3347"
+        },
+        {
+          "index": 3,
+          "template": "I don't have my mobile phone. Can I use {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "your",
+                "yours",
+                "you"
+              ],
+              "correct": "your",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3348"
+        },
+        {
+          "index": 4,
+          "template": "We need help. Can you help {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "we",
+                "us",
+                "our"
+              ],
+              "correct": "us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3349"
+        },
+        {
+          "index": 5,
+          "template": "Carla and Ned have a really nice car. I love {0} car.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "them",
+                "theirs",
+                "their"
+              ],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3350"
+        },
+        {
+          "index": 6,
+          "template": "This T-shirt is not mine. Is it {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "your",
+                "yours",
+                "you"
+              ],
+              "correct": "yours",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3351"
+        },
+        {
+          "index": 7,
+          "template": "I am going to see the Rolling Stones. Do you like {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "they",
+                "their",
+                "them"
+              ],
+              "correct": "them",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3352"
+        },
+        {
+          "index": 8,
+          "template": "We live in a nice house, but {0} neighbours are horrible!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "us",
+                "ours",
+                "our"
+              ],
+              "correct": "our",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3353"
+        },
+        {
+          "index": 9,
+          "template": "I miss my parents. I want to send {0} a postcard.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "them",
+                "they",
+                "their"
+              ],
+              "correct": "them",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3354"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Subject and object pronouns, possessive pronouns and adjectives",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "\"Do you like pop music?\" \"No, I don't really like _____.\"",
+          "options": [
+            "its",
+            "it",
+            "her"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I hate peaches. _____ taste horrible!",
+          "options": [
+            "They",
+            "Them",
+            "It"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Look, Sally is there. I want to ask _____ if she wants to go out tonight.",
+          "options": [
+            "she",
+            "hers",
+            "her"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I never eat sweets. I don't like _____.",
+          "options": [
+            "it",
+            "their",
+            "them"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Ted is a good person. Stop criticising _____!",
+          "options": [
+            "him",
+            "he",
+            "his"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "This is not your shoe. It's _____.",
+          "options": [
+            "she",
+            "her",
+            "hers"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "\"Whose medicines are these?\" \"They are not _____. Ask Sally, maybe they are _____\"",
+          "options": [
+            "me/hers",
+            "mine/hers",
+            "my/hers"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Go away! I hate _____!",
+          "options": [
+            "you",
+            "yours",
+            "your"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "You can ask Fred for money. _____ is very generous.",
+          "options": [
+            "He",
+            "Him",
+            "His"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I can't use _____ mobile phone. I think _____ is broken.",
+          "options": [
+            "mine/it",
+            "my/its",
+            "my/it"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Subject and object pronouns, possessive pronouns and adjectives",
+      "sentences": [],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Subject and object pronouns, possessive pronouns and adjectives",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Look at this picture. These are my daughters. {0} names are Jane and Laura.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Their",
+                "Them",
+                "Theirs"
+              ],
+              "correct": "Their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3345"
+        },
+        {
+          "index": 1,
+          "template": "John was born in Bristol, but {0} father was born in Manchester.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "him",
+                "your",
+                "his"
+              ],
+              "correct": "his",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3346"
+        },
+        {
+          "index": 2,
+          "template": "I want to go to a Rihanna concert. I really like {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "she",
+                "hers",
+                "her"
+              ],
+              "correct": "her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3347"
+        },
+        {
+          "index": 3,
+          "template": "I don't have my mobile phone. Can I use {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "your",
+                "yours",
+                "you"
+              ],
+              "correct": "your",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3348"
+        },
+        {
+          "index": 4,
+          "template": "We need help. Can you help {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "we",
+                "us",
+                "our"
+              ],
+              "correct": "us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3349"
+        },
+        {
+          "index": 5,
+          "template": "Carla and Ned have a really nice car. I love {0} car.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "them",
+                "theirs",
+                "their"
+              ],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3350"
+        },
+        {
+          "index": 6,
+          "template": "This T-shirt is not mine. Is it {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "your",
+                "yours",
+                "you"
+              ],
+              "correct": "yours",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3351"
+        },
+        {
+          "index": 7,
+          "template": "I am going to see the Rolling Stones. Do you like {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "they",
+                "their",
+                "them"
+              ],
+              "correct": "them",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3352"
+        },
+        {
+          "index": 8,
+          "template": "We live in a nice house, but {0} neighbours are horrible!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "us",
+                "ours",
+                "our"
+              ],
+              "correct": "our",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3353"
+        },
+        {
+          "index": 9,
+          "template": "I miss my parents. I want to send {0} a postcard.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "them",
+                "they",
+                "their"
+              ],
+              "correct": "them",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3354"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,703 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "most-most-of-the-most",
+  "order_index": 16,
+  "title": "Most, most of, the most",
+  "source_url": "https://test-english.com/grammar-points/a2/most-most-of-the-most/",
+  "scraped_at": "2026-05-23T07:16:48.631Z",
+  "explanation": {
+    "markdown": "## **Most, most of, the most** : Grammar chart\n\n![Educational infographic illustrating the grammatical differences between 'most', 'most of', and 'the most' with examples for each category.](/uploads/grammar/a2/most-most-of-the-most/img-1.png)\n\n### **Most**\n\nWe use **most** (without **the/this/that/my/etc.**) with nouns to mean ‘the majority of’ something.\n\n-   ***Most of people** can’t work from home. ![](/uploads/grammar/a2/most-most-of-the-most/img-2.png)* \n-   ***Most people** can’t work from home. ![](/uploads/grammar/a2/most-most-of-the-most/img-3.png)* \n-   *I have some bad days, but **most days** are good.* \n\nWe can use **most** + noun to talk about the majority of people or things in general\n\n-   ***Most students** like online learning.*\n\n### **Most of**\n\nWe use **most of** before **the/this/that/my/etc.**\n\n-   ***Most of students** in my class practice sports. ![](/uploads/grammar/a2/most-most-of-the-most/img-4.png)* \n-   ***Most of the students** in my class practice sports. ![](/uploads/grammar/a2/most-most-of-the-most/img-5.png)* \n-   ***Most of this information** is not true.* \n\nWe can also use **most of** + [object pronoun](https://test-english.com/grammar-points/a1/object-pronouns/).\n\n-   ***Most of us** come from poor families.* \n-   *They arrested **most of them**.*\n\n#### Be careful with this common mistake!\n\nWe say **most** or **most of** (NOT **the most**) to talk about the majority of something.\n\n-   ***The most students** like online learning. ![](/uploads/grammar/a2/most-most-of-the-most/img-6.png)* \n-   ***Most students** like online learning. ![](/uploads/grammar/a2/most-most-of-the-most/img-7.png)* \n-   ***The most of us** come from poor families. ![](/uploads/grammar/a2/most-most-of-the-most/img-8.png)* \n-   ***Most of us** come from poor families. ![](/uploads/grammar/a2/most-most-of-the-most/img-9.png)* \n\n### **The most**\n\nWe say the most before [adjectives or adverbs](https://test-english.com/grammar-points/a1/adverbs-manner/) to make the superlative form.\n\n-   *These are **the most comfortable** sofas you can buy.* \n-   *Here, you can find **the most beautiful** views in the region.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/most_most-of_the-most.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-1.png",
+        "alt": "Educational infographic illustrating the grammatical differences between 'most', 'most of', and 'the most' with examples for each category."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a2/most-most-of-the-most/img-9.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Most, most of, the most",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} the people in the audience were wearing masks.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most",
+                "The most",
+                "Most of"
+              ],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6114"
+        },
+        {
+          "index": 1,
+          "template": "{0} people don't wear masks.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most of",
+                "The most",
+                "Most"
+              ],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6124"
+        },
+        {
+          "index": 2,
+          "template": "{0} important things in life are health and love.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most",
+                "The most",
+                "Most of"
+              ],
+              "correct": "The most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6123"
+        },
+        {
+          "index": 3,
+          "template": "Chloe invited {0} her friends to her birthday party.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "most",
+                "the most",
+                "most of"
+              ],
+              "correct": "most of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6118"
+        },
+        {
+          "index": 4,
+          "template": "{0} people in Northern Europe can speak English.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most",
+                "The most",
+                "Most of"
+              ],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6125"
+        },
+        {
+          "index": 5,
+          "template": "Studies show that {0} teenagers need 9 hours of sleep.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the most",
+                "most of",
+                "most"
+              ],
+              "correct": "most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6117"
+        },
+        {
+          "index": 6,
+          "template": "He bought {0} expensive watch in the shop.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "most",
+                "the most",
+                "most of"
+              ],
+              "correct": "the most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6122"
+        },
+        {
+          "index": 7,
+          "template": "There were lots of people and I didn't know {0} them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the most",
+                "most of",
+                "most"
+              ],
+              "correct": "most of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6119"
+        },
+        {
+          "index": 8,
+          "template": "{0} teachers continue using exams.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most of",
+                "The most",
+                "Most"
+              ],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6120"
+        },
+        {
+          "index": 9,
+          "template": "Lori is {0} optimistic of the group.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the most",
+                "most of",
+                "most"
+              ],
+              "correct": "the most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6121"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Most, most of, the most",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "At the party, I introduced Sally to ______ my friends.",
+          "options": [
+            "most",
+            "most of",
+            "the most"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "France, Spain and Italy are _____ popular tourist destinations in Europe.",
+          "options": [
+            "most",
+            "most of",
+            "the most"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "______ the students in my class have lunch at the cafeteria.",
+          "options": [
+            "Most",
+            "Most of",
+            "The most"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_____ people use social media platforms such as Twitter, Facebook, Instagram, etc.",
+          "options": [
+            "Most",
+            "Most of",
+            "The most"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "What are _____ useful languages to learn?",
+          "options": [
+            "most",
+            "most of",
+            "the most"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "We spent ______ our holiday lying on the beach.",
+          "options": [
+            "most",
+            "most of",
+            "the most"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The weather isn't great here in winter. It rains _____ days.",
+          "options": [
+            "most",
+            "most of",
+            "the most"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The coach and ______ the players are Canadian.",
+          "options": [
+            "most",
+            "most of",
+            "the most"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "In _____ schools in Japan, students bring a lunch box from home.",
+          "options": [
+            "most",
+            "most of",
+            "the most"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "We use _____ advanced techniques.",
+          "options": [
+            "most",
+            "most of",
+            "the most"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Most, most of, the most",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He ate {0} the cake.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6139"
+        },
+        {
+          "index": 1,
+          "template": "There is a high risk of fire in {0} areas.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6137"
+        },
+        {
+          "index": 2,
+          "template": "They went to {0} famous restaurants in the region.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6143"
+        },
+        {
+          "index": 3,
+          "template": "{0} people believe what they read online.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6116"
+        },
+        {
+          "index": 4,
+          "template": "{0} mornings, she writes two or three pages.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6136"
+        },
+        {
+          "index": 5,
+          "template": "He spent {0} his life in prison.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "most of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6140"
+        },
+        {
+          "index": 6,
+          "template": "These are {0} comfortable shoes in the shop.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6144"
+        },
+        {
+          "index": 7,
+          "template": "Becoming a professional football player is the dream of {0} young boys.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6138"
+        },
+        {
+          "index": 8,
+          "template": "{0} the people in my neighbourhood are nice and friendly.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6141"
+        },
+        {
+          "index": 9,
+          "template": "This is {0} ridiculous idea I've ever heard.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6142"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Most, most of, the most",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} the people in the audience were wearing masks.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most",
+                "The most",
+                "Most of"
+              ],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6114"
+        },
+        {
+          "index": 1,
+          "template": "{0} people don't wear masks.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most of",
+                "The most",
+                "Most"
+              ],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6124"
+        },
+        {
+          "index": 2,
+          "template": "{0} important things in life are health and love.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most",
+                "The most",
+                "Most of"
+              ],
+              "correct": "The most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6123"
+        },
+        {
+          "index": 3,
+          "template": "Chloe invited {0} her friends to her birthday party.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "most",
+                "the most",
+                "most of"
+              ],
+              "correct": "most of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6118"
+        },
+        {
+          "index": 4,
+          "template": "{0} people in Northern Europe can speak English.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most",
+                "The most",
+                "Most of"
+              ],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6125"
+        },
+        {
+          "index": 5,
+          "template": "Studies show that {0} teenagers need 9 hours of sleep.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the most",
+                "most of",
+                "most"
+              ],
+              "correct": "most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6117"
+        },
+        {
+          "index": 6,
+          "template": "He bought {0} expensive watch in the shop.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "most",
+                "the most",
+                "most of"
+              ],
+              "correct": "the most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6122"
+        },
+        {
+          "index": 7,
+          "template": "There were lots of people and I didn't know {0} them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the most",
+                "most of",
+                "most"
+              ],
+              "correct": "most of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6119"
+        },
+        {
+          "index": 8,
+          "template": "{0} teachers continue using exams.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Most of",
+                "The most",
+                "Most"
+              ],
+              "correct": "Most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6120"
+        },
+        {
+          "index": 9,
+          "template": "Lori is {0} optimistic of the group.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the most",
+                "most of",
+                "most"
+              ],
+              "correct": "the most",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6121"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

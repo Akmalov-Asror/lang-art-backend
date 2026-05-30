@@ -1,0 +1,715 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "second-conditional-unreal-situations",
+  "order_index": 19,
+  "title": "Second conditional: Unreal situations",
+  "source_url": "https://test-english.com/grammar-points/b1/second-conditional-unreal-situations/",
+  "scraped_at": "2026-05-23T07:22:32.883Z",
+  "explanation": {
+    "markdown": "## Second conditional: Grammar chart\n\n![Second conditional grammar chart showing sentence structure for hypothetical situations with examples like \"If I won the lottery, I would buy a yacht.\"](/uploads/grammar/b1/second-conditional-unreal-situations/img-1.png)\n\n## **If** clause and main clause\n\nWe use **if** + **past tense** to talk about an imaginary present or future situation (although the verb is in the past, the meaning is present or future). And we use **would** + **infinitive** to talk about the result or consequence of that imaginary situation.\n\n-   *If we **had** a mansion in the country, we’**d go** there every weekend.* \n-   ***Would** you **travel** around the world if you **won** the lottery?*\n\n#### Comma\n\nWhen the **if clause** comes first, we normally put a **comma** after it. We don’t use a comma when the **main clause** comes first, and the **if clause** comes second.\n\n-   ***If*** *I won the lottery**,** I’d buy a mansion.*\n-   *I’d buy a mansion **if** I won the lottery.* \n\n#### **Unless** = if (not)\n\nWe can also use **unless** in conditional sentences to mean **if** … (**not**)\n\n-   *I wouldn’t live in a big city **unless** I had a lot of money.*\n-   *\\= I wouldn’t live in a big city **if** I **didn’t** have a lot of money.*\n\n## **Would, could, might**\n\nIn the main clause, we can use [**could**](https://test-english.com/grammar-points/b1/can-could-be-able-to/) or [**might**](https://test-english.com/grammar-points/a2/might-might-not/) instead of **would**.\n\n-   *If there **was** a fire, it **would be** difficult to escape.*\n-   *If you **were** a bit taller, you **could be** a basketball player.*\n-   *We **might** save enough money if we both **worked** overtime.*\n\n## **Was** or **were**?\n\nIn the second conditional, we can use **if I/****he/she/it were** (more formal) instead of **if I/****he/she/it was** (spoken English).\n\n-   ***If*** ***I** **were/was*** *fit, I would run a marathon.*\n-   *We wouldn’t have any problems **if** **he were/was** more reasonable.*\n\nBut we use **were** (NOT **was**) when we give advice with the expression **if I were you**.\n\n-   ***If I were you****, I would stay home and rest.*\n-   *I wouldn’t pay any attention to what he says **if I were you***.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/second-conditional-A2-B1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/second-conditional-unreal-situations/img-1.png",
+        "alt": "Second conditional grammar chart showing sentence structure for hypothetical situations with examples like \"If I won the lottery, I would buy a yacht.\""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Second conditional: Unreal situations",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I'd give you her number if I {0} it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have",
+                "had",
+                "have"
+              ],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1906"
+        },
+        {
+          "index": 1,
+          "template": "If I won the lottery, I think I {0} my job.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't give up",
+                "didn't give up",
+                "hadn't given up"
+              ],
+              "correct": "wouldn't give up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1907"
+        },
+        {
+          "index": 2,
+          "template": "Who {0} date if you could date anyone in the world?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had you",
+                "did you",
+                "would you"
+              ],
+              "correct": "would you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1908"
+        },
+        {
+          "index": 3,
+          "template": "If everybody in the world {0} one dollar, we'd finish the world's problems.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would donate",
+                "donated",
+                "donate"
+              ],
+              "correct": "donated",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1909"
+        },
+        {
+          "index": 4,
+          "template": "If you {0} my wife, I'd make you the happiest woman on earth.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would be",
+                "did",
+                "were"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1910"
+        },
+        {
+          "index": 5,
+          "template": "I {0} about that if I were you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't worry",
+                "didn't worry",
+                "hadn't worried"
+              ],
+              "correct": "wouldn't worry",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1911"
+        },
+        {
+          "index": 6,
+          "template": "If you told grandpa the truth, he {0} a heart attack.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had",
+                "will have",
+                "might have"
+              ],
+              "correct": "might have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1912"
+        },
+        {
+          "index": 7,
+          "template": "I wouldn't call unless I {0} a real emergency.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will have",
+                "had",
+                "would have"
+              ],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1913"
+        },
+        {
+          "index": 8,
+          "template": "You {0} to spend so much time tidying your house if you didn't have so much stuff.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't have",
+                "wouldn't have",
+                "hadn't had"
+              ],
+              "correct": "wouldn't have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1914"
+        },
+        {
+          "index": 9,
+          "template": "If you {0} so much noise, I could concentrate.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "won't make",
+                "wouldn't make",
+                "didn't make"
+              ],
+              "correct": "didn't make",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1915"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Second conditional: Unreal situations",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "If I ______ you, I wouldn't trust him.",
+          "options": [
+            "was",
+            "were",
+            "did"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "If we didn't take precautions, we ______ hurt. Choose TWO correct options",
+          "options": [
+            "can get",
+            "might get",
+            "would get"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "You ______ healthier if you ______ a bit of weight.",
+          "options": [
+            "felt / would lose",
+            "would feel / would lose",
+            "would feel / lost"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "If we sold the house, we ______ much right now.",
+          "options": [
+            "didn't get",
+            "wouldn't get",
+            "won't get"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Would you mind if I ______ the window?",
+          "options": [
+            "open",
+            "would open",
+            "opened"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I ______ him if he _______ me to help him.",
+          "options": [
+            "helped / 'd allow",
+            "'d help / allowed",
+            "'d help / allow"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "If you painted the walls white, the living room ______ bigger.",
+          "options": [
+            "would look",
+            "looked",
+            "had looked"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "If I was healthier, we ______ more often. Choose TWO correct options",
+          "options": [
+            "could travel",
+            "travelled",
+            "might travel"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "What kind of job ______ to have if you ______ a teacher?",
+          "options": [
+            "would you like / weren't",
+            "would you like / wasn't",
+            "did you like / wouldn't be"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "If drugs ______ legal, the world ______ safer.",
+          "options": [
+            "'d be / were",
+            "'d be / would be",
+            "were / would be"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Second conditional: Unreal situations",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Where {0} (you/travel) to if you {1} (can) go anywhere?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would you travel",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would you travel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1927"
+        },
+        {
+          "index": 1,
+          "template": "What {0} (you/do) if you {1} (be) in my situation?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would you do",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would you do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1928"
+        },
+        {
+          "index": 2,
+          "template": "If she {0} (know), she {1} (tell) you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "knew, would tell",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "knew, would tell",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1929"
+        },
+        {
+          "index": 3,
+          "template": "I {0} (have) a better job if I {1} (speak) English better.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1930"
+        },
+        {
+          "index": 4,
+          "template": "I {0} (never/forgive) you if I {1} (not be) your friend.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would never forgive",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would never forgive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1931"
+        },
+        {
+          "index": 5,
+          "template": "I {0} (be) happier if I {1} (have) more time.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would be",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1932"
+        },
+        {
+          "index": 6,
+          "template": "If you {0} (find) a wallet with a lot of money in it, what {1} (you/do)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "found, would you do",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "found, would you do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1933"
+        },
+        {
+          "index": 7,
+          "template": "If she {0} (not criticise) people so often, she {1} (have) more friends.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't criticise, would have",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "didn't criticise, would have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1934"
+        },
+        {
+          "index": 8,
+          "template": "If you {0} (get) lost, I {1} (go) to the end of the world to find you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "got, would go",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "got, would go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1935"
+        },
+        {
+          "index": 9,
+          "template": "He {0} (not travel) alone if he {1} (not have) his parents' permission.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would not travel",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would not travel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1936"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Second conditional: Unreal situations",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I'd give you her number if I {0} it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have",
+                "had",
+                "have"
+              ],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1906"
+        },
+        {
+          "index": 1,
+          "template": "If I won the lottery, I think I {0} my job.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't give up",
+                "didn't give up",
+                "hadn't given up"
+              ],
+              "correct": "wouldn't give up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1907"
+        },
+        {
+          "index": 2,
+          "template": "Who {0} date if you could date anyone in the world?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had you",
+                "did you",
+                "would you"
+              ],
+              "correct": "would you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1908"
+        },
+        {
+          "index": 3,
+          "template": "If everybody in the world {0} one dollar, we'd finish the world's problems.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would donate",
+                "donated",
+                "donate"
+              ],
+              "correct": "donated",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1909"
+        },
+        {
+          "index": 4,
+          "template": "If you {0} my wife, I'd make you the happiest woman on earth.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would be",
+                "did",
+                "were"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1910"
+        },
+        {
+          "index": 5,
+          "template": "I {0} about that if I were you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't worry",
+                "didn't worry",
+                "hadn't worried"
+              ],
+              "correct": "wouldn't worry",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1911"
+        },
+        {
+          "index": 6,
+          "template": "If you told grandpa the truth, he {0} a heart attack.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had",
+                "will have",
+                "might have"
+              ],
+              "correct": "might have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1912"
+        },
+        {
+          "index": 7,
+          "template": "I wouldn't call unless I {0} a real emergency.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will have",
+                "had",
+                "would have"
+              ],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1913"
+        },
+        {
+          "index": 8,
+          "template": "You {0} to spend so much time tidying your house if you didn't have so much stuff.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't have",
+                "wouldn't have",
+                "hadn't had"
+              ],
+              "correct": "wouldn't have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1914"
+        },
+        {
+          "index": 9,
+          "template": "If you {0} so much noise, I could concentrate.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "won't make",
+                "wouldn't make",
+                "didn't make"
+              ],
+              "correct": "didn't make",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1915"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

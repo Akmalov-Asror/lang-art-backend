@@ -1,0 +1,727 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "whose-possessive-s",
+  "order_index": 9,
+  "title": "Whose, possessive ‘s: Whose is this? It’s Mike’s",
+  "source_url": "https://test-english.com/grammar-points/a1/whose-possessive-s/",
+  "scraped_at": "2026-05-23T07:02:33.220Z",
+  "explanation": {
+    "markdown": "## Whose, possessive ‘s: Whose is this? It’s Mike’s\n\n### Possessive **‘s**: Use and form\n\n![Informative grammar chart explaining the use and form of possessive 's in English, with rules for singular, plural, and irregular nouns, and examples.](/uploads/grammar/a1/whose-possessive-s/img-1.png)\n\n### Possessive **‘s**: Use\n\nWe use **‘s** to show that something belongs to a person (or a pet) or to talk about relationships between people.\n\n-   *This is Peter**‘s father**. ![](/uploads/grammar/a1/whose-possessive-s/img-2.png)* \n-   *This is **the father of** Peter.![](/uploads/grammar/a1/whose-possessive-s/img-3.png)*\n-   *Peter and Mary**‘s** car is red.* \n-   *My cat**‘s** ears are white.* \n\nWe also use the possessive **‘s** to talk about shops and houses.\n\n-   *I am at John**‘s**.* (= at John’s house)\n-   *I need to go to the chemist**‘s**.* (= the chemist’s shop)\n\n### Possessive **‘s**: Form\n\nSingular noun + **‘s**\n\n-   ***Anna’s** clothes, **Chris’s** wife, the **student’s** books, etc.*\n\nPlural noun ending in **\\-s** + **‘** (apostrophe)\n\n-   *The **students’** books, the **boys’** toys, the **teachers’** lounge, etc.*\n\nIrregular plural noun (NOT ending in **\\-s**) + **‘s**\n\n-   *The **children’s** toys, **men’s** clothes, etc.*\n\nWhen one thing belongs to two or more people, add **‘s** only after the last noun.\n\n-   ***Paul and Katherine’s** house, **Anna and George’s** car, etc.*\n\nWhen we have two or more people, and each person has one thing, we add **‘s** after each person.\n\n-   ***Anna’s and George’s** cars* (Anna’s car and George’s car), ***Sally’s** and **Tim’s** computers* (Sally’s computer and Tim’s computer).\n\n### Possessive **of**\n\nWe use **of** and NOT **‘s** when we talk about things (and not people or pets).\n\n-   *the end **of** the street ![](/uploads/grammar/a1/whose-possessive-s/img-4.png)* \n-   *the street**‘s** end ![](/uploads/grammar/a1/whose-possessive-s/img-5.png)* \n-   *a picture **of** the eclipse ![](/uploads/grammar/a1/whose-possessive-s/img-6.png)* \n-   *the eclipse**‘s** picture ![](/uploads/grammar/a1/whose-possessive-s/img-7.png)* \n-   *the man **of** the match ![](/uploads/grammar/a1/whose-possessive-s/img-8.png)* \n-   *the match**‘s** man ![](/uploads/grammar/a1/whose-possessive-s/img-9.png)* \n\n### Compound nouns: the city centre\n\nWith nouns that are used together very often, we often use them together without **of** and without **‘s**\n\n-   *a **school bus***\n-   *the **city centre***\n-   *the **car key***\n\n### **Whose**\n\n#### When do we use **whose**?\n\nWe use the question word **whose** to ask about possession. There are two possible forms:\n\n**whose** + noun\n\n-   ***Whose** car is this?*\n-   ***Whose** books are those?* \n\n**whose** without a noun\n\n-   ***Whose** is this car?*\n-   ***Whose** are those books?* \n\nWhen we answer with the possessive **‘s**, we can also use **‘s** \\+ noun or **‘s** without a noun.\n\n-   ***Whose** is this car?*\n-   *It’s John**‘s car***\n-   *It’s John**‘s**.* \n\n#### **Whose** vs **who’s**\n\n**Whose** = possession (of who)\n\n**Who’s** = who is\n\n-   ***Whose** car is this?* *![](/uploads/grammar/a1/whose-possessive-s/img-10.png)*\n-   ***Who’s** car is this?* *![](/uploads/grammar/a1/whose-possessive-s/img-11.png)*\n-   ***Who’s** that man in the lobby? ![](/uploads/grammar/a1/whose-possessive-s/img-12.png)* \n-   ***Whose** that man in the lobby? ![](/uploads/grammar/a1/whose-possessive-s/img-13.png)*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/possessive-s-use-form.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-1.png",
+        "alt": "Informative grammar chart explaining the use and form of possessive 's in English, with rules for singular, plural, and irregular nouns, and examples."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-9.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-10.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-10.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-11.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-11.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-12.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-12.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-13.png",
+        "public_path": "/uploads/grammar/a1/whose-possessive-s/img-13.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Whose, possessive ‘s: Whose is this? It’s Mike’s",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "George is {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "my sisters' new boyfriend",
+                "the new boyfriend of my sister",
+                "my sister's new boyfriend"
+              ],
+              "correct": "my sister's new boyfriend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3800"
+        },
+        {
+          "index": 1,
+          "template": "All {0} are broken.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the boys' toys",
+                "the boys toys",
+                "the toys of the boys"
+              ],
+              "correct": "the boys' toys",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3801"
+        },
+        {
+          "index": 2,
+          "template": "The {0} are yellow.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "books pages",
+                "book's pages",
+                "pages of the book"
+              ],
+              "correct": "pages of the book",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3802"
+        },
+        {
+          "index": 3,
+          "template": "This is {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Hellen's house",
+                "the house of Hellen",
+                "Hellens house"
+              ],
+              "correct": "Hellen's house",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3803"
+        },
+        {
+          "index": 4,
+          "template": "This is {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the collar of my dog",
+                "my dog's collar",
+                "my dogs collar"
+              ],
+              "correct": "my dog's collar",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3804"
+        },
+        {
+          "index": 5,
+          "template": "You need to clean {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the house's floor",
+                "the floor of the house",
+                "the floor's houses"
+              ],
+              "correct": "the floor of the house",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3805"
+        },
+        {
+          "index": 6,
+          "template": "These are {0}. (= One car belongs to Tom and another car to Jenny.)",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Tom and Jenny's cars",
+                "Tom's and Jenny's cars",
+                "the cars of Tom and Jenny"
+              ],
+              "correct": "Tom's and Jenny's cars",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3806"
+        },
+        {
+          "index": 7,
+          "template": "This is {0}. (=Two people have one car.)",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Tom's and Jenny's car",
+                "the car of Tom and Jenny",
+                "Tom and Jenny's car"
+              ],
+              "correct": "Tom and Jenny's car",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3807"
+        },
+        {
+          "index": 8,
+          "template": "{0} helps me with my homework.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "My mum's friend",
+                "My mums' friend",
+                "The friend of my mum"
+              ],
+              "correct": "My mum's friend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3808"
+        },
+        {
+          "index": 9,
+          "template": "I need to paint {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the children's playroom",
+                "the playroom of the children",
+                "the childrens' playroom"
+              ],
+              "correct": "the children's playroom",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3809"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Whose, possessive ‘s: Whose is this? It’s Mike’s",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_____ picture is this?",
+          "options": [
+            "Whose",
+            "Who's",
+            "Whos"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ is ill.",
+          "options": [
+            "The father of Allan",
+            "Father's Edgar",
+            "Allan's father"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "_____ that man at the table?",
+          "options": [
+            "Whos",
+            "Who's",
+            "Whose"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The shop is at _____.",
+          "options": [
+            "the end of the street",
+            "the street's end",
+            "the end's street"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____ is very expensive.",
+          "options": [
+            "New car's Lucy",
+            "Lucy's new car",
+            "The new car of Lucy"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I love _____.",
+          "options": [
+            "the new book of Rowling",
+            "the new book's Rowling",
+            "Rowling's new book"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "_____ is this absurd idea?",
+          "options": [
+            "Who's",
+            "Whose",
+            "Whos'"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ the person in the photo?",
+          "options": [
+            "Who's",
+            "Whos'",
+            "Whose"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "In this school, 100% of _____ are recycled. All the students recycle their textbooks.",
+          "options": [
+            "the textbooks' students",
+            "the students' textbooks",
+            "the student's textbooks"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_____ is next Sunday.",
+          "options": [
+            "Sheila and Mike's wedding",
+            "Sheila's and Mike's wedding",
+            "the wedding of Sheila and Mike"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Whose, possessive ‘s: Whose is this? It’s Mike’s",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "The balls belong to the players. ⇒ They are {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the players'.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3820"
+        },
+        {
+          "index": 1,
+          "template": "The computer belongs to Sara. ⇒ It's {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Sara's.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3821"
+        },
+        {
+          "index": 2,
+          "template": "I hate the moustache that belongs to my brother. ⇒ I hate {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "my brother's.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3823"
+        },
+        {
+          "index": 3,
+          "template": "This car belongs to Sam and Pam. ⇒ It's {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Sam and Pam's.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3824"
+        },
+        {
+          "index": 4,
+          "template": "The money belongs to the workers. ⇒ It's {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the workers'.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3822"
+        },
+        {
+          "index": 5,
+          "template": "These bikes belong to Mike and John (one bike to each person). ⇒ They are {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Mike's and John's.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3825"
+        },
+        {
+          "index": 6,
+          "template": "These documents belong to the women. ⇒ They are {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the women's.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3826"
+        },
+        {
+          "index": 7,
+          "template": "This glass belongs to Mathew. ⇒ It's {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Mathew's.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3827"
+        },
+        {
+          "index": 8,
+          "template": "This award belongs to the actresses. ⇒ It's {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the actresses'.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3828"
+        },
+        {
+          "index": 9,
+          "template": "This suitcase belongs to Kate and David. ⇒ It's {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Kate's and David's.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3829"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Whose, possessive ‘s: Whose is this? It’s Mike’s",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "George is {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "my sisters' new boyfriend",
+                "the new boyfriend of my sister",
+                "my sister's new boyfriend"
+              ],
+              "correct": "my sister's new boyfriend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3800"
+        },
+        {
+          "index": 1,
+          "template": "All {0} are broken.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the boys' toys",
+                "the boys toys",
+                "the toys of the boys"
+              ],
+              "correct": "the boys' toys",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3801"
+        },
+        {
+          "index": 2,
+          "template": "The {0} are yellow.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "books pages",
+                "book's pages",
+                "pages of the book"
+              ],
+              "correct": "pages of the book",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3802"
+        },
+        {
+          "index": 3,
+          "template": "This is {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Hellen's house",
+                "the house of Hellen",
+                "Hellens house"
+              ],
+              "correct": "Hellen's house",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3803"
+        },
+        {
+          "index": 4,
+          "template": "This is {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the collar of my dog",
+                "my dog's collar",
+                "my dogs collar"
+              ],
+              "correct": "my dog's collar",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3804"
+        },
+        {
+          "index": 5,
+          "template": "You need to clean {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the house's floor",
+                "the floor of the house",
+                "the floor's houses"
+              ],
+              "correct": "the floor of the house",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3805"
+        },
+        {
+          "index": 6,
+          "template": "These are {0}. (= One car belongs to Tom and another car to Jenny.)",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Tom and Jenny's cars",
+                "Tom's and Jenny's cars",
+                "the cars of Tom and Jenny"
+              ],
+              "correct": "Tom's and Jenny's cars",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3806"
+        },
+        {
+          "index": 7,
+          "template": "This is {0}. (=Two people have one car.)",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Tom's and Jenny's car",
+                "the car of Tom and Jenny",
+                "Tom and Jenny's car"
+              ],
+              "correct": "Tom and Jenny's car",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3807"
+        },
+        {
+          "index": 8,
+          "template": "{0} helps me with my homework.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "My mum's friend",
+                "My mums' friend",
+                "The friend of my mum"
+              ],
+              "correct": "My mum's friend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3808"
+        },
+        {
+          "index": 9,
+          "template": "I need to paint {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the children's playroom",
+                "the playroom of the children",
+                "the childrens' playroom"
+              ],
+              "correct": "the children's playroom",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3809"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

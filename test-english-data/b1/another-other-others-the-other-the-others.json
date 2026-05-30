@@ -1,0 +1,667 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "another-other-others-the-other-the-others",
+  "order_index": 7,
+  "title": "Another, other, others, the other, the others",
+  "source_url": "https://test-english.com/grammar-points/b1/another-other-others-the-other-the-others/",
+  "scraped_at": "2026-05-23T07:21:04.822Z",
+  "explanation": {
+    "markdown": "## Another, other, others, the other, the others\n\n![Grammar chart explaining the use of 'another', 'other', 'others', 'the other', and 'the others' with correct examples and common mistakes marked for B1 Intermediate English learners.](/uploads/grammar/b1/another-other-others-the-other-the-others/img-1.png)\n\n### **Another** vs **other** (determiners)\n\nWe can use **another** and **other** as determiners, i.e. **before a noun**.  \n  \nUse **another** \\+ a singular noun.\n\n-   *I need **another cup** of coffee.*\n\nUse **other** \\+ a plural noun.\n\n-   *I want to talk to **other doctors**.*\n\n❗ **Note** that determiners don’t have a plural form. We say:\n\n-   *I want to talk to **others doctors**. ![](/uploads/grammar/b1/another-other-others-the-other-the-others/img-2.png)* \n-   *I want to talk to **other doctors**. ![](/uploads/grammar/b1/another-other-others-the-other-the-others/img-3.png)* \n\n### **Another** vs **others** (pronouns)\n\nWe can use **another** as a pronoun, i.e. not followed by a noun.\n\n-   *I’ve already had one beer, but I’ll have **another**.* \n\n**Others** is always a pronoun, i.e. **never followed by a noun**.\n\n-   *I don’t want to use these glasses. Aren’t there any **others**?* (=other glasses)\n\n### **Other** vs **others**\n\nWe normally use **other + a plural noun**.\n\n-   *I want to see **other shops** before deciding.* \n\n**Others** is a pronoun, i.e. **not followed by a noun**.\n\n-   *A lot of volunteers have joined us, but we need to find **others**.* \n\n### **The other, the others**\n\n#### **The other** + noun\n\nUse **the other** + a singular noun to mean ‘the second of two things or people, or the opposite of a set of two’.\n\n-   *This computer here is new.* ***The other*** *computer is about five years old.*\n\nWe could also say **the other one** instead of **the other computer**.  \n  \nUse **the other** \\+ a plural noun to mean ‘the remaining people or things in a group or set’.\n\n-   *Joel and Karen are here, but where are* ***the other*** *kids?* (the remaining kids in the group)\n\n#### **The other** or **the others** (without a noun)\n\nWe can also use **the other** as a pronoun (not followed by a noun).\n\n-   *This computer here is new.* ***The other*** *is about five years old.*\n\nWe can also use **the others** as a pronoun (not followed by a noun).\n\n-   *Joel and Karen are here, but where are* ***the others****?* (the remaining kids in the group)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Another-other-others_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/another-other-others-the-other-the-others/img-1.png",
+        "alt": "Grammar chart explaining the use of 'another', 'other', 'others', 'the other', and 'the others' with correct examples and common mistakes marked for B1 Intermediate English learners."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/another-other-others-the-other-the-others/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/another-other-others-the-other-the-others/img-3.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Another, other, others, the other, the others",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I have been to New Zealand, Australia and many {0} countries.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "others",
+                "other",
+                "another"
+              ],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2254"
+        },
+        {
+          "index": 1,
+          "template": "I'd like {0} beer, please.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "other",
+                "another",
+                "others"
+              ],
+              "correct": "another",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2255"
+        },
+        {
+          "index": 2,
+          "template": "Where is {0} shoe? There is only this one in the shoe rack.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the other",
+                "other",
+                "another"
+              ],
+              "correct": "the other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2256"
+        },
+        {
+          "index": 3,
+          "template": "I think you should see {0} people.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "others",
+                "other",
+                "another"
+              ],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2257"
+        },
+        {
+          "index": 4,
+          "template": "I've talked to Josh and Sarah, but I haven't talked to {0} students yet.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the other",
+                "another",
+                "the others"
+              ],
+              "correct": "the others",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2258"
+        },
+        {
+          "index": 5,
+          "template": "He has two brothers. One is tall and handsome and {0} is short and unattractive.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "other",
+                "another",
+                "the other"
+              ],
+              "correct": "the other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2259"
+        },
+        {
+          "index": 6,
+          "template": "Ask me {0} question if you want. I know all the answers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "another",
+                "others",
+                "other"
+              ],
+              "correct": "another",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2260"
+        },
+        {
+          "index": 7,
+          "template": "Forget about this now. We have {0} problems.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "others",
+                "other",
+                "another"
+              ],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2261"
+        },
+        {
+          "index": 8,
+          "template": "Only two computers work, all the {0} don't.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "another",
+                "others",
+                "other"
+              ],
+              "correct": "others",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2262"
+        },
+        {
+          "index": 9,
+          "template": "Some people voted 'yes', some people voted 'no', and {0} didn't vote.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "another",
+                "other",
+                "others"
+              ],
+              "correct": "others",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2263"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Another, other, others, the other, the others",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I need ______ pen; this one doesn't work.",
+          "options": [
+            "another",
+            "other",
+            "others"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I like this bed; ______ is cheap but uncomfortable. Choose TWO correct options",
+          "options": [
+            "other",
+            "the other bed",
+            "the other one"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Thanks, these are some of the books I lent you, but where are ______ ones?",
+          "options": [
+            "the other",
+            "the others",
+            "another"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I don't like this jacket. Let me see ______.",
+          "options": [
+            "other",
+            "the other",
+            "anothers"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I can't help you now; I'll have to do it ______ time.",
+          "options": [
+            "other",
+            "others",
+            "another"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "There are ______ techniques that you could try.",
+          "options": [
+            "another",
+            "other",
+            "others"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Can I ask you for ______ favour? I promise this will be the last one.",
+          "options": [
+            "other",
+            "another",
+            "others"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The police caught two of the four prisoners who escaped and they are looking for ______.",
+          "options": [
+            "other",
+            "others",
+            "the others"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "We had a beer, and then decided to go to ______ bar.",
+          "options": [
+            "another",
+            "other",
+            "others"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Some rooms are excellent, but some ______ are not as good.",
+          "options": [
+            "others",
+            "other",
+            "another"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Another, other, others, the other, the others",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "This is too difficult. Isn't there {0} way of doing it?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "another",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2275"
+        },
+        {
+          "index": 1,
+          "template": "I don't like room 210. Do you have any {0} available rooms?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2276"
+        },
+        {
+          "index": 2,
+          "template": "You have to guess if the ball is in this hand or in {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2277"
+        },
+        {
+          "index": 3,
+          "template": "You can listen to this or many {0} songs.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2278"
+        },
+        {
+          "index": 4,
+          "template": "The singer had an argument with {0} members of the band.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2279"
+        },
+        {
+          "index": 5,
+          "template": "Let's go to {0} place; there's a lot of noise here.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "another",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2280"
+        },
+        {
+          "index": 6,
+          "template": "It's hard to explain why some people fail and {0} succeed.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "others",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2281"
+        },
+        {
+          "index": 7,
+          "template": "There are two rooms. This one is small and {0} is big.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "the other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2282"
+        },
+        {
+          "index": 8,
+          "template": "Do you have this same shirt in {0} colours?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2283"
+        },
+        {
+          "index": 9,
+          "template": "You should wear {0} dress. This one doesn't suit you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "another",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2284"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Another, other, others, the other, the others",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I have been to New Zealand, Australia and many {0} countries.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "others",
+                "other",
+                "another"
+              ],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2254"
+        },
+        {
+          "index": 1,
+          "template": "I'd like {0} beer, please.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "other",
+                "another",
+                "others"
+              ],
+              "correct": "another",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2255"
+        },
+        {
+          "index": 2,
+          "template": "Where is {0} shoe? There is only this one in the shoe rack.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the other",
+                "other",
+                "another"
+              ],
+              "correct": "the other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2256"
+        },
+        {
+          "index": 3,
+          "template": "I think you should see {0} people.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "others",
+                "other",
+                "another"
+              ],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2257"
+        },
+        {
+          "index": 4,
+          "template": "I've talked to Josh and Sarah, but I haven't talked to {0} students yet.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the other",
+                "another",
+                "the others"
+              ],
+              "correct": "the others",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2258"
+        },
+        {
+          "index": 5,
+          "template": "He has two brothers. One is tall and handsome and {0} is short and unattractive.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "other",
+                "another",
+                "the other"
+              ],
+              "correct": "the other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2259"
+        },
+        {
+          "index": 6,
+          "template": "Ask me {0} question if you want. I know all the answers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "another",
+                "others",
+                "other"
+              ],
+              "correct": "another",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2260"
+        },
+        {
+          "index": 7,
+          "template": "Forget about this now. We have {0} problems.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "others",
+                "other",
+                "another"
+              ],
+              "correct": "other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2261"
+        },
+        {
+          "index": 8,
+          "template": "Only two computers work, all the {0} don't.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "another",
+                "others",
+                "other"
+              ],
+              "correct": "others",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2262"
+        },
+        {
+          "index": 9,
+          "template": "Some people voted 'yes', some people voted 'no', and {0} didn't vote.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "another",
+                "other",
+                "others"
+              ],
+              "correct": "others",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2263"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

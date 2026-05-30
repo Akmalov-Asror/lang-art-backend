@@ -1,0 +1,625 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "this-that-these-those",
+  "order_index": 1,
+  "title": "This, that, these, those",
+  "source_url": "https://test-english.com/grammar-points/a1/this-that-these-those/",
+  "scraped_at": "2026-05-23T07:02:06.964Z",
+  "explanation": {
+    "markdown": "## This/these= here, that/those= there\n\n![Grammar chart with cartoon monsters illustrating the demonstratives 'this, that, these, those' in English, with 'here' and 'there' directional cues and example sentences.](/uploads/grammar/a1/this-that-these-those/img-1.png)\n\n### This, these (here)\n\nWe use **this** and **these** for things that are **here** (near). **This** is singular and **these** is plural.\n\n-   ***This** is my new watch.* \n-   ***These** are my sisters Anna and Jenny.* \n\n### That, those (there)\n\nWe use **that** and **those** for things that are **there** (not near). **That** is singular and **those** is plural.\n\n-   ***That** man is very strange.* \n-   *I need **those** boxes over there.* \n\n### With a noun or without a noun\n\nWe can use **this, that, these, those** with a noun (**this box, that car**, etc.) or without a noun.\n\n-   ***This watch** is very expensive.* \n-   *I like **that woman** in the park.* \n-   *Who is **that**?* (= that person)\n-   *‘What are **those**?’ ‘They are old pictures.’*\n\n### This is John (introductions and [on the phone](https://test-english.com/vocabulary/b1/phone-talk-b1-english-vocabulary/))\n\nWe use **this is** when we introduce people and on the telephone.\n\n-   *Hi, **this is** Tim.* (Tim on the telephone)\n-   Laura: *‘Hi, Sara. **This is** my friend Paul.’* Sara: *‘Hi, Paul. Nice to meet you.’*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/this-that_these-those.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/this-that-these-those/img-1.png",
+        "alt": "Grammar chart with cartoon monsters illustrating the demonstratives 'this, that, these, those' in English, with 'here' and 'there' directional cues and example sentences."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "This, that, these, those",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} are my trousers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "These",
+                "This"
+              ],
+              "correct": "These",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3605"
+        },
+        {
+          "index": 1,
+          "template": "'Hi, Chris. {0} is my friend Jona.' 'Hi, Jona. Nice to meet you.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "That"
+              ],
+              "correct": "This",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3606"
+        },
+        {
+          "index": 2,
+          "template": "Look at {0} birds in the sky.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "these",
+                "those"
+              ],
+              "correct": "those",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3607"
+        },
+        {
+          "index": 3,
+          "template": "'What are {0}?' 'They are my books.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "those"
+              ],
+              "correct": "those",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3608"
+        },
+        {
+          "index": 4,
+          "template": "Is {0} hotel nice?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "those",
+                "that"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3609"
+        },
+        {
+          "index": 5,
+          "template": "Are {0} your friends?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "this",
+                "these"
+              ],
+              "correct": "these",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3610"
+        },
+        {
+          "index": 6,
+          "template": "Who is {0} man over there?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "this"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3611"
+        },
+        {
+          "index": 7,
+          "template": "Isn't {0} your friend Erik?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "these",
+                "this"
+              ],
+              "correct": "this",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3612"
+        },
+        {
+          "index": 8,
+          "template": "Why are {0} boxes here?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "those",
+                "these"
+              ],
+              "correct": "these",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3613"
+        },
+        {
+          "index": 9,
+          "template": "{0} are my glasses.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "That",
+                "These"
+              ],
+              "correct": "These",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3614"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "This, that, these, those",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "'What's _____?' 'It's a calculator.'",
+          "options": [
+            "this",
+            "these"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "______ are John and Teresa.",
+          "options": [
+            "This",
+            "These"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Hi, Richard, _____ is Julia. (On the phone)",
+          "options": [
+            "this",
+            "that"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Look at _____ cloud. It's very strange.",
+          "options": [
+            "this",
+            "that"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "'What are _____?' 'They are little cakes.'",
+          "options": [
+            "that",
+            "those"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_____ are my keys.",
+          "options": [
+            "That",
+            "Those"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Is _____ your mother?",
+          "options": [
+            "this",
+            "these"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "What is in _____ box over there?",
+          "options": [
+            "this",
+            "that"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "_____ is my hand!",
+          "options": [
+            "This",
+            "That"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_____ are my cats.",
+          "options": [
+            "this",
+            "those"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "This, that, these, those",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "This is a flower ⇒ {0} flowers.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "those",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3626"
+        },
+        {
+          "index": 1,
+          "template": "That is a box. ⇒ {0} boxes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "those",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3627"
+        },
+        {
+          "index": 2,
+          "template": "That is my father. ⇒ {0} my parents.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "those",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3628"
+        },
+        {
+          "index": 3,
+          "template": "Are those your friends? ⇒ {0} your friend?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3629"
+        },
+        {
+          "index": 4,
+          "template": "What are those things? ⇒ What {0} thing?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3630"
+        },
+        {
+          "index": 5,
+          "template": "These documents are important. ⇒ {0} important.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3631"
+        },
+        {
+          "index": 6,
+          "template": "Are these your shoes? ⇒ {0} your shoe?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3632"
+        },
+        {
+          "index": 7,
+          "template": "That's a good car. ⇒ {0} good cars.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3633"
+        },
+        {
+          "index": 8,
+          "template": "This is John. ⇒ {0} John and Carla.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3634"
+        },
+        {
+          "index": 9,
+          "template": "These are cheap computers. ⇒ {0} a cheap computer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3635"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "This, that, these, those",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} are my trousers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "These",
+                "This"
+              ],
+              "correct": "These",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3605"
+        },
+        {
+          "index": 1,
+          "template": "'Hi, Chris. {0} is my friend Jona.' 'Hi, Jona. Nice to meet you.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "This",
+                "That"
+              ],
+              "correct": "This",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3606"
+        },
+        {
+          "index": 2,
+          "template": "Look at {0} birds in the sky.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "these",
+                "those"
+              ],
+              "correct": "those",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3607"
+        },
+        {
+          "index": 3,
+          "template": "'What are {0}?' 'They are my books.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "those"
+              ],
+              "correct": "those",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3608"
+        },
+        {
+          "index": 4,
+          "template": "Is {0} hotel nice?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "those",
+                "that"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3609"
+        },
+        {
+          "index": 5,
+          "template": "Are {0} your friends?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "this",
+                "these"
+              ],
+              "correct": "these",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3610"
+        },
+        {
+          "index": 6,
+          "template": "Who is {0} man over there?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "this"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3611"
+        },
+        {
+          "index": 7,
+          "template": "Isn't {0} your friend Erik?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "these",
+                "this"
+              ],
+              "correct": "this",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3612"
+        },
+        {
+          "index": 8,
+          "template": "Why are {0} boxes here?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "those",
+                "these"
+              ],
+              "correct": "these",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3613"
+        },
+        {
+          "index": 9,
+          "template": "{0} are my glasses.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "That",
+                "These"
+              ],
+              "correct": "These",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3614"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

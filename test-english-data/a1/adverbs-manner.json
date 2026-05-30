@@ -1,0 +1,815 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "adverbs-manner",
+  "order_index": 31,
+  "title": "Adverbs of manner (slowly) or adjectives (slow)?",
+  "source_url": "https://test-english.com/grammar-points/a1/adverbs-manner/",
+  "scraped_at": "2026-05-23T07:03:44.250Z",
+  "explanation": {
+    "markdown": "## Adverbs of manner\n\n![Grammar chart comparing adjectives to their corresponding adverbs of manner, including spelling changes and irregular forms.](/uploads/grammar/a1/adverbs-manner/img-1.png)\n\n#### Adverbs of manner: Use\n\nWe use adverbs of manner **after a verb** to describe the verb. We use an adverb of manner to say how something happens or how we do something.\n\n-   *It rained **heavily**.* (=We are describing how it rained.)\n-   *He always replies **quickly**.* (=We are describing how he replies)\n\n#### Adverbs of manner: Position\n\nWe use adverbs of manner **after the verb** or, if there is an object, **after verb + object**.\n\n-   *He drives **carefully**.*\n-   *She plays the guitar **well**.* \n\n#### **Very, really, quite**\n\nWe can use **very, really, quite** before an adverb of manner.\n\n-   *It rained **quite heavily**.* \n-   *He drives **quite carefully**.* \n-   *She plays the guitar **really well**.*\n\n## Adjectives\n\nWe use [adjectives](https://test-english.com/grammar-points/a1/adjectives/) **before a noun** or after the verb **be**.\n\n-   *This is **an expensive guitar**.* \n-   *This guitar **is expensive**.* \n\n## Adverbs of manner vs adjectives\n\n#### Difference\n\nWe use adjectives to describe a noun (before a noun or after the verb **be**), and we use adverbs of manner to describe a verb (after the verb or verb + object). Compare:\n\n-   *Robert plays the guitar **well**.* (=We are describing the verb, i.e. **how** Robert **plays** the guitar.)\n-   *Robert is a **good** guitar player.* (=We are describing the noun, Robert.)\n-   *Sara eats **slowly**.* \n-   *Sara is a **slow** eater.* \n\n#### Adjectives ending in **\\-ly**\n\nSome words end in **\\-ly**, but they are adjectives, NOT adverbs: **friendly, lovely, silly**. We CANNOT transform these adjectives into adverbs of manner.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/adverbs-manner-new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/adverbs-manner/img-1.png",
+        "alt": "Grammar chart comparing adjectives to their corresponding adverbs of manner, including spelling changes and irregular forms."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Adverbs of manner (slowly) or adjectives (slow)?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Peter is a {0} driver. He drives very {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "carefully",
+                "careful"
+              ],
+              "correct": "careful",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "carefully",
+                "careful"
+              ],
+              "correct": "carefully",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4274"
+        },
+        {
+          "index": 1,
+          "template": "Turtles walk {0} because they are {1} animals.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "slow",
+                "slowly"
+              ],
+              "correct": "slowly",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "slowly",
+                "slow"
+              ],
+              "correct": "slow",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4275"
+        },
+        {
+          "index": 2,
+          "template": "A {0} person usually speaks {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cautious",
+                "cautiously"
+              ],
+              "correct": "cautious",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "cautiously",
+                "cautious"
+              ],
+              "correct": "cautiously",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4276"
+        },
+        {
+          "index": 3,
+          "template": "They are {0}; they are speaking {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "quiet",
+                "quietly"
+              ],
+              "correct": "quietly",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "quiet",
+                "quietly"
+              ],
+              "correct": "quiet",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4277"
+        },
+        {
+          "index": 4,
+          "template": "Gordon plays very {0}. He is a {1} player.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "well",
+                "good"
+              ],
+              "correct": "well",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "good",
+                "well"
+              ],
+              "correct": "good",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4278"
+        },
+        {
+          "index": 5,
+          "template": "He did a {0} exam. He passed the exam {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "brilliant",
+                "brilliantly"
+              ],
+              "correct": "brilliant",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "brilliant",
+                "brilliantly"
+              ],
+              "correct": "brilliantly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4279"
+        },
+        {
+          "index": 6,
+          "template": "We had {0} snow yesterday. It snowed {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "heavily",
+                "heavy"
+              ],
+              "correct": "heavy",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "heavy",
+                "heavily"
+              ],
+              "correct": "heavily",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4280"
+        },
+        {
+          "index": 7,
+          "template": "He looked at me {0}. He has a very {1} look.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "angry",
+                "angrily"
+              ],
+              "correct": "angry",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "angry",
+                "angrily"
+              ],
+              "correct": "angrily",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4281"
+        },
+        {
+          "index": 8,
+          "template": "We slept {0} in our {1} bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "comfortably",
+                "comfortable"
+              ],
+              "correct": "comfortably",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "comfortably",
+                "comfortable"
+              ],
+              "correct": "comfortable",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4282"
+        },
+        {
+          "index": 9,
+          "template": "He plays {0} because he is a {1} player.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "badly",
+                "bad"
+              ],
+              "correct": "badly",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "badly",
+                "bad"
+              ],
+              "correct": "bad",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4283"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Adverbs of manner (slowly) or adjectives (slow)?",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "He normally drives very _____.",
+          "options": [
+            "slow",
+            "fastly",
+            "fast"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I passed _____.",
+          "options": [
+            "easily the test",
+            "the test easily",
+            "easy the test"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "The people in this company work very _____.",
+          "options": [
+            "hard",
+            "hardly",
+            "good"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "She is a _____ teacher.",
+          "options": [
+            "well",
+            "good",
+            "goodly"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "She teaches English very _____.",
+          "options": [
+            "good",
+            "goodly",
+            "well"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "You answered _____.",
+          "options": [
+            "correctly the question",
+            "the question correctly",
+            "the question correct"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The article describes the situation very _____.",
+          "options": [
+            "simple",
+            "simplely",
+            "simply"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "They live _____ in Munich.",
+          "options": [
+            "happy",
+            "happyly",
+            "happily"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "After the break, we _____.",
+          "options": [
+            "finished the job easily",
+            "easily finished the job",
+            "finished the job easy"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "He didn't speak _____ English.",
+          "options": [
+            "clearly",
+            "clear",
+            "well"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Adverbs of manner (slowly) or adjectives (slow)?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Please, can you speak {0}? I don't understand you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slowly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4294"
+        },
+        {
+          "index": 1,
+          "template": "He won the race. He ran very {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slowly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4295"
+        },
+        {
+          "index": 2,
+          "template": "Your answer is {0}. Can you answer it again?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slow",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4296"
+        },
+        {
+          "index": 3,
+          "template": "We were one hour late, but he waited {0} until we arrived.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slowly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4297"
+        },
+        {
+          "index": 4,
+          "template": "It was an {0} question. I answered it without thinking.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slow",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4298"
+        },
+        {
+          "index": 5,
+          "template": "You answered the question {0}. Can you answer it again?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slowly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4299"
+        },
+        {
+          "index": 6,
+          "template": "Please, be {0} with him. He's young and inexperienced.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slow",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4300"
+        },
+        {
+          "index": 7,
+          "template": "He's a really {0} runner. He wins a lot of races.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slow",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4301"
+        },
+        {
+          "index": 8,
+          "template": "The water isn't {0}; it's dirty.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slow",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4302"
+        },
+        {
+          "index": 9,
+          "template": "We climbed the mountain {0}. We weren't tired after doing it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "slowly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4303"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Adverbs of manner (slowly) or adjectives (slow)?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Peter is a {0} driver. He drives very {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "carefully",
+                "careful"
+              ],
+              "correct": "careful",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "carefully",
+                "careful"
+              ],
+              "correct": "carefully",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4274"
+        },
+        {
+          "index": 1,
+          "template": "Turtles walk {0} because they are {1} animals.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "slow",
+                "slowly"
+              ],
+              "correct": "slowly",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "slowly",
+                "slow"
+              ],
+              "correct": "slow",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4275"
+        },
+        {
+          "index": 2,
+          "template": "A {0} person usually speaks {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "cautious",
+                "cautiously"
+              ],
+              "correct": "cautious",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "cautiously",
+                "cautious"
+              ],
+              "correct": "cautiously",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4276"
+        },
+        {
+          "index": 3,
+          "template": "They are {0}; they are speaking {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "quiet",
+                "quietly"
+              ],
+              "correct": "quietly",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "quiet",
+                "quietly"
+              ],
+              "correct": "quiet",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4277"
+        },
+        {
+          "index": 4,
+          "template": "Gordon plays very {0}. He is a {1} player.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "well",
+                "good"
+              ],
+              "correct": "well",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "good",
+                "well"
+              ],
+              "correct": "good",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4278"
+        },
+        {
+          "index": 5,
+          "template": "He did a {0} exam. He passed the exam {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "brilliant",
+                "brilliantly"
+              ],
+              "correct": "brilliant",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "brilliant",
+                "brilliantly"
+              ],
+              "correct": "brilliantly",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4279"
+        },
+        {
+          "index": 6,
+          "template": "We had {0} snow yesterday. It snowed {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "heavily",
+                "heavy"
+              ],
+              "correct": "heavy",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "heavy",
+                "heavily"
+              ],
+              "correct": "heavily",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4280"
+        },
+        {
+          "index": 7,
+          "template": "He looked at me {0}. He has a very {1} look.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "angry",
+                "angrily"
+              ],
+              "correct": "angry",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "angry",
+                "angrily"
+              ],
+              "correct": "angrily",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4281"
+        },
+        {
+          "index": 8,
+          "template": "We slept {0} in our {1} bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "comfortably",
+                "comfortable"
+              ],
+              "correct": "comfortably",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "comfortably",
+                "comfortable"
+              ],
+              "correct": "comfortable",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4282"
+        },
+        {
+          "index": 9,
+          "template": "He plays {0} because he is a {1} player.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "badly",
+                "bad"
+              ],
+              "correct": "badly",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "badly",
+                "bad"
+              ],
+              "correct": "bad",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4283"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

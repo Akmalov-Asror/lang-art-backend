@@ -1,0 +1,691 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "both-either-neither",
+  "order_index": 26,
+  "title": "Both, either, neither: Quantifiers",
+  "source_url": "https://test-english.com/grammar-points/b1/both-either-neither/",
+  "scraped_at": "2026-05-23T07:23:16.423Z",
+  "explanation": {
+    "markdown": "## **Both, either, neither**: Grammar chart\n\n![Quantifiers – both, either, neither](/uploads/grammar/b1/both-either-neither/img-1.png)\n\nWe use [**both**](https://test-english.com/grammar-points/b1/all-both/), **either** and **neither** to talk about two things or people.\n\n**Both**\\= A and B (the two things or people)\n\n**Either**\\= A or B (one thing/person or the other thing/person)\n\n**Neither**\\= not A and not B (zero out of two things or people)\n\n## **Both / either / neither** + noun\n\nWe can use **both/either/neither + noun**\n\n-   *I like **both cars**.* \n-   *You can park on **either side** of the street.* \n-   ***Neither parent** was at the meeting.* \n\n🔍 **Note** that we use **both + plural noun** and **either/neither + singular noun**.\n\n## **Both (of) / either of / neither of**\n\nWe can use **both (of)** / **either of** / **neither of** + **the/these/my/her/Peter’s/etc.** + noun\n\n-   ***Both (of) your** parents are really nice.* \n-   ***Either of those** two dates is perfect for the wedding.* (=We can choose one or the other)\n-   ***Neither of the** tennis players had a great game.* \n\n🔍 **Note** that we don’t need **of** after **both**.\n\n-   ***Both of your** parents are really nice. = **Both your** parents are really nice.*\n\nWe can use **both of** / **either of** / **neither of** + **us/you/them**\n\n-   ***Both them** did very well in the exam. ![](/uploads/grammar/b1/both-either-neither/img-2.png)* \n-   ***Both of them** did very well in the exam.* ![](/uploads/grammar/b1/both-either-neither/img-3.png)\n-   *Can **either of you** give me a coin for the vending machine?* \n-   ***Neither of us** knows the truth.*\n\n## **Both / either / neither** (without a noun)\n\nWe can use **both/either/neither** alone, without a noun.\n\n-   *A: Do you speak French or Spanish? B: I speak **both**.* \n-   *A: Do you want tea or coffee? B: **Either**. I don’t mind.*\n-   *A: Which car do you prefer? B: **Neither**. I think both of them are horrible.* \n\n## **Both … and …/ either … or … / neither … nor …**\n\nWe can say **both … and …/ either … or … / neither … nor …** to mention the two things or people that we are talking about.\n\n-   *She ate **both** the rice **and** the meat.*\n-   ***Both** Susan **and** Peter helped me with my report.* \n-   *You need to speak one foreign language, **either** Spanish **or** French.* \n-   *You can **either** wait here **or** go home.* \n-   *I like **neither** maths **nor** physics.* \n-   *He **neither** called **nor** texted.*  \n\n## Remember this!\n\nUse **either** and **neither** with a singular verb.\n\n-   ***Either** candidate is good.* \n-   ***Neither** of the candidates is good.* \n\n**(not) either**\\= **neither**.\n\n-   *I do**n’t** like **either** of the options. =* *I like **neither** of the options.*\n\nThe word **neither** is negative, so we use it with positive verbs.\n\n-   ***Neither** John nor Paula **can’t come***. *![](/uploads/grammar/b1/both-either-neither/img-4.png)*\n-   ***Neither** John nor Paula **can come***. ![](/uploads/grammar/b1/both-either-neither/img-5.png)\n\nWe also use the word **both** with positive verbs. We can only use **either** with negative verbs.\n\n-   *I did**n’t** like **both/neither** of the pictures. ![](/uploads/grammar/b1/both-either-neither/img-6.png)* \n-   *I did**n’t** like **either** of the pictures.* ![](/uploads/grammar/b1/both-either-neither/img-7.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Quantifiers_both_either_neither.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/both-either-neither/img-1.png",
+        "alt": "Quantifiers – both, either, neither"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/both-either-neither/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/both-either-neither/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/both-either-neither/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b1/both-either-neither/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/b1/both-either-neither/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/b1/both-either-neither/img-7.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Both, either, neither: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Can {0} you or Lisa take me to the station?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "either",
+                "neither",
+                "both"
+              ],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5242"
+        },
+        {
+          "index": 1,
+          "template": "{0} of them could take me to the station, so I had to take a taxi.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Neither",
+                "Either",
+                "Both"
+              ],
+              "correct": "Neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5243"
+        },
+        {
+          "index": 2,
+          "template": "A: Are you from Spain or from Italy? B: {0}. I'm from Portugal.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Either",
+                "Neither",
+                "Both"
+              ],
+              "correct": "Neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5239"
+        },
+        {
+          "index": 3,
+          "template": "{0} can win this game.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Both of us",
+                "The both of us",
+                "Both us"
+              ],
+              "correct": "Both of us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5240"
+        },
+        {
+          "index": 4,
+          "template": "With a tourist visa, you can {0} work nor study.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "neither",
+                "both",
+                "either"
+              ],
+              "correct": "neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5241"
+        },
+        {
+          "index": 5,
+          "template": "He showed us two apartments but we didn't like {0} of them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "neither",
+                "both",
+                "either"
+              ],
+              "correct": "neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5244"
+        },
+        {
+          "index": 6,
+          "template": "{0} John and Sara were invited.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Both",
+                "Neither",
+                "Either"
+              ],
+              "correct": "Both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5245"
+        },
+        {
+          "index": 7,
+          "template": "The tennis game was fantastic. {0} players were great.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Neither",
+                "Either",
+                "Both"
+              ],
+              "correct": "Both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5246"
+        },
+        {
+          "index": 8,
+          "template": "The match was really boring. {0} team played well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Neither",
+                "Either",
+                "Both"
+              ],
+              "correct": "Neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5247"
+        },
+        {
+          "index": 9,
+          "template": "You can choose {0} of those two presents. Which one do you prefer?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "either",
+                "neither",
+                "both"
+              ],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5248"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Both, either, neither: Quantifiers",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "You can _____ drive or take the train.",
+          "options": [
+            "both",
+            "either",
+            "neither"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "A: Are you at home or at work? B: _____. I'm in the car.",
+          "options": [
+            "Both",
+            "Either",
+            "Neither"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I don't know which film to watch. _____ must be very good.",
+          "options": [
+            "Both of them",
+            "The both",
+            "Both them"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I didn't like _____ of the films. Both of them were boring.",
+          "options": [
+            "both",
+            "either",
+            "neither"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He was _____ handsome nor unattractive. He was average.",
+          "options": [
+            "both",
+            "either",
+            "neither"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "We can take _____ the train or the bus.",
+          "options": [
+            "both",
+            "either",
+            "neither"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "_____ my parents went to see the teacher.",
+          "options": [
+            "Both",
+            "Either",
+            "Neither"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____ my brother and I play football, but _____ of us play very well.",
+          "options": [
+            "Both / either",
+            "Both / neither",
+            "Either / both"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "_____ stay or go. It's your decision.",
+          "options": [
+            "Both",
+            "Either",
+            "Neither"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I don't want to go to _____ of those two pubs. Let's go home.",
+          "options": [
+            "both",
+            "either",
+            "neither"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Both, either, neither: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We'll arrive {0} on Friday night or Saturday morning.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5261"
+        },
+        {
+          "index": 1,
+          "template": "{0} the platforms have lots of apps.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5262"
+        },
+        {
+          "index": 2,
+          "template": "Tom and Kev were at the concert, but I didn't see {0} them.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5263"
+        },
+        {
+          "index": 3,
+          "template": "I've got {0} time nor money to go on holiday.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5265"
+        },
+        {
+          "index": 4,
+          "template": "A: Did you eat the sandwich or the pizza? B: I ate {0}. I was really hungry.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5264"
+        },
+        {
+          "index": 5,
+          "template": "We've got two children, but {0} them lives with us any longer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5260"
+        },
+        {
+          "index": 6,
+          "template": "Being a celebrity is something that she {0} loves and hates.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5266"
+        },
+        {
+          "index": 7,
+          "template": "You can't wear {0} those dresses. They don't suit you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5267"
+        },
+        {
+          "index": 8,
+          "template": "You can wear {0} those dresses. Choose the one you like better.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5268"
+        },
+        {
+          "index": 9,
+          "template": "Fortunately, {0} Maria's parents was injured during the incident.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5269"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Both, either, neither: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Can {0} you or Lisa take me to the station?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "either",
+                "neither",
+                "both"
+              ],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5242"
+        },
+        {
+          "index": 1,
+          "template": "{0} of them could take me to the station, so I had to take a taxi.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Neither",
+                "Either",
+                "Both"
+              ],
+              "correct": "Neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5243"
+        },
+        {
+          "index": 2,
+          "template": "A: Are you from Spain or from Italy? B: {0}. I'm from Portugal.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Either",
+                "Neither",
+                "Both"
+              ],
+              "correct": "Neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5239"
+        },
+        {
+          "index": 3,
+          "template": "{0} can win this game.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Both of us",
+                "The both of us",
+                "Both us"
+              ],
+              "correct": "Both of us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5240"
+        },
+        {
+          "index": 4,
+          "template": "With a tourist visa, you can {0} work nor study.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "neither",
+                "both",
+                "either"
+              ],
+              "correct": "neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5241"
+        },
+        {
+          "index": 5,
+          "template": "He showed us two apartments but we didn't like {0} of them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "neither",
+                "both",
+                "either"
+              ],
+              "correct": "neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5244"
+        },
+        {
+          "index": 6,
+          "template": "{0} John and Sara were invited.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Both",
+                "Neither",
+                "Either"
+              ],
+              "correct": "Both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5245"
+        },
+        {
+          "index": 7,
+          "template": "The tennis game was fantastic. {0} players were great.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Neither",
+                "Either",
+                "Both"
+              ],
+              "correct": "Both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5246"
+        },
+        {
+          "index": 8,
+          "template": "The match was really boring. {0} team played well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Neither",
+                "Either",
+                "Both"
+              ],
+              "correct": "Neither",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5247"
+        },
+        {
+          "index": 9,
+          "template": "You can choose {0} of those two presents. Which one do you prefer?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "either",
+                "neither",
+                "both"
+              ],
+              "correct": "either",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5248"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

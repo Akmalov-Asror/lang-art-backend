@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "present-simple-continuous",
+  "order_index": 2,
+  "title": "Present simple vs present continuous",
+  "source_url": "https://test-english.com/grammar-points/a2/present-simple-continuous/",
+  "scraped_at": "2026-05-23T07:15:09.234Z",
+  "explanation": {
+    "markdown": "## Present simple: Form\n\n![Grammar infographic showing the structure of the Present Simple tense in English, including positive forms, negative forms, questions, and short answers for A1 elementary learners.](/uploads/grammar/a2/present-simple-continuous/img-1.png)\n\n#### The spelling of **he/she/it**\n\nThe spelling of **he/she/it** is different in the present simple. Check how it changes below. The spelling is the same for all the other persons.\n\n![Grammar chart demonstrating Present Simple tense spelling rules for third-person singular subjects (he, she, it) with examples of verb conjugations and common mistakes.](/uploads/grammar/a2/present-simple-continuous/img-2.png)\n\n## Present simple: Use\n\n#### Habits or situations that happen regularly\n\nWe use the present simple for actions that we do (or we don’t do) regularly:\n\n-   *I **wash** my hair every day.*\n-   *I never **go** to the library.*\n-   *I sometimes **go** to the library.*\n\n#### Permanent situations or things that are usually or often true\n\n-   *I **don’t drink** coffee.*\n-   *She**’s** very tall.*\n-   *I **have** two brothers.*\n-   *Water **boils** at 100 degrees.*\n-   *I **like** soup.*\n\n#### Adverbs of frequency\n\nWe often use the present simple with [adverbs of frequency](https://test-english.com/grammar-points/a1/adverbs-frequency/) (*always, sometimes*, etc.) and **expressions of frequency** (*once every three months, twice a week, every other day, etc.*).  \n  \n**Adverbs of frequency** go in mid position (before the main verb or after **be**).\n\n-   *She doesn’t **often** eat hamburgers.*\n-   *He **usually** gets up very early.*\n-   *I am **never** late.*\n\n**Expressions of frequency** go at the end of the sentence\n\n-   *We go to the cinema **once a month**.*\n-   *I buy clothes **twice a year**.*\n\n## Present continuous: Form and spelling\n\n![Grammar chart showing the form of the Present Continuous tense in positive, negative, and question forms, including short answers and spelling rules for -ing words.](/uploads/grammar/a2/present-simple-continuous/img-3.png)\n\n## Present continuous: Use\n\n#### Actions in progress\n\nWe use the present continuous to talk about things that are happening now or ‘around now’ (a time around this moment, such as these days, weeks or months)\n\n-   *I can’t talk now. I’**m brushing** my teeth.*\n-   *I finished the Lord of the Rings and now I**’m reading** a new book.*\n\n#### Temporary actions\n\nThe present continuous is used for temporary actions:\n\n-   *I’**m going** to work by bus this week because my car is at the garage.* \n-   *I’**m living** with my cousins temporarily.*\n\n#### With expressions meaning ‘now’ or ‘around now’.\n\nThe present continuous often appears next to expressions such as **now**, **these days, this week/month,** or **at the moment**.\n\n-   *He**’s studying** a lot this week.* \n-   *I’**m not feeling** very well these days.* \n\n## Stative verbs\n\n[**Non****–****action** **verbs**](https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/) (or **stative verbs**) cannot be used in the present continuous. They must be used in the present simple. The most frequent are the [verbs of the **senses**](https://test-english.com/grammar-points/b1-b2/verbs-of-the-senses/) (**hear, see, smell, etc.** ), verbs of **opinion** (**believe, consider, like, love, hate, prefer, think, etc.**), and other verbs like **be, have, need, want,** **etc**.\n\n-   *Please, give me my money; I **need** it now.*\n-   *Look at her; she **seems** sad.*\n\n#### Present simple vs present continuous\n\n![Educational grammar chart comparing Present Simple and Present Continuous tenses, highlighting their uses, with signal words and examples of each.](/uploads/grammar/a2/present-simple-continuous/img-4.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-simple-form_a1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/present-simple-continuous/img-1.png",
+        "alt": "Grammar infographic showing the structure of the Present Simple tense in English, including positive forms, negative forms, questions, and short answers for A1 elementary learners."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-simple-spelling-he-she-it.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/present-simple-continuous/img-2.png",
+        "alt": "Grammar chart demonstrating Present Simple tense spelling rules for third-person singular subjects (he, she, it) with examples of verb conjugations and common mistakes."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Present-continuous-form-new-1.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/present-simple-continuous/img-3.png",
+        "alt": "Grammar chart showing the form of the Present Continuous tense in positive, negative, and question forms, including short answers and spelling rules for -ing words."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-simple-present-continuous-use.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/present-simple-continuous/img-4.png",
+        "alt": "Educational grammar chart comparing Present Simple and Present Continuous tenses, highlighting their uses, with signal words and examples of each."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple vs present continuous",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Dialogue 1 LUKE: What 1 {0}? SARAH: I am watching TV. LUKE: 2 {1} TV in the afternoon? SARAH: Yes, I do. LUKE: What kind of programs 3 {2}? SARAH: I 4 {3} talk shows. But now I 5 {4} a sports show.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do you do",
+                "you doing",
+                "are you doing"
+              ],
+              "correct": "do you do",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "Are you often watch",
+                "Are you often watching",
+                "Do you often watch"
+              ],
+              "correct": "Do you often watch",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "do you watch",
+                "are you watching",
+                "you watch"
+              ],
+              "correct": "do you watch",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "watch",
+                "watching",
+                "'m watching"
+              ],
+              "correct": "watch",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "watch",
+                "are watch",
+                "'m watching"
+              ],
+              "correct": "'m watching",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2678"
+        },
+        {
+          "index": 1,
+          "template": "Dialogue 2 PETER: What 6 {0}? REBECCA: He 7 {1} an architect but he 8 {2} at the moment. He 9 {3} for a job desperately, because he 10 {4} money for the house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is Jonatan doing",
+                "does Jonatan",
+                "does Jonatan do"
+              ],
+              "correct": "does Jonatan do",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "is",
+                "is being",
+                "does"
+              ],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "does not work",
+                "not works",
+                "is not working"
+              ],
+              "correct": "is not working",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "is look",
+                "looks",
+                "is looking"
+              ],
+              "correct": "is looking",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "is needing",
+                "needs",
+                "is need"
+              ],
+              "correct": "needs",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4497"
+        },
+        {
+          "index": 2,
+          "template": "Dialogue 3 SANDRA: Can I have that magazine or 11 {0} it? TIM: No, I 12 {1} it. I 13 {2} that magazine. I 14 {3} sports magazines. SANDRA: I 15 {4} sports magazines.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "you reading",
+                "are you reading",
+                "do you read"
+              ],
+              "correct": "do you read",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m not reading",
+                "don't read",
+                "not reading"
+              ],
+              "correct": "don't read",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "am never reading",
+                "never read",
+                "am never read"
+              ],
+              "correct": "never read",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "am prefer",
+                "'m preferring",
+                "prefer"
+              ],
+              "correct": "prefer",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m hating",
+                "hating",
+                "hate"
+              ],
+              "correct": "hate",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4498"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Present simple vs present continuous",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "A: \"Excuse me, __________ English?\" B: \"No, sorry.\"",
+          "options": [
+            "do you speak",
+            "are you speaking",
+            "you speak"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I ________ .",
+          "options": [
+            "aren't very often doing sport",
+            "don't very often do sport",
+            "don't do sport very often"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I am hungry. I ______ to eat something.",
+          "options": [
+            "want",
+            "'m wanting",
+            "am want"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "What time ____________ work on Fridays?",
+          "options": [
+            "she starts",
+            "does she start",
+            "is she starting"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I usually _________ to work, but this week I_________.",
+          "options": [
+            "drive / walk",
+            "drive / walking",
+            "drive / 'm walking"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I __________ coffee. I prefer tea.",
+          "options": [
+            "don't like",
+            "not like",
+            "am not liking"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "You can turn off the TV. I _____________ it.",
+          "options": [
+            "don't watch",
+            "'m not watch",
+            "'m not watching"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "There isn't any milk left in the fridge. We _________ to buy some.",
+          "options": [
+            "needs",
+            "need",
+            "are needing"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Can I sit here? Somebody ___________ in my seat.",
+          "options": [
+            "sits",
+            "sit",
+            "is sitting"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "\"What __________?\" \"I'm a dentist.\"",
+          "options": [
+            "do you do",
+            "are you doing",
+            "are you do"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple vs present continuous",
+      "sentences": [],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple vs present continuous",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Dialogue 1 LUKE: What 1 {0}? SARAH: I am watching TV. LUKE: 2 {1} TV in the afternoon? SARAH: Yes, I do. LUKE: What kind of programs 3 {2}? SARAH: I 4 {3} talk shows. But now I 5 {4} a sports show.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do you do",
+                "you doing",
+                "are you doing"
+              ],
+              "correct": "do you do",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "Are you often watch",
+                "Are you often watching",
+                "Do you often watch"
+              ],
+              "correct": "Do you often watch",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "do you watch",
+                "are you watching",
+                "you watch"
+              ],
+              "correct": "do you watch",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "watch",
+                "watching",
+                "'m watching"
+              ],
+              "correct": "watch",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "watch",
+                "are watch",
+                "'m watching"
+              ],
+              "correct": "'m watching",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2678"
+        },
+        {
+          "index": 1,
+          "template": "Dialogue 2 PETER: What 6 {0}? REBECCA: He 7 {1} an architect but he 8 {2} at the moment. He 9 {3} for a job desperately, because he 10 {4} money for the house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is Jonatan doing",
+                "does Jonatan",
+                "does Jonatan do"
+              ],
+              "correct": "does Jonatan do",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "is",
+                "is being",
+                "does"
+              ],
+              "correct": "is",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "does not work",
+                "not works",
+                "is not working"
+              ],
+              "correct": "is not working",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "is look",
+                "looks",
+                "is looking"
+              ],
+              "correct": "is looking",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "is needing",
+                "needs",
+                "is need"
+              ],
+              "correct": "needs",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4497"
+        },
+        {
+          "index": 2,
+          "template": "Dialogue 3 SANDRA: Can I have that magazine or 11 {0} it? TIM: No, I 12 {1} it. I 13 {2} that magazine. I 14 {3} sports magazines. SANDRA: I 15 {4} sports magazines.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "you reading",
+                "are you reading",
+                "do you read"
+              ],
+              "correct": "do you read",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m not reading",
+                "don't read",
+                "not reading"
+              ],
+              "correct": "don't read",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "am never reading",
+                "never read",
+                "am never read"
+              ],
+              "correct": "never read",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "am prefer",
+                "'m preferring",
+                "prefer"
+              ],
+              "correct": "prefer",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m hating",
+                "hating",
+                "hate"
+              ],
+              "correct": "hate",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4498"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

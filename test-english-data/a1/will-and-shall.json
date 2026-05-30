@@ -1,0 +1,578 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "will-and-shall",
+  "order_index": 29,
+  "title": "‘Will’ and ‘shall’: Future",
+  "source_url": "https://test-english.com/grammar-points/a1/will-and-shall/",
+  "scraped_at": "2026-05-23T07:03:37.805Z",
+  "explanation": {
+    "markdown": "## **Will**: Form\n\n![Grammar chart displaying the structure of the future tense using 'will' in positive, negative, question, and short answer forms with all subject pronouns.](/uploads/grammar/a1/will-and-shall/img-1.png)\n\n**Will** is an auxiliary verb. This means that:\n\n-   We use **will +** infinitive: *I**‘ll be*** (or ***will be***) *at home next Saturday.* \n-   **Will** has a negative form: *I **won’t be*** (or ***will not be***) *at home next Saturday.* \n-   We put **will** before the subject in questions: ***Will you be** at home next Saturday?*\n-   We use **will** in short answers: *Yes, I **will**. / No, I **won’t*** (or *No, I **will not***).\n\n## **Will**: Use\n\nWe use **will** to talk about things that we think will happen in the future.\n\n-   *He **will** love your new coat.* \n-   *They **won’t win** this match.* \n\n🔍 **Note** that it’s common to use **will** with the expressions **I think, I don’t think, I hope, etc.**, or also with **I’m sure, I’m not sure, perhaps, etc.**\n\n-   *I hope they **will arrive** soon.* \n-   *I don’t think they**‘ll win**.*\n-   *I’m sure you**‘ll be** fine.* \n-   *Perhaps I**‘ll be** late.* \n\nWe use **will** for promises or refusals.\n\n-   *I **will lend** her the money.*\n-   *I **won’t help** you.* \n\nWe use **will** when we make decisions at the moment of speaking (instant decisions).\n\n-   A: *There’s no milk in the fridge.* B: *I’**ll go** to the shop to buy some more.* \n-   A: *This box is very heavy.* B: *Don’t worry. I’**ll help** you.* \n\n## **Shall I…? Shall we…?**\n\nWe use **Shall I…?** or **I’ll** when we offer to do things for other people.\n\n-   ***Shall I make** some coffee?* (=Do you want me to make coffee?)\n-   *I**‘ll make** some coffee.*\n\nWe use **Shall we…?** to suggest doing something.\n\n-   ***Shall we** go to the cinema?* (=Do you want to go to the cinema?)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/will-form.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/will-and-shall/img-1.png",
+        "alt": "Grammar chart displaying the structure of the future tense using 'will' in positive, negative, question, and short answer forms with all subject pronouns."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "‘Will’ and ‘shall’: Future",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "A: I'm hungry. B: _____ make some bacon and eggs.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I hope _____ see you again one day.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: _____ go to a restaurant tonight? B: Yes. That's a great idea.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I don't think _____ go out this weekend. I'm very tired.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____ always love you.",
+          "options": [
+            "I will",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: It's very hot in this room. B: _____ open the windows?",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "A: _____ have a barbecue on Saturday? B: That's an excellent idea! Who shall we invite?",
+          "options": [
+            "I will",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "You look thirsty. _____ get you a drink?",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "A: Did you talk to Laura? B: Oh no, I forgot. _____ call her now.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm sure _____ find a great job soon.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "‘Will’ and ‘shall’: Future",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Peter needs to study more or he {0} the exam.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will fail",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5219"
+        },
+        {
+          "index": 1,
+          "template": "A: Shall we watch a film? B: Good idea! I {0} the TV.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "I'll turn on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5220"
+        },
+        {
+          "index": 2,
+          "template": "A: {0} you {1} at your office tomorrow morning? B: Yes, I'll be there all morning.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Will you be",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Will you be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5221"
+        },
+        {
+          "index": 3,
+          "template": "I'm not sure Sandra {0} the job. They interviewed a lot of people for the same job.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5222"
+        },
+        {
+          "index": 4,
+          "template": "He {0} the election. Very few people will vote for him and he'll lose.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "won't win",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5223"
+        },
+        {
+          "index": 5,
+          "template": "A: When {0} I {1} you again? B: I don't know. I hope you'll see me very soon.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will I see",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Will I see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5224"
+        },
+        {
+          "index": 6,
+          "template": "I don't think he {0} to the party. He doesn't like big parties.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will come",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5225"
+        },
+        {
+          "index": 7,
+          "template": "I'm sorry but I {0} you the money. I have no money.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't lend",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5227"
+        },
+        {
+          "index": 8,
+          "template": "Do you think they {0} the match?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will win",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5226"
+        },
+        {
+          "index": 9,
+          "template": "Perhaps I {0} at home tonight. I want to relax and watch a movie.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might stay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5228"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "‘Will’ and ‘shall’: Future",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} back soon? (she/be)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is she",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5229"
+        },
+        {
+          "index": 1,
+          "template": "A: Will he leave? B: No, he {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "won't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5230"
+        },
+        {
+          "index": 2,
+          "template": "{0} the bag for you? It looks heavy. (I/carry)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Shall I carry",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5233"
+        },
+        {
+          "index": 3,
+          "template": "They {0} the tournament. It's impossible. (win)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "won't win",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5232"
+        },
+        {
+          "index": 4,
+          "template": "{0} me a favour? (you/do)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Will you do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5231"
+        },
+        {
+          "index": 5,
+          "template": "A: {0} tomorrow again? B: Yes, great! (we/meet)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Shall we meet",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5234"
+        },
+        {
+          "index": 6,
+          "template": "I don't think the readers {0} his new book. (like)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5236"
+        },
+        {
+          "index": 7,
+          "template": "It's dark. I {0} the light. (turn on)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will turn on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5235"
+        },
+        {
+          "index": 8,
+          "template": "I'm sure he {0} us. He always helps people. (help)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5237"
+        },
+        {
+          "index": 9,
+          "template": "A: {0} for dinner tonight? B: OK. (we/go out)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Shall we go out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5238"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "‘Will’ and ‘shall’: Future",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "A: I'm hungry. B: _____ make some bacon and eggs.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I hope _____ see you again one day.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: _____ go to a restaurant tonight? B: Yes. That's a great idea.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I don't think _____ go out this weekend. I'm very tired.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____ always love you.",
+          "options": [
+            "I will",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: It's very hot in this room. B: _____ open the windows?",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "A: _____ have a barbecue on Saturday? B: That's an excellent idea! Who shall we invite?",
+          "options": [
+            "I will",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "You look thirsty. _____ get you a drink?",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "A: Did you talk to Laura? B: Oh no, I forgot. _____ call her now.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm sure _____ find a great job soon.",
+          "options": [
+            "I'll",
+            "Shall I",
+            "Shall we"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

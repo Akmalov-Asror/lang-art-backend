@@ -1,0 +1,13 @@
+{
+  "started_at": "2026-05-25T03:17:28.402Z",
+  "levels": {
+    "b1plus": {
+      "ok": 0,
+      "skipped": 0,
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  "errors": [],
+  "finished_at": "2026-05-25T03:17:31.814Z"
+}

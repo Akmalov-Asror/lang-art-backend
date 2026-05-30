@@ -1,0 +1,617 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "should-shouldnt",
+  "order_index": 20,
+  "title": "Should, shouldn’t",
+  "source_url": "https://test-english.com/grammar-points/a2/should-shouldnt/",
+  "scraped_at": "2026-05-23T07:17:27.736Z",
+  "explanation": {
+    "markdown": "## **Should, shouldn’t**: Form\n\n![Grammar structure chart for the modal verb 'should' showing positive form 'should go', negative form 'shouldn't go', question form 'Should go?', and short answers for A2 English learners.](/uploads/grammar/a2/should-shouldnt/img-1.png)\n\n#### The same form for all persons\n\nThe form of **should** is the same for all persons:\n\n-   *I/you/he/she/it/we/you/they **should** see a specialist.* \n\n#### **Should(n’t)** + infinitive\n\n**Should** is a modal verb, and all modal verbs are followed by an [infinitive](https://test-english.com/grammar-points/a2/infinitives-and-gerunds/) (without **to**).\n\n-   *You **should to listen** to me. ![](/uploads/grammar/a2/should-shouldnt/img-2.png)* \n-   *You **should listen** to me. ![](/uploads/grammar/a2/should-shouldnt/img-3.png)* \n\n#### **Should not= shouldn’t**\n\nThe negative form of **should** is **should not** or **shouldn’t**.\n\n-   *You **should not be** here.* = *You **shouldn’t be** here.* \n\n#### Questions\n\nTo [ask questions](https://test-english.com/grammar-points/a2/asking-questions-in-english/), we use **should** + subject + infinitive. We don’t use the verb **do** to ask questions.\n\n-   ***Do** we **should** call him? ![](/uploads/grammar/a2/should-shouldnt/img-4.png)* \n-   ***Should we call** him? ![](/uploads/grammar/a2/should-shouldnt/img-5.png)* \n\n## **Should, shouldn’t**: Use\n\n#### Giving advice\n\nWe use **should** or **shouldn’t** to give somebody advice and to say what is or isn’t the right thing to do.\n\n-   *You look tired. You **should have** some rest.* \n-   *He **shouldn’t drive** so fast. He’ll have an accident one day.* \n\n#### **I think you should …**\n\nWe often say **I think … should** **…** to give somebody advice.\n\n-   ***I think you should buy** a new pair of shoes for the party.* \n-   ***I think we should go** home; it’s very late.* \n\n🔍 **Note** that in a negative sentence, we often say **I don’t think… should…** (NOT **I think… shouldn’t…**)\n\n-   ***I think you shouldn’t call** her now; she’s very upset. ![](/uploads/grammar/a2/should-shouldnt/img-6.png)* \n-   ***I don’t think you should call** her now; she’s very upset.* *![](/uploads/grammar/a2/should-shouldnt/img-7.png)*\n\nWe often say **Do you think … should …** to ask for advice.\n\n-   ***Do you think I should look** for another apartment?*\n\n#### **Ought to, ought not to**\n\nWe can also use **ought to** instead of **should** and **ought not to** instead of **shouldn’t**.\n\n-   *You **ought to have** some rest.*\n-   *He **ought not to drive** so fast.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/should-form.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/should-shouldnt/img-1.png",
+        "alt": "Grammar structure chart for the modal verb 'should' showing positive form 'should go', negative form 'shouldn't go', question form 'Should go?', and short answers for A2 English learners."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/should-shouldnt/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/should-shouldnt/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/should-shouldnt/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/should-shouldnt/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a2/should-shouldnt/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a2/should-shouldnt/img-7.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You have a great job; you {0} (change) it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3285"
+        },
+        {
+          "index": 1,
+          "template": "You {0} (drink) so much coffee; it's bad for your blood pressure.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3286"
+        },
+        {
+          "index": 2,
+          "template": "The government {0} (help) people in need.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3287"
+        },
+        {
+          "index": 3,
+          "template": "It's an incredible film. You {0} (watch) it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should watch",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3288"
+        },
+        {
+          "index": 4,
+          "template": "It's a very dangerous area. Tourists {0} (go) there.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3289"
+        },
+        {
+          "index": 5,
+          "template": "I think I {0} (apply) for a new job.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3290"
+        },
+        {
+          "index": 6,
+          "template": "You {0} (go) to that restaurant. The food is terrible.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3291"
+        },
+        {
+          "index": 7,
+          "template": "When someone does you a favour, you {0} (say) thank you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should say",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3292"
+        },
+        {
+          "index": 8,
+          "template": "He {0} (study) more if he wants to pass his exam.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should study",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3293"
+        },
+        {
+          "index": 9,
+          "template": "Children {0} (drink) sugary drinks. It's not very healthy.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3294"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "What _____ tell Peter?",
+          "options": [
+            "should I",
+            "should I to",
+            "do I should"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "They _____ to go to the police.",
+          "options": [
+            "should",
+            "ought",
+            "shouldn't"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I _____ take that course. It's a waste of time.",
+          "options": [
+            "think you shouldn't",
+            "think you should not",
+            "don't think you should"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "People _____ be afraid of their governments.",
+          "options": [
+            "ought not to",
+            "ought to not",
+            "shouldn't to"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "What _____ do if he doesn't get a promotion?",
+          "options": [
+            "does Brian should",
+            "should Brian",
+            "should Brian to"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "You _____ swim immediately after a meal.",
+          "options": [
+            "should not",
+            "ought not",
+            "shouldn't to"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "We _____ take the money. You'll never be able to pay it back.",
+          "options": [
+            "think you should not",
+            "think you ought not to",
+            "don't think you should"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Politicians _____ to be completely honest and transparent.",
+          "options": [
+            "ought",
+            "shouldn't",
+            "should"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "She _____ work so hard. She's under too much stress.",
+          "options": [
+            "shouldn't",
+            "shouldn't to",
+            "ought not"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Why _____ listen to you?",
+          "options": [
+            "do I should",
+            "should I",
+            "should I to"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "EXAMPLE: You shouldn’t lie about what happened. It’s important to tell the truth.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} more vegetables, but I hate them.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should eat",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3305"
+        },
+        {
+          "index": 1,
+          "template": "You {0} so many questions. You are going to get into trouble.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't ask",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3306"
+        },
+        {
+          "index": 2,
+          "template": "Parents {0} medicine to their children without going to the doctor first.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't give",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3307"
+        },
+        {
+          "index": 3,
+          "template": "I {0} more exercise. I have gained some weight.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3308"
+        },
+        {
+          "index": 4,
+          "template": "What kind of dress {0} I {1} for tonight's ceremony?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should wear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should wear",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3309"
+        },
+        {
+          "index": 5,
+          "template": "You {0} John immediately. He needs to speak to you urgently.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3310"
+        },
+        {
+          "index": 6,
+          "template": "Your children {0} TV all day. Take them to the park sometimes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't let",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3311"
+        },
+        {
+          "index": 7,
+          "template": "It's raining. I think we {0} a taxi.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should take",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3312"
+        },
+        {
+          "index": 8,
+          "template": "You {0} some water or you will dehydrate.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3313"
+        },
+        {
+          "index": 9,
+          "template": "Children {0} to strangers.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't talk",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3314"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You have a great job; you {0} (change) it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't change",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3285"
+        },
+        {
+          "index": 1,
+          "template": "You {0} (drink) so much coffee; it's bad for your blood pressure.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3286"
+        },
+        {
+          "index": 2,
+          "template": "The government {0} (help) people in need.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3287"
+        },
+        {
+          "index": 3,
+          "template": "It's an incredible film. You {0} (watch) it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should watch",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3288"
+        },
+        {
+          "index": 4,
+          "template": "It's a very dangerous area. Tourists {0} (go) there.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3289"
+        },
+        {
+          "index": 5,
+          "template": "I think I {0} (apply) for a new job.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should apply",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3290"
+        },
+        {
+          "index": 6,
+          "template": "You {0} (go) to that restaurant. The food is terrible.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3291"
+        },
+        {
+          "index": 7,
+          "template": "When someone does you a favour, you {0} (say) thank you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should say",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3292"
+        },
+        {
+          "index": 8,
+          "template": "He {0} (study) more if he wants to pass his exam.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should study",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3293"
+        },
+        {
+          "index": 9,
+          "template": "Children {0} (drink) sugary drinks. It's not very healthy.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "shouldn't drink",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3294"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,679 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "no-longer-any-longer-anymore",
+  "order_index": 37,
+  "title": "No longer, any longer, anymore",
+  "source_url": "https://test-english.com/grammar-points/a2/no-longer-any-longer-anymore/",
+  "scraped_at": "2026-05-23T07:19:37.314Z",
+  "explanation": {
+    "markdown": "## No longer, any longer, anymore\n\nWe use the phrases **no longer**, **any longer**, and **anymore** to talk about something that happened or was true in the past but doesn’t happen or isn’t true now. Although their meanings are the same, the way we use them is not. **No longer** is also slightly more formal than **any longer** and **anymore**.  \n  \n![](/uploads/grammar/a2/no-longer-any-longer-anymore/img-1.png)\n\n### No longer\n\nUnlike **any longer** and **anymore**, **no longer** is only used in positive sentences as it makes a sentence negative. Its position is different, too, as it is typically used in the **mid position**. The mid position is between the subject and the verb.\n\n-   *I **no longer** eat meat.*\n-   *He **no longer** plays football.*\n\nWith the verb [**to be**](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/), however, the mid position is **after the verb**.\n\n-   *We are **no longer** friends.*\n-   *He is **no longer** a footballer.*\n\nWith [modal or auxiliary verbs](https://test-english.com/grammar-points/a2/auxiliary-verbs-do-be-and-have/), the mid position is **after the modal verb**.\n\n-   *Jim will **no longer** attend his lessons.*\n-   *We can **no longer** bring phones to school.*\n\nIn [questions](https://test-english.com/grammar-points/a2/asking-questions-in-english/), the mid position is **after the subject**.\n\n-   *Do you **no longer** want to play?*\n-   *Is he **no longer** happy?*\n\n### Any longer, anymore\n\n**Any longer** and **anymore** are only used in **negative statements or questions**. Both expressions are synonyms and can be used interchangeably. They are always placed **at the end** of a statement or question.  \n  \n**Any longer** is slightly more formal than **anymore**.\n\n-   *We don’t live there **any longer/anymore**.*\n-   *We aren’t friends **any longer/anymore**.*\n-   *Why don’t you visit us **any longer/anymore**?* \n\n### Anymore vs any more\n\n**Anymore** (one word) is often confused with **any more** (two words), and though the two may look similar, their meanings are completely different.  \n  \n**Anymore** is an adverb referring to time; it means ‘not now like before’. For example, “I don’t eat pizza anymore” means ‘I used to eat pizza in the past, but I don’t eat pizza now’.  \n  \nOn the other hand, **any more** is a determiner used to describe quantity; it means ‘additional’ or ‘more than what we have now’. For example, “Do you have any more candy?” means ‘Do you have additional candy (or more candy than what you gave me)?’\n\n-   *I don’t eat chicken **anymore**. ![](/uploads/grammar/a2/no-longer-any-longer-anymore/img-2.png)* \n-   *I don’t eat chicken **any more**. ![](/uploads/grammar/a2/no-longer-any-longer-anymore/img-3.png)* \n-   *Do you want **any more** chicken? ![](/uploads/grammar/a2/no-longer-any-longer-anymore/img-4.png)* \n-   *Do you want **anymore** chicken? ![](/uploads/grammar/a2/no-longer-any-longer-anymore/img-5.png)*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/No-longer_any-longer_anymore-1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/no-longer-any-longer-anymore/img-1.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/no-longer-any-longer-anymore/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/no-longer-any-longer-anymore/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/no-longer-any-longer-anymore/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/no-longer-any-longer-anymore/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "No longer, any longer, anymore",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We {0} work together.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anymore",
+                "no longer",
+                "any longer"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7437"
+        },
+        {
+          "index": 1,
+          "template": "John doesn’t work here {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no longer",
+                "anymore",
+                "any more"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7438"
+        },
+        {
+          "index": 2,
+          "template": "Mr. Lee doesn’t teach us {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any longer",
+                "no longer",
+                "any more"
+              ],
+              "correct": "any longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7439"
+        },
+        {
+          "index": 3,
+          "template": "Why don’t you sit with us {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anymore",
+                "any more",
+                "no longer"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7440"
+        },
+        {
+          "index": 4,
+          "template": "Alfred {0} goes to church.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any longer",
+                "anymore",
+                "no longer"
+              ],
+              "correct": "no longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7441"
+        },
+        {
+          "index": 5,
+          "template": "Now that I’m vegan, I {0} eat cheese.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anymore",
+                "any longer",
+                "no longer"
+              ],
+              "correct": "no longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7442"
+        },
+        {
+          "index": 6,
+          "template": "I cannot stay here {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any more",
+                "any longer",
+                "no longer"
+              ],
+              "correct": "any more",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7443"
+        },
+        {
+          "index": 7,
+          "template": "She says she doesn’t love me {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any more",
+                "anymore",
+                "no longer"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7444"
+        },
+        {
+          "index": 8,
+          "template": "We are {0} in the same class.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anymore",
+                "any longer",
+                "no longer"
+              ],
+              "correct": "no longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7445"
+        },
+        {
+          "index": 9,
+          "template": "I haven’t seen you together lately. Are you {0} friends?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any longer",
+                "no longer",
+                "anymore"
+              ],
+              "correct": "no longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7446"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "No longer, any longer, anymore",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Jean doesn’t live here _____.",
+          "options": [
+            "any more",
+            "no longer",
+            "anymore"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "We _____ share a house.",
+          "options": [
+            "no longer",
+            "any longer",
+            "anymore"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We don’t have a dog _____. Choose TWO correct answers",
+          "options": [
+            "any longer",
+            "anymore",
+            "no longer"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Why doesn’t he talk to us _____?",
+          "options": [
+            "any more",
+            "any longer",
+            "no longer"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "James _____ smokes cigarettes.",
+          "options": [
+            "any longer",
+            "anymore",
+            "no longer"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "We rarely see each other _____.",
+          "options": [
+            "any more",
+            "no longer",
+            "anymore"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Now that we live in the countryside, we _____ worry about crime.",
+          "options": [
+            "no longer",
+            "anymore",
+            "any longer"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "John doesn’t have a beard _____.",
+          "options": [
+            "any longer",
+            "any more",
+            "no longer"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Sandra doesn’t work here _____. Choose TWO correct answers",
+          "options": [
+            "anymore",
+            "any longer",
+            "no longer"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Now that he’s retired, Peter _____ wakes up early.",
+          "options": [
+            "no longer",
+            "anymore",
+            "any longer"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "No longer, any longer, anymore",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0}. (John doesn’t live in London.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "He doesn't live in London.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7457"
+        },
+        {
+          "index": 1,
+          "template": "{0}. (Ms Peters is our teacher.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "She is our teacher.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7458"
+        },
+        {
+          "index": 2,
+          "template": "{0}? (Why don’t you call us?)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Why don't you call us?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7459"
+        },
+        {
+          "index": 3,
+          "template": "{0}. (Ian belongs to the gym.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "He belongs to the gym.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7460"
+        },
+        {
+          "index": 4,
+          "template": "{0}. (We are in the same class.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We're in the same class.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7461"
+        },
+        {
+          "index": 5,
+          "template": "{0}. (She doesn’t wear glasses.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "She wears glasses.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7462"
+        },
+        {
+          "index": 6,
+          "template": "{0}. (Robert can hear very well.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "He can't hear very well.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7463"
+        },
+        {
+          "index": 7,
+          "template": "{0}. (Fred doesn’t like carrots.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Fred likes carrots.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7464"
+        },
+        {
+          "index": 8,
+          "template": "{0}. (The property is for sale.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "The property isn't for sale.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7465"
+        },
+        {
+          "index": 9,
+          "template": "{0}. (We can’t wear jeans to work.)",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We can wear jeans to work.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7466"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "No longer, any longer, anymore",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We {0} work together.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anymore",
+                "no longer",
+                "any longer"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7437"
+        },
+        {
+          "index": 1,
+          "template": "John doesn’t work here {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no longer",
+                "anymore",
+                "any more"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7438"
+        },
+        {
+          "index": 2,
+          "template": "Mr. Lee doesn’t teach us {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any longer",
+                "no longer",
+                "any more"
+              ],
+              "correct": "no longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7439"
+        },
+        {
+          "index": 3,
+          "template": "Why don’t you sit with us {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anymore",
+                "any more",
+                "no longer"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7440"
+        },
+        {
+          "index": 4,
+          "template": "Alfred {0} goes to church.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any longer",
+                "anymore",
+                "no longer"
+              ],
+              "correct": "no longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7441"
+        },
+        {
+          "index": 5,
+          "template": "Now that I’m vegan, I {0} eat cheese.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anymore",
+                "any longer",
+                "no longer"
+              ],
+              "correct": "no longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7442"
+        },
+        {
+          "index": 6,
+          "template": "I cannot stay here {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any more",
+                "any longer",
+                "no longer"
+              ],
+              "correct": "any more",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7443"
+        },
+        {
+          "index": 7,
+          "template": "She says she doesn’t love me {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any more",
+                "anymore",
+                "no longer"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7444"
+        },
+        {
+          "index": 8,
+          "template": "We are {0} in the same class.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anymore",
+                "any longer",
+                "no longer"
+              ],
+              "correct": "no longer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7445"
+        },
+        {
+          "index": 9,
+          "template": "I haven’t seen you together lately. Are you {0} friends?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any longer",
+                "no longer",
+                "anymore"
+              ],
+              "correct": "anymore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7446"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

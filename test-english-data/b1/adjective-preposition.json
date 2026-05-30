@@ -1,0 +1,685 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "adjective-preposition",
+  "order_index": 33,
+  "title": "Adjective + preposition: Dependent prepositions",
+  "source_url": "https://test-english.com/grammar-points/b1/adjective-preposition/",
+  "scraped_at": "2026-05-23T07:24:04.168Z",
+  "explanation": {
+    "markdown": "## Adjectives & prepositions – dependant prepositions\n\nSome [adjectives](https://test-english.com/grammar-points/a1/adjectives/) are usually followed by a preposition. These prepositions are called dependant prepositions. Check the list of some of the most common of these adjectives below.  \n  \n![Colorful chart of adjectives followed by specific prepositions, categorized by 'to', 'for', 'at', 'in', 'on', 'of', 'with', and 'about'. Examples include 'addicted to', 'famous for', 'good at', 'interested in', 'keen on', 'afraid of', 'angry with', and 'excited about'.](/uploads/grammar/b1/adjective-preposition/img-1.png)\n\n### Example sentences\n\n#### To\n\n-   She is **addicted to** coffee.\n-   He is very **close to** his grandmother.\n-   This recipe is **different to/from** the one I usually use.\n-   It’s important to be **kind to** animals.\n-   My aunt is **married to** a musician.\n-   It’s not nice to be **rude to** strangers.\n-   Your handwriting is **similar to** mine.\n\n#### For\n\n-   Smoking is **bad for** your health.\n-   Italy is **famous for** its delicious food.\n-   Walking is **good for** your heart.\n-   I am **sorry for** any inconvenience caused.\n\n#### At\n\n-   She is **good at** mathematics.\n-   He’s **bad at** lying; you can always tell the truth.\n-   He was **angry at** himself for making that mistake.\n\n#### In\n\n-   Are you **interested in** learning Spanish?\n\n#### On\n\n-   My brother is **keen on** playing the guitar.\n-   She got **hooked on** the new TV series.\n\n#### Of\n\n-   Many children are **afraid of** the dark.\n-   You are **capable of** achieving great things.\n-   She is very **fond of** her pets.\n-   They are **proud of** their cultural heritage.\n-   I’m **tired of** doing the same routine every day.\n\n#### With\n\n-   She was **angry with** him for forgetting her birthday.\n-   He’s **bored with** the same lunch every day.\n-   She is **fed up with** the constant delays.\n-   He is **obsessed with** collecting stamps.\n-   They were **pleased with** the results of the test.\n\n#### About\n\n-   She is **angry about** the cancelled flight.\n-   We’re **excited about** our upcoming vacation.\n-   I am **sorry about** the broken window.\n-   They are **worried about** the weather for the wedding.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/adjective-dependant-preposition.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/adjective-preposition/img-1.png",
+        "alt": "Colorful chart of adjectives followed by specific prepositions, categorized by 'to', 'for', 'at', 'in', 'on', 'of', 'with', and 'about'. Examples include 'addicted to', 'famous for', 'good at', 'interested in', 'keen on', 'afraid of', 'angry with', and 'excited about'."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Adjective + preposition: Dependent prepositions",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We are super excited {0} the trip.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at",
+                "on",
+                "about",
+                "of"
+              ],
+              "correct": "about",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4978"
+        },
+        {
+          "index": 1,
+          "template": "He's famous {0} his science experiments on YouTube.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "about",
+                "of",
+                "with"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4979"
+        },
+        {
+          "index": 2,
+          "template": "He is totally different {0} his brother.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "in",
+                "at",
+                "of"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4980"
+        },
+        {
+          "index": 3,
+          "template": "You are very bad {0} lying.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in",
+                "to",
+                "with",
+                "at"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4981"
+        },
+        {
+          "index": 4,
+          "template": "He isn't capable {0} taking care of himself.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to",
+                "at",
+                "about",
+                "of"
+              ],
+              "correct": "of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4982"
+        },
+        {
+          "index": 5,
+          "template": "He's obsessed {0} his new toy.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "of",
+                "on",
+                "in",
+                "with"
+              ],
+              "correct": "with",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4983"
+        },
+        {
+          "index": 6,
+          "template": "We're very proud {0} you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "about",
+                "of",
+                "with",
+                "in"
+              ],
+              "correct": "of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4984"
+        },
+        {
+          "index": 7,
+          "template": "How long have you been married {0} Liam?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "in",
+                "to",
+                "with"
+              ],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4985"
+        },
+        {
+          "index": 8,
+          "template": "I'm fed up {0} my new boss. I hate him.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "of",
+                "about",
+                "at",
+                "with"
+              ],
+              "correct": "with",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4986"
+        },
+        {
+          "index": 9,
+          "template": "I'm not very keen {0} having to wear a uniform, but I need the job.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "about",
+                "with",
+                "in"
+              ],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4987"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Adjective + preposition: Dependent prepositions",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Katie is very similar in personality _____ her mother.",
+          "options": [
+            "to",
+            "at",
+            "of",
+            "with"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Too much TV is very bad _____ kids.",
+          "options": [
+            "with",
+            "in",
+            "for",
+            "about"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I'm sorry ____ not writing sooner.",
+          "options": [
+            "on",
+            "for",
+            "at",
+            "to"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I'm tired _____ listening to you.",
+          "options": [
+            "in",
+            "at",
+            "about",
+            "of"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He's very kind _____ the children.",
+          "options": [
+            "with",
+            "to",
+            "about",
+            "of"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The British are very fond _____ tea.",
+          "options": [
+            "of",
+            "about",
+            "with",
+            "to"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I think he's very angry _____ you.",
+          "options": [
+            "with",
+            "of",
+            "to",
+            "for"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The place was full ______ people and energy.",
+          "options": [
+            "with",
+            "of",
+            "about",
+            "in"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Chocolate isn't good _____ you.",
+          "options": [
+            "for",
+            "with",
+            "to",
+            "at"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm worried _____ James. He isn't doing well in school.",
+          "options": [
+            "with",
+            "of",
+            "about",
+            "to"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Adjective + preposition: Dependent prepositions",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I'm totally hooked {0} the new series.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4988"
+        },
+        {
+          "index": 1,
+          "template": "She's very interested {0} science.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4989"
+        },
+        {
+          "index": 2,
+          "template": "Don't be rude {0} your father.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4990"
+        },
+        {
+          "index": 3,
+          "template": "I'm sorry {0} what happened last night.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4991"
+        },
+        {
+          "index": 4,
+          "template": "The workers are angry {0} the new measures.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "about",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4992"
+        },
+        {
+          "index": 5,
+          "template": "She's very close {0} her mother.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4993"
+        },
+        {
+          "index": 6,
+          "template": "We are very pleased {0} your work.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "with",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4994"
+        },
+        {
+          "index": 7,
+          "template": "I'm afraid {0} heights.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4995"
+        },
+        {
+          "index": 8,
+          "template": "I'm totally addicted {0} caffeine.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4996"
+        },
+        {
+          "index": 9,
+          "template": "Alex is very good {0} solving crossword puzzles.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4997"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Adjective + preposition: Dependent prepositions",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We are super excited {0} the trip.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at",
+                "on",
+                "about",
+                "of"
+              ],
+              "correct": "about",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4978"
+        },
+        {
+          "index": 1,
+          "template": "He's famous {0} his science experiments on YouTube.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "about",
+                "of",
+                "with"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4979"
+        },
+        {
+          "index": 2,
+          "template": "He is totally different {0} his brother.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "from",
+                "in",
+                "at",
+                "of"
+              ],
+              "correct": "from",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4980"
+        },
+        {
+          "index": 3,
+          "template": "You are very bad {0} lying.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in",
+                "to",
+                "with",
+                "at"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4981"
+        },
+        {
+          "index": 4,
+          "template": "He isn't capable {0} taking care of himself.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to",
+                "at",
+                "about",
+                "of"
+              ],
+              "correct": "of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4982"
+        },
+        {
+          "index": 5,
+          "template": "He's obsessed {0} his new toy.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "of",
+                "on",
+                "in",
+                "with"
+              ],
+              "correct": "with",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4983"
+        },
+        {
+          "index": 6,
+          "template": "We're very proud {0} you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "about",
+                "of",
+                "with",
+                "in"
+              ],
+              "correct": "of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4984"
+        },
+        {
+          "index": 7,
+          "template": "How long have you been married {0} Liam?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "in",
+                "to",
+                "with"
+              ],
+              "correct": "to",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4985"
+        },
+        {
+          "index": 8,
+          "template": "I'm fed up {0} my new boss. I hate him.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "of",
+                "about",
+                "at",
+                "with"
+              ],
+              "correct": "with",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4986"
+        },
+        {
+          "index": 9,
+          "template": "I'm not very keen {0} having to wear a uniform, but I need the job.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "about",
+                "with",
+                "in"
+              ],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4987"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

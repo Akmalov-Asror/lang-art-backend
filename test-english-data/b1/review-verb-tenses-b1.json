@@ -1,0 +1,493 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "review-verb-tenses-b1",
+  "order_index": 13,
+  "title": "Review of all intermediate verb tenses (CEFR B1)",
+  "source_url": "https://test-english.com/grammar-points/b1/review-verb-tenses-b1/",
+  "scraped_at": "2026-05-23T07:21:46.960Z",
+  "explanation": {
+    "markdown": "### Review of the present simple and the present continuous\n\n![Grammar chart for B1 level reviewing the present simple and present continuous tenses, showing usage rules, time adverbs, example sentences, and a list of non-action verbs.](/uploads/grammar/b1/review-verb-tenses-b1/img-1.png)\n\n### Review of the present perfect simple and the present perfect continuous\n\n![Educational chart detailing the use of the present perfect simple and continuous tenses, with explanations, time expressions, and example sentences for B1 level English grammar review.](/uploads/grammar/b1/review-verb-tenses-b1/img-2.png)\n\n### Review of the past simple, past continuous, and past perfect\n\n![Grammar chart for B1 level outlining the past simple, past continuous, and past perfect tenses with time expressions and example sentences for each tense.](/uploads/grammar/b1/review-verb-tenses-b1/img-3.png)\n\n### Review of all B1 future verb forms\n\n![B1 level grammar chart summarizing future forms in English, including the use of 'will', 'be going to', present continuous, and present simple for future events, with examples and use cases.](/uploads/grammar/b1/review-verb-tenses-b1/img-4.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Review-Present-simple-Present-continuous-B1-gramar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/review-verb-tenses-b1/img-1.png",
+        "alt": "Grammar chart for B1 level reviewing the present simple and present continuous tenses, showing usage rules, time adverbs, example sentences, and a list of non-action verbs."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Review-Present-perfect-simple-and-continuous-B1-gramar-chart.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/review-verb-tenses-b1/img-2.png",
+        "alt": "Educational chart detailing the use of the present perfect simple and continuous tenses, with explanations, time expressions, and example sentences for B1 level English grammar review."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Review-Past-simple-continuous-and-perfect-B1-gramar-chart.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/review-verb-tenses-b1/img-3.png",
+        "alt": "Grammar chart for B1 level outlining the past simple, past continuous, and past perfect tenses with time expressions and example sentences for each tense."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Review-Future-verb-forms-B1-gramar-chart.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/review-verb-tenses-b1/img-4.png",
+        "alt": "B1 level grammar chart summarizing future forms in English, including the use of 'will', 'be going to', present continuous, and present simple for future events, with examples and use cases."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Review of all intermediate verb tenses (CEFR B1)",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I _____ anything about the night of the accident.",
+          "options": [
+            "don't remember",
+            "'m not remembering",
+            "wasn't remembering"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "After we broke up, she sold the ring that I _____ her for her birthday.",
+          "options": [
+            "give",
+            "was giving",
+            "had given"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We _____ our website.",
+          "options": [
+            "recently renewed",
+            "are recently renewing",
+            "have recently renewed"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We took off our clothes and _____ into the river.",
+          "options": [
+            "were jumping",
+            "had jumped",
+            "jumped"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "A: You look fitter! B: Yes, I _____ at the gym for the last few months.",
+          "options": [
+            "'m working out",
+            "'ve been working out",
+            "work out"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I'm pretty sure printed books _____ one day.",
+          "options": [
+            "are disappearing",
+            "are going to disappear",
+            "will disappear"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Look at the traffic. We _____ late.",
+          "options": [
+            "are going to be",
+            "will be",
+            "are being"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "____ your room yet?",
+          "options": [
+            "Have you tidied up",
+            "Did you tidy",
+            "Do you tidy up"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I looked in the rearview mirror and saw that someone _____ us.",
+          "options": [
+            "followed",
+            "was following",
+            "had followed"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm unemployed and I _____ for a job. Tomorrow I have my third interview.",
+          "options": [
+            "'m looking",
+            "'ve looked",
+            "look"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Review of all intermediate verb tenses (CEFR B1)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} to the Himalayas. I'd like to go someday.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have never been",
+                "never went",
+                "am never going"
+              ],
+              "correct": "have never been",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4900"
+        },
+        {
+          "index": 1,
+          "template": "Why {0} so fast? Please, slow down!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you driving",
+                "have you driven",
+                "do you drive"
+              ],
+              "correct": "are you driving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4901"
+        },
+        {
+          "index": 2,
+          "template": "A: I'm late for my flight! B: Don't worry. I {0} you to the airport.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m going to drive",
+                "'m driving",
+                "'ll drive"
+              ],
+              "correct": "'ll drive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4903"
+        },
+        {
+          "index": 3,
+          "template": "We {0} in this house since we got married.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are living",
+                "live",
+                "have lived"
+              ],
+              "correct": "have lived",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4904"
+        },
+        {
+          "index": 4,
+          "template": "A: When {0}? B: Last night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you arrive",
+                "were you arriving",
+                "have you arrived"
+              ],
+              "correct": "did you arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4905"
+        },
+        {
+          "index": 5,
+          "template": "When I met John, he {0} difficult times.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "go through",
+                "went through",
+                "was going through"
+              ],
+              "correct": "was going through",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4906"
+        },
+        {
+          "index": 6,
+          "template": "It was cold, but I didn't have my coat because I {0} it to my nephew.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had given",
+                "have given",
+                "gave"
+              ],
+              "correct": "had given",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4907"
+        },
+        {
+          "index": 7,
+          "template": "{0} watch the game tonight?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Will you",
+                "Do you",
+                "Are you going to"
+              ],
+              "correct": "Will you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4908"
+        },
+        {
+          "index": 8,
+          "template": "What {0} on Thursdays after class?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "have you done",
+                "are you doing",
+                "do you do"
+              ],
+              "correct": "do you do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4909"
+        },
+        {
+          "index": 9,
+          "template": "{0} me the book, please?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Do you pass",
+                "Are you passing",
+                "Will you pass"
+              ],
+              "correct": "Will you pass",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4910"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Review of all intermediate verb tenses (CEFR B1)",
+      "sentences": [],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Review of all intermediate verb tenses (CEFR B1)",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I _____ anything about the night of the accident.",
+          "options": [
+            "don't remember",
+            "'m not remembering",
+            "wasn't remembering"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "After we broke up, she sold the ring that I _____ her for her birthday.",
+          "options": [
+            "give",
+            "was giving",
+            "had given"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We _____ our website.",
+          "options": [
+            "recently renewed",
+            "are recently renewing",
+            "have recently renewed"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We took off our clothes and _____ into the river.",
+          "options": [
+            "were jumping",
+            "had jumped",
+            "jumped"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "A: You look fitter! B: Yes, I _____ at the gym for the last few months.",
+          "options": [
+            "'m working out",
+            "'ve been working out",
+            "work out"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I'm pretty sure printed books _____ one day.",
+          "options": [
+            "are disappearing",
+            "are going to disappear",
+            "will disappear"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Look at the traffic. We _____ late.",
+          "options": [
+            "are going to be",
+            "will be",
+            "are being"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "____ your room yet?",
+          "options": [
+            "Have you tidied up",
+            "Did you tidy",
+            "Do you tidy up"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I looked in the rearview mirror and saw that someone _____ us.",
+          "options": [
+            "followed",
+            "was following",
+            "had followed"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm unemployed and I _____ for a job. Tomorrow I have my third interview.",
+          "options": [
+            "'m looking",
+            "'ve looked",
+            "look"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

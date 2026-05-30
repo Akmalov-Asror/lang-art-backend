@@ -1,0 +1,691 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "subject-questions-questions-preposition",
+  "order_index": 1,
+  "title": "Subject questions, questions with preposition",
+  "source_url": "https://test-english.com/grammar-points/a2/subject-questions-questions-preposition/",
+  "scraped_at": "2026-05-23T07:14:59.549Z",
+  "explanation": {
+    "markdown": "## Subject questions and object questions\n\n![Grammar diagram illustrating the structure of subject questions in English, contrasting correct and incorrect usage with examples.](/uploads/grammar/a2/subject-questions-questions-preposition/img-1.webp)\n\nIn the **present and past simple** tenses, we do not use an auxiliary verb (**do/does** or **did**) after the question word if the question word (**who, what, etc.**) is the subject of the sentence.\n\n-   ***Who did win** the match? ![](/uploads/grammar/a2/subject-questions-questions-preposition/img-2.png)* \n-   ***Who won** the match? ![](/uploads/grammar/a2/subject-questions-questions-preposition/img-3.png)* \n-   ***What did happen** last night? ![](/uploads/grammar/a2/subject-questions-questions-preposition/img-4.png)* \n-   ***What happened** last night?* *![](/uploads/grammar/a2/subject-questions-questions-preposition/img-5.png)*\n-   ***How many people did go** to the party? ![](/uploads/grammar/a2/subject-questions-questions-preposition/img-6.png)* \n-   ***How many people went** to the party? ![](/uploads/grammar/a2/subject-questions-questions-preposition/img-7.png)* \n\nThis rule applies specifically to the **present and past simple** tenses. For other tenses (present continuous, present perfect, etc), where the [auxiliary verb](https://test-english.com/grammar-points/a2/auxiliary-verbs-do-be-and-have/) is part of the verb form, we include the auxiliary verbs in subject questions.\n\n-   *Who **is** cooking dinner tonight?*\n-   *Who **has** eaten all the cookies?*\n\nWhen we are asking about the object (after the verb), we use the normal order of the [English question](https://test-english.com/grammar-points/a1/questions/): **auxiliary verb + subject**. These types of questions are called object questions.\n\n#### Object question vs subject question\n\n<table class=\"tg\"><tbody><tr><td class=\"tg-031e\"><p>Jack called <span class=\"highlighter\">Teresa</span>. (Teresa = object)</p></td><td class=\"tg-031e\"><p><span class=\"highlighter\">Jack</span> called Teresa. (Jack = subject)</p></td></tr><tr><td class=\"tg-031e\"><p><span class=\"highlighter\">Who</span> did Jack call? (Who = object)</p></td><td class=\"tg-031e\"><p><span class=\"highlighter\">Who</span> called Teresa? (Who = subject)</p></td></tr></tbody></table>\n\n## Questions with preposition\n\nIn informal or spoken English, when a question word needs a preposition, the preposition goes at the end of the question (after the verb or after verb + object if there is an object). We don’t use the preposition at the beginning.\n\n-   *I played tennis **with John**.* ⇒ ***Who** did you play tennis **with**?* \n-   *I work **for a multinational company*** ⇒  ***What** company do you work **for**?*\n-   *We usually talk **about sports**.* ⇒ ***What** do you usually talk **about**?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Subject-questions-grammar-chart.webp",
+        "local_filename": "img-1.webp",
+        "public_path": "/uploads/grammar/a2/subject-questions-questions-preposition/img-1.webp",
+        "alt": "Grammar diagram illustrating the structure of subject questions in English, contrasting correct and incorrect usage with examples."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/subject-questions-questions-preposition/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/subject-questions-questions-preposition/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/subject-questions-questions-preposition/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/subject-questions-questions-preposition/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a2/subject-questions-questions-preposition/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a2/subject-questions-questions-preposition/img-7.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Subject questions, questions with preposition",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She is looking for a job. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is she looking for",
+                "is she looking",
+                "she's looking for"
+              ],
+              "correct": "is she looking for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2927"
+        },
+        {
+          "index": 1,
+          "template": "Sonya helped me with the boxes. ⇒ Who {0} with the boxes?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you help",
+                "did help you",
+                "helped you"
+              ],
+              "correct": "did you help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2928"
+        },
+        {
+          "index": 2,
+          "template": "I asked John to bring music for the party. ⇒ Who {0} to bring music for the party?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you ask",
+                "asked you",
+                "you asked"
+              ],
+              "correct": "did you ask",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2929"
+        },
+        {
+          "index": 3,
+          "template": "I am waiting for my husband. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you waiting for",
+                "you're waiting for",
+                "are you waiting"
+              ],
+              "correct": "are you waiting for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2930"
+        },
+        {
+          "index": 4,
+          "template": "Very few people went to the party. ⇒ {0} to the party?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "How many did people go",
+                "How many people went",
+                "How many people did go"
+              ],
+              "correct": "How many people went",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2931"
+        },
+        {
+          "index": 5,
+          "template": "She invited very few people to the party ⇒ How many people {0} to the party?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did she invite",
+                "invited she",
+                "she invited"
+              ],
+              "correct": "did she invite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2932"
+        },
+        {
+          "index": 6,
+          "template": "He apologised for being late. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "he did apologise for",
+                "did he apologise for",
+                "did he apologise"
+              ],
+              "correct": "did he apologise",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2933"
+        },
+        {
+          "index": 7,
+          "template": "Sam loves Elisa. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Sam loves",
+                "loves Sam",
+                "does Sam love"
+              ],
+              "correct": "does Sam love",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2934"
+        },
+        {
+          "index": 8,
+          "template": "Something terrible happened last night. ⇒ {0} last night?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Who happened",
+                "What did happen",
+                "What happened"
+              ],
+              "correct": "What happened",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2935"
+        },
+        {
+          "index": 9,
+          "template": "The book is based on a novel by a Russian writer. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the book is based",
+                "is the book based",
+                "is the book based on"
+              ],
+              "correct": "is the book based on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2936"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Subject questions, questions with preposition",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I dreamt about our old house in Cornwall. ⇒ What _____?",
+          "options": [
+            "dreamt you",
+            "dreamt you about",
+            "did you dream about"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I always listen to Jack's advice. ⇒ What _____?",
+          "options": [
+            "you do always listen to",
+            "do you always listen to",
+            "do you always listen"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Jason kissed Virginia at the playground. ⇒ _____ at the playground?",
+          "options": [
+            "Who kissed Virginia",
+            "Who did kiss Virginia",
+            "Who did Virginia kiss"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Jason kissed Virginia at the playground. ⇒ _____ at the playground?",
+          "options": [
+            "Who Jason kissed",
+            "Who did Jason kiss",
+            "Who kissed Jason"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Lewis asked his boss for a promotion. ⇒ What _____?",
+          "options": [
+            "Lewis did ask his boss for",
+            "Lewis asked his boss for",
+            "did Lewis ask his boss for"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Lewis asked his boss for a promotion. ⇒ _____ for a promotion?",
+          "options": [
+            "Who asked his boss",
+            "Who did he ask his boss",
+            "Who did ask his boss"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Lewis asked his boss for a promotion. ⇒ _____ for a promotion?",
+          "options": [
+            "Who did Lewis ask",
+            "Who asked Lewis",
+            "Who did ask Lewis"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I'm happy about the results. ⇒ What _____?",
+          "options": [
+            "are you happy",
+            "are you happy about",
+            "you're happy about"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Alexander Graham Bell invented the telephone. ⇒ What _____?",
+          "options": [
+            "did Alexander Graham Bell invent",
+            "invented Alexander Graham Bell",
+            "did invent Alexander Graham Bell"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Alexander Fleming discovered penicillin. ⇒ Who _____?",
+          "options": [
+            "did Alexander Fleming discover",
+            "did discover penicillin",
+            "discovered penicillin"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Subject questions, questions with preposition",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I came to see you. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "came to see you?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2937"
+        },
+        {
+          "index": 1,
+          "template": "She is worried about you. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is worried about you?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2938"
+        },
+        {
+          "index": 2,
+          "template": "I travelled to India with my boyfriend. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "travelled to India with my boyfriend?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2939"
+        },
+        {
+          "index": 3,
+          "template": "George arrives late every day. ⇒ {0} every day?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Does George arrive late?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2940"
+        },
+        {
+          "index": 4,
+          "template": "He was looking at the new building. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was he looking at?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2941"
+        },
+        {
+          "index": 5,
+          "template": "He is writing from Paris. ⇒ Where {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is he writing from?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2942"
+        },
+        {
+          "index": 6,
+          "template": "I informed John about the meeting. ⇒ {0} about the meeting?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did I inform John?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2943"
+        },
+        {
+          "index": 7,
+          "template": "My manager informed John about the meeting. ⇒ {0} about the meeting?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did my manager inform John?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2945"
+        },
+        {
+          "index": 8,
+          "template": "A car accident caused him multiple fractures. ⇒ What {0} multiple fractures?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "caused him?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2944"
+        },
+        {
+          "index": 9,
+          "template": "She believes in ghosts. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does she believe in?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2946"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Subject questions, questions with preposition",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She is looking for a job. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is she looking for",
+                "is she looking",
+                "she's looking for"
+              ],
+              "correct": "is she looking for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2927"
+        },
+        {
+          "index": 1,
+          "template": "Sonya helped me with the boxes. ⇒ Who {0} with the boxes?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you help",
+                "did help you",
+                "helped you"
+              ],
+              "correct": "did you help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2928"
+        },
+        {
+          "index": 2,
+          "template": "I asked John to bring music for the party. ⇒ Who {0} to bring music for the party?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did you ask",
+                "asked you",
+                "you asked"
+              ],
+              "correct": "did you ask",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2929"
+        },
+        {
+          "index": 3,
+          "template": "I am waiting for my husband. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you waiting for",
+                "you're waiting for",
+                "are you waiting"
+              ],
+              "correct": "are you waiting for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2930"
+        },
+        {
+          "index": 4,
+          "template": "Very few people went to the party. ⇒ {0} to the party?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "How many did people go",
+                "How many people went",
+                "How many people did go"
+              ],
+              "correct": "How many people went",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2931"
+        },
+        {
+          "index": 5,
+          "template": "She invited very few people to the party ⇒ How many people {0} to the party?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did she invite",
+                "invited she",
+                "she invited"
+              ],
+              "correct": "did she invite",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2932"
+        },
+        {
+          "index": 6,
+          "template": "He apologised for being late. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "he did apologise for",
+                "did he apologise for",
+                "did he apologise"
+              ],
+              "correct": "did he apologise",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2933"
+        },
+        {
+          "index": 7,
+          "template": "Sam loves Elisa. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Sam loves",
+                "loves Sam",
+                "does Sam love"
+              ],
+              "correct": "does Sam love",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2934"
+        },
+        {
+          "index": 8,
+          "template": "Something terrible happened last night. ⇒ {0} last night?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Who happened",
+                "What did happen",
+                "What happened"
+              ],
+              "correct": "What happened",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2935"
+        },
+        {
+          "index": 9,
+          "template": "The book is based on a novel by a Russian writer. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "the book is based",
+                "is the book based",
+                "is the book based on"
+              ],
+              "correct": "is the book based on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2936"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

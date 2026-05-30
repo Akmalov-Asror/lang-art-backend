@@ -1,0 +1,567 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "modal-verbs-of-deduction",
+  "order_index": 17,
+  "title": "Modal verbs of deduction: Must, may, might, could, can’t",
+  "source_url": "https://test-english.com/grammar-points/b1/modal-verbs-of-deduction/",
+  "scraped_at": "2026-05-23T07:22:14.290Z",
+  "explanation": {
+    "markdown": "## Modal verbs of deduction: Grammar chart\n\n![Modal verbs of deduction – must, might, could, can’t](/uploads/grammar/b1/modal-verbs-of-deduction/img-1.png)\n\n## May, might\n\nWe use [**may** and **might**](https://test-english.com/grammar-points/a2/may-and-might-whats-the-difference/) to talk about things that are possibly true, but we don’t know for sure.\n\n-   *He’s more than 2 meters tall. He **might be** a basketball player.* (=perhaps he is)\n-   *He says Betty is his friend, but I think she **may be** his girlfriend.*\n\nWe use **may not** or **might not** to talk about things that are possibly not true, but we don’t know for sure.\n\n-   *You should call her. She **might not know** where you are.* (=perhaps she doesn’t know)\n\n#### Don’t use [**can**](https://test-english.com/grammar-points/a1/can-cant/) for deduction\n\nWe don’t use **can** as a modal of deduction.\n\n-   *He **can be** at home now. ![](/uploads/grammar/b1/modal-verbs-of-deduction/img-2.png)* \n-   *He **might/may be** at home now.* ![](/uploads/grammar/b1/modal-verbs-of-deduction/img-3.png)\n\n## Must, can’t\n\nWe use **must** when we are sure, or quite sure, that something is true.\n\n-   *You **must be** tired after the long journey.* (=I’m sure you are tired)\n-   *I’m sure I had the keys when I left. They **must be** in the car.*\n\n❗ **But** we use **can’t** (NOT **mustn’t**) when we are sure, or quite sure, that something is not true.\n\n-   *We’ve been walking for hours. It **mustn’t be** far from here. ![](/uploads/grammar/b1/modal-verbs-of-deduction/img-4.png)* \n-   *We’ve been walking for hours. It **can’t be** far from here.* ![](/uploads/grammar/b1/modal-verbs-of-deduction/img-5.png)\n-   *They’ve lived here only for a couple of months. They **can’t know** many people.*\n\n## \\+ be + -ing\n\nAfter **may, might, must** or **can’t**, we can use **be + -ing**, when we are talking about actions in progress.\n\n-   *They’ve gone to Ibiza, and right now, they **must be having** a great time.*\n-   *Call him. He **might be waiting** for us.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/modal-verbs-of-deduction_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/modal-verbs-of-deduction/img-1.png",
+        "alt": "Modal verbs of deduction – must, might, could, can’t"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/modal-verbs-of-deduction/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/modal-verbs-of-deduction/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/modal-verbs-of-deduction/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b1/modal-verbs-of-deduction/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Modal verbs of deduction: Must, may, might, could, can’t",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Paul is behaving in a very unusual way. I think he ______ again.",
+          "options": [
+            "can't drink",
+            "can be drinking",
+            "might be drinking"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I think there ______ a mistake in your tax return. You should check it. Choose TWO correct options",
+          "options": [
+            "can't be",
+            "might be",
+            "may be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "If Suzan said that, it ______ true. She never lies.",
+          "options": [
+            "might be",
+            "must be",
+            "can be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Sorry, but I'm not Connor. You ______ me for someone else.",
+          "options": [
+            "might be confusing",
+            "must confuse",
+            "must be confusing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I'm not sure I trust Peter. He ______ the person we think he is.",
+          "options": [
+            "might not be",
+            "can't be",
+            "must not be"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "You have been walking for ten hours. You ______ exhausted.",
+          "options": [
+            "can be",
+            "can't be",
+            "must be"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "He ______ his son, they look completely different.",
+          "options": [
+            "might be",
+            "can't be",
+            "must not be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "There's a bit of traffic, so I ______ arrive in time. Choose TWO correct options",
+          "options": [
+            "might not",
+            "must not",
+            "may not"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "He ______ be very proud of you right now. You disappointed him.",
+          "options": [
+            "must not",
+            "can't",
+            "might"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I wouldn't swim in this river if I were you. It ______ dangerous. Choose TWO correct options",
+          "options": [
+            "might be",
+            "may be",
+            "can be"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Modal verbs of deduction: Must, may, might, could, can’t",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "The phone is ringing. It {0} be Charlotte; she said she would call this morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can",
+                "must",
+                "can't"
+              ],
+              "correct": "must",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1861"
+        },
+        {
+          "index": 1,
+          "template": "She {0} be in love with him. She told me she hates him.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "might not",
+                "can't",
+                "must"
+              ],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1862"
+        },
+        {
+          "index": 2,
+          "template": "He {0} be at the gym right now. Sometimes he goes there at this time.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "must",
+                "can't",
+                "might"
+              ],
+              "correct": "might",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1863"
+        },
+        {
+          "index": 3,
+          "template": "This is not possible. You {0} be serious!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "must",
+                "might not",
+                "can't"
+              ],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1864"
+        },
+        {
+          "index": 4,
+          "template": "If he drives a jaguar, he {0} be quite rich.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't",
+                "might",
+                "must"
+              ],
+              "correct": "must",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1866"
+        },
+        {
+          "index": 5,
+          "template": "You should pick up the phone. It {0} be an important call.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "might",
+                "can't",
+                "can"
+              ],
+              "correct": "might",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1865"
+        },
+        {
+          "index": 6,
+          "template": "He {0} know the answer, he's the best in the class.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can",
+                "must",
+                "might"
+              ],
+              "correct": "must",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1867"
+        },
+        {
+          "index": 7,
+          "template": "You {0} be right, but it's better if we check.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't",
+                "might",
+                "can"
+              ],
+              "correct": "might",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1868"
+        },
+        {
+          "index": 8,
+          "template": "He {0} be in class. I saw him at the library a minute ago.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "must",
+                "might not",
+                "can't"
+              ],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1869"
+        },
+        {
+          "index": 9,
+          "template": "A: Who's at the door? B: I don't know; it {0} be John.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can't",
+                "may",
+                "must"
+              ],
+              "correct": "can't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1870"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Modal verbs of deduction: Must, may, might, could, can’t",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Dialogue 1 A: Someone is knocking at the door. B: It 1 {0} be the pizza delivery man. I ordered a pizza. A: I know you ordered a pizza. But it 2 {1} be him, because you ordered the pizza five minutes ago. B: Yes, you are right. Then it 3 {2} be your sister. A: No, it 4 {3} be my sister, she's out of town. B: Well, then just open the door; it 5 {4} be important. Dialogue 2 A: Why don't you tell me what the matter is with you? B: Well, I should tell you something and I think you 6 {5} like it. A: Come on! Tell me what it is. It 7 {6} be that bad. B: I don't know. I'm afraid you 8 {7} react badly. A: Then I'm sure it 9 {8} be serious. Please, tell me. B: I saw Lindsey holding hands with another man. A: What? B: Please, I know you 10 {9} be upset right now, but... A: Dude, Lindsey and I broke up more than a year ago. Didn't you know?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "must",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "must",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "must",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "must",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "won't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can't",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1881"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Modal verbs of deduction: Must, may, might, could, can’t",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Paul is behaving in a very unusual way. I think he ______ again.",
+          "options": [
+            "can't drink",
+            "can be drinking",
+            "might be drinking"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I think there ______ a mistake in your tax return. You should check it. Choose TWO correct options",
+          "options": [
+            "can't be",
+            "might be",
+            "may be"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "If Suzan said that, it ______ true. She never lies.",
+          "options": [
+            "might be",
+            "must be",
+            "can be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Sorry, but I'm not Connor. You ______ me for someone else.",
+          "options": [
+            "might be confusing",
+            "must confuse",
+            "must be confusing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I'm not sure I trust Peter. He ______ the person we think he is.",
+          "options": [
+            "might not be",
+            "can't be",
+            "must not be"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "You have been walking for ten hours. You ______ exhausted.",
+          "options": [
+            "can be",
+            "can't be",
+            "must be"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "He ______ his son, they look completely different.",
+          "options": [
+            "might be",
+            "can't be",
+            "must not be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "There's a bit of traffic, so I ______ arrive in time. Choose TWO correct options",
+          "options": [
+            "might not",
+            "must not",
+            "may not"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "He ______ be very proud of you right now. You disappointed him.",
+          "options": [
+            "must not",
+            "can't",
+            "might"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I wouldn't swim in this river if I were you. It ______ dangerous. Choose TWO correct options",
+          "options": [
+            "might be",
+            "may be",
+            "can be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

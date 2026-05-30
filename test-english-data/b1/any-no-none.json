@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "any-no-none",
+  "order_index": 27,
+  "title": "Any, no, none: Quantifiers",
+  "source_url": "https://test-english.com/grammar-points/b1/any-no-none/",
+  "scraped_at": "2026-05-23T07:23:26.113Z",
+  "explanation": {
+    "markdown": "## **No, any, none**: Grammar chart\n\n![Quantifiers – no, any, none](/uploads/grammar/b1/any-no-none/img-1.png)\n\n## **No**/**any** \\+ noun\n\nWe use **no** + noun in sentences with a positive verb, and we use **any** \\+ noun in negatives and questions. **No**\\= **not a** or **not any**\n\n-   *I have **no** friends.*\n-   *I don’t have **any** friends.* \n-   *Do you have **any** friends?*\n\n## **Any** without noun\n\nWe can also use **any** as a pronoun, i.e. not followed by a noun.\n\n-   *‘Is there any milk left?’ ‘No, there isn’t **any**.’*\n\n## **Any** in affirmative sentences\n\nWe can also use **any** in affirmative sentences when it means ‘one or some, but it is not important which’.\n\n-   *You can come **any** weekend.* (=One weekend; it doesn’t matter which)\n-   ***Any** idiot would know how to use this phone.*\n\n## **None**\n\nWe use **none** as a pronoun, i.e. not followed by a noun. We use **none** to replace countable or uncountable nouns.\n\n-   *‘How many friends do you have?’ ‘**None**.’*\n-   *I thought there was some coffee, but there’s **none**.’*\n\nWe can also use **none of the/my/Tom’s/etc.** + noun or **none of** + **us/you/them**.\n\n-   ***None of my students** is/are from France.*\n-   ***None of them** is/are from France.*\n\n🔍 **Note** that when **None of …** is the subject of a sentence, we can use the verb in singular (more formal) or plural form (more informal).\n\n## **Nothing/anything, nobody/anybody, nowhere/anywhere**\n\nWe use [**nothing, nobody,** and **nowhere**](https://test-english.com/grammar-points/a2/something-anything-nothing-etc/) with positive verbs and **anything, anybody,** and **anywhere** in negative sentences and questions. **Nothing, nobody, nowhere** \\= **not anything, not anybody, not anywhere**\n\n-   *There’s **nothing** that we can do. (=There is**n’t anything** that we can do.)*\n-   *Have you seen John **anywhere**?*\n-   *We saw **nobody**. (=We didn’t see **anybody**)*\n-   ***Nothing** happened.* \n\n#### **Anything, anybody, anywhere** in affirmative sentences\n\nWe can use **anything/anybody/anywhere** in affirmative sentences to mean ‘it doesn’t matter what/who/where.’\n\n-   *We can do **anything**.* (=It doesn’t matter what.)\n-   ***Anybody** in the school could help us.* (=It doesn’t matter who.)\n-   *We can go **anywhere**.* (=It doesn’t matter where.)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Quantifiers_any-no-none.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/any-no-none/img-1.png",
+        "alt": "Quantifiers – no, any, none"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Any, no, none: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We couldn't find {0} open restaurants.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no",
+                "any",
+                "none"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5306"
+        },
+        {
+          "index": 1,
+          "template": "Do you have {0} pets?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any",
+                "none",
+                "no"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5307"
+        },
+        {
+          "index": 2,
+          "template": "There are still {0} answers about what happened to her.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no",
+                "any",
+                "none"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5308"
+        },
+        {
+          "index": 3,
+          "template": "A: How much milk did you buy? B: {0}. Sorry, I forgot.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Any",
+                "No",
+                "None"
+              ],
+              "correct": "None",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5309"
+        },
+        {
+          "index": 4,
+          "template": "You can use {0} computer in the room. All of them work.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "none",
+                "any",
+                "no"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5311"
+        },
+        {
+          "index": 5,
+          "template": "{0} of the films are available on streaming platforms.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "No",
+                "None",
+                "Any"
+              ],
+              "correct": "None",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5310"
+        },
+        {
+          "index": 6,
+          "template": "We're worried. We've had {0} news from them since they left.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no",
+                "none",
+                "any"
+              ],
+              "correct": "no",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5312"
+        },
+        {
+          "index": 7,
+          "template": "I didn't ask {0} questions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any",
+                "none",
+                "no"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5313"
+        },
+        {
+          "index": 8,
+          "template": "A: How many chapters have you finished? B: {0}. I've had no time.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "No",
+                "Any",
+                "None"
+              ],
+              "correct": "No",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5314"
+        },
+        {
+          "index": 9,
+          "template": "Did you have {0} problems?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no",
+                "none",
+                "any"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5315"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Any, no, none: Quantifiers",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Did you go _____?",
+          "options": [
+            "anywhere",
+            "nowhere",
+            "no place"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "A: What did you do? B: _____. We went back home.",
+          "options": [
+            "Nothing",
+            "Anything",
+            "Nowhere"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: How many episodes did you watch? B:_____. I read a book.",
+          "options": [
+            "No",
+            "Nothing",
+            "None"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I didn't tell _____ what happened.",
+          "options": [
+            "nobody",
+            "anybody",
+            "no person"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Shh, be quiet please! _____ could hear us.",
+          "options": [
+            "Anybody",
+            "Nobody",
+            "No person"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "You did _____ of the things I asked you to do.",
+          "options": [
+            "any",
+            "no",
+            "none"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I asked all my friends, but _____ could help me.",
+          "options": [
+            "anybody",
+            "none of they",
+            "none of them"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I called three times but _____ picked up the phone.",
+          "options": [
+            "None",
+            "Nothing",
+            "Nobody"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "_____ news is good news.",
+          "options": [
+            "Any",
+            "No",
+            "None"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Nobody did _____ for me when I needed help.",
+          "options": [
+            "nothing",
+            "none",
+            "anything"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Any, no, none: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We didn't hear {0} the night of the event.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "anything",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5326"
+        },
+        {
+          "index": 1,
+          "template": "There were {0} witnesses who could testify.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5327"
+        },
+        {
+          "index": 2,
+          "template": "We didn't go {0}. We stayed at home.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "anywhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5328"
+        },
+        {
+          "index": 3,
+          "template": "{0} will tell me what to do. I'm an independent person.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "No one",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5329"
+        },
+        {
+          "index": 4,
+          "template": "Did you have {0} visitors last Sunday?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5330"
+        },
+        {
+          "index": 5,
+          "template": "A: How many visitors did you have? B: {0}. I was alone all day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "None",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5331"
+        },
+        {
+          "index": 6,
+          "template": "A: Who visited you last Sunday? B: {0}. I was alone all day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "No one",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5332"
+        },
+        {
+          "index": 7,
+          "template": "{0} of the suspects have been publicly named.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "None",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5333"
+        },
+        {
+          "index": 8,
+          "template": "I'm sorry, but it's too late. There is {0} we can do now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "nothing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5334"
+        },
+        {
+          "index": 9,
+          "template": "Please, ask. I'm here to answer {0} questions you might have.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5335"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Any, no, none: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We couldn't find {0} open restaurants.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no",
+                "any",
+                "none"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5306"
+        },
+        {
+          "index": 1,
+          "template": "Do you have {0} pets?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any",
+                "none",
+                "no"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5307"
+        },
+        {
+          "index": 2,
+          "template": "There are still {0} answers about what happened to her.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no",
+                "any",
+                "none"
+              ],
+              "correct": "no",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5308"
+        },
+        {
+          "index": 3,
+          "template": "A: How much milk did you buy? B: {0}. Sorry, I forgot.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Any",
+                "No",
+                "None"
+              ],
+              "correct": "Any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5309"
+        },
+        {
+          "index": 4,
+          "template": "You can use {0} computer in the room. All of them work.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "none",
+                "any",
+                "no"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5311"
+        },
+        {
+          "index": 5,
+          "template": "{0} of the films are available on streaming platforms.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "No",
+                "None",
+                "Any"
+              ],
+              "correct": "None",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5310"
+        },
+        {
+          "index": 6,
+          "template": "We're worried. We've had {0} news from them since they left.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no",
+                "none",
+                "any"
+              ],
+              "correct": "no",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5312"
+        },
+        {
+          "index": 7,
+          "template": "I didn't ask {0} questions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "any",
+                "none",
+                "no"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5313"
+        },
+        {
+          "index": 8,
+          "template": "A: How many chapters have you finished? B: {0}. I've had no time.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "No",
+                "Any",
+                "None"
+              ],
+              "correct": "No",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5314"
+        },
+        {
+          "index": 9,
+          "template": "Did you have {0} problems?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "no",
+                "none",
+                "any"
+              ],
+              "correct": "any",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5315"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

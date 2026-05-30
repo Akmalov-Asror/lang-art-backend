@@ -1,0 +1,673 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "had-better-its-time",
+  "order_index": 34,
+  "title": "Had better… It’s time…",
+  "source_url": "https://test-english.com/grammar-points/b1/had-better-its-time/",
+  "scraped_at": "2026-05-23T07:24:08.987Z",
+  "explanation": {
+    "markdown": "## Had better (‘d better)\n\n![Grammar chart explaining the usage of 'had better' for giving advice in English, with examples and meanings listed.](/uploads/grammar/b1/had-better-its-time/img-1.png)\n\n#### Use\n\nWe use **had better** to give **strong advice** or to tell someone (including ourselves) what to do.\n\n-   *I**‘d better** go home. It’s getting late.*\n-   *You**‘d better** tell Mum what happened before she finds out.* \n\n**Had better** often implies that something negative will happen if something is not done, and it often sounds like a threat or a warning.\n\n-   *He**‘d better** give me my money back, or he’ll be in trouble.* \n-   *You**‘d better** behave yourself if you don’t want me to get really angry.* \n\n#### Form\n\nThe word **had** is a past verb form, but the expression **had better** is only used to talk about the **immediate future**.\n\n-   *You**‘d better** call me soon. I’ll be worried.*\n\nAfter **had better** we need to use [**infinitive** without **to**](https://test-english.com/grammar-points/b1/gerund-or-infinitive-do-to-do-doing/).\n\n-   *I**‘d better to** take a look. ![](/uploads/grammar/b1/had-better-its-time/img-2.png)* \n-   *I**‘d better** take a look. ![](/uploads/grammar/b1/had-better-its-time/img-3.png)* \n\n**Had better not** (**‘d better not**) is the negative form of **had better**.\n\n-   *You**‘d better not** say a word about this.* \n-   *I**‘d better not** forget.* \n\nIn spoken English, we normally use the short form **‘d better**. And in informal speech, people sometimes say just **better** (without **had**).\n\n-   *You **better** go home.*\n-   *I **better** get it right this time.* \n\n#### **Had better** vs **should**\n\nWe often use [**should**](https://test-english.com/grammar-points/a2/should-shouldnt/) to give **advice**, to say that something is a good thing. And we use **had better** to express **urgent advice** or a **warning**, with bad consequences if you don’t follow it.\n\n-   *You **should** try the cake. It’s delicious.* \n-   *He**‘d better** hurry up or he’ll miss the cake.* \n\n## It’s time\n\n![Grammar chart detailing the structure and usage of 'It's time' with to-infinitive and past simple forms, alongside examples.](/uploads/grammar/b1/had-better-its-time/img-4.png)\n\nWe can use **it’s time + to +** **infinitive** or **it’s time for someone + to** + **infinitive** to say that someone should do something now or in the future.\n\n-   ***It’s time for you to go** to the doctor.* \n-   ***It’s time to make** a decision.* \n\nWe can also use **it’s (about) time** + **subject** + [**past simple**](https://test-english.com/grammar-points/a2/past-simple-form-use/) to say that someone should do something now or in the future.\n\n-   ***It’s time you went** to the doctor.* \n-   *I really think **it’s about time you made** a decision. We can’t go on like this any longer.*\n\n🔍 **Note** that we use the past in this form, but we are talking about the future.  \n  \nWe often use this form to **complain** or **criticise**.\n\n-   ***It’s time you paid** me what you owe me.*  \n-   ***It’s about time you started** looking for a job.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Had-better_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/had-better-its-time/img-1.png",
+        "alt": "Grammar chart explaining the usage of 'had better' for giving advice in English, with examples and meanings listed."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/had-better-its-time/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/had-better-its-time/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Its-time_Grammar-chart.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/had-better-its-time/img-4.png",
+        "alt": "Grammar chart detailing the structure and usage of 'It's time' with to-infinitive and past simple forms, alongside examples."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Had better… It’s time…",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You {0} your tickets in advance.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better to book",
+                "'d better book",
+                "better booking"
+              ],
+              "correct": "'d better book",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5443"
+        },
+        {
+          "index": 1,
+          "template": "You {0} late at the family dinner",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better not be",
+                "should better not be",
+                "better don't be"
+              ],
+              "correct": "'d better not be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5444"
+        },
+        {
+          "index": 2,
+          "template": "It's late. I {0} if I don't want to miss my train.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better to go",
+                "'d better go",
+                "better to go"
+              ],
+              "correct": "'d better go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5445"
+        },
+        {
+          "index": 3,
+          "template": "A: Did you like the film? B: Yes, you {0} it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "should see",
+                "'d better to see",
+                "'d better see"
+              ],
+              "correct": "'d better see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5446"
+        },
+        {
+          "index": 4,
+          "template": "It's almost midnight. It's time you {0} to bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "went",
+                "to go",
+                "go"
+              ],
+              "correct": "went",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5447"
+        },
+        {
+          "index": 5,
+          "template": "You {0} another drink if you are driving.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "better don't have",
+                "'d better don't have",
+                "'d better not have"
+              ],
+              "correct": "'d better not have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5448"
+        },
+        {
+          "index": 6,
+          "template": "He {0} here before 9 tomorrow if he doesn't want to be fired.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better get",
+                "'d better to get",
+                "'d better gets"
+              ],
+              "correct": "'d better get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5449"
+        },
+        {
+          "index": 7,
+          "template": "It's time {0} himself.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for Tom to prove",
+                "for Tom proved",
+                "that Tom proves"
+              ],
+              "correct": "for Tom to prove",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5450"
+        },
+        {
+          "index": 8,
+          "template": "You {0} this cake, it's delicious!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "should better try",
+                "should try",
+                "'d better try"
+              ],
+              "correct": "should try",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5451"
+        },
+        {
+          "index": 9,
+          "template": "You {0} your computer in the car. There are a lot of car burglaries in this area.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better don't leave",
+                "'d better not leave",
+                "better don't leave"
+              ],
+              "correct": "'d better not leave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5452"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Had better… It’s time…",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "It's almost 5. I _____ to the bank before they close.",
+          "options": [
+            "'d better go",
+            "should better go",
+            "'d better to go"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "It's time the government _____ something about the situation.",
+          "options": [
+            "do",
+            "should do",
+            "did"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "You _____ the truth or they'll find out.",
+          "options": [
+            "'d better to tell",
+            "'d better tell",
+            "should better tell"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "He _____ right about this, or he'll regret it.",
+          "options": [
+            "would better be",
+            "had better be",
+            "had better been"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "You _____ Tom to the party if Sarah is going to be there.",
+          "options": [
+            "better don't invite",
+            "hadn't better invite",
+            "'d better not invite"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "It's time _____ action as a collective.",
+          "options": [
+            "we all took",
+            "for all of us take",
+            "we all take"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I think we _____ children more than one foreign language.",
+          "options": [
+            "'d better teach",
+            "should teach",
+            "should better teach"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "You _____ your opinion on this matter. It's a sensitive topic.",
+          "options": [
+            "'d better don't express",
+            "better don't express",
+            "'d better not express"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "It's time _____.",
+          "options": [
+            "for the president acted.",
+            "for the president to act.",
+            "the president acts."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "They _____ a solution soon, or it'll be too late.",
+          "options": [
+            "'d better find",
+            "'d better to find",
+            "should better find"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Had better… It’s time…",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "It's time he {0} making some changes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "started",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5463"
+        },
+        {
+          "index": 1,
+          "template": "It's going to rain. You'd better {0} an umbrella.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "take",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5464"
+        },
+        {
+          "index": 2,
+          "template": "My parents must be worried. I'd better {0} them and tell them that I'm OK.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5465"
+        },
+        {
+          "index": 3,
+          "template": "It's time for John {0} his job.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to leave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5466"
+        },
+        {
+          "index": 4,
+          "template": "You {0} better tell the truth when they ask you.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5467"
+        },
+        {
+          "index": 5,
+          "template": "They'd better {0} another match if they want to stay in the tournament.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "play",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5468"
+        },
+        {
+          "index": 6,
+          "template": "It's time you {0} that you made a mistake.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to admit",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5469"
+        },
+        {
+          "index": 7,
+          "template": "I think you'd better {0} your password. This one isn't safe.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "change",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5470"
+        },
+        {
+          "index": 8,
+          "template": "It's very late. It's time {0} to bed.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5471"
+        },
+        {
+          "index": 9,
+          "template": "You'd better {0} a word about this.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "not say",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5472"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Had better… It’s time…",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "You {0} your tickets in advance.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better to book",
+                "'d better book",
+                "better booking"
+              ],
+              "correct": "'d better book",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5443"
+        },
+        {
+          "index": 1,
+          "template": "You {0} late at the family dinner",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better not be",
+                "should better not be",
+                "better don't be"
+              ],
+              "correct": "'d better not be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5444"
+        },
+        {
+          "index": 2,
+          "template": "It's late. I {0} if I don't want to miss my train.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better to go",
+                "'d better go",
+                "better to go"
+              ],
+              "correct": "'d better go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5445"
+        },
+        {
+          "index": 3,
+          "template": "A: Did you like the film? B: Yes, you {0} it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "should see",
+                "'d better to see",
+                "'d better see"
+              ],
+              "correct": "should see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5446"
+        },
+        {
+          "index": 4,
+          "template": "It's almost midnight. It's time you {0} to bed.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "went",
+                "to go",
+                "go"
+              ],
+              "correct": "went",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5447"
+        },
+        {
+          "index": 5,
+          "template": "You {0} another drink if you are driving.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "better don't have",
+                "'d better don't have",
+                "'d better not have"
+              ],
+              "correct": "'d better not have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5448"
+        },
+        {
+          "index": 6,
+          "template": "He {0} here before 9 tomorrow if he doesn't want to be fired.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better get",
+                "'d better to get",
+                "'d better gets"
+              ],
+              "correct": "'d better get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5449"
+        },
+        {
+          "index": 7,
+          "template": "It's time {0} himself.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for Tom to prove",
+                "for Tom proved",
+                "that Tom proves"
+              ],
+              "correct": "for Tom to prove",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5450"
+        },
+        {
+          "index": 8,
+          "template": "You {0} this cake, it's delicious!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "should better try",
+                "should try",
+                "'d better try"
+              ],
+              "correct": "should try",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5451"
+        },
+        {
+          "index": 9,
+          "template": "You {0} your computer in the car. There are a lot of car burglaries in this area.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'d better don't leave",
+                "'d better not leave",
+                "better don't leave"
+              ],
+              "correct": "'d better not leave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5452"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

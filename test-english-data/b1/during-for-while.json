@@ -1,0 +1,655 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "during-for-while",
+  "order_index": 4,
+  "title": "During, for, while",
+  "source_url": "https://test-english.com/grammar-points/b1/during-for-while/",
+  "scraped_at": "2026-05-23T07:20:40.531Z",
+  "explanation": {
+    "markdown": "## **During, for, while**: Grammar chart\n\n![during, for, while](/uploads/grammar/b1/during-for-while/img-1.png)\n\n## **During**\n\nWe use **during** + noun to talk about **when** something happens. With **during**, we answer the question **when**.\n\n-   *Some people got lost **during** the journey.* \n-   *I will finish the novel **during** the summer break.* \n-   *Most burglaries happen **during** the night.* \n\n## **For**\n\nWe use [**for** + length of time](https://test-english.com/grammar-points/b1/for-since-from-difference/) to say **how long** something happens. With **for**, we answer the question **how long**.\n\n-   *We have known each other **for** a long time.* \n-   *I waited **for** more than an hour, but I finally left.* \n-   *He worked in this company **for** over twenty years.*  \n\n## **While**\n\nWe use **while** + subject + verb to talk about two things that are happening at the same time.\n\n-   *I had breakfast **while** you were in the shower.* \n-   *I always listen to the radio **while** I’m cleaning.* \n-   *You shouldn’t use your phone **while** you are driving.* \n\n#### **During** vs **For**\n\nThe difference between **during** and **for** is that **during**  refers to ‘when’ something happens and **for** refers to ‘how long’ something happens. Compare:\n\n-   *Every day I run **for** one hour.* (=How long do you run?)\n-   *I usually run **during** the weekend.* (=When do you run?)\n\n#### **During** vs **While**\n\nThe main difference between **during** and **while** is that we use **while** + clause (subject + verb), and we use **during** + noun. Compare:\n\n-   *I fell asleep **during** the film.*\n-   *I fell asleep **while** I was watching the film.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/during_for_while-new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/during-for-while/img-1.png",
+        "alt": "during, for, while"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She has been sleeping {0} ten hours.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "during",
+                "for"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4705"
+        },
+        {
+          "index": 1,
+          "template": "I lived in London {0} over two years.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "during",
+                "while",
+                "for"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4706"
+        },
+        {
+          "index": 2,
+          "template": "I met George {0} my trip to Barcelona.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "while",
+                "during"
+              ],
+              "correct": "during",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4709"
+        },
+        {
+          "index": 3,
+          "template": "The singer fell ill {0} they were on tour.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "during",
+                "for"
+              ],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4712"
+        },
+        {
+          "index": 4,
+          "template": "She gets up at 6 and meditates {0} an hour before going to work.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "during",
+                "while",
+                "for"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4707"
+        },
+        {
+          "index": 5,
+          "template": "He scored a goal {0} the second half of the match.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "while",
+                "during"
+              ],
+              "correct": "during",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4710"
+        },
+        {
+          "index": 6,
+          "template": "She fell asleep {0} the exam.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "during",
+                "for"
+              ],
+              "correct": "during",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4711"
+        },
+        {
+          "index": 7,
+          "template": "Paul has been in a wheelchair {0} most of his life.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "during",
+                "for"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4708"
+        },
+        {
+          "index": 8,
+          "template": "I met Sally {0} I was on holiday in Scotland.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "for",
+                "during"
+              ],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4713"
+        },
+        {
+          "index": 9,
+          "template": "We should travel {0} we are still young.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "during",
+                "while"
+              ],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4714"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I cut my finger ____ I was cooking.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "He was texting his friends _____ breakfast.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "She had an anxiety attack _____ the funeral.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "She lived in a homeless shelter _____ two years.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Dr Karl was offended and he was quiet _____ the rest of the evening.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Enjoy your victory _____ you can, because the next time we will beat you.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "He fell and broke his hip _____ his last visit to Germany.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "They went on hunger strike and didn't eat anything _____ a month.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I finished the composition _____ I was having breakfast.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Women shouldn't be exposed to secondhand smoke _____ pregnancy.",
+          "options": [
+            "while",
+            "during",
+            "for"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I can't concentrate if you keep talking {0} I'm trying to study.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4725"
+        },
+        {
+          "index": 1,
+          "template": "You can't take pictures {0} the ceremony.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "during",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4726"
+        },
+        {
+          "index": 2,
+          "template": "I couldn't sleep {0} two days.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4727"
+        },
+        {
+          "index": 3,
+          "template": "I've been studying English {0} a couple of years.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4728"
+        },
+        {
+          "index": 4,
+          "template": "The modern Olympics have been held {0} the summer months every four years since 1896.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4729"
+        },
+        {
+          "index": 5,
+          "template": "Did anybody call {0} I was away?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4730"
+        },
+        {
+          "index": 6,
+          "template": "Please, be quiet {0} the children sleep.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4731"
+        },
+        {
+          "index": 7,
+          "template": "The Secretary announced her new plans {0} the speech.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "during",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4732"
+        },
+        {
+          "index": 8,
+          "template": "We haven't been in contact {0} some time.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4733"
+        },
+        {
+          "index": 9,
+          "template": "We've been married {0} 15 years.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4734"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She has been sleeping {0} ten hours.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "during",
+                "for"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4705"
+        },
+        {
+          "index": 1,
+          "template": "I lived in London {0} over two years.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "during",
+                "while",
+                "for"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4706"
+        },
+        {
+          "index": 2,
+          "template": "I met George {0} my trip to Barcelona.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "while",
+                "during"
+              ],
+              "correct": "during",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4709"
+        },
+        {
+          "index": 3,
+          "template": "The singer fell ill {0} they were on tour.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "during",
+                "for"
+              ],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4712"
+        },
+        {
+          "index": 4,
+          "template": "She gets up at 6 and meditates {0} an hour before going to work.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "during",
+                "while",
+                "for"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4707"
+        },
+        {
+          "index": 5,
+          "template": "He scored a goal {0} the second half of the match.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "while",
+                "during"
+              ],
+              "correct": "during",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4710"
+        },
+        {
+          "index": 6,
+          "template": "She fell asleep {0} the exam.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "during",
+                "for"
+              ],
+              "correct": "during",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4711"
+        },
+        {
+          "index": 7,
+          "template": "Paul has been in a wheelchair {0} most of his life.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "during",
+                "for"
+              ],
+              "correct": "for",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4708"
+        },
+        {
+          "index": 8,
+          "template": "I met Sally {0} I was on holiday in Scotland.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "while",
+                "for",
+                "during"
+              ],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4713"
+        },
+        {
+          "index": 9,
+          "template": "We should travel {0} we are still young.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "for",
+                "during",
+                "while"
+              ],
+              "correct": "while",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4714"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

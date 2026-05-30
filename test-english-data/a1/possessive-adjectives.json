@@ -1,0 +1,719 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "possessive-adjectives",
+  "order_index": 2,
+  "title": "Possessive adjectives and subject pronouns (I/my, you/your, etc.)",
+  "source_url": "https://test-english.com/grammar-points/a1/possessive-adjectives/",
+  "scraped_at": "2026-05-23T07:02:10.573Z",
+  "explanation": {
+    "markdown": "## Possessive adjectives and subject pronouns\n\n### Form\n\n![Grammar chart showing the relationship between subject pronouns and possessive adjectives in English with examples such as 'I/my', 'you/your', and 'he/his'.](/uploads/grammar/a1/possessive-adjectives/img-1.png)\n\n### Use\n\n#### **I** + verb / **My** + noun\n\nWe use **[subject pronoun](https://test-english.com/grammar-points/a1/object-pronouns/)** **\\+ verb**, and we use **possessive adjective + noun**.\n\n-   *These are Susan and Thomas; **they** are from Ohio. And that’s **their** house.* \n-   ***I** love **my** friend Sheila.* \n\n#### Possessive adjectives are always singular\n\n[Adjectives](https://test-english.com/grammar-points/a1/adjectives/) in English have no plural form. Possessive adjectives are always singular.\n\n-   *These are **their** suitcases. ![](/uploads/grammar/a1/possessive-adjectives/img-2.png)* \n-   *These are **theirs** suitcases. ![](/uploads/grammar/a1/possessive-adjectives/img-3.png)* \n\n#### **It/its** for things, **they/their** for people and things\n\nWe use **he/his** and **she/her** for people, and we use **it/its** for things. But in the plural, we use **they/their** for people and things.\n\n-   *The hotel has **its** own spa. **It** is a relaxing place.* \n-   *I like those chairs, **they** are beautiful. But **their** legs are too long.* \n\n#### **It’s** for time and weather\n\nWe use **it’s (=it is)** to talk about the time or the weather.\n\n-   ***It’s** very windy today, but **it’s** sunny.* \n-   *‘What time **is it**?’ ‘**It’s** three o’clock.’*\n\n#### **Its** or **it’s**?\n\n**Its** = possessive adjective. **It’s** = **it is** (subject + verb **be**)\n\n-   *Look at that dog. **It’s** beautiful. I like **its** hair.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/possessive-adjectives-new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/possessive-adjectives/img-1.png",
+        "alt": "Grammar chart showing the relationship between subject pronouns and possessive adjectives in English with examples such as 'I/my', 'you/your', and 'he/his'."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/possessive-adjectives/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/possessive-adjectives/img-3.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Possessive adjectives and subject pronouns (I/my, you/your, etc.)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Harry is {0} friend. {1} has a nice house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I",
+                "my"
+              ],
+              "correct": "my",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "He",
+                "His"
+              ],
+              "correct": "He",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3636"
+        },
+        {
+          "index": 1,
+          "template": "{0} are very happy with {1} new dog.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Their",
+                "They"
+              ],
+              "correct": "They",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "they",
+                "their"
+              ],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3637"
+        },
+        {
+          "index": 2,
+          "template": "We love {0} little dog.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "our",
+                "we"
+              ],
+              "correct": "our",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3638"
+        },
+        {
+          "index": 3,
+          "template": "{0} wants {1} breakfast.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "His",
+                "He"
+              ],
+              "correct": "He",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "he",
+                "his"
+              ],
+              "correct": "his",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3639"
+        },
+        {
+          "index": 4,
+          "template": "We want to see {0} children.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ours",
+                "our"
+              ],
+              "correct": "our",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3640"
+        },
+        {
+          "index": 5,
+          "template": "Scotland is famous for {0} rainy weather.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "its",
+                "it's"
+              ],
+              "correct": "its",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3641"
+        },
+        {
+          "index": 6,
+          "template": "Susan lives on {0} street. {1} house is very near.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I",
+                "my"
+              ],
+              "correct": "my",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "His",
+                "Her"
+              ],
+              "correct": "Her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3642"
+        },
+        {
+          "index": 7,
+          "template": "'What are those?' '{0} postcards.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "They are",
+                "It is"
+              ],
+              "correct": "They are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3643"
+        },
+        {
+          "index": 8,
+          "template": "I like this place and {0} special atmosphere.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "it's",
+                "its"
+              ],
+              "correct": "its",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3644"
+        },
+        {
+          "index": 9,
+          "template": "I love this place. {0} very special.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It's",
+                "Its"
+              ],
+              "correct": "It's",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3645"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Possessive adjectives and subject pronouns (I/my, you/your, etc.)",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Go to _____ office.",
+          "options": [
+            "you",
+            "your",
+            "yours"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ six o'clock. Let's go home.",
+          "options": [
+            "It's",
+            "Its",
+            "His"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Our products are famous for _____ durability.",
+          "options": [
+            "their",
+            "its",
+            "they"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I'm very happy about _____ marks.",
+          "options": [
+            "you",
+            "your",
+            "yours"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Valeria is from Italy, but _____ 's in Ireland now.",
+          "options": [
+            "his",
+            "her",
+            "she"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "These are my friends. _____ from Finland.",
+          "options": [
+            "Their",
+            "They're",
+            "They"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The apartment has _____ own private garden.",
+          "options": [
+            "it's",
+            "its",
+            "his"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Are _____ umbrellas here?",
+          "options": [
+            "we",
+            "ours",
+            "our"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Mark and Linda are in _____ caravan.",
+          "options": [
+            "they",
+            "their",
+            "its"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I need _____ tools, please.",
+          "options": [
+            "your",
+            "you",
+            "yours"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Possessive adjectives and subject pronouns (I/my, you/your, etc.)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Sally is in {0} room.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3647"
+        },
+        {
+          "index": 1,
+          "template": "Paul and Benet always help {0} friends.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3648"
+        },
+        {
+          "index": 2,
+          "template": "We live with {0} parents.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "our",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3649"
+        },
+        {
+          "index": 3,
+          "template": "Is that {0} hat?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "your",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3650"
+        },
+        {
+          "index": 4,
+          "template": "The police officers don't have {0} guns.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3651"
+        },
+        {
+          "index": 5,
+          "template": "The best part of this car is {0} price.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "its",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3655"
+        },
+        {
+          "index": 6,
+          "template": "Amanda lives with {0} parents.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3652"
+        },
+        {
+          "index": 7,
+          "template": "I don't like {0} new job.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "my",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3653"
+        },
+        {
+          "index": 8,
+          "template": "These shoes are famous for {0} comfort.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "its",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3654"
+        },
+        {
+          "index": 9,
+          "template": "Thomas is in {0} office.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "his",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3656"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Possessive adjectives and subject pronouns (I/my, you/your, etc.)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Harry is {0} friend. {1} has a nice house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I",
+                "my"
+              ],
+              "correct": "my",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "He",
+                "His"
+              ],
+              "correct": "He",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3636"
+        },
+        {
+          "index": 1,
+          "template": "{0} are very happy with {1} new dog.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Their",
+                "They"
+              ],
+              "correct": "They",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "they",
+                "their"
+              ],
+              "correct": "their",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3637"
+        },
+        {
+          "index": 2,
+          "template": "We love {0} little dog.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "our",
+                "we"
+              ],
+              "correct": "our",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3638"
+        },
+        {
+          "index": 3,
+          "template": "{0} wants {1} breakfast.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "His",
+                "He"
+              ],
+              "correct": "He",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "he",
+                "his"
+              ],
+              "correct": "his",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3639"
+        },
+        {
+          "index": 4,
+          "template": "We want to see {0} children.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ours",
+                "our"
+              ],
+              "correct": "our",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3640"
+        },
+        {
+          "index": 5,
+          "template": "Scotland is famous for {0} rainy weather.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "its",
+                "it's"
+              ],
+              "correct": "its",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3641"
+        },
+        {
+          "index": 6,
+          "template": "Susan lives on {0} street. {1} house is very near.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "I",
+                "my"
+              ],
+              "correct": "my",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "His",
+                "Her"
+              ],
+              "correct": "Her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3642"
+        },
+        {
+          "index": 7,
+          "template": "'What are those?' '{0} postcards.'",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "They are",
+                "It is"
+              ],
+              "correct": "They are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3643"
+        },
+        {
+          "index": 8,
+          "template": "I like this place and {0} special atmosphere.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "it's",
+                "its"
+              ],
+              "correct": "its",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3644"
+        },
+        {
+          "index": 9,
+          "template": "I love this place. {0} very special.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "It's",
+                "Its"
+              ],
+              "correct": "It's",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3645"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

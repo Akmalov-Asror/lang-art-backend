@@ -1,0 +1,733 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "something-anything-nothing-etc",
+  "order_index": 12,
+  "title": "Something, anything, nothing, etc.",
+  "source_url": "https://test-english.com/grammar-points/a2/something-anything-nothing-etc/",
+  "scraped_at": "2026-05-23T07:16:17.120Z",
+  "explanation": {
+    "markdown": "## **Something, anything, nothing, etc.**: Grammar chart\n\n![Grammar chart displaying the use of indefinite pronouns something, anything, nobody, etc., in various sentence structures for A2 pre-intermediate English learners.](/uploads/grammar/a2/something-anything-nothing-etc/img-1.png)\n\n#### **Some-** in affirmative sentences\n\nWe usually use **something,** **somebody**/**someone**, **somewhere** in affirmative sentences.\n\n-   *Look! There’s **something** under that chair.*\n-   ***Somebody** called you yesterday.*\n\n#### **Any-** in negative and interrogative sentences\n\nWe use **anything,** **anybody**/**anyone**, **anywhere** in negative sentences and questions.\n\n-   *There isn’t **anybody** in the house.*\n-   *Is there **anybody** here?*\n\n❗ **But** we often use **something,** **somebody**/**someone**, **somewhere** in requests and in offers, i.e. when we ask for something or offer something to someone.\n\n-   *Can **somebody** help me?*\n-   *Would you like **something** to eat?*\n\n#### **No-** with affirmative verbs\n\nWe use **nobody**/**no one**, **nothing**, **nowhere** in sentences with an affirmative verb.\n\n-   *The sun was in my eyes, and I **couldn’t** see **nobody**. ![](/uploads/grammar/a2/something-anything-nothing-etc/img-2.png)* \n-   *The sun was in my eyes, and I could see **nobody**.* ![](/uploads/grammar/a2/something-anything-nothing-etc/img-3.png)\n-   *‘Where have you been?’ ‘**Nowhere**.’*\n\n#### **Every-** means ‘all’\n\nWe use **everybody**/**everyone**, **everything**, **everywhere** when we mean ‘all the people’, ‘all the things’ or ‘(in) all the places’.\n\n-   *‘**Everybody** in my class has passed the exam.’*\n-   *‘From the top of the mountain, we could see **everything**.’*\n-   *‘There were insects **everywhere**.’*\n\n#### Singular verbs\n\nWe use singular verbs with all these words.\n\n-   ***Everything** is expensive nowadays.*\n-   ***Everyone** was tired.*\n-   *Has **anyone** seen my glasses?*\n\n#### **Something, anyone, nowhere, etc.** + adjective\n\nWe can use an adjective (**nice,** **wrong**, etc.) after **something**, **anything**, etc.\n\n-   *Can’t we go **somewhere quiet**?*\n-   *I didn’t do **anything wrong****.*\n\n#### **Something, anyone, nowhere, etc.** + **to** infinitive\n\nWe can use **to** + [infinitive](https://test-english.com/grammar-points/a2/infinitives-and-gerunds/) after **something**, **anything**, etc.\n\n-   *We didn’t have **anywhere to go**.* \n-   *I need **something to do**.  I’m bored.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/something-anything-nothing.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/something-anything-nothing-etc/img-1.png",
+        "alt": "Grammar chart displaying the use of indefinite pronouns something, anything, nobody, etc., in various sentence structures for A2 pre-intermediate English learners."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/something-anything-nothing-etc/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/something-anything-nothing-etc/img-3.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Something, anything, nothing, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I can’t find my keys {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nowhere",
+                "somewhere",
+                "anywhere"
+              ],
+              "correct": "anywhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3085"
+        },
+        {
+          "index": 1,
+          "template": "‘What did you have to drink?’ ‘I didn’t drink {0}; only water.’",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nothing",
+                "something",
+                "anything"
+              ],
+              "correct": "anything",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3086"
+        },
+        {
+          "index": 2,
+          "template": "{0} was at the party; all our friends and family were there.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Everybody",
+                "Somebody",
+                "Anybody"
+              ],
+              "correct": "Everybody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3087"
+        },
+        {
+          "index": 3,
+          "template": "‘Did you see {0} interesting at the party?’ ‘{1}. Only boring people.’",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nobody",
+                "anybody",
+                "somebody"
+              ],
+              "correct": "somebody",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "Anybody",
+                "Nobody",
+                "Everybody"
+              ],
+              "correct": "Nobody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3088"
+        },
+        {
+          "index": 4,
+          "template": "{0} robbed a bank yesterday. They took a lot of money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Nobody",
+                "Anybody",
+                "Somebody"
+              ],
+              "correct": "Somebody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3089"
+        },
+        {
+          "index": 5,
+          "template": "The police think the robber is hiding {0} in the neighbourhood.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anywhere",
+                "somewhere",
+                "everywhere"
+              ],
+              "correct": "somewhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3090"
+        },
+        {
+          "index": 6,
+          "template": "‘Have you eaten {0}?’ ‘{1}. I’m very hungry.’",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nothing",
+                "something",
+                "anything"
+              ],
+              "correct": "anything",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "Anything",
+                "Nothing",
+                "Everything"
+              ],
+              "correct": "Nothing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3091"
+        },
+        {
+          "index": 7,
+          "template": "Can I stay here tonight? I have {0} to go.’",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nowhere",
+                "somewhere",
+                "anywhere"
+              ],
+              "correct": "nowhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3092"
+        },
+        {
+          "index": 8,
+          "template": "I think {0} bad has happened, because there are police officers {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "something",
+                "anything",
+                "everything"
+              ],
+              "correct": "something",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "everywhere",
+                "nowhere",
+                "anywhere"
+              ],
+              "correct": "everywhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3093"
+        },
+        {
+          "index": 9,
+          "template": "{0} is big in New York; the streets, the buildings, the cars, even the hamburgers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Something",
+                "Everything",
+                "Anything"
+              ],
+              "correct": "Everything",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3094"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Something, anything, nothing, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_____ used my computer yesterday. I need to know who did it.",
+          "options": [
+            "Somebody",
+            "Nobody",
+            "Anybody"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "It happened very quickly and I couldn't see _____.",
+          "options": [
+            "nothing",
+            "something",
+            "anything"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Have you talked to _____ about your problem?",
+          "options": [
+            "somebody",
+            "nobody",
+            "anybody"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I'm bored. I don't have _____ to do.",
+          "options": [
+            "nothing",
+            "anything",
+            "something"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He lost his house and now he has _____ to live.",
+          "options": [
+            "nowhere",
+            "anywhere",
+            "everywhere"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "She doesn't have _____ in her life. She's very lonely.",
+          "options": [
+            "somebody",
+            "nobody",
+            "anybody"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Would you like _____ to eat?",
+          "options": [
+            "something",
+            "anything",
+            "nothing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "'Do you know _____ in Dublin?' 'Yes, I know a few people.'",
+          "options": [
+            "someone",
+            "anyone",
+            "no one"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Sarah told _____ that she broke up with you. Now we all know.",
+          "options": [
+            "anyone",
+            "no one",
+            "everyone"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I'm going to bed. There's _____ interesting on TV.",
+          "options": [
+            "something",
+            "anything",
+            "nothing"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Something, anything, nothing, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We have looked for Mike {0} but we can't find him {1}. Do you know where he is?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "nothing",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "nothing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3099"
+        },
+        {
+          "index": 1,
+          "template": "{0} called you this morning, but I don't know who.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Somebody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3105"
+        },
+        {
+          "index": 2,
+          "template": "I didn't go {0} yesterday. I stayed home all day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "anything",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3106"
+        },
+        {
+          "index": 3,
+          "template": "I don't know {0} in the class yet, but I know most of them.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "anybody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3107"
+        },
+        {
+          "index": 4,
+          "template": "I'm sorry but I can't help you. I don't know {0} about Napoleon.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "anything",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3108"
+        },
+        {
+          "index": 5,
+          "template": "He's behaving very strangely. {0} is wrong with him, but I don't know what.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Something",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3109"
+        },
+        {
+          "index": 6,
+          "template": "{0} was there when I arrived. I was the only person there.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Nobody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3110"
+        },
+        {
+          "index": 7,
+          "template": "Have you seen my wallet? I can't find it {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "anywhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3111"
+        },
+        {
+          "index": 8,
+          "template": "We lost, so there is {0} to celebrate today. Let's go home.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "nothing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3112"
+        },
+        {
+          "index": 9,
+          "template": "The police thought they were hiding in the house, but they didn't find {0} hiding in that house.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "anybody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3113"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Something, anything, nothing, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I can’t find my keys {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nowhere",
+                "somewhere",
+                "anywhere"
+              ],
+              "correct": "anywhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3085"
+        },
+        {
+          "index": 1,
+          "template": "‘What did you have to drink?’ ‘I didn’t drink {0}; only water.’",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nothing",
+                "something",
+                "anything"
+              ],
+              "correct": "anything",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3086"
+        },
+        {
+          "index": 2,
+          "template": "{0} was at the party; all our friends and family were there.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Everybody",
+                "Somebody",
+                "Anybody"
+              ],
+              "correct": "Everybody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3087"
+        },
+        {
+          "index": 3,
+          "template": "‘Did you see {0} interesting at the party?’ ‘{1}. Only boring people.’",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nobody",
+                "anybody",
+                "somebody"
+              ],
+              "correct": "anybody",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "Anybody",
+                "Nobody",
+                "Everybody"
+              ],
+              "correct": "Nobody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3088"
+        },
+        {
+          "index": 4,
+          "template": "{0} robbed a bank yesterday. They took a lot of money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Nobody",
+                "Anybody",
+                "Somebody"
+              ],
+              "correct": "Somebody",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3089"
+        },
+        {
+          "index": 5,
+          "template": "The police think the robber is hiding {0} in the neighbourhood.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "anywhere",
+                "somewhere",
+                "everywhere"
+              ],
+              "correct": "somewhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3090"
+        },
+        {
+          "index": 6,
+          "template": "‘Have you eaten {0}?’ ‘{1}. I’m very hungry.’",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nothing",
+                "something",
+                "anything"
+              ],
+              "correct": "anything",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "Anything",
+                "Nothing",
+                "Everything"
+              ],
+              "correct": "Nothing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3091"
+        },
+        {
+          "index": 7,
+          "template": "Can I stay here tonight? I have {0} to go.’",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "nowhere",
+                "somewhere",
+                "anywhere"
+              ],
+              "correct": "nowhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3092"
+        },
+        {
+          "index": 8,
+          "template": "I think {0} bad has happened, because there are police officers {1}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "something",
+                "anything",
+                "everything"
+              ],
+              "correct": "something",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "everywhere",
+                "nowhere",
+                "anywhere"
+              ],
+              "correct": "anywhere",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3093"
+        },
+        {
+          "index": 9,
+          "template": "{0} is big in New York; the streets, the buildings, the cars, even the hamburgers.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Something",
+                "Everything",
+                "Anything"
+              ],
+              "correct": "Everything",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3094"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

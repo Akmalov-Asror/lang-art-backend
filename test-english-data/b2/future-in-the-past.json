@@ -1,0 +1,540 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "future-in-the-past",
+  "order_index": 21,
+  "title": "Future in the past",
+  "source_url": "https://test-english.com/grammar-points/b2/future-in-the-past/",
+  "scraped_at": "2026-05-23T07:27:39.842Z",
+  "explanation": {
+    "markdown": "## Using future in the past\n\nSometimes, we talk about a past event and want to refer to something that happened in the future at that particular point in the past. When we want to express future time seen from the past, we use the past of the [regular future forms](https://test-english.com/grammar-points/b2/future-forms-expressing-future-time/).  \n  \nCheck the following sentences to see the future forms and their corresponding past forms.  \n  \n![Future in the past - future forms](/uploads/grammar/b2/future-in-the-past/img-1.jpg)\n\nWe can also talk about the future seen from the past using [other ways to express future](https://test-english.com/grammar-points/b2/ways-express-future/). Check the table below.  \n  \n![Future in the past - other ways to express future](/uploads/grammar/b2/future-in-the-past/img-2.jpg)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Future-in-the-past_Verb-forms.jpg",
+        "local_filename": "img-1.jpg",
+        "public_path": "/uploads/grammar/b2/future-in-the-past/img-1.jpg",
+        "alt": "Future in the past - future forms"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Future-in-the-past_Expressions.jpg",
+        "local_filename": "img-2.jpg",
+        "public_path": "/uploads/grammar/b2/future-in-the-past/img-2.jpg",
+        "alt": "Future in the past - other ways to express future"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I saw he had a gun, but I didn't think he {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will shoot",
+                "was going to shoot",
+                "was shooting"
+              ],
+              "correct": "was going to shoot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1208"
+        },
+        {
+          "index": 1,
+          "template": "I knew you {0} the exam. You didn't make any effort!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are going to fail",
+                "were failing",
+                "would fail"
+              ],
+              "correct": "would fail",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1209"
+        },
+        {
+          "index": 2,
+          "template": "I lost my passport the day before we {0} for our honeymoon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "left",
+                "would leave",
+                "were leaving"
+              ],
+              "correct": "left",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1211"
+        },
+        {
+          "index": 3,
+          "template": "Sorry, I {0} you today, but I forgot.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would call",
+                "was going to call",
+                "was calling"
+              ],
+              "correct": "was going to call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1213"
+        },
+        {
+          "index": 4,
+          "template": "She promised she {0} an end to the situation but failed to do so.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have put",
+                "would put",
+                "was putting"
+              ],
+              "correct": "would put",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1215"
+        },
+        {
+          "index": 5,
+          "template": "He asked whether I {0} him, but there was nothing I could do.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would help",
+                "will help",
+                "was helping"
+              ],
+              "correct": "would help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1216"
+        },
+        {
+          "index": 6,
+          "template": "He {0} to Iraq, but he came down with an infection before the trip.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would be sent",
+                "was going to be sent",
+                "was sending"
+              ],
+              "correct": "was going to be sent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1217"
+        },
+        {
+          "index": 7,
+          "template": "That night I was very excited because the next morning I {0} back home on the first train.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would go",
+                "was going",
+                "went"
+              ],
+              "correct": "would go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1219"
+        },
+        {
+          "index": 8,
+          "template": "I told him not to call me that evening, because I {0} for my finals all night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was studying",
+                "would be studying",
+                "studied"
+              ],
+              "correct": "was studying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1220"
+        },
+        {
+          "index": 9,
+          "template": "I {0} the car, but I thought I didn't really need it and decided not to do it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was buying",
+                "would buy",
+                "was going to buy"
+              ],
+              "correct": "was going to buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1221"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I ______ Sam for money, but I didn't because I don't want to owe him anything.",
+          "options": [
+            "was asking",
+            "would ask",
+            "will ask",
+            "was going to ask"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I had a feeling that the party ______ a disaster. Choose TWO correct options",
+          "options": [
+            "would be",
+            "was being",
+            "was to be",
+            "was going to be"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We didn't expect that he ______ like that.",
+          "options": [
+            "would react",
+            "was reacting",
+            "would be reacted",
+            "will react"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "She ______ her speech when someone threw an egg at her. Choose TWO correct options",
+          "options": [
+            "would finish",
+            "was about to finish",
+            "was going to finish",
+            "would be finishing"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I told you she ______ everybody. She can't keep a secret.",
+          "options": [
+            "was going to tell",
+            "was telling",
+            "will tell",
+            "told"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "After finishing his last book, I asked him what he ______ next, but he just didn't know. Choose TWO correct options",
+          "options": [
+            "was doing",
+            "would be doing",
+            "did",
+            "was going to do"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The baby ______ be born in March, but it was finally born in April.",
+          "options": [
+            "was about to",
+            "was due to",
+            "would",
+            "was on the verge of"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The couple who died in the fire ______ married at the end of the month. Choose TWO correct options",
+          "options": [
+            "were getting",
+            "would get",
+            "were due to get",
+            "are getting"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "The next day we ______ to Germany where we ______ a press conference.",
+          "options": [
+            "would fly / attended",
+            "were going to fly / attended",
+            "will fly / would attend",
+            "were flying / were due to attend"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "A family of six, who ______ the following week, died when the building collapsed. Choose TWO correct options",
+          "options": [
+            "were to move out",
+            "would be moved out",
+            "moved out",
+            "were going to move out"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I saw he had a gun, but I didn't think he {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will shoot",
+                "was going to shoot",
+                "was shooting"
+              ],
+              "correct": "was going to shoot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1208"
+        },
+        {
+          "index": 1,
+          "template": "I knew you {0} the exam. You didn't make any effort!",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are going to fail",
+                "were failing",
+                "would fail"
+              ],
+              "correct": "would fail",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1209"
+        },
+        {
+          "index": 2,
+          "template": "I lost my passport the day before we {0} for our honeymoon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "left",
+                "would leave",
+                "were leaving"
+              ],
+              "correct": "left",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1211"
+        },
+        {
+          "index": 3,
+          "template": "Sorry, I {0} you today, but I forgot.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would call",
+                "was going to call",
+                "was calling"
+              ],
+              "correct": "was going to call",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1213"
+        },
+        {
+          "index": 4,
+          "template": "She promised she {0} an end to the situation but failed to do so.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have put",
+                "would put",
+                "was putting"
+              ],
+              "correct": "would put",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1215"
+        },
+        {
+          "index": 5,
+          "template": "He asked whether I {0} him, but there was nothing I could do.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would help",
+                "will help",
+                "was helping"
+              ],
+              "correct": "would help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1216"
+        },
+        {
+          "index": 6,
+          "template": "He {0} to Iraq, but he came down with an infection before the trip.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would be sent",
+                "was going to be sent",
+                "was sending"
+              ],
+              "correct": "was going to be sent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1217"
+        },
+        {
+          "index": 7,
+          "template": "That night I was very excited because the next morning I {0} back home on the first train.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would go",
+                "was going",
+                "went"
+              ],
+              "correct": "would go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1219"
+        },
+        {
+          "index": 8,
+          "template": "I told him not to call me that evening, because I {0} for my finals all night.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was studying",
+                "would be studying",
+                "studied"
+              ],
+              "correct": "was studying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1220"
+        },
+        {
+          "index": 9,
+          "template": "I {0} the car, but I thought I didn't really need it and decided not to do it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "was buying",
+                "would buy",
+                "was going to buy"
+              ],
+              "correct": "was going to buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1221"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

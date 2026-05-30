@@ -1,0 +1,313 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "will-vs-be-going-to",
+  "order_index": 7,
+  "title": "‘Will’ vs ‘be going to’: Future forms",
+  "source_url": "https://test-english.com/grammar-points/a2/will-vs-be-going-to/",
+  "scraped_at": "2026-05-23T07:15:44.021Z",
+  "explanation": {
+    "markdown": "## Will vs Be going to: Grammar chart\n\n![Grammar comparison chart contrasting 'WILL' and 'BE GOING TO' for future forms, highlighting their forms, usage, and meaning, with example sentences for predictions and decisions.](/uploads/grammar/a2/will-vs-be-going-to/img-1.png)\n\n## Predictions\n\nUse [**will**](https://test-english.com/grammar-points/a1/will-and-shall/) to talk about something that you think will happen.\n\n-   *I think he’**ll win** the election.*\n-   *He **will be** a good doctor.*\n\nUse [**be going to**](https://test-english.com/grammar-points/a1/be-going-to-plans-predictions/) to talk about something that you see is going to happen (there is present evidence).\n\n-   *Don’t drive like a crazy man. We’**re going to have** an accident!*\n-   *The doctor said I’**m going to have** a girl.*\n\nSometimes, there’s little difference between **will** and **be going to** for predictions. Compare:\n\n-   *The conference starts in 10 minutes. We **are going to be** late.* (=I can **see** that we cannot be at the conference in 10 minutes)\n-   *We need to hurry up. We’ll be late for the conference.* (=I **think** we will be late)\n\n## Decisions\n\nUse **will** for decisions that you take at the moment of speaking (instant decisions).\n\n-   *‘Oh, we don’t have sugar.’ ‘Don’t worry, I’**ll buy** some.’*\n\nUse **be going to** for decisions that you have already taken at the moment of speaking (intentions or plans).\n\n-   *‘Why are you undressing?’ ‘Because I’**m going to go** for a swim.’*\n\nCompare these two sentences:\n\n-   *‘Sarah said she needs to talk to you.’ ‘Oh, I didn’t know. I’**ll call her** in a minute.’* (=I took the decision **while** having this conversation.)\n-   *‘Sarah said she needs to talk to you.’ ‘Yes, I know. I’**m going to call her** in a minute.*‘ (=I took the decision **before** having this conversation.)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Will_Be-going-to_Form-use.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/will-vs-be-going-to/img-1.png",
+        "alt": "Grammar comparison chart contrasting 'WILL' and 'BE GOING TO' for future forms, highlighting their forms, usage, and meaning, with example sentences for predictions and decisions."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "‘Will’ vs ‘be going to’: Future forms",
+      "sentences": [],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "‘Will’ vs ‘be going to’: Future forms",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "A: I don't think he _____ come tonight. B: But he says he _____ come.",
+          "options": [
+            "will / will",
+            "is going to / will",
+            "will / is going to"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "A: I've bought this paint because I _____ the kitchen. B: I'm sure it _____ fantastic.",
+          "options": [
+            "'m going to paint / will look",
+            "will paint / 's looking",
+            "will paint / will look"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: What _____ after you graduate? B: I _____ around the world.",
+          "options": [
+            "will you do / 'm going to travel",
+            "are you going to do / 'm going to travel",
+            "are you going to do / will travel"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "A: _____ for a walk later? B: No. I _____ home.",
+          "options": [
+            "Are you going to go / 'm going to stay",
+            "Will you go / 'm going to stay",
+            "Will you go / will stay"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "A: I need the camera because I _____ some picures. But I don't know how it works. B: Don't worry. I _____ you.",
+          "options": [
+            "'ll take / 'll show",
+            "'m going to take / 'll show",
+            "'ll take / 'm going to show"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: ______ to work today? B: Yes, but the traffic is awful, so I _____ late.",
+          "options": [
+            "Will you drive / will be",
+            "Will you drive / 'm going to be",
+            "Are you going to drive / 'm going to be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "A: Hurry up! The bus is leaving. You _____ it. B: No, I _____ the train. It's faster.",
+          "options": [
+            "are going to miss / 'm going to take",
+            "will miss / will take",
+            "are going to miss / will take"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "A: According to the voting intention numbers, I _____ the election. B: What _____ when you are the president?",
+          "options": [
+            "will win / are you going to do",
+            "'m going to win / are you going to do",
+            "will win / will do"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "A: They are winning 2-1 and there are only 2 minutes left. They _____ this match. B: No, I think maybe Manchester United _____ a goal in the last minute.",
+          "options": [
+            "are going to win / will score",
+            "will win / will score",
+            "are going to win / are going to score"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "A: Don't make so much noise. You _____ dad. B: OK. I _____ now.",
+          "options": [
+            "will wake up / will stop",
+            "will wake up / 'm going to stop",
+            "are going to wake up / will stop"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "‘Will’ vs ‘be going to’: Future forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "A: Have you decided what to do with the washing machine? B: Yes, I {0} (buy) a new one.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'m going to buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2899"
+        },
+        {
+          "index": 1,
+          "template": "A: That glass is dirty. B: No problem. I {0} (clean) it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'m going to clean",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2900"
+        },
+        {
+          "index": 2,
+          "template": "A: Why are you taking the camera? B: I {0} (take) a picture of the sunset.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'m going to take",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2901"
+        },
+        {
+          "index": 3,
+          "template": "Please, slow down. Are you crazy? We {0} (have) an accident!",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'re going to have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2902"
+        },
+        {
+          "index": 4,
+          "template": "You look tired. Sit down, and I {0} (make) you a cup of tea.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'m going to make",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2903"
+        },
+        {
+          "index": 5,
+          "template": "Do you think he {0} (ask) her out?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'ll ask",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2904"
+        },
+        {
+          "index": 6,
+          "template": "Do you think you {0} (arrive) before she arrives?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'ll arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2905"
+        },
+        {
+          "index": 7,
+          "template": "He {0} (not run) the marathon. He says he needs more training.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't going to run",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2906"
+        },
+        {
+          "index": 8,
+          "template": "It looks delicious! We {0} (enjoy) this meal so much!",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'re going to enjoy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2907"
+        },
+        {
+          "index": 9,
+          "template": "A: I want coffee, but I don't have coins for the vending machine. B: No problem. I {0} (buy) you a coffee.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "'ll buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "2908"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "‘Will’ vs ‘be going to’: Future forms",
+      "sentences": [],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

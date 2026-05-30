@@ -1,0 +1,611 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "comparative-adjectives",
+  "order_index": 27,
+  "title": "Comparative adjectives: Older than, more important than, etc.",
+  "source_url": "https://test-english.com/grammar-points/a1/comparative-adjectives/",
+  "scraped_at": "2026-05-23T07:03:31.333Z",
+  "explanation": {
+    "markdown": "## Comparative adjectives\n\nWe use **more** + [adjective](https://test-english.com/grammar-points/a1/adjectives/) + **than** or adjective + **\\-er** + **than** to compare things or people.\n\n-   *My car is **more expensive than** your car.* \n-   *I am **older than** my brother.* \n\nIn this chart, you can see when we need to use **more … than** or **\\-er than** and the changes in spelling.  \n  \n![Grammar chart showcasing the rules for forming comparative adjectives, including one-syllable words with '-er', two-syllable words ending in '-y' changed to '-ier', and irregular adjective forms.](/uploads/grammar/a1/comparative-adjectives/img-1.png)\n\n#### Two things\n\nWe use the comparative form of an adjective to compare two things.\n\n-   *Luke is **taller than** Mathew.*\n-   *This armchair is **more comfortable than** the sofa.*\n\n#### **Less … than**\n\nWhen we compare two things, we can also use the form **less** + adjective + **than** (less ≠ more).\n\n-   *Peter is **less popular than** Marta.* (= Marta is more popular than Peter.)\n\n#### **Than me**\n\nIf we use a personal pronoun after **than**, we need an object pronoun (**me, you, him, etc**.).\n\n-   *My sister is taller than **me**.*\n-   *His sister is more intelligent **than him**.*\n\n#### **Much/a bit + more**\n\nBefore the comparative (**more** or **–er**), we can use **much** (=big difference) or **a bit** (=small difference).\n\n-   *He’s **a bit taller** than me.*\n-   *Switzerland is **much more expensive** than Italy.*\n\n## Common mistakes!\n\n#### **More** or **\\-er**\n\nWe use **more** or –**er**, but we cannot use **more** + **\\-er**.\n\n-   *My brother is **more** tall**er** than me. ![](/uploads/grammar/a1/comparative-adjectives/img-2.png)* \n-   **My brother is tall**er** than me. ![](/uploads/grammar/a1/comparative-adjectives/img-3.png)** \n\n#### **More than** (NOT ~**that**~)\n\nAfter a comparative adjective, we use **than** and NOT ~**that**~.\n\n-   *My brother is taller **that** me. ![](/uploads/grammar/a1/comparative-adjectives/img-4.png)* \n-   *My brother is taller **than** me.* *![](/uploads/grammar/a1/comparative-adjectives/img-5.png)*\n\n#### **Than** + second element of the comparison\n\nWe use **than** + the second thing that we are comparing. When we don’t mention the second element of the comparison, we do NOT use **than**.\n\n-   *I am tall, but my brother is **taller than**. ![](/uploads/grammar/a1/comparative-adjectives/img-6.png)* \n-   *I am tall, but my brother is **taller**. ![](/uploads/grammar/a1/comparative-adjectives/img-7.png)*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Comparative-adjectives-new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/comparative-adjectives/img-1.png",
+        "alt": "Grammar chart showcasing the rules for forming comparative adjectives, including one-syllable words with '-er', two-syllable words ending in '-y' changed to '-ier', and irregular adjective forms."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/comparative-adjectives/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/comparative-adjectives/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/comparative-adjectives/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/comparative-adjectives/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/comparative-adjectives/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a1/comparative-adjectives/img-7.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Comparative adjectives: Older than, more important than, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "younger ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "younger",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4193"
+        },
+        {
+          "index": 1,
+          "template": "colder ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "colder",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4194"
+        },
+        {
+          "index": 2,
+          "template": "better ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "better",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4195"
+        },
+        {
+          "index": 3,
+          "template": "thinner ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "thinner",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4196"
+        },
+        {
+          "index": 4,
+          "template": "cheaper ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "cheaper",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4197"
+        },
+        {
+          "index": 5,
+          "template": "nearer ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "nearer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4198"
+        },
+        {
+          "index": 6,
+          "template": "sadder ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "sadder",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4199"
+        },
+        {
+          "index": 7,
+          "template": "smaller ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "smaller",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4200"
+        },
+        {
+          "index": 8,
+          "template": "easier ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "easier",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4201"
+        },
+        {
+          "index": 9,
+          "template": "taller ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "taller",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4202"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Comparative adjectives: Older than, more important than, etc.",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "My brother is older than _____.",
+          "options": [
+            "me",
+            "mine",
+            "my"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "We are better _____.",
+          "options": [
+            "than them",
+            "than their",
+            "that them"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Travelling by bus is _____ travelling by car.",
+          "options": [
+            "comfortabler than",
+            "more comfortable that",
+            "more comfortable than"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The last test was more difficult than this test. This test is _____.",
+          "options": [
+            "less difficult",
+            "dificultless",
+            "less difficult than"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "This exam was _____ the last one.",
+          "options": [
+            "more easy",
+            "easier than",
+            "more easier than"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Robert is _____ than his opponent.",
+          "options": [
+            "very stronger",
+            "much strong",
+            "much stronger"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Kevin is funny, but George is ____.",
+          "options": [
+            "more funny than",
+            "funnier",
+            "funnier than"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Your house is far, but my house is _____.",
+          "options": [
+            "more far",
+            "farer",
+            "further"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Kate is _____ than her sister.",
+          "options": [
+            "friendly",
+            "friendlier",
+            "more friendlier"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Everybody hates him. He really thinks that women are _____ men.",
+          "options": [
+            "intelligentless than",
+            "less intelligent that",
+            "less intelligent than"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Comparative adjectives: Older than, more important than, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I like the black sofa, but I think the brown sofa is {0} (comfortable).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "more comfortable",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4213"
+        },
+        {
+          "index": 1,
+          "template": "This bar is {0} (noisy) the bars in my street.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "noisier than",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4214"
+        },
+        {
+          "index": 2,
+          "template": "Marseille is much {0} (hot) Paris.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "hotter than",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4215"
+        },
+        {
+          "index": 3,
+          "template": "The helicopter was loud, but the ambulance was {0} (loud).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "louder",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4216"
+        },
+        {
+          "index": 4,
+          "template": "Do you think Manchester United is {0} (good) Manchester City this year?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "better than",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4217"
+        },
+        {
+          "index": 5,
+          "template": "The novel is much {0} (interesting) the film.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "more interesting than",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4218"
+        },
+        {
+          "index": 6,
+          "template": "Canadians are {0} (rich) in the past.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "richer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4219"
+        },
+        {
+          "index": 7,
+          "template": "This summer was {0} (wet) last summer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wetter than",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4220"
+        },
+        {
+          "index": 8,
+          "template": "I liked the old version of the game, but the new version is much {0} (exciting).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "more exciting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4221"
+        },
+        {
+          "index": 9,
+          "template": "Sorry, 8 o'clock is very late. Can we meet a bit {0} (early)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "earlier",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4222"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Comparative adjectives: Older than, more important than, etc.",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "younger ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "younger",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4193"
+        },
+        {
+          "index": 1,
+          "template": "colder ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "colder",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4194"
+        },
+        {
+          "index": 2,
+          "template": "better ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "better",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4195"
+        },
+        {
+          "index": 3,
+          "template": "thinner ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "thinner",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4196"
+        },
+        {
+          "index": 4,
+          "template": "cheaper ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "cheaper",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4197"
+        },
+        {
+          "index": 5,
+          "template": "nearer ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "nearer",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4198"
+        },
+        {
+          "index": 6,
+          "template": "sadder ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "sadder",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4199"
+        },
+        {
+          "index": 7,
+          "template": "smaller ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "smaller",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4200"
+        },
+        {
+          "index": 8,
+          "template": "easier ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "easier",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4201"
+        },
+        {
+          "index": 9,
+          "template": "taller ⇒ {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "taller",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4202"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

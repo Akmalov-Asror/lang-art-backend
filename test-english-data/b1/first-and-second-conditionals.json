@@ -1,0 +1,544 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "first-and-second-conditionals",
+  "order_index": 20,
+  "title": "First and second conditionals",
+  "source_url": "https://test-english.com/grammar-points/b1/first-and-second-conditionals/",
+  "scraped_at": "2026-05-23T07:22:37.693Z",
+  "explanation": {
+    "markdown": "## First and second conditionals: Grammar chart\n\n![First and second conditionals](/uploads/grammar/b1/first-and-second-conditionals/img-1.png)\n\n## First conditional vs Second conditional\n\nWe use the [first conditional](https://test-english.com/grammar-points/b1/first-conditional-future-time-clauses/) and the [second conditional](https://test-english.com/grammar-points/b1/second-conditional-unreal-situations/) to talk about present or future situations.  \n  \n  \nWe use the first conditional to talk about possible situations or events that may easily happen, and we use the second conditional to talk about unrealistic situations.\n\n-   *If I **see** Sara, I’**ll tell** her to call you.* (=possible)\n-   *If I won the lottery, I’**d buy** a new house.*  (=unrealistic)\n\nSometimes, we use either the first or second conditional depending on how probable we think the situations are to happen.\n\n-   *If I **find** her, I’ll tell her that I love her.* (=I think it’s possible that I find her)\n-   *If I **found** her, I’**d tell** her that I love her.* (=I think it’s improbable that I find her)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/first-vs-second-conditional-A2-B1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/first-and-second-conditionals/img-1.png",
+        "alt": "First and second conditionals"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "First and second conditionals",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If you {0} free tonight, we might go out for a drink, or to the cinema.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would be",
+                "are",
+                "will be"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1882"
+        },
+        {
+          "index": 1,
+          "template": "He {0} depressed if he fails the exam.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will be",
+                "would be",
+                "is"
+              ],
+              "correct": "will be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1883"
+        },
+        {
+          "index": 2,
+          "template": "If I didn't know you, I {0} you were crazy.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would think",
+                "will think",
+                "thought"
+              ],
+              "correct": null,
+              "resolved": false
+            }
+          ],
+          "watupro_question_id": "1938"
+        },
+        {
+          "index": 3,
+          "template": "Tell me the truth if you {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will",
+                "could",
+                "can"
+              ],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1939"
+        },
+        {
+          "index": 4,
+          "template": "If you had a bigger salary, you {0} more unnecessary things.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will buy",
+                "would buy",
+                "buy"
+              ],
+              "correct": "would buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1940"
+        },
+        {
+          "index": 5,
+          "template": "If it {0} for Tom, I wouldn't be here.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "won't be",
+                "weren't",
+                "isn't"
+              ],
+              "correct": "weren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1941"
+        },
+        {
+          "index": 6,
+          "template": "You should call me if you {0} anything unusual.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "see",
+                "saw",
+                "will see"
+              ],
+              "correct": "see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1942"
+        },
+        {
+          "index": 7,
+          "template": "If they had this player, they {0} a single match.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "won't lose",
+                "didn't lose",
+                "wouldn't lose"
+              ],
+              "correct": "wouldn't lose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1943"
+        },
+        {
+          "index": 8,
+          "template": "Our lives would be much easier if you {0} closer to home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "work",
+                "worked",
+                "would work"
+              ],
+              "correct": "worked",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1944"
+        },
+        {
+          "index": 9,
+          "template": "If I got a job in France, we {0} crêpes every day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "might eat",
+                "will eat",
+                "can eat"
+              ],
+              "correct": "might eat",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1945"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "First and second conditionals",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "If your boss ________, you might lose your job. Choose TWO correct options",
+          "options": [
+            "finds out",
+            "would find out",
+            "found out"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "We _______ the keys if we don't look for them.",
+          "options": [
+            "will never find",
+            "'d never find",
+            "never find"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Shall we go to the beach if the weather ______ OK?",
+          "options": [
+            "is",
+            "were",
+            "was"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "If we both saved enough money, we ______ go to Japan. Choose TWO correct options",
+          "options": [
+            "could",
+            "can",
+            "might"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "If you ______ the job, you should tell her.",
+          "options": [
+            "didn't want",
+            "don't want",
+            "won't want"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "We couldn't afford the house even if we both ______ double our salaries.",
+          "options": [
+            "earn",
+            "would earn",
+            "earned"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "You ______ it more interesting if you paid more attention. Choose TWO correct options",
+          "options": [
+            "will find",
+            "might find",
+            "would find"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I ______ you my secret unless you _____ me yours.",
+          "options": [
+            "won't tell / tell",
+            "wouldn't tell / tell",
+            "told / would tell"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Do you think he ______ if we invited him?",
+          "options": [
+            "will come",
+            "come",
+            "would come"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "It ______ better if you ______ a bit of salt. Choose TWO correct options",
+          "options": [
+            "would taste / added",
+            "should taste / would add",
+            "will taste / add"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "First and second conditionals",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "TERRY: Hey, RAY. If you 1 {0} (have) time, can you go and pick up Bridget at the station? If she takes the 4 o'clock train, as she said, she 2 {1} (arrive) at 5.15.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "have",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will arrive",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1955"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "First and second conditionals",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If you {0} free tonight, we might go out for a drink, or to the cinema.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would be",
+                "are",
+                "will be"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1882"
+        },
+        {
+          "index": 1,
+          "template": "He {0} depressed if he fails the exam.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will be",
+                "would be",
+                "is"
+              ],
+              "correct": "will be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1883"
+        },
+        {
+          "index": 2,
+          "template": "If I didn't know you, I {0} you were crazy.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would think",
+                "will think",
+                "thought"
+              ],
+              "correct": null,
+              "resolved": false
+            }
+          ],
+          "watupro_question_id": "1938"
+        },
+        {
+          "index": 3,
+          "template": "Tell me the truth if you {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will",
+                "could",
+                "can"
+              ],
+              "correct": "can",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1939"
+        },
+        {
+          "index": 4,
+          "template": "If you had a bigger salary, you {0} more unnecessary things.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will buy",
+                "would buy",
+                "buy"
+              ],
+              "correct": "would buy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1940"
+        },
+        {
+          "index": 5,
+          "template": "If it {0} for Tom, I wouldn't be here.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "won't be",
+                "weren't",
+                "isn't"
+              ],
+              "correct": "weren't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1941"
+        },
+        {
+          "index": 6,
+          "template": "You should call me if you {0} anything unusual.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "see",
+                "saw",
+                "will see"
+              ],
+              "correct": "see",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1942"
+        },
+        {
+          "index": 7,
+          "template": "If they had this player, they {0} a single match.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "won't lose",
+                "didn't lose",
+                "wouldn't lose"
+              ],
+              "correct": "wouldn't lose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1943"
+        },
+        {
+          "index": 8,
+          "template": "Our lives would be much easier if you {0} closer to home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "work",
+                "worked",
+                "would work"
+              ],
+              "correct": "worked",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1944"
+        },
+        {
+          "index": 9,
+          "template": "If I got a job in France, we {0} crêpes every day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "might eat",
+                "will eat",
+                "can eat"
+              ],
+              "correct": "might eat",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1945"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

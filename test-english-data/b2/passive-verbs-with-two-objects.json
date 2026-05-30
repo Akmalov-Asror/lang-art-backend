@@ -1,0 +1,585 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "passive-verbs-with-two-objects",
+  "order_index": 27,
+  "title": "Passive verbs with two objects",
+  "source_url": "https://test-english.com/grammar-points/b2/passive-verbs-with-two-objects/",
+  "scraped_at": "2026-05-23T07:28:22.852Z",
+  "explanation": {
+    "markdown": "## Passive verbs with two objects: Grammar chart\n\n![Passive verbs with two objects](/uploads/grammar/b2/passive-verbs-with-two-objects/img-1.png)\n\n###### [Download full-size image from Pinterest](https://pin.it/60mO9xq)\n\nIn a passive sentence, the subject is the object of the corresponding active sentence.\n\n-   **Somebody said something.**\n-   **Something was said (by somebody).**\n\nSome [verbs can take two objects](https://test-english.com/grammar-points/a2/verbs-with-two-objects/). Some of these verbs are **bring, get, give, make, offer, promise, send, show, etc.**\n\n-   **I sent my friends a picture. (= I sent a picture to my friends.)**\n\nWith these verbs, it is possible to make two different passive sentences because you can use either of the two objects as the subject of the passive sentence:\n\n-   **My friends were sent a picture.**\n-   **A picture was sent to my friends.**\n\nIt is more common to begin the passive sentence with the person: *My friends were sent a picture.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Passive-verbs-with-two-objects-1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/passive-verbs-with-two-objects/img-1.png",
+        "alt": "Passive verbs with two objects"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Passive verbs with two objects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "They offered him a good seat ⇒ He {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was offered a good seat.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6212"
+        },
+        {
+          "index": 1,
+          "template": "They offered him a good seat ⇒ A good seat {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was offered to him.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6213"
+        },
+        {
+          "index": 2,
+          "template": "They told me the truth. ⇒ I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was told the truth.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6214"
+        },
+        {
+          "index": 3,
+          "template": "They told me the truth. ⇒ The truth {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was told to me.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6215"
+        },
+        {
+          "index": 4,
+          "template": "We will give a copy to our clients. ⇒ A copy {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will be given to our clients.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6216"
+        },
+        {
+          "index": 5,
+          "template": "We will give a copy to our clients. ⇒ Our clients {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will be given a copy.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6217"
+        },
+        {
+          "index": 6,
+          "template": "He promised us a better salary. ⇒ We {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were promised a better salary.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6218"
+        },
+        {
+          "index": 7,
+          "template": "He promised us a better salary. ⇒ A better salary {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was promised to us.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6219"
+        },
+        {
+          "index": 8,
+          "template": "The police showed two photos to the suspect. ⇒ Two photos {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were shown to the suspect.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6220"
+        },
+        {
+          "index": 9,
+          "template": "The police showed two photos to the suspect. ⇒ The suspect {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was shown two photos.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6221"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Passive verbs with two objects",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "A postcard was sent to Steve.",
+            "They sent to Steve a postcard.",
+            "They were sent a postcard to Steve.",
+            "Steve was sent a postcard."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "A glass of wine brought to us.",
+            "They were brought a glass of wine to us.",
+            "We were brought a glass of wine.",
+            "A glass of wine was brought to us."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "The facts gave to the patient.",
+            "The doctor were given the facts to the patient.",
+            "The facts were given to the patient.",
+            "The patient was given the facts."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "The vehicle had lent to the robber the previous day.",
+            "The robber had been lent the vehicle the previous day.",
+            "The vehicle had been lent to the robber the previous day.",
+            "Someone had been lent the vehicle to the robber the previous day."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "Steve was sold a fake Rolex.",
+            "A fake Rolex sold to Steve.",
+            "Someone was sold Steve a fake Rolex.",
+            "A fake Rolex was sold to Steve."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "His boss has been offered him a promotion.",
+            "A promotion has been offered to him his boss.",
+            "A promotion has been offered to him.",
+            "He has been offered a promotion."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "The truth wasn't told to me.",
+            "They weren't told me the truth.",
+            "The truth didn't tell to me.",
+            "I wasn't told the truth."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "English and Spanish teach our students.",
+            "We are taught English and Spanish to our students.",
+            "English and Spanish are taught to our students.",
+            "Our students are taught English and Spanish."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "The employees were given the news.",
+            "The news gave to the employees.",
+            "The news was given to the employees.",
+            "They were given the news to the employees."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Choose TWO correct sentences.",
+          "options": [
+            "A letter of support was written to him.",
+            "A letter of support wrote to him.",
+            "Someone was written a letter of support to him.",
+            "He was written a letter of support."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Passive verbs with two objects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "They will give 30 minutes to each contestant ⇒ Each contestant {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will be given 30 minutes.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6248"
+        },
+        {
+          "index": 1,
+          "template": "They will give 30 minutes to each contestant ⇒ 30 minutes {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will be given to each contestant.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6249"
+        },
+        {
+          "index": 2,
+          "template": "They have given the job to me. ⇒ I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was given the job.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6252"
+        },
+        {
+          "index": 3,
+          "template": "They have given the job to me. ⇒ The job {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was given to me.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6254"
+        },
+        {
+          "index": 4,
+          "template": "They will show the winning painting to the public. ⇒ The winning painting {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will be shown to the public.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6250"
+        },
+        {
+          "index": 5,
+          "template": "They will show the winning painting to the public. ⇒ The public {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will be shown the winning painting.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6251"
+        },
+        {
+          "index": 6,
+          "template": "They bought him a jacket. ⇒ He {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was bought a jacket.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6255"
+        },
+        {
+          "index": 7,
+          "template": "They bought him a jacket. ⇒ A jacket {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was bought to him.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6256"
+        },
+        {
+          "index": 8,
+          "template": "They promised her a salary increase. ⇒ She {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was promised a salary increase.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6257"
+        },
+        {
+          "index": 9,
+          "template": "They promised her a salary increase. ⇒ A salary increase {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was promised to her.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6258"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Passive verbs with two objects",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "They offered him a good seat ⇒ He {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was offered a good seat.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6212"
+        },
+        {
+          "index": 1,
+          "template": "They offered him a good seat ⇒ A good seat {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was offered to him.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6213"
+        },
+        {
+          "index": 2,
+          "template": "They told me the truth. ⇒ I {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was told the truth.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6214"
+        },
+        {
+          "index": 3,
+          "template": "They told me the truth. ⇒ The truth {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was told to me.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6215"
+        },
+        {
+          "index": 4,
+          "template": "We will give a copy to our clients. ⇒ A copy {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will be given to our clients.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6216"
+        },
+        {
+          "index": 5,
+          "template": "We will give a copy to our clients. ⇒ Our clients {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will be given a copy.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6217"
+        },
+        {
+          "index": 6,
+          "template": "He promised us a better salary. ⇒ We {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were promised a better salary.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6218"
+        },
+        {
+          "index": 7,
+          "template": "He promised us a better salary. ⇒ A better salary {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was promised to us.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6219"
+        },
+        {
+          "index": 8,
+          "template": "The police showed two photos to the suspect. ⇒ Two photos {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were shown to the suspect.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6220"
+        },
+        {
+          "index": 9,
+          "template": "The police showed two photos to the suspect. ⇒ The suspect {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was shown two photos.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6221"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

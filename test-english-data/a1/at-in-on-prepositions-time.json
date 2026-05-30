@@ -1,0 +1,713 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "at-in-on-prepositions-time",
+  "order_index": 10,
+  "title": "At, in, on: Prepositions of time",
+  "source_url": "https://test-english.com/grammar-points/a1/at-in-on-prepositions-time/",
+  "scraped_at": "2026-05-23T07:02:36.459Z",
+  "explanation": {
+    "markdown": "## At, in, on: Prepositions of time\n\n![Detailed grammar chart explaining the use of time prepositions 'at', 'in', and 'on' with examples for days, months, seasons, years, and specific times of day.](/uploads/grammar/a1/at-in-on-prepositions-time/img-1.png)\n\n### **At**\n\nUse **at** with times of day, including mealtimes, bedtime, etc.\n\n-   ***at*** *3 o’clock, **at** 10.30 am, **at** noon, **at** dinnertime, **at** bedtime, **at** sunrise, **at** sunset, **at** the moment*\n\nUse **at** in the following common expressions:\n\n-   **at** the weekend: *I don’t usually work **at** the weekend.*\n-   **at** Christmas/Easter: *I stay with my family **at** Christmas.*\n-   **at** the same time**:** *We finished the test **at** the same time.*\n-   **at** present/**at** the moment**:** *He’s not home **at** present. Try later.*\n\n### **In**\n\nUse **in** with [months, seasons](https://test-english.com/vocabulary/a1/days-months-seasons-a1-english-vocabulary/), years, decades, centuries and long periods of time in general.\n\n-   ***in*** *May, **in** the summer, **in** 1990, **in** the 1990s, **in** the 20th century, **in** the Ice Age, **in** the past/future*\n\n### **On**\n\nUse **on** followed by days and dates.\n\n-   ***on*** *Sunday, **on** Tuesday mornings, **on** 6 March, **on** 25 December 2010, **on** Christmas Day, **on** Independence Day, **on** my birthday, **on** New Year’s Eve*\n\n### Parts of the day:\n\n-   **in** the morning\n-   **in** the afternoon\n-   **in** the evening\n-   **at** night\n\n### **Last**, **next**, **every** and **this**\n\nWhen we say **last, next, every, this**, we do not use **at, in, on**.\n\n-   *I went to London **last*** *June*. ![](/uploads/grammar/a1/at-in-on-prepositions-time/img-2.png)\n-   *I went to London **in last*** *June*. ![](/uploads/grammar/a1/at-in-on-prepositions-time/img-3.png)\n-   *He’s coming back **next*** Tuesday. ![](/uploads/grammar/a1/at-in-on-prepositions-time/img-4.png)\n-   *He’s coming back **on next*** Tuesday. ![](/uploads/grammar/a1/at-in-on-prepositions-time/img-5.png)\n-   *I go home **every** Easter.* ![](/uploads/grammar/a1/at-in-on-prepositions-time/img-6.png)\n-   *I go home **at every** Easter.* ![](/uploads/grammar/a1/at-in-on-prepositions-time/img-7.png)\n-   *We’ll call you **this** evening.* ![](/uploads/grammar/a1/at-in-on-prepositions-time/img-8.png)\n-   *We’ll call you **in this** evening.* ![](/uploads/grammar/a1/at-in-on-prepositions-time/img-9.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/at-in-on_time_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-1.png",
+        "alt": "Detailed grammar chart explaining the use of time prepositions 'at', 'in', and 'on' with examples for days, months, seasons, years, and specific times of day."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/a1/at-in-on-prepositions-time/img-9.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "At, in, on: Prepositions of time",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "See you {0} Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "in",
+                "at"
+              ],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3830"
+        },
+        {
+          "index": 1,
+          "template": "I brush my teeth {0} the morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in",
+                "on",
+                "at"
+              ],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3831"
+        },
+        {
+          "index": 2,
+          "template": "The match is {0} 4 o'clock.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "at",
+                "in"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3832"
+        },
+        {
+          "index": 3,
+          "template": "We have lunch {0} midday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at",
+                "in",
+                "on"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3833"
+        },
+        {
+          "index": 4,
+          "template": "I'm busy {0} the moment.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at",
+                "in",
+                "on"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3834"
+        },
+        {
+          "index": 5,
+          "template": "My parents always visit me {0} my birthday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "at",
+                "in"
+              ],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3835"
+        },
+        {
+          "index": 6,
+          "template": "He was born {0} the 19th century",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "at",
+                "in"
+              ],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3836"
+        },
+        {
+          "index": 7,
+          "template": "He usually goes on holiday {0} July",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in",
+                "at",
+                "on"
+              ],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3837"
+        },
+        {
+          "index": 8,
+          "template": "They always get together {0} Christmas.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "in",
+                "at"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3838"
+        },
+        {
+          "index": 9,
+          "template": "You can come {0} the weekend.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at",
+                "in"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3839"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "At, in, on: Prepositions of time",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I have to meet the clients _____ lunchtime.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "This happened _____ the 80s.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "We want to go for a drink after the concert _____ Friday evening",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "You can plant these flowers _____ the autumn.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Is your neighbourhood quiet _____ night?",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I will retire _____ 2030.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "My birthday is _____ the 10th of January.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I usually go to bed _____ midnight.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I don't work _____ Christmas day.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "We usually stay home _____ Easter.",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "At, in, on: Prepositions of time",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Fish is a healthy option {0} dinnertime.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3851"
+        },
+        {
+          "index": 1,
+          "template": "The interview is {0} 8 o'clock {1} Monday morning.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3850"
+        },
+        {
+          "index": 2,
+          "template": "The snow melts {0} the spring.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3852"
+        },
+        {
+          "index": 3,
+          "template": "Every year, I visit my parents {0} Thanksgiving Day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3853"
+        },
+        {
+          "index": 4,
+          "template": "{0} summer, we go fishing {1} weekends.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "In",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "In",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3854"
+        },
+        {
+          "index": 5,
+          "template": "I'm unemployed {0} the moment.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3855"
+        },
+        {
+          "index": 6,
+          "template": "Classes end {0} the 4th of July.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3856"
+        },
+        {
+          "index": 7,
+          "template": "We don't know what will happen {0} the future.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3857"
+        },
+        {
+          "index": 8,
+          "template": "You can visit us {0} June.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3858"
+        },
+        {
+          "index": 9,
+          "template": "You need to raise your hand {0} the same time.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3859"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "At, in, on: Prepositions of time",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "See you {0} Friday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "in",
+                "at"
+              ],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3830"
+        },
+        {
+          "index": 1,
+          "template": "I brush my teeth {0} the morning.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in",
+                "on",
+                "at"
+              ],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3831"
+        },
+        {
+          "index": 2,
+          "template": "The match is {0} 4 o'clock.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "at",
+                "in"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3832"
+        },
+        {
+          "index": 3,
+          "template": "We have lunch {0} midday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at",
+                "in",
+                "on"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3833"
+        },
+        {
+          "index": 4,
+          "template": "I'm busy {0} the moment.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at",
+                "in",
+                "on"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3834"
+        },
+        {
+          "index": 5,
+          "template": "My parents always visit me {0} my birthday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "at",
+                "in"
+              ],
+              "correct": "on",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3835"
+        },
+        {
+          "index": 6,
+          "template": "He was born {0} the 19th century",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "at",
+                "in"
+              ],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3836"
+        },
+        {
+          "index": 7,
+          "template": "He usually goes on holiday {0} July",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "in",
+                "at",
+                "on"
+              ],
+              "correct": "in",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3837"
+        },
+        {
+          "index": 8,
+          "template": "They always get together {0} Christmas.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "on",
+                "in",
+                "at"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3838"
+        },
+        {
+          "index": 9,
+          "template": "You can come {0} the weekend.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "at",
+                "in"
+              ],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3839"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

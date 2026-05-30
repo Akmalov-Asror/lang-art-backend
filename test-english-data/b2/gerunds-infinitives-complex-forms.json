@@ -1,0 +1,671 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "gerunds-infinitives-complex-forms",
+  "order_index": 18,
+  "title": "Gerunds and infinitives: Complex forms",
+  "source_url": "https://test-english.com/grammar-points/b2/gerunds-infinitives-complex-forms/",
+  "scraped_at": "2026-05-23T07:27:22.067Z",
+  "explanation": {
+    "markdown": "## All forms of gerunds and infinitives\n\nYou can see all the gerund and infinitive forms in the table below. Some forms are not included in the table because they don’t exist or are very rarely used.  \n  \n![Gerunds and infinitives – complex forms](/uploads/grammar/b2/gerunds-infinitives-complex-forms/img-1.png)\n\n## Simple, continuous and perfect infinitives and gerunds\n\nWe use the perfect infinitive or the perfect gerund to emphasize that the action is complete or in the past.\n\n#### Simple gerund vs perfect gerund\n\nThere is usually no difference between using the simple gerund or the perfect gerund because the context usually makes it clear when the action happened.\n\n-   *He **denied stealing** the money.* (=It’s clear the money was stolen before denying it)\n-   *He **denied having** **stolen** the money.*\n\n-   *She **regretted marrying** too early.* (=It’s clear she married before regretting it)\n-   *She **regretted having married** too early.*\n\nBut sometimes, there is a difference in meaning between using the simple gerund or the perfect gerund.\n\n-   *He **denied being** married.* (=he denied that he was married ‘now’ at the time of the denial)\n-   *He **denied having been** married.* (=he denied that he had been married before, in the past)\n\n#### Simple infinitive vs perfect infinitive\n\nAs it happens with the gerund, sometimes there’s no difference between using the simple or the perfect forms of the infinitive.\n\n-   *It was stupid of me **to say** anything on Twitter.* \n-   *It was stupid of me **to have said** anything on Twitter.* \n\nHowever, there is usually a difference in meaning between using the simple or the perfect infinitive forms, and we need to use the perfect forms to make clear that the action expressed by the infinitive was previous to the action described by the main verb.\n\n-   *I’m very glad **to work** here.* (=now)\n-   *I’m very glad **to have worked** here.* (=in the past)\n\n#### Continuous infinitive\n\nWe use the continuous infinitive when the action is in progress around the time expressed by the main verb.\n\n-   *I’m glad **to be spending** this weekend with you.* \n-   *You shouldn’t **be doing** this right now, should you?*\n\n#### Perfect continuous infinitive\n\nWe use the perfect continuous infinitive to express duration from earlier in the past towards the time expressed by the main verb.\n\n-   *I’m glad **to have been sharing** my life with you.* \n-   *They are thought **to have been hiding** in the mountains.* \n\n#### Perfect infinitive after passive reporting verbs\n\nAfter a passive reporting verb, we use a simple or continuous infinitive to refer to the present or future and a perfect infinitive to refer to the past. (⇒ See B1+ Grammar » [The passive with reporting verbs](https://test-english.com/grammar-points/b1-b2/passive-reporting-verbs/))\n\n-   *They **are believed to be** lovers.* (=now)\n-   *They **are believed to have been** lovers.* (=in the past)\n\n-    *She **is thought to be living** in Brussels.* (=now)\n-   *She **is thought to have been living** in Brussels* (=from the past till now)\n\n#### Perfect infinitive after **would like, would hate, would rather, would prefer**\n\nWe always use the perfect infinitive after **would like, would hate, would rather, would prefer** to refer to an earlier action or event. Compare:\n\n-   *I **would like to see** you once more.* (=in the future)\n-   *I **would like to have seen** you once more.* (=in the past)\n-   *She **would rather be** with you.* (=now)\n-   *She **would rather have been** with you.* (=in the past)\n\n## Passive infinitives and gerunds\n\nWe use passive infinitives or passive gerunds to describe actions which are done to the subject. (⇒ See B1+ Grammar » [The passive voice – all tenses](https://test-english.com/grammar-points/b1-b2/passive-voice-all-tenses/))\n\n-   *He is too young **to be allowed** to be here.*\n-   *This place needs **to be taken care** of.*\n-   *I don’t mind **being told** what to do.*\n-   *He denied **having been offered** money to kill the senator.* \n\n## When to use gerund or infinitive\n\nIn the table below, you can see when to use gerund or infinitive.  \n  \n![](/uploads/grammar/b2/gerunds-infinitives-complex-forms/img-2.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/gerunds.infinitives.complex.forms_.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/gerunds-infinitives-complex-forms/img-1.png",
+        "alt": "Gerunds and infinitives – complex forms"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Infinitive_or_Gerund.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b2/gerunds-infinitives-complex-forms/img-2.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Gerunds and infinitives: Complex forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I would like {0} by someone.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to love",
+                "being loved",
+                "to be loved"
+              ],
+              "correct": "to be loved",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1118"
+        },
+        {
+          "index": 1,
+          "template": "The portrait is thought {0} in 1595.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be painting",
+                "to be painted",
+                "to have been painted"
+              ],
+              "correct": "to have been painted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1120"
+        },
+        {
+          "index": 2,
+          "template": "The student apologised for {0} into his teacher's Twitter account.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "being hacked",
+                "having hacked",
+                "hack"
+              ],
+              "correct": "having hacked",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1123"
+        },
+        {
+          "index": 3,
+          "template": "She was the first woman {0} president.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "being elected",
+                "to elect",
+                "to be elected"
+              ],
+              "correct": "to be elected",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1119"
+        },
+        {
+          "index": 4,
+          "template": "It's no use {0} to escape. This is a maximum security prison.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "trying",
+                "to try",
+                "try"
+              ],
+              "correct": "trying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1124"
+        },
+        {
+          "index": 5,
+          "template": "I certainly won't miss {0} by him every day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be bullied",
+                "being bullied",
+                "bullying"
+              ],
+              "correct": "being bullied",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1125"
+        },
+        {
+          "index": 6,
+          "template": "You are not supposed {0} this now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "being doing",
+                "to be doing",
+                "to been doing"
+              ],
+              "correct": "to be doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1121"
+        },
+        {
+          "index": 7,
+          "template": "I'd love {0} last night's performance.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to have seen",
+                "to be seeing",
+                "to be seen"
+              ],
+              "correct": "to have seen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1122"
+        },
+        {
+          "index": 8,
+          "template": "He denied {0} the money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "having been stolen",
+                "stealing",
+                "to have stolen"
+              ],
+              "correct": "having been stolen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1126"
+        },
+        {
+          "index": 9,
+          "template": "Convicts can choose how {0}, either by lethal injection or by electric chair.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be executed",
+                "to execute",
+                "being executed"
+              ],
+              "correct": "to be executed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1127"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Gerunds and infinitives: Complex forms",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "The manager was accused of _______ the origin of the money. Choose TWO correct options",
+          "options": [
+            "not investigating",
+            "not to investigate",
+            "not to have investigated",
+            "not having investigated"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "The delegate refused ______.",
+          "options": [
+            "being interviewed",
+            "to interview",
+            "having been interviewed",
+            "to be interviewed"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "There's no point ______ for a culprit now. Choose TWO correct options",
+          "options": [
+            "looking",
+            "to look",
+            "in looking",
+            "in to look"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I'm glad _____ there for Jessica. She really needed someone and I was the only person supporting her.",
+          "options": [
+            "to be",
+            "to have been",
+            "being",
+            "having been"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "He admitted ______ the gun to the murderer. Choose TWO correct options",
+          "options": [
+            "to give",
+            "giving",
+            "to have given",
+            "having given"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "I don't mind ______ that I'm wrong.",
+          "options": [
+            "being told",
+            "telling",
+            "to be told",
+            "to tell"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The company has reached an agreement ______ by an investing consortium.",
+          "options": [
+            "to acquire",
+            "acquiring",
+            "to be acquired",
+            "being acquired"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I hate ______ in August. I would rather ______ a day off on the beach.",
+          "options": [
+            "have to work / be enjoying",
+            "having to work / to be enjoying",
+            "to have to work / being enjoying",
+            "having to work / be enjoying"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "With her choice of clothes, she has really mastered the art of how ______.",
+          "options": [
+            "to be noticed",
+            "to notice",
+            "being noticed",
+            "be noticed"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "They seem ______ badly treated by their protectors. Choose TWO correct options",
+          "options": [
+            "being",
+            "having been",
+            "to be",
+            "to have been"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": true,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Gerunds and infinitives: Complex forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I'm tired of people telling me what to do. ⇒ I'm tired of {0} what to do.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "people telling",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1097"
+        },
+        {
+          "index": 1,
+          "template": "He said he didn't take the money. ⇒ He denied {0} the money.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "taking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1098"
+        },
+        {
+          "index": 2,
+          "template": "It is believed that he has been stealing money since he was hired 2 years ago. ⇒ He is believed {0} money since he was hired 2 years ago.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to have been stealing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1099"
+        },
+        {
+          "index": 3,
+          "template": "I wish I had travelled more in my university years. ⇒ I would like {0} more in my university years.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to have travelled",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1100"
+        },
+        {
+          "index": 4,
+          "template": "It seems that they are having fun. ⇒ They seem {0} fun.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to be having",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1101"
+        },
+        {
+          "index": 5,
+          "template": "He is angry because he has been criticised by the commentators. ⇒ He resents {0} by the commentators.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "being criticised",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1102"
+        },
+        {
+          "index": 6,
+          "template": "I would have preferred to stay at home. ⇒ I'd rather {0} at home.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "stay",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1103"
+        },
+        {
+          "index": 7,
+          "template": "The new boss fired Terry a minute ago. ⇒ Terry is the last employee {0} by the new boss.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to be fired",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1104"
+        },
+        {
+          "index": 8,
+          "template": "People think they are looking for solutions. ⇒ They are thought {0} for solutions.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to be looking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1105"
+        },
+        {
+          "index": 9,
+          "template": "He wishes he hadn't alerted the police. ⇒ He regrets {0} the police.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "alerting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1106"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Gerunds and infinitives: Complex forms",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I would like {0} by someone.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to love",
+                "being loved",
+                "to be loved"
+              ],
+              "correct": "to be loved",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1118"
+        },
+        {
+          "index": 1,
+          "template": "The portrait is thought {0} in 1595.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be painting",
+                "to be painted",
+                "to have been painted"
+              ],
+              "correct": "to have been painted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1120"
+        },
+        {
+          "index": 2,
+          "template": "The student apologised for {0} into his teacher's Twitter account.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "being hacked",
+                "having hacked",
+                "hack"
+              ],
+              "correct": "having hacked",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1123"
+        },
+        {
+          "index": 3,
+          "template": "She was the first woman {0} president.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "being elected",
+                "to elect",
+                "to be elected"
+              ],
+              "correct": "to be elected",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1119"
+        },
+        {
+          "index": 4,
+          "template": "It's no use {0} to escape. This is a maximum security prison.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "trying",
+                "to try",
+                "try"
+              ],
+              "correct": "trying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1124"
+        },
+        {
+          "index": 5,
+          "template": "I certainly won't miss {0} by him every day.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be bullied",
+                "being bullied",
+                "bullying"
+              ],
+              "correct": "being bullied",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1125"
+        },
+        {
+          "index": 6,
+          "template": "You are not supposed {0} this now.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "being doing",
+                "to be doing",
+                "to been doing"
+              ],
+              "correct": "to be doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1121"
+        },
+        {
+          "index": 7,
+          "template": "I'd love {0} last night's performance.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to have seen",
+                "to be seeing",
+                "to be seen"
+              ],
+              "correct": "to have seen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1122"
+        },
+        {
+          "index": 8,
+          "template": "He denied {0} the money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "having been stolen",
+                "stealing",
+                "to have stolen"
+              ],
+              "correct": "stealing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1126"
+        },
+        {
+          "index": 9,
+          "template": "Convicts can choose how {0}, either by lethal injection or by electric chair.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "to be executed",
+                "to execute",
+                "being executed"
+              ],
+              "correct": "to be executed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1127"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

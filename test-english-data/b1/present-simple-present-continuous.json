@@ -1,0 +1,608 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "present-simple-present-continuous",
+  "order_index": 0,
+  "title": "Present simple or present continuous",
+  "source_url": "https://test-english.com/grammar-points/b1/present-simple-present-continuous/",
+  "scraped_at": "2026-05-23T07:20:07.334Z",
+  "explanation": {
+    "markdown": "## Present simple vs present continuous: Form\n\n![Present simple or present continuous](/uploads/grammar/b1/present-simple-present-continuous/img-1.png)\n\n#### Present simple: Short forms\n\nWe normally use **short forms in spoken English**.\n\n‣ do not = **don’t**  \n‣ does not = **doesn’t**\n\n#### Present continuous: Short forms\n\nWe normally use **short forms in spoken English**.\n\n‣ am not doing = **‘m not**  \n‣ is not = **isn’t/’s not**  \n‣ are not = **aren’t/’re not**\n\n## Present simple vs present continuous: Use\n\n![](/uploads/grammar/b1/present-simple-present-continuous/img-2.png)\n\n## Present simple use\n\n#### Habits or situations that happen regularly\n\nWe use the present simple to talk about actions that we do (o we don’t do) regularly:\n\n-   *I **wash** my hair every day.*\n-   *I never **go** to the library.*\n-   *I sometimes **go** to the library.*\n\n#### Permanent situations or things that are usually or often true\n\n-   *I **don’t drink** coffee.*\n-   *She**’s** very tall.*\n-   *I **have** two brothers.*\n-   *Water **boils** at 100 degrees.*\n-   *I **like** soup.*\n\n#### Adverbs of frequency\n\nWe often use the present simple with [**adverbs of frequency**](https://test-english.com/grammar-points/a1/adverbs-frequency/) (*always, sometimes*, etc.) and **expressions of frequency** (*once every three months, twice a week, every other day, etc.*).  \n  \n**Adverbs of frequency** go in [mid position](https://test-english.com/grammar-points/b1-b2/position-of-adverbs/) (before the main verb or after [**be**](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/)).\n\n-   *She doesn’t **often** eat hamburgers.*\n-   *He **usually** gets up very early.*\n-   *I am **never** late.*\n\n**Expressions of frequency** go at the end of the sentence\n\n-   *We go to the cinema **once a month**.*\n-   *I buy clothes **twice a year**.*\n\n#### Future events that are timetabled\n\nWe use the present simple to talk about future events that are scheduled or timetabled.\n\n-   *The train **leaves** at 4.*\n-   *Shops **close** at 6.*\n-   *My yoga class **is** tomorrow at 10.*\n\n## Present continuous use\n\n#### Actions in progress\n\nWe use the present continuous to talk about things that are happening now or ‘around now’ (a time around this moment, such as these days, weeks or months)\n\n-   *I can’t talk now. I’**m brushing** my teeth.*\n-   *I finished the Lord of the Rings and now I**’m reading** a new book.*\n\n#### Temporary actions\n\nThe present continuous is used to talk about temporary actions:\n\n-   *I’**m going** to work by bus this week because my car is at the garage.* \n-   *I’**m living** with my cousins until I find a flat.*\n\n#### With expressions meaning ‘now’ or ‘around now’.\n\nThe present continuous often appears next to expressions such as **now**, **these days, this week/month,** or **at the moment**.\n\n-   *He’**s studying** a lot this week.* \n-   *I’**m not feeling** very well these days.* \n\n#### Situations that are changing or developing\n\n-   *The climate **is changing** very quickly.*\n-   *More and more people **are trying** to eat more healthily nowadays.*\n-   *Your English **is improving**.*\n\n#### Future arrangements\n\nWe use the present continuous to talk or ask about future actions that are already planned or decided.\n\n-   *I**‘m meeting** John this evening. Do you want to come?*\n-   *We **are leaving** tomorrow at 7.* \n\n## Stative verbs\n\n[**Non-action verbs**](https://test-english.com/grammar-points/a2/stative-vs-dynamic-verbs-or-non-action-vs-action-verbs/) (or **stative verbs**) cannot be used in present continuous. They must be used in present simple. \n\nThe most frequent stative verbs are the verbs of the senses ([**hear, see, smell, look, seem, sound**](https://test-english.com/grammar-points/b1-b2/verbs-of-the-senses/)), verbs of opinion (**believe, consider, like, love, hate, prefer, think, etc.**) verbs of possession (**have, own, belong, etc.**). Other common non-action verbs are: **agree, be, depend, need, mean, remember, realise, recognise, seem, want, etc.**\n\n-   *Please, give me my money; I **need** it now.*\n-   *Look at her; she **seems** sad.*\n\nSome verbs have an **action** and a **non-action** meaning; for example, *have or think*:\n\n-   *I **have** a car* (=possession) / *I’**m having** a siesta* (=action)\n-   *I **think** he is great* (=opinion) / *What **are** you **thinking***? (=action)\n\nThe verb **see** also has a dynamic and a stative meaning.\n\n-   *I**‘m seeing** the doctor tomorrow at 9.* (see= ‘have an appointment’)\n-   *What **do** you **see** in this picture?* (see= ‘see with your eyes’)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-simple-present-continuous_form.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/present-simple-present-continuous/img-1.png",
+        "alt": "Present simple or present continuous"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-simple-present-continuous_meaning-1.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/present-simple-present-continuous/img-2.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple or present continuous",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "In Johannesburg most people {0} at least five languages.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "speak",
+                "are speaking"
+              ],
+              "correct": "speak",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1504"
+        },
+        {
+          "index": 1,
+          "template": "Languages {0} very fast. Half of the world's languages will disappear by 2100.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "disappear",
+                "are disappearing"
+              ],
+              "correct": "are disappearing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1505"
+        },
+        {
+          "index": 2,
+          "template": "You can't see Tim now; he {0} a bath.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "has",
+                "'s having"
+              ],
+              "correct": "'s having",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1506"
+        },
+        {
+          "index": 3,
+          "template": "Please keep quiet, I {0} to the radio. You know I {1} to the news in the mornings.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m listening",
+                "listen"
+              ],
+              "correct": "'m listening",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m listening",
+                "listen"
+              ],
+              "correct": "listen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1507"
+        },
+        {
+          "index": 4,
+          "template": "What time {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is the first train leaving",
+                "does the first train leave"
+              ],
+              "correct": "does the first train leave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1508"
+        },
+        {
+          "index": 5,
+          "template": "I {0} a scarf, but today I {1} one because it's unusually cold.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "never wear",
+                "'m never wearing"
+              ],
+              "correct": "'m never wearing",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "wear",
+                "'m wearing"
+              ],
+              "correct": "'m wearing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1509"
+        },
+        {
+          "index": 6,
+          "template": "I finished watching the series you recommended. Now I {0} another one.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m watching",
+                "watch"
+              ],
+              "correct": "'m watching",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1510"
+        },
+        {
+          "index": 7,
+          "template": "What {0} tonight? Would you like to come and watch the game?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you doing",
+                "do you do"
+              ],
+              "correct": "are you doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1511"
+        },
+        {
+          "index": 8,
+          "template": "Nobody {0} they will win the match.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is thinking",
+                "thinks"
+              ],
+              "correct": "thinks",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1512"
+        },
+        {
+          "index": 9,
+          "template": "You look worried. What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you thinking",
+                "do you think"
+              ],
+              "correct": "are you thinking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1513"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Present simple or present continuous",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "A: We ______ to the cinema tonight. B: ______ to the cinema?",
+          "options": [
+            "are going / Do you often go",
+            "go / Do you often go",
+            "are going / Are you often going"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "A: What time ______ this afternoon? B: I don't know. We ______ tomorrow.",
+          "options": [
+            "does the train leave / leave",
+            "does the train leave / are leaving",
+            "is the train leaving / leave"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "A: ______ ? B: Yes, but I ______ to quit.",
+          "options": [
+            "Are you smoking / try",
+            "Do you smoke / try",
+            "Do you smoke / 'm trying"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "A: I ______ on holiday two or three times a year. B: That's great! And where______ this year?",
+          "options": [
+            "go / do you go",
+            "'m going / do you go",
+            "go / are you going"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "I think it's better to stay. It ______ and we ______ an umbrella.",
+          "options": [
+            "'s raining / don't have",
+            "rains / don't have",
+            "'s raining / aren't having"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "A: Children ______ more and more dependent on mobile phones. B: Yes, they ______ their imagination anymore.",
+          "options": [
+            "become / aren't using",
+            "are becoming / don't use",
+            "become / don't use"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I ______ an article about the myth that says that we ______ 10% of our brains.",
+          "options": [
+            "'m writing / are only using",
+            "write /  are only using",
+            "'m writing / only use"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I ______ of quitting my job.______ it is a good idea?",
+          "options": [
+            "'m thinking / Do you think",
+            "think / Do you think",
+            "'m thinking /Are you thinking"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Who is that man? Why ______ at us? What ______?",
+          "options": [
+            "is he looking / is he wanting",
+            "is he looking / does he want",
+            "does he look / he wants"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "A: Tomorrow I ______ my doctor in the morning. B. Isn't your doctor that woman I ______ over there?",
+          "options": [
+            "see / 'm seeing",
+            "see / see",
+            "'m seeing / see"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple or present continuous",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Rainforests 1 {0} (disappear), and we all 2 {1} (know) that humans are the main cause of this destruction. Every year we 3 {2} (cut down) an area of rainforest the size of New Jersey. Every hour we 4 {3} (destroy) 6000 acres of rainforest (that’s 4000 football fields). What we 5 {4} (not realise) is that we 6 {5} (destroy) the planet where our children and grandchildren have to live. We 7 {6} (need) the rainforests; they 8 {7} (produce) oxygen and 9 {8} (eliminate) carbon dioxide (C02), cleaning the atmosphere.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "disappear",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1524"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple or present continuous",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "In Johannesburg most people {0} at least five languages.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "speak",
+                "are speaking"
+              ],
+              "correct": "speak",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1504"
+        },
+        {
+          "index": 1,
+          "template": "Languages {0} very fast. Half of the world's languages will disappear by 2100.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "disappear",
+                "are disappearing"
+              ],
+              "correct": "disappear",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1505"
+        },
+        {
+          "index": 2,
+          "template": "You can't see Tim now; he {0} a bath.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "has",
+                "'s having"
+              ],
+              "correct": "'s having",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1506"
+        },
+        {
+          "index": 3,
+          "template": "Please keep quiet, I {0} to the radio. You know I {1} to the news in the mornings.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m listening",
+                "listen"
+              ],
+              "correct": "'m listening",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "'m listening",
+                "listen"
+              ],
+              "correct": "listen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1507"
+        },
+        {
+          "index": 4,
+          "template": "What time {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is the first train leaving",
+                "does the first train leave"
+              ],
+              "correct": "does the first train leave",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1508"
+        },
+        {
+          "index": 5,
+          "template": "I {0} a scarf, but today I {1} one because it's unusually cold.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "never wear",
+                "'m never wearing"
+              ],
+              "correct": "'m never wearing",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "wear",
+                "'m wearing"
+              ],
+              "correct": "wear",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1509"
+        },
+        {
+          "index": 6,
+          "template": "I finished watching the series you recommended. Now I {0} another one.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m watching",
+                "watch"
+              ],
+              "correct": "'m watching",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1510"
+        },
+        {
+          "index": 7,
+          "template": "What {0} tonight? Would you like to come and watch the game?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you doing",
+                "do you do"
+              ],
+              "correct": "are you doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1511"
+        },
+        {
+          "index": 8,
+          "template": "Nobody {0} they will win the match.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "is thinking",
+                "thinks"
+              ],
+              "correct": "thinks",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1512"
+        },
+        {
+          "index": 9,
+          "template": "You look worried. What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you thinking",
+                "do you think"
+              ],
+              "correct": "are you thinking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1513"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

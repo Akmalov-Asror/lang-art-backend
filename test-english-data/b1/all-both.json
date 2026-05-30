@@ -1,0 +1,679 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "all-both",
+  "order_index": 25,
+  "title": "All, both: Quantifiers",
+  "source_url": "https://test-english.com/grammar-points/b1/all-both/",
+  "scraped_at": "2026-05-23T07:23:08.448Z",
+  "explanation": {
+    "markdown": "## **All/both**: Grammar chart\n\n![all, both – quantifiers](/uploads/grammar/b1/all-both/img-1.png)\n\n## **All/all the; both/both (the)**\n\nWe can use **both** or **both the/my/etc. + noun** in the same way to refer to two people or things.\n\n-   ***Both students/Both the students** passed the exam.* \n-   *They won **both matches/both the matches**.*  \n\nWe use **all + noun** (without [**the**](https://test-english.com/grammar-points/b1/an-the-no-article/)) to refer to things/people in general.\n\n-   ***All students** hate homework.* (**all** + plural countable nouns)\n-   ***All music** makes people feel something.* (**all** + uncountable nouns)\n\nWe use **all + the/my/etc. + noun** to refer to particular people or things.\n\n-   ***All the students in my class** hate homework.* (**all the** + plural countable nouns)\n-   ***All the music I download** makes me feel something.* (**all the** + uncountable nouns)\n\n#### **All (of) the; both (of the)**\n\nWe can use **all/both + of** before **both/all of the/my/Tom’s + noun**. But it is often omitted.\n\n-   ***All (of) the students in my class** hate homework.*\n-   ***Both (of the) students** passed the exam.* \n\nBut we cannot use **both/all of + noun** when there isn’t a determiner, i.e. **the, my, this etc.**, before the noun.\n\n-   ***All/Both of students** passed the exam. ![](/uploads/grammar/b1/all-both/img-2.png)* \n-   ***All/Both of the students** passed the exam. ![](/uploads/grammar/b1/all-both/img-3.png)* \n\n## **All/both**: word order with pronouns\n\n#### **All of us / both of them / etc.** (subject)\n\nWe can use **all/both of + you/us/them** before a verb (as the subject of a sentence).\n\n-   ***All of us** were at the party.*\n-   ***Both of them** are wrong.* \n\n❗ **Note** that **of** is necessary; we cannot omit it.\n\n-   ***All us** were at the party. ![](/uploads/grammar/b1/all-both/img-4.png)* \n-   ***All of us** were at the party. ![](/uploads/grammar/b1/all-both/img-5.png)* \n\n#### **Us all / them both / etc.** (object)\n\nWe can use **you/us/them + all/both** after a verb (as the object of a sentence).\n\n-   *The judge sent **them all** to jail.* (=*The judge sent all of them to jail.*)\n-   *She loves **them both**.* (=*She loves both of them*.)\n\n## **All/both**: word order with verbs (mid position)\n\n**All** and **both** can be used in mid position. Mid position is:  \n  \n➟ Before the verb.\n\n-   *We **both like** going to the cinema.* (=*Both of us like going to the cinema.*)\n-   *They **all left** without saying goodbye.* (=*All of them left without saying goodbye*.)\n\n➟ After the verb **be** when it’s the only verb in a sentence.\n\n-   *The boys **were all** happy.* (=*All the boys were happy.*)\n-   *The players **are both** tired.* (=*Both \\[the\\] players are tired.*)\n\n➟ After an auxiliary verb or after the first auxiliary verb if there is more than one.\n\n-   *They **are all going** to disappear.* (=*All of them are going to disappear.*)\n-   *The robbers **have both been** arrested.* (=*Both \\[the\\] robbers have been arrested.*)\n\n➟ In questions, mid position is after the subject.\n\n-   *Have **they both** finished?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/all-both-quantifiers.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/all-both/img-1.png",
+        "alt": "all, both – quantifiers"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/all-both/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/all-both/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b1/all-both/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b1/all-both/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "All, both: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} happy to see you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "We are both",
+                "We both are",
+                "Both us"
+              ],
+              "correct": "We both are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5270"
+        },
+        {
+          "index": 1,
+          "template": "I liked {0} music in your playlist.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "all",
+                "all the",
+                "all of"
+              ],
+              "correct": "all the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5282"
+        },
+        {
+          "index": 2,
+          "template": "{0} students worked hard to get good grades.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Both of",
+                "Both of the",
+                "The both"
+              ],
+              "correct": "Both of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5283"
+        },
+        {
+          "index": 3,
+          "template": "She has two sons and loves {0} equally.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "them both",
+                "both them",
+                "the both of them"
+              ],
+              "correct": "them both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5285"
+        },
+        {
+          "index": 4,
+          "template": "{0} were shocked when we found out the truth.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "All of us",
+                "All us",
+                "We all"
+              ],
+              "correct": "All of us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5284"
+        },
+        {
+          "index": 5,
+          "template": "{0} admit their mistakes.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "They both should",
+                "They should both",
+                "Both them should"
+              ],
+              "correct": "They should both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5286"
+        },
+        {
+          "index": 6,
+          "template": "Count the coins and put {0} in a bag.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "all them",
+                "them all",
+                "they all"
+              ],
+              "correct": "them all",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5287"
+        },
+        {
+          "index": 7,
+          "template": "We like {0} schools. We can't decide.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "both",
+                "both of",
+                "the both"
+              ],
+              "correct": "both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5288"
+        },
+        {
+          "index": 8,
+          "template": "{0} you need to relax.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Both",
+                "Both of",
+                "The both of"
+              ],
+              "correct": "Both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5289"
+        },
+        {
+          "index": 9,
+          "template": "{0} animals should have the same rights as humans.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "All",
+                "All the",
+                "All of"
+              ],
+              "correct": "All",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5290"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "All, both: Quantifiers",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_____ a new diet.",
+          "options": [
+            "They both have started",
+            "Both they have started",
+            "They have both started"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "He fell and ______ eggs got broken.",
+          "options": [
+            "all the",
+            "all",
+            "all of"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "The teacher sent _____ home.",
+          "options": [
+            "them both",
+            "they both",
+            "the both of them"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_____ work in my office.",
+          "options": [
+            "Both her brothers",
+            "Both of brothers",
+            "Her both brothers"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____ accused of fraud.",
+          "options": [
+            "They both have been",
+            "They have both been",
+            "Both them have been"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Which sentence is NOT correct?",
+          "options": [
+            "All students like holidays.",
+            "All of students in my class like holidays.",
+            "All of the students in my class like holidays."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Which sentence is NOT correct?",
+          "options": [
+            "Did you drink all of the milk?",
+            "Did you drink all of milk?",
+            "Did you drink it all?"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Which sentence is NOT correct?",
+          "options": [
+            "You both must be crazy.",
+            "You must both be crazy.",
+            "Both of you must be crazy."
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "Which sentence is NOT correct?",
+          "options": [
+            "The both suspects were arrested last Friday.",
+            "Both of the suspects were arrested last Friday.",
+            "Both the suspects were arrested last Friday."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Which sentence is NOT correct?",
+          "options": [
+            "He hates all us.",
+            "He hates us all.",
+            "He hates all of us."
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "All, both: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Both Simon and Pete like Aleisha. ⇒ {0} Aleisha.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Do they like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5272"
+        },
+        {
+          "index": 1,
+          "template": "All of us were invited to the wedding. ⇒ {0} to the wedding.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We were invited",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5273"
+        },
+        {
+          "index": 2,
+          "template": "Both of them have been working on the case. ⇒ {0} on the case.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They have been working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5274"
+        },
+        {
+          "index": 3,
+          "template": "Have all of them arrived? ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Have they arrived",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5275"
+        },
+        {
+          "index": 4,
+          "template": "Both Sonia and Will can help you with those boxes. ⇒ {0} you with those boxes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They can help",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5276"
+        },
+        {
+          "index": 5,
+          "template": "Both of us hated the film. ⇒ {0} the film.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We hated",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5277"
+        },
+        {
+          "index": 6,
+          "template": "All the students were surprised and excited. ⇒ {0} surprised and excited.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5278"
+        },
+        {
+          "index": 7,
+          "template": "Did both of you get a promotion? ⇒ {0} a promotion?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did you get",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5279"
+        },
+        {
+          "index": 8,
+          "template": "All of us have learned a lot during this course. ⇒ {0} a lot during this course.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "We've learned",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5280"
+        },
+        {
+          "index": 9,
+          "template": "Both of them looked at me and left. ⇒ {0} at me and left.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "They looked",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5281"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "All, both: Quantifiers",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "{0} happy to see you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "We are both",
+                "We both are",
+                "Both us"
+              ],
+              "correct": "We both are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5270"
+        },
+        {
+          "index": 1,
+          "template": "I liked {0} music in your playlist.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "all",
+                "all the",
+                "all of"
+              ],
+              "correct": "all the",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5282"
+        },
+        {
+          "index": 2,
+          "template": "{0} students worked hard to get good grades.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Both of",
+                "Both of the",
+                "The both"
+              ],
+              "correct": "Both of",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5283"
+        },
+        {
+          "index": 3,
+          "template": "She has two sons and loves {0} equally.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "them both",
+                "both them",
+                "the both of them"
+              ],
+              "correct": "them both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5285"
+        },
+        {
+          "index": 4,
+          "template": "{0} were shocked when we found out the truth.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "All of us",
+                "All us",
+                "We all"
+              ],
+              "correct": "All of us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5284"
+        },
+        {
+          "index": 5,
+          "template": "{0} admit their mistakes.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "They both should",
+                "They should both",
+                "Both them should"
+              ],
+              "correct": "They should both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5286"
+        },
+        {
+          "index": 6,
+          "template": "Count the coins and put {0} in a bag.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "all them",
+                "them all",
+                "they all"
+              ],
+              "correct": "them all",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5287"
+        },
+        {
+          "index": 7,
+          "template": "We like {0} schools. We can't decide.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "both",
+                "both of",
+                "the both"
+              ],
+              "correct": "both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5288"
+        },
+        {
+          "index": 8,
+          "template": "{0} you need to relax.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Both",
+                "Both of",
+                "The both of"
+              ],
+              "correct": "Both",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5289"
+        },
+        {
+          "index": 9,
+          "template": "{0} animals should have the same rights as humans.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "All",
+                "All the",
+                "All of"
+              ],
+              "correct": "All",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "5290"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

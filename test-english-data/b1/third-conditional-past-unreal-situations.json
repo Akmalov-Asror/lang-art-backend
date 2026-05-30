@@ -1,0 +1,715 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "third-conditional-past-unreal-situations",
+  "order_index": 21,
+  "title": "Third conditional: Past unreal situations",
+  "source_url": "https://test-english.com/grammar-points/b1/third-conditional-past-unreal-situations/",
+  "scraped_at": "2026-05-23T07:22:42.536Z",
+  "explanation": {
+    "markdown": "## Third conditional: Grammar Chart\n\n![Third conditional grammar chart explaining sentence structure for past hypothetical situations with examples like \"If you had come to class, you would have passed the exam.\"](/uploads/grammar/b1/third-conditional-past-unreal-situations/img-1.png)\n\n## **If** clause and main clause\n\nWe use the [**past perfect**](https://test-english.com/grammar-points/a2/past-perfect/) in the **if**\\-clause of a third conditional sentence to talk about an **imaginary or hypothetical** situation in the past, and we use **would have,** [**could have** or **might have**](https://test-english.com/grammar-points/b1-b2/past-modal-verbs/) + **past participle** in the main clause to talk about the result or consequence of that imaginary situation.\n\n-   *If you **had come** to class more often, you **would have passed** the test.*\n-   *If he **hadn’t taken** his helmet, he **could have died**.*\n-   *If the jacket **had been** a bit cheaper, I **might have bought** it.*\n\n#### Comma\n\nAs with all conditional types, we use a **comma** after the **if***–*clause when it goes at the beginning of the sentence, but we don’t use a comma when the **if**\\-clause goes at the end.\n\n-   *If I **hadn’t overslept**, I **wouldn’t have been** late.*\n-   *I **wouldn’t have been** late if I **hadn’t overslept**.*\n\n#### **Unless**\n\nWe can also use **unless** in conditional sentences to mean **if** … (**not**)\n\n-   *I wouldn’t have arrived on time **unless** I had taken a taxi.*\n-   *\\= I wouldn’t have arrived on time **if** I had**n’t** taken a taxi.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/third-conditional.new_.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/third-conditional-past-unreal-situations/img-1.png",
+        "alt": "Third conditional grammar chart explaining sentence structure for past hypothetical situations with examples like \"If you had come to class, you would have passed the exam.\""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Third conditional: Past unreal situations",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If you had trained more, you {0} so easily.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't lose",
+                "wouldn't have lost",
+                "hadn't lost"
+              ],
+              "correct": "wouldn't have lost",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1956"
+        },
+        {
+          "index": 1,
+          "template": "We wouldn't have spent all the money if you {0} on going to that boutique.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't insist",
+                "hadn't insisted",
+                "wouldn't have insisted"
+              ],
+              "correct": "hadn't insisted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1957"
+        },
+        {
+          "index": 2,
+          "template": "If you had told me that you were having problems, I {0} you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would help",
+                "had helped",
+                "could have helped"
+              ],
+              "correct": "could have helped",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1958"
+        },
+        {
+          "index": 3,
+          "template": "If I {0} that she was in town, I would have called her.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have known",
+                "would know",
+                "had known"
+              ],
+              "correct": "had known",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1959"
+        },
+        {
+          "index": 4,
+          "template": "If she had offered a better price for the car, I {0} it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "might have bought",
+                "had bought",
+                "would buy"
+              ],
+              "correct": "might have bought",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1960"
+        },
+        {
+          "index": 5,
+          "template": "There wouldn't have been so many problems if they {0} the race a bit better.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have organised",
+                "had organised",
+                "organised"
+              ],
+              "correct": "had organised",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1961"
+        },
+        {
+          "index": 6,
+          "template": "We {0} lost if you had asked for directions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't get",
+                "wouldn't have got",
+                "hadn't got"
+              ],
+              "correct": "wouldn't have got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1962"
+        },
+        {
+          "index": 7,
+          "template": "We would never have met if you {0} us to each other at that party.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't have introduced",
+                "hadn't introduced",
+                "hasn't introduced"
+              ],
+              "correct": "hadn't introduced",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1963"
+        },
+        {
+          "index": 8,
+          "template": "If she had embarrassed me in front of all my friends, I {0} her for ever.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will hate",
+                "had hated",
+                "would have hated"
+              ],
+              "correct": "would have hated",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1964"
+        },
+        {
+          "index": 9,
+          "template": "I {0} her life if I had paid more attention.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would save",
+                "could have saved",
+                "had saved"
+              ],
+              "correct": "could have saved",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1965"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Third conditional: Past unreal situations",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "You ______ me if you had gone to the party. Choose TWO correct options",
+          "options": [
+            "would have seen",
+            "could see",
+            "might have seen"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "What would you have done if I ______?",
+          "options": [
+            "didn't come",
+            "wouldn't come",
+            "hadn't come"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "They ______ him if I ______ them the money.",
+          "options": [
+            "would have killed / didn't give",
+            "would have killed / hadn't given",
+            "had killed him / wouldn't give"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "If I had stayed in university, I ______ much better jobs.",
+          "options": [
+            "will get",
+            "had got",
+            "could have got"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "If I ______ so hard all my life, I might have spent more time with my kids.",
+          "options": [
+            "hadn't worked",
+            "wouldn't have worked",
+            "didn't work"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "If I had been feeling well, I ______ the steak. Choose TWO correct options",
+          "options": [
+            "might have ordered",
+            "could have ordered",
+            "will have ordered"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "If I'd known you were going, I ______ with you.",
+          "options": [
+            "would come",
+            "had come",
+            "would have come"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I ______ the exam even if I had studied harder.",
+          "options": [
+            "wouldn't pass",
+            "wouldn't have passed",
+            "hadn't passed"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "If I ______ you the truth, you wouldn't have believed me.",
+          "options": [
+            "told",
+            "would have told",
+            "had told"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "He ______ the accident if he hadn't drunk.",
+          "options": [
+            "wouldn't have had",
+            "wouldn't have",
+            "hadn't had"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Third conditional: Past unreal situations",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If we {0} (have) the money, we {1} (go).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would go",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1976"
+        },
+        {
+          "index": 1,
+          "template": "I {0} (tidy up) the house if I {1} (know) that you were coming.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have tidied up",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had known",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1977"
+        },
+        {
+          "index": 2,
+          "template": "We {0} (bring) some snacks if you {1} (tell) us about the picnic.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have brought",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1978"
+        },
+        {
+          "index": 3,
+          "template": "Obviously, if my parents {0} (not meet), I {1} (not be born).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had not met",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would not have been born",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1979"
+        },
+        {
+          "index": 4,
+          "template": "If he {0} (invest) in that business, he {1} (lose) everything.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had invested",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have lost",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1980"
+        },
+        {
+          "index": 5,
+          "template": "If the police {0} (not be) nearby, there {1} (be) many more victims.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had not been",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have been",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1981"
+        },
+        {
+          "index": 6,
+          "template": "What {0} (you/do) if you {1} (be) in that situation?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would you do",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would you have done",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1982"
+        },
+        {
+          "index": 7,
+          "template": "The police {0} (not catch) him if he {1} (not make) that little mistake.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would not have caught",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had not made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1983"
+        },
+        {
+          "index": 8,
+          "template": "If I {0} (know) there was a party, I {1} (wear) something nicer.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had known",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have worn",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1984"
+        },
+        {
+          "index": 9,
+          "template": "It {0} (be) easier if you {1} (tell) me what I needed to do.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "would have been",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1985"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Third conditional: Past unreal situations",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "If you had trained more, you {0} so easily.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't lose",
+                "wouldn't have lost",
+                "hadn't lost"
+              ],
+              "correct": "wouldn't have lost",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1956"
+        },
+        {
+          "index": 1,
+          "template": "We wouldn't have spent all the money if you {0} on going to that boutique.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "didn't insist",
+                "hadn't insisted",
+                "wouldn't have insisted"
+              ],
+              "correct": "hadn't insisted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1957"
+        },
+        {
+          "index": 2,
+          "template": "If you had told me that you were having problems, I {0} you.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would help",
+                "had helped",
+                "could have helped"
+              ],
+              "correct": "could have helped",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1958"
+        },
+        {
+          "index": 3,
+          "template": "If I {0} that she was in town, I would have called her.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have known",
+                "would know",
+                "had known"
+              ],
+              "correct": "had known",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1959"
+        },
+        {
+          "index": 4,
+          "template": "If she had offered a better price for the car, I {0} it.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "might have bought",
+                "had bought",
+                "would buy"
+              ],
+              "correct": "might have bought",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1960"
+        },
+        {
+          "index": 5,
+          "template": "There wouldn't have been so many problems if they {0} the race a bit better.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would have organised",
+                "had organised",
+                "organised"
+              ],
+              "correct": "had organised",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1961"
+        },
+        {
+          "index": 6,
+          "template": "We {0} lost if you had asked for directions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't get",
+                "wouldn't have got",
+                "hadn't got"
+              ],
+              "correct": "wouldn't have got",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1962"
+        },
+        {
+          "index": 7,
+          "template": "We would never have met if you {0} us to each other at that party.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "wouldn't have introduced",
+                "hadn't introduced",
+                "hasn't introduced"
+              ],
+              "correct": "hadn't introduced",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1963"
+        },
+        {
+          "index": 8,
+          "template": "If she had embarrassed me in front of all my friends, I {0} her for ever.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "will hate",
+                "had hated",
+                "would have hated"
+              ],
+              "correct": "would have hated",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1964"
+        },
+        {
+          "index": 9,
+          "template": "I {0} her life if I had paid more attention.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "would save",
+                "could have saved",
+                "had saved"
+              ],
+              "correct": "could have saved",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1965"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

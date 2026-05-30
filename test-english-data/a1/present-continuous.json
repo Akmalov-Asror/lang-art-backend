@@ -1,0 +1,485 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "present-continuous",
+  "order_index": 13,
+  "title": "Present continuous: I’m doing, I’m not doing, Are you doing?",
+  "source_url": "https://test-english.com/grammar-points/a1/present-continuous/",
+  "scraped_at": "2026-05-23T07:02:46.088Z",
+  "explanation": {
+    "markdown": "## Present continuous: Form\n\n![Grammar chart showing the form of the Present Continuous tense in positive, negative, and question forms, including short answers and spelling rules for -ing words.](/uploads/grammar/a1/present-continuous/img-1.png)\n\nWe form the present continuous with **am/is/are** + the **\\-ing** form of the verb.\n\n-   *I **am writing** a book.*\n-   *She **is listening** to the radio.* \n-   *They **are doing** their homework.* \n\nThe short forms of **[am/is/are](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/)** are: **‘m/’s/’re**.\n\n-   *I**‘m writing** a book.*\n-   *She**‘s listening** to the radio.* \n-   *They**‘re doing** their homework.* \n\nThe negative short forms of **am not/is not/are not** are: **‘m not/isn’t/aren’t**.\n\n-   *I**‘m not writing** a book.*\n-   *She **isn’t listening** to the radio.* \n-   *They **aren’t doing** their homework.* \n\n❗ **Note** that we can use **short forms only in negative short answers**, but not in positive short answers.\n\n-   *‘Are you writing a book?’ ‘No, **I’m not/I am not**.’ ![](/uploads/grammar/a1/present-continuous/img-2.png)* \n-   *‘Are you writing a book?’ ‘Yes, **I am**.’* *![](/uploads/grammar/a1/present-continuous/img-3.png)*\n-   *‘Are you writing a book?’ ‘Yes, **I’m**.’* ![](/uploads/grammar/a1/present-continuous/img-4.png)\n\n#### Actions happening now\n\nWe use the present continuous for things happening now, at the moment of speaking.\n\n-   *‘What **are** you **doing**?’ ‘I**‘m watching** TV.’*\n\n#### Actions happening around now\n\nWe use the present continuous for temporary things that are happening around now (=not at the moment of speaking but these days, or weeks, etc.)\n\n-   *I**‘m reading** a very good book at the moment.* (=I’m not reading it at the moment I’m speaking, but I’m reading it these days.)\n\n#### **Now, these days, at the moment, etc.**\n\nWe use the present continuous with [time expressions](https://test-english.com/vocabulary/a1/time-words-a1-english-vocabulary/) that mean ‘now’ or ‘around now’: **now, at the moment, at present, today, these days, this week, etc**.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Present-continuous-form-new-1.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/present-continuous/img-1.png",
+        "alt": "Grammar chart showing the form of the Present Continuous tense in positive, negative, and question forms, including short answers and spelling rules for -ing words."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/present-continuous/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/present-continuous/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/present-continuous/img-4.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present continuous: I’m doing, I’m not doing, Are you doing?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He {0} (save) money because he wants to buy a car.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is saving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3950"
+        },
+        {
+          "index": 1,
+          "template": "You {0} (not listen) to me.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "aren't listening",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3951"
+        },
+        {
+          "index": 2,
+          "template": "My parents {0} (look) for a new apartment.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are looking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3952"
+        },
+        {
+          "index": 3,
+          "template": "The victim {0} (not cooperate) with the police.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't cooperating",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3953"
+        },
+        {
+          "index": 4,
+          "template": "We {0} (plan) a trip to Japan.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are planning",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3954"
+        },
+        {
+          "index": 5,
+          "template": "I {0} (cook) fish for dinner.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am cooking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3955"
+        },
+        {
+          "index": 6,
+          "template": "The water {0} (boil). You can put the pasta now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is boiling",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3956"
+        },
+        {
+          "index": 7,
+          "template": "He {0} (not train) because he has health problems.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't training",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3957"
+        },
+        {
+          "index": 8,
+          "template": "I {0} (not work) at present. I'm unemployed.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am not working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3958"
+        },
+        {
+          "index": 9,
+          "template": "It {0} (not rain) now. We can go to the park.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't raining",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3959"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present continuous: I’m doing, I’m not doing, Are you doing?",
+      "sentences": [
+        {
+          "index": 2,
+          "template": "A: {0} (they/try) to find a solution? B: Yes, they .",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are they trying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3962"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present continuous: I’m doing, I’m not doing, Are you doing?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Suzan: Hi Mark. What {0} (you/do)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are you doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3970"
+        },
+        {
+          "index": 1,
+          "template": "Mark: I {0} (watch) TV.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am watching",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3971"
+        },
+        {
+          "index": 2,
+          "template": "Suzan: What {0} (you/watch)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are you watching",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3972"
+        },
+        {
+          "index": 3,
+          "template": "Mark: A football match. Liverpool {0} (play) against Manchester United.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is playing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3973"
+        },
+        {
+          "index": 4,
+          "template": "Suzan: {0} (you/enjoy) it?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Are you enjoying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3974"
+        },
+        {
+          "index": 5,
+          "template": "Mark: Yes, I {0}. It's a great match.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3975"
+        },
+        {
+          "index": 6,
+          "template": "Suzan: {0} (your team/win)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Did your team win",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3976"
+        },
+        {
+          "index": 7,
+          "template": "Mark: Yes! But what about you? What {0} (you/do)?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are you doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3977"
+        },
+        {
+          "index": 8,
+          "template": "Suzan: I'm with Alice. We {0} (study) for our maths exam.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are studying",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3978"
+        },
+        {
+          "index": 9,
+          "template": "Mark: Well, I'm sure you {0} (not enjoy) maths. Do you want to take a break and come to my house?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "don't enjoy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3979"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present continuous: I’m doing, I’m not doing, Are you doing?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He {0} (save) money because he wants to buy a car.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is saving",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3950"
+        },
+        {
+          "index": 1,
+          "template": "You {0} (not listen) to me.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "aren't listening",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3951"
+        },
+        {
+          "index": 2,
+          "template": "My parents {0} (look) for a new apartment.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are looking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3952"
+        },
+        {
+          "index": 3,
+          "template": "The victim {0} (not cooperate) with the police.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't cooperating",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3953"
+        },
+        {
+          "index": 4,
+          "template": "We {0} (plan) a trip to Japan.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are planning",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3954"
+        },
+        {
+          "index": 5,
+          "template": "I {0} (cook) fish for dinner.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am cooking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3955"
+        },
+        {
+          "index": 6,
+          "template": "The water {0} (boil). You can put the pasta now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is boiling",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3956"
+        },
+        {
+          "index": 7,
+          "template": "He {0} (not train) because he has health problems.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't training",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3957"
+        },
+        {
+          "index": 8,
+          "template": "I {0} (not work) at present. I'm unemployed.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "am not working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3958"
+        },
+        {
+          "index": 9,
+          "template": "It {0} (not rain) now. We can go to the park.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "isn't raining",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3959"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

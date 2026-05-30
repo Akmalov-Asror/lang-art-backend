@@ -1,0 +1,542 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "relative-clauses",
+  "order_index": 25,
+  "title": "Relative clauses: Defining and non-defining",
+  "source_url": "https://test-english.com/grammar-points/b2/relative-clauses/",
+  "scraped_at": "2026-05-23T07:28:03.562Z",
+  "explanation": {
+    "markdown": "## Defining vs non-defining\n\nThere are two types of relative clauses: defining and non-defining. In the grammar chart below, you can see the main differences between them.  \n  \n![Grammar chart explaining defining and non-defining relative clauses with examples.](/uploads/grammar/b2/relative-clauses/img-1.png)\n\n## Relative pronouns\n\nRelative pronouns are the words that introduce relative clauses. They can act as the subject or the object of the relative clause.  \n  \n![Grammar chart explaining the use of relative pronouns \"who,\" \"which,\" \"whose,\" and \"that\" with examples.](/uploads/grammar/b2/relative-clauses/img-2.png)\n\n❗ **Note** that **that** can be used in informal English instead of **who/whom/which**, but it is never used after a comma (in non-defining relative clauses) or after a preposition.\n\n-   *That’s the man **who/that** offered me the job.*\n-   *My mother’s older brother, **who (that ![](/uploads/grammar/b2/relative-clauses/img-3.png))** lives in New York, is coming to visit.*\n-   *That’s the house in **which (that ![](/uploads/grammar/b2/relative-clauses/img-4.png))** they lived all their lives.*\n\n#### **Which/that** vs **What**\n\nWe use **which/that** as relative pronouns. They refer back to a noun or sentence.\n\n-   *I gave her the letter **which/that** I had been keeping since the war.* (which/that= the letter)\n-   *He offered to help us, **which** was a nice gesture.* (which= He offered to help us)\n\nWe don’t use **what** as a relative pronoun. It cannot be used to refer back to a sentence or noun.\n\n-   *I gave her the letter **which/****that** I had been keeping since the war.* ![](/uploads/grammar/b2/relative-clauses/img-5.png)\n-   *I gave her the letter **what** I had been keeping since the war.* ***![](/uploads/grammar/b2/relative-clauses/img-6.png)***\n-   *He offered to help us, **which** was a nice gesture.* ![](/uploads/grammar/b2/relative-clauses/img-7.png)\n-   *He offered to help us, **what** was a nice gesture. **![](/uploads/grammar/b2/relative-clauses/img-8.png)*** \n\nWe use **what** independently to mean ‘the thing/s that’.\n\n-   *I didn’t like **what** he did.= I didn’t like **the thing/s that** he did.*\n-   ***What** I don’t understand is why we are here. (what= the thing that)*\n\n## Prepositions in relative clauses\n\nWhen the relative pronoun is the complement of a preposition, we can use the preposition before the relative pronoun or at the end of the relative clause.\n\n#### Preposition + relative pronoun\n\nIt’s not very common to use prepositions before relative pronouns, we just do it in formal language.\n\n-   *He wrecked the car **for which** he had paid a fortune.*\n-   *He was a man **for whom** everybody had great respect.*  \n\n❗ **Note** that after a preposition, we can only use the pronouns **whom** or **which**. (NOT **who** or **that**).  \n  \nWe can also use **whose** after a preposition.\n\n-   *The team signed then the young Maradona, **in whose** skills everybody had their hopes.*\n\n#### Preposition at the end of the relative clause\n\nThe most common position of the preposition is at the end of the relative clause.\n\n-   *He wrecked the car **for which** he had paid a fortune.* (Formal; not common in spoken English)\n-   *He wrecked the car **(which/that)** he had paid a fortune **for**.* (Informal)\n\n## Relative adverbs\n\nRelative adverbs introduce relative clauses, just like relative pronouns, but in this case, they are used to introduce information about time (**when**), place (**where**), or reason (**why**).  \n  \n![Grammar chart explaining the use of relative adverbs \"when,\" \"where,\" and \"why\" with examples.](/uploads/grammar/b2/relative-clauses/img-9.png)\n\n❗ **Note** that we can use a preposition **+ which** instead of a relative adverb. However, this structure is more formal and not as common.\n\n-   *The coach changed the time **when** the players had to get up.* \n-   *\\=The coach changed the time **at which** the players had to get up.*\n-   *The bench **where** they were sitting was dirty.*\n-   *\\=The bench **on which** they were seated was dirty.*\n\n## Quantifier + **of which/whom**\n\nIn non-defining relative clauses (=between commas), we can use **of which/whom** after a quantifier such as **some, any, none, all, both, several, enough, many** and **few***.* \n\n-   *Their daughters, **both of whom** are in university, don’t visit them very often.* \n-   *The students, **none of whom** had failed the exam, were thrilled.* \n-   *Their house was full of cats, **most of which** had been found in the street.* \n-   *The two rooms, **neither of which** had windows, were small and dirty.* \n\nWe can also use a quantifier + **of whose**.\n\n-   *I belong to a reading club, **most of whose members** are retired teachers.* \n-   *The parents, **some of whose children** were already grown-ups, marched down the street.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Defining_non-defining-relative-clauses-new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-1.png",
+        "alt": "Grammar chart explaining defining and non-defining relative clauses with examples."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Relative-pronouns-new.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-2.png",
+        "alt": "Grammar chart explaining the use of relative pronouns \"who,\" \"which,\" \"whose,\" and \"that\" with examples."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-7.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-8.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-8.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/relative-adverbs_new-1.png",
+        "local_filename": "img-9.png",
+        "public_path": "/uploads/grammar/b2/relative-clauses/img-9.png",
+        "alt": "Grammar chart explaining the use of relative adverbs \"when,\" \"where,\" and \"why\" with examples."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Relative clauses: Defining and non-defining",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Did you really understand {0} I told you?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "what",
+                "which"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1343"
+        },
+        {
+          "index": 1,
+          "template": "Mr. Dean, {0} had recently been fired, had a long list of misconducts.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "who",
+                "which"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1344"
+        },
+        {
+          "index": 2,
+          "template": "The victims, most of {0} were adults, are being identified by the US authorities.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "which",
+                "who",
+                "whom"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1345"
+        },
+        {
+          "index": 3,
+          "template": "I like the scene {0} Dorothy meets Scarecrow.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "where",
+                "what",
+                "which"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1346"
+        },
+        {
+          "index": 4,
+          "template": "This is the man {0} I am in love with.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "whom",
+                "who",
+                "which"
+              ],
+              "correct": "whom",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1347"
+        },
+        {
+          "index": 5,
+          "template": "I wasn't honest with Kenneth, {0} made him furious.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "-",
+                "that",
+                "which"
+              ],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1348"
+        },
+        {
+          "index": 6,
+          "template": "The chancellor, {0} sons were arrested in the corruption operation, resigned yesterday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "both of whose",
+                "both whose",
+                "both of whom"
+              ],
+              "correct": "both of whose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1349"
+        },
+        {
+          "index": 7,
+          "template": "The police searched the vehicle {0} the gun was found.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "where",
+                "which"
+              ],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1350"
+        },
+        {
+          "index": 8,
+          "template": "The driver, {0} contract finishes at the end of the season, doesn't want to talk about his future.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "who",
+                "whom",
+                "whose"
+              ],
+              "correct": "who",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1351"
+        },
+        {
+          "index": 9,
+          "template": "Between 2000 and 2005, she wrote three novels, {0} was published.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "none which",
+                "either of which",
+                "none of which"
+              ],
+              "correct": "none of which",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1352"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Relative clauses: Defining and non-defining",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "They said they were going to have twins, ______ surprised everybody.",
+          "options": [
+            "that",
+            "which",
+            "what",
+            "whose"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "This is the man ______. Choose the INCORRECT answer",
+          "options": [
+            "who I used to work with.",
+            "with whom I used to work.",
+            "I used to work with.",
+            "with who I used to work."
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "They've caught the driver ______ caused the car accident. Choose TWO correct options",
+          "options": [
+            "who",
+            "–",
+            "that",
+            "which"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "Several men in plainclothes, ______ were armed, forced him to go with them.",
+          "options": [
+            "who some",
+            "whom some",
+            "some of whom",
+            "some who"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "She's going with a friend ______ I really don't like. Choose the INCORRECT answer",
+          "options": [
+            "whom",
+            "who",
+            "that",
+            "which"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "This is the house ______. Choose TWO correct options",
+          "options": [
+            "where I was born",
+            "I was born",
+            "in which I was born",
+            "in where I was born"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The world is full of good singers _______. Choose TWO correct options",
+          "options": [
+            "of who nobody has heard.",
+            "who nobody has heard of.",
+            "of which nobody has heard.",
+            "of whom nobody has heard."
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "The paramedics rescued the driver, ______ legs were injured.",
+          "options": [
+            "who both",
+            "whom both",
+            "both of whom",
+            "both of whose"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "______ won him many enemies. Choose TWO correct options",
+          "options": [
+            "What he wrote",
+            "That he wrote",
+            "Which he wrote",
+            "The things he wrote"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The police in Seattle has arrested 10 men, ______ are members of a dangerous street gang.",
+          "options": [
+            "all of who",
+            "all of whom",
+            "all who",
+            "whom all"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Relative clauses: Defining and non-defining",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I'll never forget the day {0} we met.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "when",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1363"
+        },
+        {
+          "index": 1,
+          "template": "Is that the lady {0} husband tried to rob the bank?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "whose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1365"
+        },
+        {
+          "index": 2,
+          "template": "We need to find an empty building {0} we can hide for a couple of days.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1364"
+        },
+        {
+          "index": 3,
+          "template": "Social media networks are an excellent tool {0} you can use to promote your business.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "that",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1366"
+        },
+        {
+          "index": 4,
+          "template": "In the military, D-Day is the day on {0} a combat attack or operation is to be initiated.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "which",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1367"
+        },
+        {
+          "index": 5,
+          "template": "I have two brothers, both of {0} are younger than me.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "whom",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1368"
+        },
+        {
+          "index": 6,
+          "template": "This is the house {0} I grew up in.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1370"
+        },
+        {
+          "index": 7,
+          "template": "At home we have more than 20 gadgets, none of {0} I can use.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "which",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1369"
+        },
+        {
+          "index": 8,
+          "template": "Do you remember the girl {0} brother sat next to you in 3rd grade?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "whose",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1371"
+        },
+        {
+          "index": 9,
+          "template": "He denounced the injustice at the conference, {0} everybody applauded.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "and",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1372"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Relative clauses: Defining and non-defining",
+      "sentences": [],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

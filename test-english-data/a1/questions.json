@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "questions",
+  "order_index": 6,
+  "title": "Questions: Word order and question words",
+  "source_url": "https://test-english.com/grammar-points/a1/questions/",
+  "scraped_at": "2026-05-23T07:02:23.103Z",
+  "explanation": {
+    "markdown": "## Word order in present simple questions\n\nThe [order of words](https://test-english.com/grammar-points/a1/basic-word-order-in-english/) in an English question in present simple is **QWASI**: (**Question Word) + Auxiliary + Subject + Infinitive**.\n\n-   *What do you do?*\n-   *Where do they live?*\n\nIn **Yes-No questions** (questions that we answer saying **yes** or **no**) there is **NO Question Word**.\n\n-   *Do you speak English?*\n-   *Does she live here?*\n\nThe **auxiliary verb** in present simple is **be** or **do/does**. Below, you can see a grammar chart on the order of words in present simple questions with **be** or **do/does**.  \n  \n![Grammar chart for A1 elementary English learners showing the word order of Present Simple questions with 'be' and 'do', including question words, auxiliary verbs, subjects, and main verbs.](/uploads/grammar/a1/questions/img-1.png)  \n\n#### Questions with **am/is/are**\n\nWhen the verb in the sentence is **[be](https://test-english.com/grammar-points/a1/present-simple-forms-of-to-be/)**, we use **am/is/are** as the auxiliary verb **before** the subject. Then the word order is **QWAS**: (**Question Word) + Auxiliary (am/is/are) + Subject**\n\n#### Questions with **do/does**\n\nWhen we have a verb that is not **be**, we use **do/does** as the auxiliary verb.  \nWe use **does** with **he/she/it** and **do** with **I/you/we/they**. Remember that the main verb after the subject is in the infinitive form (NOT **\\-s** or **\\-es**).\n\n-   *What do**es** she **do**? ![](/uploads/grammar/a1/questions/img-2.png)* \n-   *What does she **does**? ![](/uploads/grammar/a1/questions/img-3.png)* \n-   *Where do**es** he **work**? ![](/uploads/grammar/a1/questions/img-4.png)* \n-   *Where does he **works**?* *![](/uploads/grammar/a1/questions/img-5.png)*\n\n## Question words – Grammar chart\n\n![Educational chart for A1 elementary English learners displaying different question words such as 'who', 'where', 'when', 'why', 'what', 'how', including example dialogues for each.](/uploads/grammar/a1/questions/img-6.png)\n\n#### **What** + noun\n\nWe often use the question word **what + noun** as a question word: **what time, what colour, what size, etc.**\n\n-   ***What colour** is your jacket?*\n-   ***What size** do you want?*\n-   ***What car** does he have?*\n\n#### **How** + adjective/adverb\n\nWe can also use **how** **+ adjective/adverb** as a question word in phrases like **how often, how old, how tall****, etc.**\n\n-   ***How fast** is your car?*\n-   ***How big** is her house?*\n-   ***How often** do you play sports?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Present-simple-questions.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/questions/img-1.png",
+        "alt": "Grammar chart for A1 elementary English learners showing the word order of Present Simple questions with 'be' and 'do', including question words, auxiliary verbs, subjects, and main verbs."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/questions/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/questions/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/questions/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/questions/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Question-words-a1_new.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/a1/questions/img-6.png",
+        "alt": "Educational chart for A1 elementary English learners displaying different question words such as 'who', 'where', 'when', 'why', 'what', 'how', including example dialogues for each."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Questions: Word order and question words",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_____ to the gym?",
+          "options": [
+            "How often you go",
+            "How often you do go",
+            "How often do you go",
+            "How often go you"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_____ ?",
+          "options": [
+            "What time does she get up",
+            "What time  she does get up",
+            "What time she gets up",
+            "What time gets up she"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "_____ ?",
+          "options": [
+            "Who is the man over there",
+            "Who the man over there is",
+            "Who the man is over there",
+            "Who over there is the man"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_____?",
+          "options": [
+            "Where your sister is from",
+            "Where is your sister from",
+            "Where from is your sister",
+            "Where does your sister be from"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "_____?",
+          "options": [
+            "He does exercise",
+            "He does do exercise",
+            "Do he does exercise",
+            "Does he do exercise"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_____?",
+          "options": [
+            "Why you do want this job",
+            "Why you want this job",
+            "Why do you want this job",
+            "Why want you this job"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "_____ for breakfast?",
+          "options": [
+            "What they have",
+            "What they do have",
+            "What do they have",
+            "What have they"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_____?",
+          "options": [
+            "When you are free",
+            "When free are you",
+            "When do you be free",
+            "When are you free"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "_____?",
+          "options": [
+            "How your sister is old",
+            "How old is your sister",
+            "How old your sister is",
+            "How old does your sister be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_____?",
+          "options": [
+            "Is your friend from Canada",
+            "Is from Canada your friend",
+            "Your friend is from Canada",
+            "Does your friend be from Canada"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Questions: Word order and question words",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "'{0} do you buy your vegetables?' 'In the market.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Where",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3769"
+        },
+        {
+          "index": 1,
+          "template": "'{0} is your father?' 'He's 57.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "old",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3770"
+        },
+        {
+          "index": 2,
+          "template": "'{0} are you in the library?' 'Because I have an exam and I need to study.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3771"
+        },
+        {
+          "index": 3,
+          "template": "'{0} do you have your exam?' 'Next Monday.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "When",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3772"
+        },
+        {
+          "index": 4,
+          "template": "'{0} do they have their breakfast?' 'At 7.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3773"
+        },
+        {
+          "index": 5,
+          "template": "'{0} do you call when you need help?' 'Peter.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3774"
+        },
+        {
+          "index": 6,
+          "template": "'{0} does John call you?' 'Every day.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "often",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3775"
+        },
+        {
+          "index": 7,
+          "template": "'{0} do you go to work?' 'By bus.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "How",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3776"
+        },
+        {
+          "index": 8,
+          "template": "'{0} tall is Ronny?' 'He's six feet tall.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "How",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3777"
+        },
+        {
+          "index": 9,
+          "template": "'{0} do you spend your holidays?' 'We always go to a little village near the sea.'",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3778"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Questions: Word order and question words",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "She reads magazines. ⇒ What {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does she read magazines?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3780"
+        },
+        {
+          "index": 1,
+          "template": "My birthday is on 10th April. ⇒ When {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is your birthday?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3781"
+        },
+        {
+          "index": 2,
+          "template": "She lives in a big house. ⇒ Where {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "does she live?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3782"
+        },
+        {
+          "index": 3,
+          "template": "I study because I want to learn. ⇒ Why {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do you study?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3783"
+        },
+        {
+          "index": 4,
+          "template": "She is sometimes wrong. ⇒ How often {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is she wrong?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3784"
+        },
+        {
+          "index": 5,
+          "template": "I love Christina. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do you love?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3785"
+        },
+        {
+          "index": 6,
+          "template": "I keep the money in a safe.. ⇒ Where {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do you keep the money?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3786"
+        },
+        {
+          "index": 7,
+          "template": "I'm tired because it's very late. ⇒ Why {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are you tired?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3787"
+        },
+        {
+          "index": 8,
+          "template": "My doctor is Dr Stevens. ⇒ Who {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is your doctor?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3788"
+        },
+        {
+          "index": 9,
+          "template": "I clean the windows with water and vinegar. ⇒ How {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "do you clean?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3789"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Questions: Word order and question words",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He is sometimes late for class. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Is he late for class",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3790"
+        },
+        {
+          "index": 1,
+          "template": "I go to the mountains in summer. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Where do you go in summer?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3791"
+        },
+        {
+          "index": 2,
+          "template": "I go to the mountains in summer. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Where do you go in summer?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3795"
+        },
+        {
+          "index": 3,
+          "template": "His car is red. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "What color is his car?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3792"
+        },
+        {
+          "index": 4,
+          "template": "I am very tired after work. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Why are you very tired after work?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3793"
+        },
+        {
+          "index": 5,
+          "template": "I am very tired after work. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Why are you very tired after work?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3794"
+        },
+        {
+          "index": 6,
+          "template": "Jerry is 20 years old. {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "How old is Jerry?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3796"
+        },
+        {
+          "index": 7,
+          "template": "He sees Sarah every weekend. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "When does he see Sarah?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3797"
+        },
+        {
+          "index": 8,
+          "template": "He sees Sarah every weekend. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "When does he see Sarah?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3798"
+        },
+        {
+          "index": 9,
+          "template": "I call her because I love her. ⇒ {0}?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "Why do you call her?",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3799"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

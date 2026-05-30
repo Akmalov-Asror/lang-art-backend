@@ -1,0 +1,435 @@
+{
+  "schema_version": 1,
+  "level": "c1",
+  "slug": "advanced-past-simple-past-continuous-past-perfect",
+  "order_index": 1,
+  "title": "Advanced past simple, past continuous & past perfect",
+  "source_url": "https://test-english.com/grammar-points/c1/advanced-past-simple-past-continuous-past-perfect/",
+  "scraped_at": "2026-05-23T07:29:14.674Z",
+  "explanation": {
+    "markdown": "## Advanced uses of the past simple, past continuous and past perfect\n\nIn this section, we’ll look at some advanced uses of the **past simple**, **past continuous** and **past perfect** that show politeness, irritation, deduction, regret, and subtle differences in narrative focus.  \n  \n![Advanced past tenses grammar chart with examples of past simple, past continuous and past perfect uses.](/uploads/grammar/c1/advanced-past-simple-past-continuous-past-perfect/img-1.png)\n\n### Past simple\n\n#### Politeness or softening\n\nThe **past simple** can make a statement sound less direct or confrontational. It is common in professional or sensitive situations.\n\n-   *I **wanted** to ask you something about the timeline.*\n-   *I **thought** we agreed to meet on Tuesday?*\n\n#### Unreal or hypothetical meaning\n\nWe use past forms, especially the past simple and past perfect, with certain expressions to talk about situations that are imaginary, unlikely or not true. We use the **past simple** for present unreal situations and the **past perfect** for unreal situations in the past. These expressions include: [I wish, I’d rather/sooner, It’s time](https://test-english.com/grammar-points/b2/unreal-uses-past-tenses/), or [as if/though](https://test-english.com/grammar-points/b2/verbs-of-the-senses/).\n\n-   *It’s time we **left**.*\n-   *You sound as if you **were** the boss.*\n-   *I’d rather you **were studying** now.*\n-   *I wish I **had known** the answer.*\n\n### Past continuous\n\n#### Irritation or repeated annoying behaviour\n\nAs with the [present continuous](https://test-english.com/grammar-points/c1/advanced-present-simple-and-present-continuous/), we can use the past continuous with adverbs such as **always**, **constantly** or **forever**, or adverbial phrases such as **all the time** to describe repeated behaviour that annoyed us in the past.\n\n-   *He **was always interrupting** me during meetings.*\n-   *They **were constantly arguing** about money.*\n\nAlthough this use often shows irritation or disapproval, the **past continuous** can also be used for repeated past actions without any negative meaning. This is a common way to emphasize that the repeated actions happened over a temporary, limited time period.\n\n-   *When she was in hospital, we **were visiting** her **every day**.*\n-   *During exam week, I **was studying** late **most nights**.*\n\nThis use emphasises the **temporary period** rather than irritation.\n\n#### Politeness or tentativeness\n\nWe can also use the **past continuous** to soften requests, questions or suggestions, often sounding even more tentative than the **present continuous**.\n\n-   *I **was wondering** if you could send the report today.*\n-   *We **were hoping** you might explain the new plan.*\n\n### Past Perfect\n\nWe use the **past perfect** to show that one action happened earlier than another action in the past. However, it is not always necessary to use it. In a sequence of past events, we often use the past perfect only for the first earlier action, and then continue with the past simple once the time order is clear. It is also common to use the past simple instead of the past perfect after time expressions such as **after**, **before**, or **by the time**, because the sequence of events is already obvious.\n\n-   *He had **finished** the report, and then he **went** home.* (past perfect used only once)\n-   *After he **finished** the report, he **went** home.* (past simple is enough because the order is clear)\n\n#### Past perfect for regret, criticism or unmet expectations\n\nWe use the **past perfect** to express disappointment, regret or expectations that were not fulfilled.\n\n-   *I **had hoped** you would let me know earlier.*\n-   *She **had expected** better results.*\n\n#### Past perfect and past perfect continuous for deduction and speculation\n\nThese forms can show that we are making a logical guess about what happened before a past moment.\n\n-   *He **had** obviously **forgotten** the meeting.*\n-   *She **had been crying** — her eyes were red.*\n-   *They **had been arguing**; the room was completely silent when I arrived.*\n\n#### Past perfect continuous to show causes of a later past state\n\nWe often use the **past perfect continuous** to explain the reason for a physical or emotional state in the past. The result is usually expressed with the **past simple**.\n\n-   *She was exhausted; she **had been working** all day.*\n-   *They were wet because they **had been walking** in the rain.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Advanced-past-simple-continuous-and-perfect_C1-grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/c1/advanced-past-simple-past-continuous-past-perfect/img-1.png",
+        "alt": "Advanced past tenses grammar chart with examples of past simple, past continuous and past perfect uses."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "quiz",
+      "instructions": "Advanced past simple, past continuous & past perfect",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I _____ if you might help me with this. (tentativeness, politeness)",
+          "options": [
+            "wondered",
+            "was wondering",
+            "had wondered"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "He _____ his keys at work. (irritation)",
+          "options": [
+            "always left",
+            "was always leaving",
+            "had always left"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "You're 60? You look as if you _____ 40! (unreal present meaning)",
+          "options": [
+            "were",
+            "were being",
+            "had been"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I wish I _____ the answer earlier. (unreal past regret)",
+          "options": [
+            "knew",
+            "had known",
+            "have known"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "She _____ the presentation when I arrived. (previous action; sequence not clear)",
+          "options": [
+            "finished",
+            "had finished",
+            "was finishing"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "They _____ the results to be much better. (regret / unmet expectations)",
+          "options": [
+            "were expecting",
+            "had expected",
+            "expected"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "She was exhausted; she _____ all night. (cause of a later past state)",
+          "options": [
+            "worked",
+            "was working",
+            "had been working"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Their clothes were muddy — they _____ through the fields. (deduction)",
+          "options": [
+            "had been walking",
+            "were walking",
+            "walked"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I _____ to talk to you about the new contract. (politeness / softening)",
+          "options": [
+            "want",
+            "was wanting",
+            "wanted"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "During exam week, I _____ late every night. (temporary repeated action)",
+          "options": [
+            "studied",
+            "was studying",
+            "had studied"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Advanced past simple, past continuous & past perfect",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We {0} to reach the final, so you can imagine our disappointment when we were eliminated.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "tried",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12653"
+        },
+        {
+          "index": 1,
+          "template": "They {0} all the time during those years. It was hard for us.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "argued",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12654"
+        },
+        {
+          "index": 2,
+          "template": "When she was in hospital, we {0} her every day.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "visited",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12655"
+        },
+        {
+          "index": 3,
+          "template": "She {0} — I could see it in her eyes.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was upset",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12656"
+        },
+        {
+          "index": 4,
+          "template": "I {0} if you could help me finish this today.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wondered",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12652"
+        },
+        {
+          "index": 5,
+          "template": "By the time I arrived, they {0} the office without telling anyone.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had left",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12657"
+        },
+        {
+          "index": 6,
+          "template": "I wish I {0} how serious the situation was.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had known",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12658"
+        },
+        {
+          "index": 7,
+          "template": "She was exhausted because she {0} all morning without a break.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had been working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12659"
+        },
+        {
+          "index": 8,
+          "template": "You {0} your nose when you were little.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "broke",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12660"
+        },
+        {
+          "index": 9,
+          "template": "It's time you {0} behaving like an adult.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "stopped",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12661"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Advanced past simple, past continuous & past perfect",
+      "sentences": [],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Advanced past simple, past continuous & past perfect",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I _____ if you might help me with this. (tentativeness, politeness)",
+          "options": [
+            "wondered",
+            "was wondering",
+            "had wondered"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "He _____ his keys at work. (irritation)",
+          "options": [
+            "always left",
+            "was always leaving",
+            "had always left"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "You're 60? You look as if you _____ 40! (unreal present meaning)",
+          "options": [
+            "were",
+            "were being",
+            "had been"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I wish I _____ the answer earlier. (unreal past regret)",
+          "options": [
+            "knew",
+            "had known",
+            "have known"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "She _____ the presentation when I arrived. (previous action; sequence not clear)",
+          "options": [
+            "finished",
+            "had finished",
+            "was finishing"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "They _____ the results to be much better. (regret / unmet expectations)",
+          "options": [
+            "were expecting",
+            "had expected",
+            "expected"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "She was exhausted; she _____ all night. (cause of a later past state)",
+          "options": [
+            "worked",
+            "was working",
+            "had been working"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Their clothes were muddy — they _____ through the fields. (deduction)",
+          "options": [
+            "had been walking",
+            "were walking",
+            "walked"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "I _____ to talk to you about the new contract. (politeness / softening)",
+          "options": [
+            "want",
+            "was wanting",
+            "wanted"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "During exam week, I _____ late every night. (temporary repeated action)",
+          "options": [
+            "studied",
+            "was studying",
+            "had studied"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,503 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "past-simple-regular-irregular",
+  "order_index": 17,
+  "title": "Past simple: Regular/irregular verbs",
+  "source_url": "https://test-english.com/grammar-points/a1/past-simple-regular-irregular/",
+  "scraped_at": "2026-05-23T07:02:59.032Z",
+  "explanation": {
+    "markdown": "## Past simple regular\n\nWe often add **\\-ed** to verbs (regular verbs) to make the past simple.\n\n-   *We often watch a film on Saturday.* ⇒ *We **watched** a film last Saturday.*\n-   *I live in Barcelona.* ⇒ *I **lived** in Barcelona in the 90s.*\n\n#### Spelling of regular verbs\n\n![Grammar chart explaining the spelling rules for forming the past simple of regular verbs with '-ed', including examples and variations based on verb endings.](/uploads/grammar/a1/past-simple-regular-irregular/img-1.png)\n\n#### When do we double the consonant?\n\nWe double the consonant when the verb ends in **consonant + vowel + consonant**. This is always true when the verb is **one syllable**.\n\n-   stop ⇒ sto**pp**ed, plan ⇒ pla**nn**ed, shop ⇒ sho**pp**ed, rob ⇒ ro**bb**ed.\n\nWhen the verb is **two syllables**, we only double the consonant when the **STRESS** is **in the last syllable**.\n\n-   reFER ⇒ referred, preFER ⇒ preferred, reGRET ⇒ regretted\n\nBut we do **NOT double** the consonant when the **STRESS** is **NOT in the last syllable**.\n\n-   VIsit ⇒ visited, ANswer ⇒ answered.\n\n## Past simple irregular\n\nIrregular verbs don’t add **\\-ed** to make the past simple. Some very common irregular verbs are:  \n![List of irregular verbs in the past tense with their infinitive forms and example sentences for A1 level English grammar learners.](/uploads/grammar/a1/past-simple-regular-irregular/img-2.png)\n\n## Past simple: Use\n\n#### Past finished actions or states\n\nWe can use the past simple to talk about **past finished actions or states**. We know and we often mention when these actions happened with a past time expression: **yesterday, yesterday morning, last night, last week, two days ago, five years ago, etc**.\n\n-   *Jessica **called** me last night.*\n-   *Rachel **was** a very good writer.* \n\n#### Past repeated actions\n\nWe can use the past simple to talk about **habits or repeated actions** that happened in the past but don’t happen in the present. We often use **adverbs or expressions of frequency** (**often, always, every day, etc**.).\n\n-   *When I was a child, I **ate** sweets every day.* \n-   *In school, I always **played** football during break time.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/past-regular-ed-spelling.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/past-simple-regular-irregular/img-1.png",
+        "alt": "Grammar chart explaining the spelling rules for forming the past simple of regular verbs with '-ed', including examples and variations based on verb endings."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/irregular-verb-list_past_new.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/past-simple-regular-irregular/img-2.png",
+        "alt": "List of irregular verbs in the past tense with their infinitive forms and example sentences for A1 level English grammar learners."
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Regular/irregular verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} (study) all night yesterday.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "studied",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4061"
+        },
+        {
+          "index": 1,
+          "template": "We {0} (play) poker after dinner.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "played",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4062"
+        },
+        {
+          "index": 2,
+          "template": "After escaping from prison, he {0} (rob) a bank.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "robbed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4063"
+        },
+        {
+          "index": 3,
+          "template": "He {0} (start) playing chess at the age of 7.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "started",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4064"
+        },
+        {
+          "index": 4,
+          "template": "We {0} (arrive) home very late.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "arrived",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4065"
+        },
+        {
+          "index": 5,
+          "template": "We {0} (visit) the Louvre while we were in Paris.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "visited",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4066"
+        },
+        {
+          "index": 6,
+          "template": "He {0} (try) to escape.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "tried",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4067"
+        },
+        {
+          "index": 7,
+          "template": "I {0} (stop) smoking when I was 30.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "stopped",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4068"
+        },
+        {
+          "index": 8,
+          "template": "When I was a child, I {0} (hate) fish.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "hated",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4069"
+        },
+        {
+          "index": 9,
+          "template": "We really {0} (enjoy) the concert.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "enjoyed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4070"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Regular/irregular verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} (find) my true love when I was 50.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "found",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4071"
+        },
+        {
+          "index": 1,
+          "template": "We {0} (buy) this sofa in the shop at the end of the street.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "bought",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4072"
+        },
+        {
+          "index": 2,
+          "template": "We never {0} (wear) uniforms in school.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wore",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4073"
+        },
+        {
+          "index": 3,
+          "template": "I {0} (forget) to tell you something important.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "forgot",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4074"
+        },
+        {
+          "index": 4,
+          "template": "I {0} (see) Peter at the theater last week.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "saw",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4075"
+        },
+        {
+          "index": 5,
+          "template": "After the meeting, I {0} (speak) with my boss.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "spoke",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4076"
+        },
+        {
+          "index": 6,
+          "template": "Yesterday I {0} (drive) to work.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "drove",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4077"
+        },
+        {
+          "index": 7,
+          "template": "She {0} (run) her first marathon when she was 18.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ran",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4078"
+        },
+        {
+          "index": 8,
+          "template": "I {0} (make) a lot of mistakes during the match.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4079"
+        },
+        {
+          "index": 9,
+          "template": "Somebody {0} (eat) my biscuits without telling me.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ate",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4080"
+        }
+      ],
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Regular/irregular verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Two summers ago, we 1 {0} on a trip to New York. We 2 {1} from Manchester to John F. Kennedy International Airport. The journey was long, but we were very excited; we are from a little village and we really 3 {2} to visit a megacity like New York. When we 4 {3} at our destination, we 5 {4} a taxi to our hotel in Manhattan. The taxi driver was very nice and 6 {5} us lots of things about New York and Manhattan.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "went",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "flew",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "arrived",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "took",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4081"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Past simple: Regular/irregular verbs",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I {0} (study) all night yesterday.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "studied",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4061"
+        },
+        {
+          "index": 1,
+          "template": "We {0} (play) poker after dinner.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "played",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4062"
+        },
+        {
+          "index": 2,
+          "template": "After escaping from prison, he {0} (rob) a bank.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "robbed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4063"
+        },
+        {
+          "index": 3,
+          "template": "He {0} (start) playing chess at the age of 7.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "started",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4064"
+        },
+        {
+          "index": 4,
+          "template": "We {0} (arrive) home very late.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "arrived",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4065"
+        },
+        {
+          "index": 5,
+          "template": "We {0} (visit) the Louvre while we were in Paris.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "visited",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4066"
+        },
+        {
+          "index": 6,
+          "template": "He {0} (try) to escape.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "tried",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4067"
+        },
+        {
+          "index": 7,
+          "template": "I {0} (stop) smoking when I was 30.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "stopped",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4068"
+        },
+        {
+          "index": 8,
+          "template": "When I was a child, I {0} (hate) fish.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "hated",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4069"
+        },
+        {
+          "index": 9,
+          "template": "We really {0} (enjoy) the concert.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "enjoyed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "4070"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

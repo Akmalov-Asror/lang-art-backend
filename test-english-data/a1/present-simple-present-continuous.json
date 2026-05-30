@@ -1,0 +1,548 @@
+{
+  "schema_version": 1,
+  "level": "a1",
+  "slug": "present-simple-present-continuous",
+  "order_index": 14,
+  "title": "Present simple or present continuous?",
+  "source_url": "https://test-english.com/grammar-points/a1/present-simple-present-continuous/",
+  "scraped_at": "2026-05-23T07:02:49.346Z",
+  "explanation": {
+    "markdown": "## Present simple or continuous?: Grammar chart\n\n![Educational grammar chart comparing Present Simple and Present Continuous tenses, highlighting their uses, with signal words and examples of each.](/uploads/grammar/a1/present-simple-present-continuous/img-1.png)\n\n## Present simple\n\nWe use the [present simple](https://test-english.com/grammar-points/a1/present-simple/) for **habits** or **permanent situations**.\n\n#### Habits or actions that happen regularly\n\nWe use the present simple for [habits](https://test-english.com/vocabulary/a1/daily-routines-a1-english-vocabulary/) or actions that we repeat regularly:\n\n-   *I **wash** my hair every day.*\n-   *I never **go** to the library.*\n-   *I **go** to the library on Saturdays.*\n\n#### Permanent situations or things that are always or often true\n\n-   *I **don’t drink** coffee.*\n-   *She**’s** very tall.*\n-   *I **have** two brothers.*\n-   *Water **boils** at 100 degrees.*\n-   *I **like** soup.*\n\n#### Adverbs and expressions of frequency\n\nWe use [adverbs and expressions of frequency](https://test-english.com/grammar-points/a1/adverbs-frequency/) with the present simple to talk about how often something happens.\n\n-   *We **usually** order a pizza on Fridays.* \n-   *I go running **twice a week**.* \n\n#### Stative or non-action verbs\n\nSome verbs don’t describe actions. These verbs are called **stative** or **non-action** verbs, and we can use these verbs in the present simple but NOT in the present continuous. Some of these verbs are **be,** **have** (=possess/own), **like****,** **love****,** **hate, prefer, need, want, know, etc**.\n\n-   *They **have** a new car.* ![](/uploads/grammar/a1/present-simple-present-continuous/img-2.png)\n-   *They **are having** a new car. ![](/uploads/grammar/a1/present-simple-present-continuous/img-3.png)* \n-   *I **like** chocolate.* ![](/uploads/grammar/a1/present-simple-present-continuous/img-4.png)\n-   *I**‘m liking** chocolate. ![](/uploads/grammar/a1/present-simple-present-continuous/img-5.png)* \n\n## Present continuous\n\nWe use the [present continuous](https://test-english.com/grammar-points/a1/present-continuous/) for things that are happening **now** (at the moment of speaking) or for temporary things that are happening **around now** (these days or weeks, etc.).\n\n#### Actions happening now\n\nWe use the present continuous for things happening **now**, **at the moment of speaking**.\n\n-   *‘What **are** you **doing**?’ ‘I**‘m watching** TV.’*\n\n#### Actions happening around now\n\nWe use the present continuous for **temporary things** that are happening **around now** (=not at the moment of speaking but **these days, weeks, etc**.)\n\n-   *I**‘m reading** a very good book at the moment.* (=I’m not reading it at the moment I’m speaking, but I’m reading it these days.)\n-   *What TV series **are** you **watching** these days?* (=You are not watching it at the moment of speaking, but these days.)\n\n#### Now, these days, at the moment, etc.\n\nWe use the present continuous with [time expressions](https://test-english.com/vocabulary/a1/time-words-a1-english-vocabulary/) that mean **now** or **around now**. Some of these expressions are: **now, at the moment, at present, today, these days, this week, etc**.\n\n## Present simple or continuous?\n\n#### Usually or now?\n\nWe use the **present simple** for things that we **usually do**, and we use the **present continuous** for things that we are doing **now**.\n\n-   *I **listen** to the radio.* (=I usually listen to the radio; it’s a habit.)\n-   *I**‘m listening** to the radio.* (=I’m doing it now.)\n-   *I don’t **usually** watch documentaries, but I’m watching a documentary **now**.* \n\n#### Temporary or permanent?\n\nWe use **present simple** when a situation is **permanent** or **present continuous** when a situation is **temporary**.\n\n-   *I **work** in an office*. (=Permanent situation.)\n-   *I**‘m working** in an office.* (=Temporary situation.)\n-   *I **live** in Edinburgh.* (=Permanent situation.)\n-   *I**‘m living** in Edinburgh.* (=Temporary situation.)\n\n#### What do you do? vs What are you doing?\n\n-   *What **does** Erik **do**?* (=What is his job?)\n-   *What **is** Erik **doing**?* (=What is he doing now, at the moment of speaking?)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/present-simple-present-continuous-use.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a1/present-simple-present-continuous/img-1.png",
+        "alt": "Educational grammar chart comparing Present Simple and Present Continuous tenses, highlighting their uses, with signal words and examples of each."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a1/present-simple-present-continuous/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a1/present-simple-present-continuous/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a1/present-simple-present-continuous/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a1/present-simple-present-continuous/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple or present continuous?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Cindy: What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do you do",
+                "are you doing",
+                "you are doing"
+              ],
+              "correct": "do you do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3980"
+        },
+        {
+          "index": 1,
+          "template": "Robert: I'm listening to the radio. They {0} about football.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "talk",
+                "talking",
+                "are talking"
+              ],
+              "correct": "are talking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3982"
+        },
+        {
+          "index": 2,
+          "template": "Cindy: {0} to the radio?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Do you listen often",
+                "Do you often listen",
+                "Are you often listening"
+              ],
+              "correct": "Do you often listen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3981"
+        },
+        {
+          "index": 3,
+          "template": "Robert: Yes. I {0} the radio.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m like",
+                "'m liking",
+                "like"
+              ],
+              "correct": "like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3983"
+        },
+        {
+          "index": 4,
+          "template": "Cindy: {0} to sports programmes?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Do you listen often",
+                "Do you often listen",
+                "Are you often listening"
+              ],
+              "correct": "Do you often listen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3984"
+        },
+        {
+          "index": 5,
+          "template": "Robert: Not usually, but today I {0} to know what they say about my team.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "want",
+                "'m want",
+                "'m wanting"
+              ],
+              "correct": "want",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3985"
+        },
+        {
+          "index": 6,
+          "template": "Terry: What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you doing",
+                "are you do",
+                "do you do"
+              ],
+              "correct": "are you doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3986"
+        },
+        {
+          "index": 7,
+          "template": "Lisa: I'm an architect, but I {0} at the moment.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m not working",
+                "'m not work",
+                "don't work"
+              ],
+              "correct": "'m not working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3987"
+        },
+        {
+          "index": 8,
+          "template": "Terry: {0} for a job?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Do you look",
+                "Are you looking",
+                "Do you looking"
+              ],
+              "correct": "Are you looking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3988"
+        },
+        {
+          "index": 9,
+          "template": "Lisa: Yes. I {0} to find a job soon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "need",
+                "'m needing",
+                "'m need"
+              ],
+              "correct": "need",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3989"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Present simple or present continuous?",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "You can take the newspaper. I _____ it.",
+          "options": [
+            "'m not reading",
+            "don't read",
+            "'m not read"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I _____ to work by car, but today I'm going by bus.",
+          "options": [
+            "usually go",
+            "'m usually going",
+            "usually going"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "'Where is John?' 'He _____ a shower.'",
+          "options": [
+            "has",
+            "having",
+            "'s having"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I _____ exercise very often.",
+          "options": [
+            "'m not doing",
+            "don't do",
+            "'m not do"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Can you hear that? Our neighbours _____.",
+          "options": [
+            "argue",
+            "arguing",
+            "are arguing"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Our neighbours _____ almost every day.",
+          "options": [
+            "argue",
+            "do argue",
+            "are arguing"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "What time _____ work on Fridays?",
+          "options": [
+            "is she start",
+            "does she start",
+            "is she starting"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "I'm hungry. I _____ to eat something.",
+          "options": [
+            "'m wanting",
+            "'m want",
+            "want"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "'Where is Jane?' 'In the living room. She___________ a movie.'",
+          "options": [
+            "'s watching",
+            "watching",
+            "watches"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I _____________ TV when I'm having dinner.",
+          "options": [
+            "'m never watching",
+            "never watch",
+            "'m never watch"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple or present continuous?",
+      "sentences": [],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Present simple or present continuous?",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Cindy: What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do you do",
+                "are you doing",
+                "you are doing"
+              ],
+              "correct": "do you do",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3980"
+        },
+        {
+          "index": 1,
+          "template": "Robert: I'm listening to the radio. They {0} about football.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "talk",
+                "talking",
+                "are talking"
+              ],
+              "correct": "are talking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3982"
+        },
+        {
+          "index": 2,
+          "template": "Cindy: {0} to the radio?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Do you listen often",
+                "Do you often listen",
+                "Are you often listening"
+              ],
+              "correct": "Do you often listen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3981"
+        },
+        {
+          "index": 3,
+          "template": "Robert: Yes. I {0} the radio.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m like",
+                "'m liking",
+                "like"
+              ],
+              "correct": "like",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3983"
+        },
+        {
+          "index": 4,
+          "template": "Cindy: {0} to sports programmes?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Do you listen often",
+                "Do you often listen",
+                "Are you often listening"
+              ],
+              "correct": "Do you often listen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3984"
+        },
+        {
+          "index": 5,
+          "template": "Robert: Not usually, but today I {0} to know what they say about my team.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "want",
+                "'m want",
+                "'m wanting"
+              ],
+              "correct": "want",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3985"
+        },
+        {
+          "index": 6,
+          "template": "Terry: What {0}?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are you doing",
+                "are you do",
+                "do you do"
+              ],
+              "correct": "are you doing",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3986"
+        },
+        {
+          "index": 7,
+          "template": "Lisa: I'm an architect, but I {0} at the moment.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "'m not working",
+                "'m not work",
+                "don't work"
+              ],
+              "correct": "'m not working",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3987"
+        },
+        {
+          "index": 8,
+          "template": "Terry: {0} for a job?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Do you look",
+                "Are you looking",
+                "Do you looking"
+              ],
+              "correct": "Are you looking",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3988"
+        },
+        {
+          "index": 9,
+          "template": "Lisa: Yes. I {0} to find a job soon.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "need",
+                "'m needing",
+                "'m need"
+              ],
+              "correct": "need",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3989"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

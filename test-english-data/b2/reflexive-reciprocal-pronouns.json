@@ -1,0 +1,596 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "reflexive-reciprocal-pronouns",
+  "order_index": 3,
+  "title": "Reflexive and reciprocal pronouns",
+  "source_url": "https://test-english.com/grammar-points/b2/reflexive-reciprocal-pronouns/",
+  "scraped_at": "2026-05-23T07:25:28.776Z",
+  "explanation": {
+    "markdown": "## Reflexive and reciprocal pronouns\n\n![A grammar chart explaining reflexive and reciprocal pronouns. It includes examples, specific uses and general rules  for using pronouns like \"myself,\" \"yourself,\" \"himself,\" and \"each other\" in sentences.](/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-1.png)\n\n### Reflexive pronouns\n\nThe reflexive pronouns are **myself, yourself, himself, herself, itself, ourselves, yourselves, themselves.** There is also a reflexive generic pronoun: **oneself**.\n\n#### Same subject and object\n\nReflexive pronouns are normally used when a subject and an object are the same person.\n\n-   *She cut **herself**, chopping the onions.* \n-   *We really enjoyed **ourselves** at the party.* \n-   *Talking to **oneself** is not necessarily a sign of madness.* \n\n#### After preposition\n\nWe can use reflexive pronouns after most prepositions if they refer back to the subject.\n\n-   *He should be really proud of **himself**.* \n-   *With the 3-D printer and this scanner, you can print a small version of **yourself**.* \n\n#### NOT after prepositions of place\n\nWe don’t use reflexive pronouns after prepositions of place; we use object pronouns instead.\n\n-   *She left her handbag in the chair in front of **herself**. ![](/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-2.png)* \n-   *She left her handbag in the chair in front of **her**.* ![](/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-3.png)\n-   *They put their luggage behind **them**.* \n\nAnd we don’t use reflexive pronouns after **with** when it means ‘accompanied by’.\n\n-   *He took his son with **him**.*\n\n#### To emphasise who did the action\n\nWe also use a reflexive pronoun to emphasise that the subject does the action and nobody else. In this sense, we can use the reflexive at the end of the sentence or after the subject.\n\n-   *I will talk to Anna **myself**.* \n-   *I think you should do it **yourself** instead of having it done.* \n-   *Paul **himself** designed everything.* \n\n#### By oneself\n\nWe can say **by myself, by yourself, etc.** to mean ‘alone, without anybody else’, or also to mean ‘without anybody’s help’.\n\n-   *My son doesn’t like to be **by himself**; he always wants us around.* \n-   *She raised her four children **by herself**.* \n\nWe can also say **on my own**, **on your own**, etc.\n\n-   *I was **on my own** all morning.*\n-   *She did it **on her own**.*\n\n#### Verbs with NO reflexive pronoun\n\nStudents of English often make mistakes when they use some verbs which are used reflexively in their language but not in English. Some of these verbs are **dress**, **shave**, **wash**, **relax**, **hurry**, or **open**.\n\n-   *The first thing I do is **wash**, **shave**, and **dress myself**. ![](/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-4.png)* \n-   *The first thing I do is **wash**, **shave**, and **dress**.* ![](/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-5.png)\n-   *When I arrive home, I only want to **relax** on the sofa.* \n-   *Please **hurry**, or we’ll be late.* \n-   *The door **opened**, and everybody got in.* \n\n### Reciprocal pronouns\n\nWe use **each other** or **one another** when person A does something to person B and person B does something to person A.\n\n-   *When the twins found **each other**, they had been living apart for more than ten years.* \n-   *You should try to understand **one another**.* \n\nWe also can use the possessive forms **each other’s** and **one another’s**.\n\n-   *The lovers were found in **each other’s** arms.* \n-   *The couple enjoyed **one another’s** company so much that they soon decided to move in together.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Reflexive-reciprocal-pronouns_Grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-1.png",
+        "alt": "A grammar chart explaining reflexive and reciprocal pronouns. It includes examples, specific uses and general rules  for using pronouns like \"myself,\" \"yourself,\" \"himself,\" and \"each other\" in sentences."
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b2/reflexive-reciprocal-pronouns/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Reflexive and reciprocal pronouns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I blame {0} for what happened.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me",
+                "myself",
+                "-"
+              ],
+              "correct": "me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "718"
+        },
+        {
+          "index": 1,
+          "template": "She brought up her children {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "her own",
+                "her",
+                "by herself"
+              ],
+              "correct": "her own",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "719"
+        },
+        {
+          "index": 2,
+          "template": "It's been a long time since we talked to {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "us",
+                "each other",
+                "ourselves"
+              ],
+              "correct": "each other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "720"
+        },
+        {
+          "index": 3,
+          "template": "You need to shave {0} before the interview.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "yourself",
+                "-",
+                "you"
+              ],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "721"
+        },
+        {
+          "index": 4,
+          "template": "We are very proud of {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ourselves",
+                "yourselves",
+                "us"
+              ],
+              "correct": "us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "722"
+        },
+        {
+          "index": 5,
+          "template": "The Vikings organised {0} in clans and invaded many regions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "themselfs",
+                "themselves",
+                "they"
+              ],
+              "correct": "themselves",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "723"
+        },
+        {
+          "index": 6,
+          "template": "She always takes the dog with {0} when she goes out.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "herself",
+                "her",
+                "her own"
+              ],
+              "correct": "her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "724"
+        },
+        {
+          "index": 7,
+          "template": "This is the most stupid way of hurting {0} I've ever heard of.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "you",
+                "yourself",
+                "-"
+              ],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "725"
+        },
+        {
+          "index": 8,
+          "template": "Put the exam sheet in front of {0} and start writing.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "yourselves",
+                "your own",
+                "you"
+              ],
+              "correct": "you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "726"
+        },
+        {
+          "index": 9,
+          "template": "I have to dress {0} quickly or I'll be late.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "myself",
+                "me",
+                "-"
+              ],
+              "correct": "myself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "727"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Reflexive and reciprocal pronouns",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Cooperation should be promoted by the governments _______.",
+          "options": [
+            "them",
+            "yourselves",
+            "one another",
+            "themselves"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "I hadn't realised how much they hated _______.",
+          "options": [
+            "themselfs",
+            "one another",
+            "them",
+            "-"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "He lives _______.",
+          "options": [
+            "by himself",
+            "his own",
+            "himself",
+            "him"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "The people _______ are organising community mobilisation efforts.",
+          "options": [
+            "itself",
+            "each other",
+            "by their own",
+            "themselves"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "You can't be independent until you're able to look after _______.",
+          "options": [
+            "you",
+            "-",
+            "yourself",
+            "your own"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "Did she do it _______ or did you help her? Choose TWO correct options",
+          "options": [
+            "her",
+            "herself",
+            "by her own",
+            "on her own"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "We need to relax _______ and enjoy _______ a bit more often.",
+          "options": [
+            "- / -",
+            "ourselves / ourselves",
+            "- / ourselves",
+            "ourselves / -"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "He listens to _______ more than he listens to the others.",
+          "options": [
+            "himself",
+            "his own",
+            "him",
+            "he"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "They text _______ like one hundred times a day. Choose TWO correct options",
+          "options": [
+            "themselves",
+            "each other",
+            "them",
+            "one another"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "She looked behind _______ because she thought she was being followed.",
+          "options": [
+            "her",
+            "herself",
+            "her own",
+            "itself"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Reflexive and reciprocal pronouns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Is a society of image obsession the society we want for 1 {0}? Do we want to live in a world where we look at 2 {1} more than we look at 3 {2} other? Men and women of all ages only worry about 4 {3} and about being the thinnest or the fittest in the room, and they envy those who are thinner or more muscular than 5 {4}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ourselves",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ourselves",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ourselves",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ourselves",
+              "resolved": true
+            },
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "ourselves",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "738"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Reflexive and reciprocal pronouns",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "I blame {0} for what happened.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "me",
+                "myself",
+                "-"
+              ],
+              "correct": "me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "718"
+        },
+        {
+          "index": 1,
+          "template": "She brought up her children {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "her own",
+                "her",
+                "by herself"
+              ],
+              "correct": "her own",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "719"
+        },
+        {
+          "index": 2,
+          "template": "It's been a long time since we talked to {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "us",
+                "each other",
+                "ourselves"
+              ],
+              "correct": "each other",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "720"
+        },
+        {
+          "index": 3,
+          "template": "You need to shave {0} before the interview.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "yourself",
+                "-",
+                "you"
+              ],
+              "correct": "yourself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "721"
+        },
+        {
+          "index": 4,
+          "template": "We are very proud of {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "ourselves",
+                "yourselves",
+                "us"
+              ],
+              "correct": "us",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "722"
+        },
+        {
+          "index": 5,
+          "template": "The Vikings organised {0} in clans and invaded many regions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "themselfs",
+                "themselves",
+                "they"
+              ],
+              "correct": "themselves",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "723"
+        },
+        {
+          "index": 6,
+          "template": "She always takes the dog with {0} when she goes out.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "herself",
+                "her",
+                "her own"
+              ],
+              "correct": "her",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "724"
+        },
+        {
+          "index": 7,
+          "template": "This is the most stupid way of hurting {0} I've ever heard of.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "you",
+                "yourself",
+                "-"
+              ],
+              "correct": "you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "725"
+        },
+        {
+          "index": 8,
+          "template": "Put the exam sheet in front of {0} and start writing.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "yourselves",
+                "your own",
+                "you"
+              ],
+              "correct": "you",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "726"
+        },
+        {
+          "index": 9,
+          "template": "I have to dress {0} quickly or I'll be late.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "myself",
+                "me",
+                "-"
+              ],
+              "correct": "myself",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "727"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

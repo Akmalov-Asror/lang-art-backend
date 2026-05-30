@@ -1,0 +1,670 @@
+{
+  "schema_version": 1,
+  "level": "b2",
+  "slug": "inversion-negative-adverbials",
+  "order_index": 9,
+  "title": "Inversion with negative adverbials: Adding emphasis",
+  "source_url": "https://test-english.com/grammar-points/b2/inversion-negative-adverbials/",
+  "scraped_at": "2026-05-23T07:26:05.957Z",
+  "explanation": {
+    "markdown": "## What is an inversion with a negative adverbial?\n\nIn formal English, we can use a **negative or restrictive adverb** at the beginning of a sentence to make it more emphatic or dramatic. When we do this, the adverb is then followed by an inversion: **auxiliary verb + subject (+ verb)**. See the example below:\n\n-   *I could find my keys **nowhere**. ⇒* ***Nowhere** **could I find** my keys.* \n\nWhen there is no auxiliary verb, we use **do**/**does** (present) or **did** (past) as auxiliary.\n\n-   *I understand the true meaning **only now**. ⇒ **Only now** **do I understand** the true meaning.* \n-   *I did**n’t** say anything **until she arrived**. ⇒* ***Not until she arrived** **did I say** anything.* \n\n## Common adverbs used with this structure\n\nIn the table below, you can see some of the most common negative or restrictive adverbials that are sometimes used at the beginning of the sentence for emphasis.  \n  \n![](/uploads/grammar/b2/inversion-negative-adverbials/img-1.png)\n\n#### Hardly, barely, scarcely, no sooner\n\nWe normally use **hardly … when, barely … when**, **scarcely … when**, and **no sooner … than** in narratives with past perfect in the inversion.  \n  \nWe use **no sooner … than** (NOT **that**, or **when**)\n\n#### Adverbial + clause + inversion\n\n❗ **Note** that after some adverbials, such as **only if** and **only when** we use a subordinate clause (subject + verb), and that the inversion is never in the subordinate clause but in the main verb of the sentence. Check the sentence below:\n\n-   ***Only when do I sleep** **I can forget** about the accident. ![](/uploads/grammar/b2/inversion-negative-adverbials/img-2.png)* \n-   ***Only when I sleep** **can I forget** about the accident. ![](/uploads/grammar/b2/inversion-negative-adverbials/img-3.png)* \n\nThe same happens with other adverbials, such as **not since** and **not until**; we use a subordinate clause (subject + verb), and the inversion is never in the subordinate clause but in the sentence’s main verb. Check the sentence below:\n\n-   ***Not since was I a child** **I have had** such a great time. ![](/uploads/grammar/b2/inversion-negative-adverbials/img-4.png)*  \n-   ***Not since I was a child** **have** **I had** such a great time**. ![](/uploads/grammar/b2/inversion-negative-adverbials/img-5.png)* \n\nIf you are in doubt, it’s always useful to look at the sentence without the negative adverbial at the beginning.\n\n-   ***I can forget** about the accident only when I sleep.* \n-   ***I haven’t had** such a great time since I was a child.*\n\nThe main subject and verb are at the beginning of the sentence, and this is the element that must be in the inversion.\n\n#### Not\n\nWe must always use **not** followed by another element before the inversion.\n\n-   ***Not** **can we see** such great expressions of art **often**. ![](/uploads/grammar/b2/inversion-negative-adverbials/img-6.png)* \n-   ***Not often** **can we see** such great expressions of art.* *![](/uploads/grammar/b2/inversion-negative-adverbials/img-7.png)*\n\n#### Adverbs of frequency\n\nWe can also use inversion after the negative or restrictive adverbs of frequency, such as **seldom**, **rarely**, or **never**.  \n  \nWe often use **never** to talk about experiences. In that case, we normally use present perfect or past perfect.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Inversion.Negative.adverbials.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b2/inversion-negative-adverbials/img-1.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b2/inversion-negative-adverbials/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b2/inversion-negative-adverbials/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/b2/inversion-negative-adverbials/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/b2/inversion-negative-adverbials/img-5.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-6.png",
+        "public_path": "/uploads/grammar/b2/inversion-negative-adverbials/img-6.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-7.png",
+        "public_path": "/uploads/grammar/b2/inversion-negative-adverbials/img-7.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Inversion with negative adverbials: Adding emphasis",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He can speak French but {0} it in public, and almost never when on diplomatic duty.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "not once does he use",
+                "seldom does he use",
+                "rarely he uses"
+              ],
+              "correct": "seldom does he use",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "911"
+        },
+        {
+          "index": 1,
+          "template": "{0} those words {1} all the newspapers published them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "As soon as had he uttered",
+                "No sooner he'd uttered",
+                "No sooner had he uttered"
+              ],
+              "correct": "No sooner had he uttered",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "than",
+                "as"
+              ],
+              "correct": "than",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "912"
+        },
+        {
+          "index": 2,
+          "template": "{0} the stress she was under.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Now only do I realise",
+                "Only now do I realise",
+                "Only now I realise"
+              ],
+              "correct": "Only now do I realise",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "913"
+        },
+        {
+          "index": 3,
+          "template": "{0} the world gets rid of all nuclear weapons {1} truly safe.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Under no circumstances",
+                "Not until",
+                "Hardly"
+              ],
+              "correct": "Not until",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "we can feel",
+                "can we feel",
+                "can us feel"
+              ],
+              "correct": "can we feel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "914"
+        },
+        {
+          "index": 4,
+          "template": "{0} such dedicated and honest leaders.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Nowhere I've encountered",
+                "Nowhere have I ever encountered",
+                "Nowhere have I encounter"
+              ],
+              "correct": "Nowhere have I ever encountered",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "915"
+        },
+        {
+          "index": 5,
+          "template": "{0} what was in store for him after he landed here.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "No sooner did he know",
+                "Little did he know",
+                "Never before did he know"
+              ],
+              "correct": "Little did he know",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "916"
+        },
+        {
+          "index": 6,
+          "template": "{0} the votes been counted {1} they started breaking promises.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Hardly did",
+                "Hardly had",
+                "Hardly do"
+              ],
+              "correct": "Hardly had",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "when",
+                "than",
+                "that"
+              ],
+              "correct": "when",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "917"
+        },
+        {
+          "index": 7,
+          "template": "{0} we are able to reinvent ourselves {1} to succeed in business and life.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Never before",
+                "Only if",
+                "No sooner"
+              ],
+              "correct": "Never before",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "will be able",
+                "we will be able",
+                "will we be able"
+              ],
+              "correct": "will we be able",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "918"
+        },
+        {
+          "index": 8,
+          "template": "{0} ever said anything to damage his reputation.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "In no way have I",
+                "Never I have",
+                "Little have I"
+              ],
+              "correct": "In no way have I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "919"
+        },
+        {
+          "index": 9,
+          "template": "{0} the South Americans lose their ice-cold concentration, and {1} fail to control the ball.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Never",
+                "Never had",
+                "Never did"
+              ],
+              "correct": "Never",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "rarely did",
+                "rarely did they",
+                "rarely had they"
+              ],
+              "correct": "rarely did they",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "920"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Inversion with negative adverbials: Adding emphasis",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "_______ started the discussion _______ a group of hooligans arrived and started shouting slogans.",
+          "options": [
+            "Barely had they / when",
+            "No sooner had they / when",
+            "Barely they had / when",
+            "No sooner had they / that"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "_______ we take specific actions immediately _______ hope to stop climate change in some way.",
+          "options": [
+            "Rarely when / can we",
+            "If only / can we",
+            "Only if / can we",
+            "Only / we can"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "______ break the law, _______ put themselves and others in unnecessary danger.",
+          "options": [
+            "Not only they / but they also",
+            "Not only have they / but they also have",
+            "Not only did they / but did they also",
+            "Not only did they / but they also"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "_______ allow such terrible actions to happen again.",
+          "options": [
+            "Never again we will",
+            "No way will",
+            "Under no circumstances will we",
+            "Little will we"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "We all need to be on sensible alert, but _______ allow fear to dictate the course of our lives.",
+          "options": [
+            "never we must",
+            "on no account should we",
+            "no way we should",
+            "under no circumstances we should"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "_______ Jacqueline Kennedy _______ a first lady as charming, glamorous, or inspirational.",
+          "options": [
+            "Never / was there",
+            "Never / there was",
+            "Not since / there has been",
+            "Not since / has there been"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "Very _______ see that type of heroism again.",
+          "options": [
+            "rarely will people",
+            "never will people",
+            "rarely people will",
+            "little people will"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "_______ know how widely diffused his tweet would become.",
+          "options": [
+            "Little he",
+            "Little he did",
+            "Little did he",
+            "Little he has"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "_______ more vulnerable _______ when we are beginning to fall in love.",
+          "options": [
+            "Nowhere we are / that",
+            "Nowhere are we / than",
+            "Nowhere we are / as",
+            "Nowhere are we / that"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "_______ refuse an offer like that!",
+          "options": [
+            "Under no circumstances I'll",
+            "No way am I going to",
+            "Never again I'm going to",
+            "Seldom am I"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Inversion with negative adverbials: Adding emphasis",
+      "sentences": [],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Inversion with negative adverbials: Adding emphasis",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He can speak French but {0} it in public, and almost never when on diplomatic duty.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "not once does he use",
+                "seldom does he use",
+                "rarely he uses"
+              ],
+              "correct": "seldom does he use",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "911"
+        },
+        {
+          "index": 1,
+          "template": "{0} those words {1} all the newspapers published them.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "As soon as had he uttered",
+                "No sooner he'd uttered",
+                "No sooner had he uttered"
+              ],
+              "correct": "No sooner had he uttered",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "that",
+                "than",
+                "as"
+              ],
+              "correct": "than",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "912"
+        },
+        {
+          "index": 2,
+          "template": "{0} the stress she was under.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Now only do I realise",
+                "Only now do I realise",
+                "Only now I realise"
+              ],
+              "correct": "Only now do I realise",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "913"
+        },
+        {
+          "index": 3,
+          "template": "{0} the world gets rid of all nuclear weapons {1} truly safe.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Under no circumstances",
+                "Not until",
+                "Hardly"
+              ],
+              "correct": "Not until",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "we can feel",
+                "can we feel",
+                "can us feel"
+              ],
+              "correct": "we can feel",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "914"
+        },
+        {
+          "index": 4,
+          "template": "{0} such dedicated and honest leaders.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Nowhere I've encountered",
+                "Nowhere have I ever encountered",
+                "Nowhere have I encounter"
+              ],
+              "correct": "Nowhere have I ever encountered",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "915"
+        },
+        {
+          "index": 5,
+          "template": "{0} what was in store for him after he landed here.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "No sooner did he know",
+                "Little did he know",
+                "Never before did he know"
+              ],
+              "correct": "Little did he know",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "916"
+        },
+        {
+          "index": 6,
+          "template": "{0} the votes been counted {1} they started breaking promises.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Hardly did",
+                "Hardly had",
+                "Hardly do"
+              ],
+              "correct": "Hardly had",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "when",
+                "than",
+                "that"
+              ],
+              "correct": "when",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "917"
+        },
+        {
+          "index": 7,
+          "template": "{0} we are able to reinvent ourselves {1} to succeed in business and life.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Never before",
+                "Only if",
+                "No sooner"
+              ],
+              "correct": "Never before",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "will be able",
+                "we will be able",
+                "will we be able"
+              ],
+              "correct": "we will be able",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "918"
+        },
+        {
+          "index": 8,
+          "template": "{0} ever said anything to damage his reputation.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "In no way have I",
+                "Never I have",
+                "Little have I"
+              ],
+              "correct": "In no way have I",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "919"
+        },
+        {
+          "index": 9,
+          "template": "{0} the South Americans lose their ice-cold concentration, and {1} fail to control the ball.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Never",
+                "Never had",
+                "Never did"
+              ],
+              "correct": "Never",
+              "resolved": true
+            },
+            {
+              "kind": "select",
+              "options": [
+                "rarely did",
+                "rarely did they",
+                "rarely had they"
+              ],
+              "correct": "rarely did they",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "920"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

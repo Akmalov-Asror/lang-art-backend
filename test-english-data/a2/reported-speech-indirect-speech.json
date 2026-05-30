@@ -1,0 +1,659 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "reported-speech-indirect-speech",
+  "order_index": 31,
+  "title": "Reported speech / Indirect speech",
+  "source_url": "https://test-english.com/grammar-points/a2/reported-speech-indirect-speech/",
+  "scraped_at": "2026-05-23T07:18:43.652Z",
+  "explanation": {
+    "markdown": "## What is reported speech or indirect speech?\n\nWhen we tell people **what another person said or thought**, we often use **reported speech** or indirect speech. To do that, we need to change verb tenses (present, past, etc.) and pronouns (**I, you, my, your, etc**.) if the time and speaker are different.\n\n-   Sally: *‘**I** **don’t have** time.’* ⇒ *Sally said that **she didn’t have** time.* \n-   Peter: *‘**I am** tired .’* ⇒ *He said that **he was** tired.* \n\n## Omission of **that**\n\nWe often leave out **that** after reporting verbs like **say, think**, **etc.** \n\n-   *She **said she** was late.* (=*She said that she was late.*)\n-   *I **thought I** would get the job.*  \n\n## **Say** or **tell**?\n\nThe most common verbs we use in reported speech are [**say** and **tell**](https://test-english.com/grammar-points/shorts/say-vs-tell-grammar-shorts/). We must pay attention here. We say **tell** **somebody** **something** and **say something (to somebody)**.\n\n-   *They **said me** (that) they would help me. ![](/uploads/grammar/a2/reported-speech-indirect-speech/img-1.png)* \n-   *They **told me** (that) they would help me.* ![](/uploads/grammar/a2/reported-speech-indirect-speech/img-2.png)\n-   *He **told** (that) he didn’t have a car. ![](/uploads/grammar/a2/reported-speech-indirect-speech/img-3.png)* \n-   *He **said** (that) he didn’t have a car.* ![](/uploads/grammar/a2/reported-speech-indirect-speech/img-4.png)\n\n## Tense changes in reported speech\n\nWhen a person said something **in the past**, and **now** we tell somebody what that person said, the time is different, and for this reason, the verb tenses change. Look at a summary of these changes.  \n  \n![Direct speech vs reported speech/indirect speech](/uploads/grammar/a2/reported-speech-indirect-speech/img-5.png)\n\n## Pronoun changes in reported speech\n\nIn reported or indirect speech, we must also pay attention to the use of [pronouns](https://test-english.com/grammar-points/a2/subject-pronouns-object-pronouns-possessive-pronouns-possessive-adjectives/). When a person tells us something, he or she uses the first person (**I, me, my, we, us, our**) to talk about himself or herself and the second person (**you, your**) to talk about us, the person listening. But when we tell someone else what that person said, we are going to use the third person (**he, she, his, her, etc.**) to talk about the speaker and the first person (**I, me, my**) to talk about ourselves, the listener.\n\n-   *‘**I** will help **you**.’* ⇒ *He said that **he** would help **me**.* \n-   *‘That’s **my** pen.’* ⇒ *She said that it was **her** pen.* \n-   *‘**I** need **your** help.’* ⇒ *She said that **she** needed **my** help.*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/reported-speech-indirect-speech/img-1.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/reported-speech-indirect-speech/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/reported-speech-indirect-speech/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/reported-speech-indirect-speech/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/indirect-speech_new.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/reported-speech-indirect-speech/img-5.png",
+        "alt": "Direct speech vs reported speech/indirect speech"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Reported speech / Indirect speech",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He {0} me that he didn't have enough money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3553"
+        },
+        {
+          "index": 1,
+          "template": "I {0} the waiter the soup was cold.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "said",
+                "told"
+              ],
+              "correct": "told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3554"
+        },
+        {
+          "index": 2,
+          "template": "Everybody {0} that I had been great.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3555"
+        },
+        {
+          "index": 3,
+          "template": "She {0} I was her favourite student.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "said",
+                "told"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3556"
+        },
+        {
+          "index": 4,
+          "template": "Victor {0} he would change the windows.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "said",
+                "told"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3557"
+        },
+        {
+          "index": 5,
+          "template": "I {0} the doctor I didn't want to take any medicine.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3558"
+        },
+        {
+          "index": 6,
+          "template": "They didn't {0} me anything.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "tell",
+                "say"
+              ],
+              "correct": "say",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3559"
+        },
+        {
+          "index": 7,
+          "template": "She {0} she worked in a factory.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3560"
+        },
+        {
+          "index": 8,
+          "template": "Who {0} you that they wouldn't come?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3561"
+        },
+        {
+          "index": 9,
+          "template": "They {0} there was a problem.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3562"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Reported speech / Indirect speech",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "'I'm really tired' ⇒ She said that she _____ really tired.",
+          "options": [
+            "is",
+            "has been",
+            "was"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "'I don't want any trouble.' ⇒ He told me he _____ any trouble.",
+          "options": [
+            "didn't want",
+            "hasn't wanted",
+            "hadn't wanted"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "'I'll be at home all afternoon.' ⇒ She said she _____ at home all afternoon.",
+          "options": [
+            "was",
+            "'d be",
+            "'d been"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "'I love my family.' ⇒ He told me that _____ loved _____ family.",
+          "options": [
+            "I / my",
+            "you / your",
+            "he / his"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "'I haven't seen Tom.' ⇒ She told me she _____ Tom.",
+          "options": [
+            "hadn't seen",
+            "haven't seen",
+            "didn't see"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "'You have my phone.' ⇒ The man said that _____ had _____ phone.",
+          "options": [
+            "you / his",
+            "I / your",
+            "I / his"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "'I'm trying to concentrate.' ⇒ She said that she _____ to concentrate.",
+          "options": [
+            "was trying",
+            "tried",
+            "tries"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "'I didn't steal any money.' ⇒ The thief said that he _____ any money.",
+          "options": [
+            "hadn't stolen",
+            "didn't steal",
+            "hasn't stolen"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "'I can lend you the money' ⇒ She told me she _____ me the money.",
+          "options": [
+            "can lend",
+            "could lend",
+            "lent"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "'I won't call you again.' ⇒ She told me she _____ again.",
+          "options": [
+            "wouldn't call you",
+            "didn't call me",
+            "wouldn't call me"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Reported speech / Indirect speech",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "'My sister isn't well.' ⇒ She said that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she wasn't well.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3573"
+        },
+        {
+          "index": 1,
+          "template": "'I called you.' ⇒ He said that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "he had called me.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3574"
+        },
+        {
+          "index": 2,
+          "template": "'I won't come back.' ⇒ She told me that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she wouldn't come back.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3575"
+        },
+        {
+          "index": 3,
+          "template": "'I've found a wallet.' ⇒ He said that {0}",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "he had found a wallet.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3576"
+        },
+        {
+          "index": 4,
+          "template": "'I don't like fish.' ⇒ He told me that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "he didn't like fish.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3577"
+        },
+        {
+          "index": 5,
+          "template": "'I'm looking for a job.' ⇒ She told me that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she was looking for a job.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3578"
+        },
+        {
+          "index": 6,
+          "template": "'You must show me your passport.' ⇒ She told me that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she had to show me her passport.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3579"
+        },
+        {
+          "index": 7,
+          "template": "'I'll call you soon.' ⇒ He told me that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "he would call me soon.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3580"
+        },
+        {
+          "index": 8,
+          "template": "'I'm not feeling well.' ⇒ She said that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she wasn't feeling well.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3582"
+        },
+        {
+          "index": 9,
+          "template": "'You took my car.' ⇒ She said that {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "she said that I had taken her car.",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3583"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Reported speech / Indirect speech",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "He {0} me that he didn't have enough money.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3553"
+        },
+        {
+          "index": 1,
+          "template": "I {0} the waiter the soup was cold.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "said",
+                "told"
+              ],
+              "correct": "told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3554"
+        },
+        {
+          "index": 2,
+          "template": "Everybody {0} that I had been great.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3555"
+        },
+        {
+          "index": 3,
+          "template": "She {0} I was her favourite student.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "said",
+                "told"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3556"
+        },
+        {
+          "index": 4,
+          "template": "Victor {0} he would change the windows.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "said",
+                "told"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3557"
+        },
+        {
+          "index": 5,
+          "template": "I {0} the doctor I didn't want to take any medicine.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3558"
+        },
+        {
+          "index": 6,
+          "template": "They didn't {0} me anything.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "tell",
+                "say"
+              ],
+              "correct": "say",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3559"
+        },
+        {
+          "index": 7,
+          "template": "She {0} she worked in a factory.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3560"
+        },
+        {
+          "index": 8,
+          "template": "Who {0} you that they wouldn't come?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3561"
+        },
+        {
+          "index": 9,
+          "template": "They {0} there was a problem.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "told",
+                "said"
+              ],
+              "correct": "said",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3562"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

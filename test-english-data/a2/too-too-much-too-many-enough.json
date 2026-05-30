@@ -1,0 +1,679 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "too-too-much-too-many-enough",
+  "order_index": 14,
+  "title": "Too, too much, too many, enough",
+  "source_url": "https://test-english.com/grammar-points/a2/too-too-much-too-many-enough/",
+  "scraped_at": "2026-05-23T07:16:33.397Z",
+  "explanation": {
+    "markdown": "## **Too, too much, too many, enough** : Grammar chart\n\n![too, too much, too many, enough](/uploads/grammar/a2/too-too-much-too-many-enough/img-1.png)\n\n## **Too**\n\n#### Before an adjective/adverb\n\nWe use **too** before an **adjective** or an **adverb** to mean ‘more than we need’ or ‘more than is necessary’.\n\n-   *You are **too young** to enter this club.* \n-   *We arrived **too late**.* \n\n## **Too much**\n\n#### Before an uncountable noun\n\nWe can use **too much** before [**uncountable nouns**](https://test-english.com/grammar-points/a1/a-some-any-countable-uncountable/) to mean ‘more than we need’ or ‘more than is necessary’.\n\n-   *The doctor said that I drink **too much coffee**.* \n-   *I hate this city. There’s **too much traffic**.*\n\n#### After a verb\n\nWe can also use **too much** after a **verb**.\n\n-   *You can’t take the car. You’**ve drunk too much**.*  \n-   *He **talks too much**.*\n\n## **Too many**\n\n#### Before a plural noun\n\nWe use **too many** before **plural nouns** to mean ‘more than we need’ or ‘more than is necessary’.\n\n-   *I didn’t enjoy the concert. There were **too many people**.*\n-   *They lost because they made **too many mistakes**.* \n\n## **Enough**\n\n#### Before a noun\n\nWe can use **enough** + **noun** to say that something is the correct number or amount.\n\n-   *I have saved **enough money** to go to Rome on holiday.* \n-   *Do you have **enough butter** to cook?*\n\nIn negative sentences, we use **(not) enough** + **noun** to say that something is less than we want or need.\n\n-   *We **don’t** have **enough money** to travel.* \n-   *I **don’t** have **enough time** to finish my homework before Monday.* \n\n#### After an adjective/adverb\n\nWe can use [**adjective/adverb**](https://test-english.com/grammar-points/a1/adverbs-manner/) + **enough** to mean ‘sufficiently’.\n\n-   *This bed is **big enough** for the four of us.* \n-   *I think she spoke **clearly enough**. Everybody understood what she meant.* \n\nIn negative sentences, we can use **(not) adjective/adverb + enough** to mean ‘less than we want’ or ‘less than necessary’.\n\n-   *You **aren’t** **old enough** to enter this club.*\n-   *You **aren’t** going **fast enough**. We are going to be late.*\n\n#### After a verb\n\nWe can also use **verb** + **enough**.\n\n-   *I **didn’t study enough**, and I failed the exam.* \n-   *I think you **don’t sleep enough**. You should sleep seven or eight hours a day.* \n\n## **Too, too much, too many, enough** + **to** + infinitive\n\nIn English, we often use a **to**\\-infinitive with the expressions **too, too much, too many, enough**.\n\n-   *I was **too tired to go** clubbing.*\n-   *She makes **enough money to sustain** her family.*\n\n## Be careful with these common mistakes!\n\nDon’t use an adjective after **too much**\n\n-   *I’m **too much tired** to study now. ![](/uploads/grammar/a2/too-too-much-too-many-enough/img-2.png)* \n-   *I’m **too tired** to study now.* ![](/uploads/grammar/a2/too-too-much-too-many-enough/img-3.png)\n\nDon’t confuse the word **too** (=more than enough) with the word **very**.\n\n-   *I think she is **too** beautiful. ![](/uploads/grammar/a2/too-too-much-too-many-enough/img-4.png)* \n-   *I think she is **very** beautiful.* ![](/uploads/grammar/a2/too-too-much-too-many-enough/img-5.png)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/too_too-much_too-many_enough_new.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/too-too-much-too-many-enough/img-1.png",
+        "alt": "too, too much, too many, enough"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/a2/too-too-much-too-many-enough/img-2.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/a2/too-too-much-too-many-enough/img-3.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/wrong.png",
+        "local_filename": "img-4.png",
+        "public_path": "/uploads/grammar/a2/too-too-much-too-many-enough/img-4.png",
+        "alt": ""
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/correct.png",
+        "local_filename": "img-5.png",
+        "public_path": "/uploads/grammar/a2/too-too-much-too-many-enough/img-5.png",
+        "alt": ""
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Too, too much, too many, enough",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "There's {0} smoke in here; I can't breathe.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much",
+                "too many",
+                "too"
+              ],
+              "correct": "too much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3154"
+        },
+        {
+          "index": 1,
+          "template": "I don't earn {0} to buy that car.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much money",
+                "money enough",
+                "enough money"
+              ],
+              "correct": "enough money",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3155"
+        },
+        {
+          "index": 2,
+          "template": "My manager says that I play {0} to win the competition.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much well",
+                "enough well",
+                "well enough"
+              ],
+              "correct": "well enough",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3156"
+        },
+        {
+          "index": 3,
+          "template": "I know I talk {0}. I should talk less.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much",
+                "too many",
+                "enough"
+              ],
+              "correct": "too much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3157"
+        },
+        {
+          "index": 4,
+          "template": "I don't think the door is {0} to get the sofa into the room.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much wide",
+                "enough wide",
+                "wide enough"
+              ],
+              "correct": "wide enough",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3158"
+        },
+        {
+          "index": 5,
+          "template": "{0} money can be bad for football players who are still in their 20s.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Too many",
+                "Too much",
+                "Too"
+              ],
+              "correct": "Too much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3159"
+        },
+        {
+          "index": 6,
+          "template": "I ate {0} cakes and felt sick later.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much",
+                "too",
+                "too many"
+              ],
+              "correct": "too many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3160"
+        },
+        {
+          "index": 7,
+          "template": "I can't drink this milk. It's {0} hot.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "enough",
+                "too",
+                "too much"
+              ],
+              "correct": "too",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3161"
+        },
+        {
+          "index": 8,
+          "template": "I think I've eaten {0}. I don't feel very well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "enough",
+                "too much",
+                "too many"
+              ],
+              "correct": "too much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3162"
+        },
+        {
+          "index": 9,
+          "template": "There weren't {0} to play a match, so everybody went home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "enough people",
+                "too much people",
+                "people enough"
+              ],
+              "correct": "enough people",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3163"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Too, too much, too many, enough",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "You work _____; you need a holiday.",
+          "options": [
+            "too much",
+            "too many",
+            "too"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "My parents got angry because my marks weren't _____.",
+          "options": [
+            "enough good",
+            "good enough",
+            "too much good"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "I can't help you. I have _____ problems right now.",
+          "options": [
+            "too much",
+            "too",
+            "too many"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "He didn't accept my project because he said it wasn't _____.",
+          "options": [
+            "too much good",
+            "enough good",
+            "good enough"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "This house is _____ small; we need a bigger one.",
+          "options": [
+            "too",
+            "too much",
+            "enough"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "You don't need to buy anything. I think we have _____ for the journey.",
+          "options": [
+            "enough food",
+            "food enough",
+            "too many food"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "I didn't study _____ and I failed the exam.",
+          "options": [
+            "enough",
+            "too many",
+            "too"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "This hospital is a total chaos. There are _____ patients and not _____ doctors.",
+          "options": [
+            "to much / too many",
+            "too / enough",
+            "too many / enough"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "People spend _____ time on their mobile phones.",
+          "options": [
+            "too",
+            "too many",
+            "too much"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "Aren't we _____ for these kinds of games?",
+          "options": [
+            "too old",
+            "too much old",
+            "enough old"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Too, too much, too many, enough",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "There were {0} (people) at the concert and we couldn't see anything.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "too many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3174"
+        },
+        {
+          "index": 1,
+          "template": "I'll talk to you later; I'm {0} (busy) now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "too busy",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3175"
+        },
+        {
+          "index": 2,
+          "template": "You aren't {0} (well) to go to work. You should stay home.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "well enough",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3176"
+        },
+        {
+          "index": 3,
+          "template": "You are {0} (nice). You must learn to say 'no' to people who ask you for favours.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "too nice",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3178"
+        },
+        {
+          "index": 4,
+          "template": "You spend {0} (time) at the computer. You should play outside more often.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "too much time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3177"
+        },
+        {
+          "index": 5,
+          "template": "You look exhausted. I think you work {0} (hard).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "too hard",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3179"
+        },
+        {
+          "index": 6,
+          "template": "You can't run 10 miles. You aren't {0} (fit); you need more training.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "fit enough",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3180"
+        },
+        {
+          "index": 7,
+          "template": "Please, don't put {0} (sugar) in my coffee; I don't like it too sweet.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "too much sugar",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3181"
+        },
+        {
+          "index": 8,
+          "template": "I don't like people who ask {0} (questions).",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "too many questions",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3182"
+        },
+        {
+          "index": 9,
+          "template": "We don't have {0} (time) to have another coffee; we need to leave now.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "enough time",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3183"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Too, too much, too many, enough",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "There's {0} smoke in here; I can't breathe.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much",
+                "too many",
+                "too"
+              ],
+              "correct": "too much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3154"
+        },
+        {
+          "index": 1,
+          "template": "I don't earn {0} to buy that car.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much money",
+                "money enough",
+                "enough money"
+              ],
+              "correct": "enough money",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3155"
+        },
+        {
+          "index": 2,
+          "template": "My manager says that I play {0} to win the competition.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much well",
+                "enough well",
+                "well enough"
+              ],
+              "correct": "well enough",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3156"
+        },
+        {
+          "index": 3,
+          "template": "I know I talk {0}. I should talk less.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much",
+                "too many",
+                "enough"
+              ],
+              "correct": "too much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3157"
+        },
+        {
+          "index": 4,
+          "template": "I don't think the door is {0} to get the sofa into the room.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much wide",
+                "enough wide",
+                "wide enough"
+              ],
+              "correct": "wide enough",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3158"
+        },
+        {
+          "index": 5,
+          "template": "{0} money can be bad for football players who are still in their 20s.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Too many",
+                "Too much",
+                "Too"
+              ],
+              "correct": "Too much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3159"
+        },
+        {
+          "index": 6,
+          "template": "I ate {0} cakes and felt sick later.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "too much",
+                "too",
+                "too many"
+              ],
+              "correct": "too many",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3160"
+        },
+        {
+          "index": 7,
+          "template": "I can't drink this milk. It's {0} hot.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "enough",
+                "too",
+                "too much"
+              ],
+              "correct": "too",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3161"
+        },
+        {
+          "index": 8,
+          "template": "I think I've eaten {0}. I don't feel very well.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "enough",
+                "too much",
+                "too many"
+              ],
+              "correct": "too much",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3162"
+        },
+        {
+          "index": 9,
+          "template": "There weren't {0} to play a match, so everybody went home.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "enough people",
+                "too much people",
+                "people enough"
+              ],
+              "correct": "enough people",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "3163"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

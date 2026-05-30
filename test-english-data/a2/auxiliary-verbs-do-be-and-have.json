@@ -1,0 +1,665 @@
+{
+  "schema_version": 1,
+  "level": "a2",
+  "slug": "auxiliary-verbs-do-be-and-have",
+  "order_index": 40,
+  "title": "Auxiliary verbs: do, be and have",
+  "source_url": "https://test-english.com/grammar-points/a2/auxiliary-verbs-do-be-and-have/",
+  "scraped_at": "2026-05-23T07:20:01.621Z",
+  "explanation": {
+    "markdown": "## Auxiliary verbs: do, be and have\n\nIn English, there are three main auxiliary verbs: **do, be** and **have**. They have negative and question forms. Other verbs need an auxiliary to make these forms.  \n  \nModal verbs ([**can**](https://test-english.com/grammar-points/a1/can-cant/), [**could**](https://test-english.com/grammar-points/b1/can-could-be-able-to/), [**may, might**](https://test-english.com/grammar-points/a2/may-and-might-whats-the-difference/), [**must**](https://test-english.com/grammar-points/a2/have-to-dont-have-to-must-mustnt/), [**should**](https://test-english.com/grammar-points/a2/should-shouldnt/), [**will**](https://test-english.com/grammar-points/a1/will-and-shall/), **would**) are also auxiliary verbs.  \n  \n![Grammar chart of auxiliary verbs do, be and have with forms, tenses and example sentences](/uploads/grammar/a2/auxiliary-verbs-do-be-and-have/img-1.png)\n\n## Be\n\n#### Present and past continuous\n\nWe use **be** + –**ing** verb to form the present and past continuous.  \n  \nWe use **am/is/are** + **\\-ing** to form the [present continuous](https://test-english.com/grammar-points/a1/present-continuous/).\n\n-   *She **is reading** a book.*\n-   *They **aren’t watching** TV.*\n-   ***Are** you **studying** for the test?*\n\nWe use **was/were** + **\\-ing** to form the [past continuous](https://test-english.com/grammar-points/a2/past-continuous-past-simple/).\n\n-   *I **was cooking** dinner at 8 o’clock.*\n-   *He **wasn’t sleeping**.*\n-   ***Were** they **playing** football?*\n\n#### Present and past simple passive\n\nWe use **be** + past participle to form the [present and past simple passive](https://test-english.com/grammar-points/a2/present-past-simple-passive/).\n\nWe use **am/is/are** + past participle to form the present simple passive.\n\n-   *English **is spoken** in many countries.*\n-   *The windows **aren’t cleaned** very often.*\n-   ***Is** the homework **finished**?*\n\nWe use **was/were** + past participle to form the past simple passive.\n\n-   *The match **was cancelled**.*\n-   *The emails **weren’t sent**.*\n-   ***Were** the tickets **booked** online?*\n\n## Do\n\nWe use **do/did** + infinitive to make present and past simple negatives and questions.  \n  \nWe use **don’t/doesn’t** + infinitive to make present simple negatives, and **do/does** + subject + infinitive to make [present simple](https://test-english.com/grammar-points/a1/present-simple/) questions.\n\n-   *I **don’t like** spicy food.*\n-   *She **doesn’t work** on Saturdays.*\n-   ***Do** they **live** near here?*\n\nWe use **didn’t** + infinitive to make past simple negatives, and **did** + subject + infinitive to make [past simple](https://test-english.com/grammar-points/a2/past-simple-form-use/) questions.\n\n-   *We **didn’t go** to the party.*\n-   *He **didn’t understand** the question.*\n-   ***Did** you **finish** the report?*\n\n## Have\n\nWe use **have** + past participle (**worked, played, seen, etc.**) to form the present and past perfect.  \n  \nWe use **have/has** + past participle to form the [present perfect](https://test-english.com/grammar-points/a2/present-perfect/).\n\n-   *She **has finished** her homework.*\n-   *They **haven’t visited** the museum.*\n-   ***Have** you **seen** this film?*\n\nWe use **had** + past participle to form the [past perfect](https://test-english.com/grammar-points/a2/past-perfect/).\n\n-   *I **had left** before the meeting started.*\n-   *She **hadn’t studied** for the exam.*\n-   ***Had** they **arrived** when you called?*",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/Auxiliary-verbs-Be-Do-Have_A2-grammar-chart.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/a2/auxiliary-verbs-do-be-and-have/img-1.png",
+        "alt": "Grammar chart of auxiliary verbs do, be and have with forms, tenses and example sentences"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "Auxiliary verbs: do, be and have",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Why {0} you working so late tonight?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do",
+                "have",
+                "are"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12913"
+        },
+        {
+          "index": 1,
+          "template": "The emails {0} sent yesterday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had",
+                "did",
+                "were"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12914"
+        },
+        {
+          "index": 2,
+          "template": "{0} she finished the report yet?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Has",
+                "Does",
+                "Is"
+              ],
+              "correct": "Has",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12915"
+        },
+        {
+          "index": 3,
+          "template": "They {0} watching the match when I called.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had",
+                "are",
+                "were"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12916"
+        },
+        {
+          "index": 4,
+          "template": "The windows {0} cleaned every week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do",
+                "have",
+                "are"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12917"
+        },
+        {
+          "index": 5,
+          "template": "{0} they invited to the wedding?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Have",
+                "Did",
+                "Were"
+              ],
+              "correct": "Were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12918"
+        },
+        {
+          "index": 6,
+          "template": "He {0} completed the course yet.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "isn't",
+                "didn't",
+                "hasn't"
+              ],
+              "correct": "hasn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12919"
+        },
+        {
+          "index": 7,
+          "template": "What {0} you doing at 9 o'clock last night?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had",
+                "were",
+                "did"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12920"
+        },
+        {
+          "index": 8,
+          "template": "The documents {0} signed by the manager.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did",
+                "were",
+                "have"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12921"
+        },
+        {
+          "index": 9,
+          "template": "{0} you ever visited Scotland?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Have",
+                "Are",
+                "Do"
+              ],
+              "correct": "Have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12922"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "Auxiliary verbs: do, be and have",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Tom ___ already left the office.",
+          "options": [
+            "has",
+            "is",
+            "does",
+            "was"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "The cake ___ made this morning.",
+          "options": [
+            "did",
+            "has",
+            "was",
+            "is"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "Let them play. They ___ doing anything wrong.",
+          "options": [
+            "hadn't",
+            "don't",
+            "haven't",
+            "aren't"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "We ___ waiting for you when you called.",
+          "options": [
+            "are",
+            "have",
+            "were",
+            "did"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "The results ___ announced on the radio.",
+          "options": [
+            "are",
+            "have",
+            "did",
+            "were"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "___ she ever tried sushi?",
+          "options": [
+            "Has",
+            "Is",
+            "Does",
+            "Did"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The lights ___ turned off last night.",
+          "options": [
+            "have",
+            "were",
+            "are",
+            "did"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "At 8 p.m., I ___ still working.",
+          "options": [
+            "have",
+            "was",
+            "am",
+            "did"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "They ___ not completed the task yet.",
+          "options": [
+            "were",
+            "are",
+            "did",
+            "have"
+          ],
+          "correct_answer_index": 3,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The museum ___ closed today.",
+          "options": [
+            "isn't",
+            "hasn't",
+            "didn't",
+            "wasn't"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Auxiliary verbs: do, be and have",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We can't play outside. It's {0} again.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "raining",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12933"
+        },
+        {
+          "index": 1,
+          "template": "Why are you so upset? Have you {0} your keys?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "lost",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12934"
+        },
+        {
+          "index": 2,
+          "template": "The windows were {0} during the storm.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "broken",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12935"
+        },
+        {
+          "index": 3,
+          "template": "She was {0} home when the accident happened.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "at",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12936"
+        },
+        {
+          "index": 4,
+          "template": "Mandarin is {0} by over a billion people worldwide.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "spoken",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12937"
+        },
+        {
+          "index": 5,
+          "template": "I don't {0} what you mean.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "know",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12938"
+        },
+        {
+          "index": 6,
+          "template": "They have already {0} the email.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "sent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12939"
+        },
+        {
+          "index": 7,
+          "template": "When we arrived, the guests were {0} dinner.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "having",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12940"
+        },
+        {
+          "index": 8,
+          "template": "The computer is working again. It was {0} yesterday.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "down",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12941"
+        },
+        {
+          "index": 9,
+          "template": "Have you ever {0} late for an important meeting?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "been",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12942"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "Auxiliary verbs: do, be and have",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Why {0} you working so late tonight?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do",
+                "have",
+                "are"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12913"
+        },
+        {
+          "index": 1,
+          "template": "The emails {0} sent yesterday.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had",
+                "did",
+                "were"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12914"
+        },
+        {
+          "index": 2,
+          "template": "{0} she finished the report yet?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Has",
+                "Does",
+                "Is"
+              ],
+              "correct": "Has",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12915"
+        },
+        {
+          "index": 3,
+          "template": "They {0} watching the match when I called.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had",
+                "are",
+                "were"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12916"
+        },
+        {
+          "index": 4,
+          "template": "The windows {0} cleaned every week.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "do",
+                "have",
+                "are"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12917"
+        },
+        {
+          "index": 5,
+          "template": "{0} they invited to the wedding?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Have",
+                "Did",
+                "Were"
+              ],
+              "correct": "Were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12918"
+        },
+        {
+          "index": 6,
+          "template": "He {0} completed the course yet.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "isn't",
+                "didn't",
+                "hasn't"
+              ],
+              "correct": "hasn't",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12919"
+        },
+        {
+          "index": 7,
+          "template": "What {0} you doing at 9 o'clock last night?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "had",
+                "were",
+                "did"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12920"
+        },
+        {
+          "index": 8,
+          "template": "The documents {0} signed by the manager.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "did",
+                "were",
+                "have"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12921"
+        },
+        {
+          "index": 9,
+          "template": "{0} you ever visited Scotland?",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "Have",
+                "Are",
+                "Do"
+              ],
+              "correct": "Have",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "12922"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

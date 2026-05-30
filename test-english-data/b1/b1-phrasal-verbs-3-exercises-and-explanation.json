@@ -1,0 +1,677 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "b1-phrasal-verbs-3-exercises-and-explanation",
+  "order_index": 39,
+  "title": "B1 Phrasal verbs 3: Exercises and explanation",
+  "source_url": "https://test-english.com/grammar-points/b1/b1-phrasal-verbs-3-exercises-and-explanation/",
+  "scraped_at": "2026-05-23T07:24:40.842Z",
+  "explanation": {
+    "markdown": "## B1 Phrasal verbs 61-90\n\nThis is the third of our three B1 grammar lessons, where you will learn the most common intermediate phrasal verbs. All the verbs in these three lessons come from the [vocabulary list](https://www.cambridgeenglish.org/images/506887-b1-preliminary-2020-vocabulary-list.pdf) used for the Cambridge Preliminary English Test (PET). In each of these three lessons, you will find 30 phrasal verbs, making up a total of 90 (out of the 94 that you can see in the Cambridge Preliminary vocabulary list).\n\n### B1 Phrasal verbs 61-70\n\n![B1 Phrasal Verbs 61-70](/uploads/grammar/b1/b1-phrasal-verbs-3-exercises-and-explanation/img-1.png)\n\n-   PUT OUT: If you **put out** a fire, cigarette, etc., you make it stop burning.\n-   PUT THROUGH: If you **put through** a call or the person calling, you connect them with the person they want to speak to.\n-   PUT UP: If you **put up** the price of something, you increase its price.\n-   RING BACK: If you **ring** someone **back**, you return a previous call they made to you.\n-   RING UP: If you **ring up** (someone), you phone them.\n-   RUN OUT: If you **run out of** something, you have no more of it left because you have used it all.\n-   SET OFF: When you **set off**, you start a journey.\n-   SET OUT: If you **set out** to do or achieve something, you start an activity with a particular aim.\n-   SET UP: If you **set up** a business, organisation, etc., you start it.\n-   SHOW UP: If someone **shows up**, they arrive somewhere to join other people.\n\n### B1 Phrasal verbs 71-80\n\n![B1 Phrasal Verbs 71-80](/uploads/grammar/b1/b1-phrasal-verbs-3-exercises-and-explanation/img-2.png)\n\n-   SIT DOWN: The verbs **sit down** and **sit** mean the same.\n-   SPLIT UP: If two people **split up**, or if someone **splits up with** someone else, they end their relationship.\n-   STAY BEHIND: If you **stay behind**, you remain in a place after everyone else has left.\n-   TAKE OFF: If you **take off** a piece of clothing, you remove it.\n-   TAKE OFF: When an aeroplane **takes off**, it leaves the ground and starts flying\n-   TAKE UP: If you **take up** an activity or a subject, you start doing it as a job, habit or interest.\n-   THROW AWAY: If you **throw away** something, you get rid of it, for example, by putting it in a trash container.\n-   TIDY UP: When you **tidy up** a place, you put things back in their right places so that everything is neat.\n-   TRY ON: If you **try on** a piece of clothing, you put it on to see if it fits and you like it.\n-   TURN DOWN: If you **turn down** the level or volume of something, you decrease it.\n\n### B1 Phrasal verbs 81-90\n\n![B1 Phrasal Verbs 81-90](/uploads/grammar/b1/b1-phrasal-verbs-3-exercises-and-explanation/img-3.png)\n\n-   TURN INTO: If someone or something **turns into** someone or something else, they change and become this other thing/person; or if you **turn** someone or something **into** someone or something else, you make them change.\n-   TURN OFF: When you **turn off** a piece of equipment, you make it stop working, usually by pressing a button.\n-   TURN ON: When you **turn on** a piece of equipment, you make it start working, usually by pressing a button.\n-   TURN UP: If you **turn up** the level or volume of something, you increase it.\n-   WAKE (UP): When you **wake (up)** or when someone or something **wakes** you **(up)**, you become conscious after sleeping.\n-   WASH UP: When you **wash up**, you clean part of your body with soap and water, especially your hands and face. Also, if you **wash up**, you wash the things you have used for cooking and eating a meal, such as glasses, plates, pans, etc.\n-   WEAR OUT: If something **wears out** or if you **wear** something **out**, it is used so much that it can no longer be used.\n-   WORK OUT: When you **work out**, you do physical exercises to be fit and strong.\n-   WRAP UP: If you **wrap** something **up**, you cover it by putting something like paper or cloth around it.\n-   WRITE DOWN: When you **write** something **down**, you write it on a piece of paper using a pen or pencil.",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs-61-70.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-3-exercises-and-explanation/img-1.png",
+        "alt": "B1 Phrasal Verbs 61-70"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs-71-80.png",
+        "local_filename": "img-2.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-3-exercises-and-explanation/img-2.png",
+        "alt": "B1 Phrasal Verbs 71-80"
+      },
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/B1-phrasal-verbs-81-90.png",
+        "local_filename": "img-3.png",
+        "public_path": "/uploads/grammar/b1/b1-phrasal-verbs-3-exercises-and-explanation/img-3.png",
+        "alt": "B1 Phrasal Verbs 81-90"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 3)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "At 16, he {0} his own company.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "set up",
+                "put up",
+                "showed up"
+              ],
+              "correct": "set up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7005"
+        },
+        {
+          "index": 1,
+          "template": "When I called, he told me that he would {0} later.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "show me up",
+                "ring me up",
+                "ring me back"
+              ],
+              "correct": "ring me back",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7000"
+        },
+        {
+          "index": 2,
+          "template": "I {0} three times, but they didn't answer my calls.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "showed up",
+                "rang up",
+                "set out"
+              ],
+              "correct": "rang up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7001"
+        },
+        {
+          "index": 3,
+          "template": "The famous supermarket chain {0} the price of its bags from 20p to 30p.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "set up",
+                "put up",
+                "rang up"
+              ],
+              "correct": "put up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6999"
+        },
+        {
+          "index": 4,
+          "template": "Fire crews managed to {0} the fire in half an hour.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "put out",
+                "put through",
+                "set off"
+              ],
+              "correct": "put out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6986"
+        },
+        {
+          "index": 5,
+          "template": "The small plane {0} of gas and crashed in a forest in Kentucky.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "put up",
+                "ran out",
+                "set out"
+              ],
+              "correct": "ran out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7002"
+        },
+        {
+          "index": 6,
+          "template": "They {0} last month and plan to make the entire 2,000-mile journey this summer.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "set up",
+                "put through",
+                "set off"
+              ],
+              "correct": "set off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7003"
+        },
+        {
+          "index": 7,
+          "template": "He is very strict with players who {0} late for training sessions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "put out",
+                "show up",
+                "ran out"
+              ],
+              "correct": "show up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7006"
+        },
+        {
+          "index": 8,
+          "template": "When Jane calls, {0} to me, please.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "put her through",
+                "ring her back",
+                "put her out"
+              ],
+              "correct": "put her through",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6998"
+        },
+        {
+          "index": 9,
+          "template": "In 2021, he {0} to break his own Guinness World record.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "set out",
+                "put out",
+                "rang up"
+              ],
+              "correct": "set out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7004"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "B1 Phrasal verbs (Part 3)",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "I asked her to _____ and tell me what had happened.",
+          "options": [
+            "split up",
+            "sit down",
+            "try on",
+            "take off"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "You should _____ this jacket. It's very old and ugly.",
+          "options": [
+            "tidy up",
+            "stay behind",
+            "throw away",
+            "turn down"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "They decided to _____ after ten years of marriage.",
+          "options": [
+            "split up",
+            "sit down",
+            "take up",
+            "turn down"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "I was too tired to go out, so I _____ to help clean the classroom.",
+          "options": [
+            "tried on",
+            "stayed behind",
+            "turned down",
+            "threw away"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "Don’t forget to _____ your shoes before going into the temple.",
+          "options": [
+            "tidy up",
+            "take off",
+            "split up",
+            "turn down"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "What time does the plane _____ tomorrow morning?",
+          "options": [
+            "sit down",
+            "tidy up",
+            "take off",
+            "stay behind"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "He wants to _____ photography now that he has more free time.",
+          "options": [
+            "turn down",
+            "take up",
+            "split up",
+            "try on"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "Could you _____ the music a bit? I’m trying to study.",
+          "options": [
+            "take off",
+            "throw away",
+            "turn down",
+            "tidy up"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "She spent the afternoon helping her son _____ his toys.",
+          "options": [
+            "tidy up",
+            "turn down",
+            "split up",
+            "stay behind"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "I want to _____ this dress before I buy it.",
+          "options": [
+            "try on",
+            "throw away",
+            "stay behind",
+            "take off"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 3)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Don't forget to turn {0} the lights when you go to bed.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11612"
+        },
+        {
+          "index": 1,
+          "template": "How often do you {0} at the gym?",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "work out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11613"
+        },
+        {
+          "index": 2,
+          "template": "I didn't {0} the address and couldn't remember where it was.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "remembered",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11614"
+        },
+        {
+          "index": 3,
+          "template": "Can you turn the TV {0}? I want to watch it.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "down",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11615"
+        },
+        {
+          "index": 4,
+          "template": "Sometimes when I {0}, I feel that I haven't had enough sleep.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "sleep",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11616"
+        },
+        {
+          "index": 5,
+          "template": "The tyres of F1 cars {0} very fast.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wear",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11617"
+        },
+        {
+          "index": 6,
+          "template": "Children should always {0} before dinner. It's basic hygiene.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "wash",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11618"
+        },
+        {
+          "index": 7,
+          "template": "At the end of the film, they die and turn {0} zombies.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "into",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11619"
+        },
+        {
+          "index": 8,
+          "template": "We need to {0} all these presents.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "unwrap",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11620"
+        },
+        {
+          "index": 9,
+          "template": "Can you turn {0} the volume? I can't hear anything.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "11621"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "B1 Phrasal verbs (Part 3)",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "At 16, he {0} his own company.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "set up",
+                "put up",
+                "showed up"
+              ],
+              "correct": "set up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7005"
+        },
+        {
+          "index": 1,
+          "template": "When I called, he told me that he would {0} later.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "show me up",
+                "ring me up",
+                "ring me back"
+              ],
+              "correct": "ring me back",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7000"
+        },
+        {
+          "index": 2,
+          "template": "I {0} three times, but they didn't answer my calls.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "showed up",
+                "rang up",
+                "set out"
+              ],
+              "correct": "rang up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7001"
+        },
+        {
+          "index": 3,
+          "template": "The famous supermarket chain {0} the price of its bags from 20p to 30p.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "set up",
+                "put up",
+                "rang up"
+              ],
+              "correct": "put up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6999"
+        },
+        {
+          "index": 4,
+          "template": "Fire crews managed to {0} the fire in half an hour.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "put out",
+                "put through",
+                "set off"
+              ],
+              "correct": "put out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6986"
+        },
+        {
+          "index": 5,
+          "template": "The small plane {0} of gas and crashed in a forest in Kentucky.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "put up",
+                "ran out",
+                "set out"
+              ],
+              "correct": "ran out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7002"
+        },
+        {
+          "index": 6,
+          "template": "They {0} last month and plan to make the entire 2,000-mile journey this summer.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "set up",
+                "put through",
+                "set off"
+              ],
+              "correct": "set off",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7003"
+        },
+        {
+          "index": 7,
+          "template": "He is very strict with players who {0} late for training sessions.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "put out",
+                "show up",
+                "ran out"
+              ],
+              "correct": "show up",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7006"
+        },
+        {
+          "index": 8,
+          "template": "When Jane calls, {0} to me, please.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "put her through",
+                "ring her back",
+                "put her out"
+              ],
+              "correct": "put her through",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "6998"
+        },
+        {
+          "index": 9,
+          "template": "In 2021, he {0} to break his own Guinness World record.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "set out",
+                "put out",
+                "rang up"
+              ],
+              "correct": "set out",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "7004"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}

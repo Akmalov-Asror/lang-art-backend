@@ -1,0 +1,615 @@
+{
+  "schema_version": 1,
+  "level": "b1",
+  "slug": "passive-verb-forms",
+  "order_index": 15,
+  "title": "Passive verb forms",
+  "source_url": "https://test-english.com/grammar-points/b1/passive-verb-forms/",
+  "scraped_at": "2026-05-23T07:22:04.607Z",
+  "explanation": {
+    "markdown": "## Passive voice in the different verb tenses\n\nTo make a passive verb form, we have to use **be** in a particular verb tense and add the **past participle** of the main verb after it. You can see how to use the passive voice with different [verb tenses](https://test-english.com/grammar-points/b1/review-verb-tenses-b1/) below.  \n  \n![Passive verb forms – all tenses](/uploads/grammar/b1/passive-verb-forms/img-1.png)\n\n## Active and passive\n\nIn a [passive sentence](https://test-english.com/grammar-points/a2/present-past-simple-passive/), the object of an active sentence becomes the subject. In a passive voice sentence, the subject is the receiver of the action, not the doer of the action.\n\n‣ *They take the photos in Africa*. (active)\n\n‣ *The photos are taken in Africa.* (passive)",
+    "images": [
+      {
+        "original_url": "https://test-english.com/staging11/wp-content/uploads/passive-verb-forms.new_.png",
+        "local_filename": "img-1.png",
+        "public_path": "/uploads/grammar/b1/passive-verb-forms/img-1.png",
+        "alt": "Passive verb forms – all tenses"
+      }
+    ],
+    "warnings": []
+  },
+  "exercises": [
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "We are staying at the hotel because my house {0} redecorated.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "has being",
+                "is being",
+                "was been"
+              ],
+              "correct": "is being",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1796"
+        },
+        {
+          "index": 1,
+          "template": "Let's go; we {0} here.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are not wanted",
+                "aren't been wanted",
+                "are not wanting"
+              ],
+              "correct": "are not wanting",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1797"
+        },
+        {
+          "index": 2,
+          "template": "The letter {0} a week ago.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "has been posted",
+                "was post",
+                "was posted"
+              ],
+              "correct": "was posted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1798"
+        },
+        {
+          "index": 3,
+          "template": "We suddenly realised that we {0}. There was someone on the roof of the house next to us.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "were being watched",
+                "were been watched",
+                "were watched"
+              ],
+              "correct": "were being watched",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1799"
+        },
+        {
+          "index": 4,
+          "template": "All the tickets for the concert {0}.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "been sold",
+                "have being sold",
+                "have been sold"
+              ],
+              "correct": "have been sold",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1800"
+        },
+        {
+          "index": 5,
+          "template": "When we arrived at the car park, our car wasn't there; it {0} stolen.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "been",
+                "had been",
+                "was been"
+              ],
+              "correct": "had been",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1801"
+        },
+        {
+          "index": 6,
+          "template": "Now it's too late. Nothing {0} done.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "can being",
+                "can be",
+                "can been"
+              ],
+              "correct": "can be",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1802"
+        },
+        {
+          "index": 7,
+          "template": "We were afraid of {0} seen together.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "been",
+                "be",
+                "being"
+              ],
+              "correct": "being",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1803"
+        },
+        {
+          "index": 8,
+          "template": "Home buyers {0} informed of potential taxes before buying their house.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "are been",
+                "are be",
+                "are"
+              ],
+              "correct": "are",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1804"
+        },
+        {
+          "index": 9,
+          "template": "The negotiations {0} postponed indefinitely.",
+          "blanks": [
+            {
+              "kind": "select",
+              "options": [
+                "were been",
+                "were",
+                "did"
+              ],
+              "correct": "were",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1805"
+        }
+      ],
+      "tab_page_n": 1,
+      "warnings": [],
+      "tab_index": 0,
+      "title": "Exercise 1"
+    },
+    {
+      "kind": "quiz",
+      "instructions": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "When we called, she didn't answer because she ______ for the job.",
+          "options": [
+            "has been interviewed",
+            "was interviewed",
+            "was being interviewed"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q2",
+          "question": "We are sorry about the problem, sir; but don't worry, the mistake ______ right now.",
+          "options": [
+            "has being corrected",
+            "was corrected",
+            "is being corrected"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q3",
+          "question": "English ______ understood in most countries in the world.",
+          "options": [
+            "is",
+            "is being",
+            "has been"
+          ],
+          "correct_answer_index": 0,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q4",
+          "question": "He ______ promoted and now he is the accounts manager.",
+          "options": [
+            "is",
+            "had been",
+            "has been"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q5",
+          "question": "These photos ______ during the president's last trip to Nigeria.",
+          "options": [
+            "are taken",
+            "were taken",
+            "have been taken"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q6",
+          "question": "The hotel was completely different the second time we stayed. It ______ redecorated.",
+          "options": [
+            "is",
+            "has been",
+            "had been"
+          ],
+          "correct_answer_index": 2,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q7",
+          "question": "The building _____ totally destroyed by the fire. All its neighbours are staying in hotels or with relatives.",
+          "options": [
+            "is",
+            "was",
+            "has been"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q8",
+          "question": "He ______ introduced to the Royal Family at the age of 13.",
+          "options": [
+            "has been",
+            "was",
+            "was being"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        },
+        {
+          "id": "q9",
+          "question": "He is a very promising artist. His songs ______ known all over the world. Choose TWO correct options",
+          "options": [
+            "are going to be",
+            "are being",
+            "will be"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": true,
+          "resolved": true
+        },
+        {
+          "id": "q10",
+          "question": "The mechanic told me that my car ______ repaired until next week.",
+          "options": [
+            "hasn't been",
+            "isn't going to be",
+            "isn't"
+          ],
+          "correct_answer_index": 1,
+          "allow_multiple_selection": false,
+          "resolved": true
+        }
+      ],
+      "passing_score": 70,
+      "tab_page_n": 2,
+      "warnings": [],
+      "tab_index": 1,
+      "title": "Exercise 2"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "They forbid smoking here. ⇒ Smoking {0} here.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is forbidden",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1819"
+        },
+        {
+          "index": 1,
+          "template": "They accept credit cards. ⇒ Credit cards {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "are accepted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1820"
+        },
+        {
+          "index": 2,
+          "template": "They are building a new cinema in the city. ⇒ A new cinema {0} in the city.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is being built",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1821"
+        },
+        {
+          "index": 3,
+          "template": "Someone is accusing him of stealing money. ⇒ He {0} of stealing money.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is being accused",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1822"
+        },
+        {
+          "index": 4,
+          "template": "They built the house in 1950. ⇒ The house {0} in 1950.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was built",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1823"
+        },
+        {
+          "index": 5,
+          "template": "The Romans named Neptune after the Roman god of the sea. ⇒ Neptune {0} after the Roman god of the sea.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was named",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1824"
+        },
+        {
+          "index": 6,
+          "template": "Someone was blackmailing him. ⇒ He {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "was blackmailed",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1825"
+        },
+        {
+          "index": 7,
+          "template": "When I passed by, someone was painting the walls. ⇒ When I passed by, the walls {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "were being painted",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1826"
+        },
+        {
+          "index": 8,
+          "template": "They have told him that he has to leave the country. ⇒ He {0} that he has to leave the country.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "has been told",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1827"
+        },
+        {
+          "index": 9,
+          "template": "For generations local fishermen have inhabited the lake. ⇒ For generations the lake {0} by local fishermen.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "has been inhabited",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1828"
+        }
+      ],
+      "tab_page_n": 3,
+      "warnings": [],
+      "tab_index": 2,
+      "title": "Exercise 3"
+    },
+    {
+      "kind": "fill_blank",
+      "instructions": "",
+      "sentences": [
+        {
+          "index": 0,
+          "template": "Then I noticed that someone had stolen my wallet. ⇒ Then I noticed that my wallet {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had been stolen",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1829"
+        },
+        {
+          "index": 1,
+          "template": "He said that the police had arrested him 13 times. ⇒ He said that he {0} 13 times.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "had been arrested",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1830"
+        },
+        {
+          "index": 2,
+          "template": "They will not make a decision until next week. ⇒ A decision {0} until next week.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "will not be made",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1831"
+        },
+        {
+          "index": 3,
+          "template": "They are going to clean the room today. ⇒ The room {0} today.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "is going to be cleaned",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1832"
+        },
+        {
+          "index": 4,
+          "template": "Someone should open the window. ⇒ The window {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "should be opened",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1833"
+        },
+        {
+          "index": 5,
+          "template": "We must keep the secret. ⇒ The secret {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "must be kept",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1834"
+        },
+        {
+          "index": 6,
+          "template": "I'm tired of people telling me what to do. ⇒ I'm tired of {0} what to do.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "people telling me",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1835"
+        },
+        {
+          "index": 7,
+          "template": "They used to send Anna to her room after dinner. ⇒ Anna used {0} to her room after dinner.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "to be sent",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1836"
+        },
+        {
+          "index": 8,
+          "template": "Someone might discover the truth. ⇒ The truth {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "might be discovered",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1837"
+        },
+        {
+          "index": 9,
+          "template": "We can do nothing ⇒ Nothing {0}.",
+          "blanks": [
+            {
+              "kind": "input",
+              "options": [],
+              "correct": "can be done",
+              "resolved": true
+            }
+          ],
+          "watupro_question_id": "1838"
+        }
+      ],
+      "tab_page_n": 4,
+      "warnings": [],
+      "tab_index": 3,
+      "title": "Exercise 4"
+    }
+  ],
+  "warnings": []
+}
